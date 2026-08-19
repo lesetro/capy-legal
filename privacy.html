@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root { --bg:#F9FAFB; --text:#1F2937; --text2:#6B7280; --accent:#6366F1; --border:#E5E7EB; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#0F172A; --text:#F1F5F9; --text2:#94A3B8; --accent:#818CF8; --border:#1E293B; }
+  }
+  body { background:var(--bg); color:var(--text); font-family:-apple-system,Roboto,sans-serif; line-height:1.55; margin:0; padding:20px 18px 40px; }
+  h1 { font-size:20px; margin:8px 0 2px; }
+  .updated { color:var(--text2); font-size:13px; margin-bottom:20px; }
+  h2 { font-size:15.5px; margin:26px 0 8px; color:var(--accent); }
+  p, li { font-size:14.5px; }
+  ul { padding-left:20px; }
+  table { width:100%; border-collapse:collapse; font-size:13px; margin-top:8px; }
+  th, td { text-align:left; padding:8px 6px; border-bottom:1px solid var(--border); }
+  th { color:var(--text2); font-weight:600; }
+  strong { font-weight:650; }
+</style>
+</head>
+<body>
+<h1>Política de privacidad — Capy</h1>
+<div class="updated">Última actualización: 19 de agosto de 2026</div>
+
+<h2>1. Qué datos recolectamos</h2>
+<p><strong>Al registrarte:</strong> email y contraseña (vía Firebase Authentication; la contraseña nunca la vemos nosotros). Se genera automáticamente un alias y un avatar de emoji — tu nombre real y tu foto nunca se muestran a otros usuarios.</p>
+<p><strong>En tu perfil:</strong> país, género, idioma nativo, idioma que estás aprendiendo, unidad/nivel actual.</p>
+<p><strong>Práctica en vivo:</strong> los mensajes que enviás y recibís en una sesión, con quién te emparejaron, y si bloqueás o reportás a alguien.</p>
+<p><strong>Tutor de IA:</strong> los mensajes que le escribís se envían a la API de Gemini (Google) para generar la respuesta. Junto con el mensaje se envía <strong>el tema de tu clase de esta semana y unas pocas palabras que estás viendo</strong>, para que el tutor charle sobre eso y no de cualquier cosa. No se envía tu progreso completo, ni tu email, ni tu nombre. Si usás el micrófono, el audio se procesa con el reconocimiento de voz de Android (Google). La traducción de palabras dentro de la app corre en tu propio celular (ML Kit) — eso nunca sale a un servidor.</p>
+<p><strong>Donaciones:</strong> si donás, el pago lo procesa el proveedor de pagos directamente — no vemos ni guardamos los datos de tu tarjeta.</p>
+<p><strong>Uso de la app:</strong> Firebase Analytics (comportamiento agregado) y Crashlytics (errores técnicos) para saber qué funciona y qué no.</p>
+<p><strong>Publicidad:</strong> Google AdMob puede usar un identificador de publicidad del dispositivo.</p>
+<p><strong>Notificaciones:</strong> si las aceptás, se usan solo para avisarte de tu clase. El horario que elegís se guarda en tu teléfono, no en un servidor.</p>
+<p><strong>Tu progreso de estudio</strong> — palabras practicadas, aciertos, racha, exámenes — se guarda <strong>únicamente en tu teléfono</strong>. La única excepción es la descrita arriba: si usás el tutor de IA, viaja el tema de la semana para darle contexto a la charla.</p>
+
+<h2>2. Qué NO hacemos</h2>
+<ul>
+  <li>No vendemos tus datos.</li>
+  <li>No mostramos tu nombre real ni tu email a otros usuarios.</li>
+  <li>No accedemos a contactos, fotos ni ubicación GPS.</li>
+</ul>
+
+<h2>3. Con quién compartimos datos</h2>
+<table>
+<tr><th>Servicio</th><th>Para qué</th></tr>
+<tr><td>Google Firebase</td><td>Cuentas, base de datos, uso, errores</td></tr>
+<tr><td>Google Gemini API</td><td>Tutor de IA</td></tr>
+<tr><td>Google ML Kit</td><td>Traducción (en el dispositivo)</td></tr>
+<tr><td>Google Speech Recognition</td><td>Práctica de pronunciación</td></tr>
+<tr><td>Google AdMob</td><td>Publicidad</td></tr>
+</table>
+
+<h2>4. Tus derechos</h2>
+<p>Podés borrar tu cuenta y todo lo que quedó en el servidor desde la propia app, en <strong>Ajustes &rarr; Borrar mi cuenta</strong>. También podés borrar solo tu progreso de este teléfono en <strong>Ajustes &rarr; Reiniciar progreso</strong>.</p>
+<p>Si preferís pedirlo por escrito, o querés ver o corregir tus datos, escribinos a <a href="mailto:capyinclish@gmail.com">capyinclish@gmail.com</a> y lo resolvemos dentro de los 30 días.</p>
+<h2>5. Menores de edad</h2>
+<p>Capy no está dirigida a menores de 13 años.</p>
+
+<h2>6. Contacto</h2>
+<p><strong>capyinclish@gmail.com</strong></p>
+</body>
+</html>
