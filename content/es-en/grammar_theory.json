@@ -11,15 +11,21 @@
       "examples": [
         {
           "target": "How do you spell your name?",
-          "native": "¿Cómo se escribe tu nombre?"
+          "native": "¿Cómo se escribe tu nombre?",
+          "en": "How do you spell your name?",
+          "es": "¿Cómo se escribe tu nombre?"
         },
         {
           "target": "My name is Ana. A-N-A.",
-          "native": "Me llamo Ana. A-N-A."
+          "native": "Me llamo Ana. A-N-A.",
+          "en": "My name is Ana. A-N-A.",
+          "es": "Me llamo Ana. A-N-A."
         },
         {
           "target": "It's Anna, with double N.",
-          "native": "Es Anna, con doble N."
+          "native": "Es Anna, con doble N.",
+          "en": "It's Anna, with double N.",
+          "es": "Es Anna, con doble N."
         }
       ],
       "watch_out": "E e I son la trampa clásica: E suena /i/ e I suena /ai/, justo al revés de lo que parece."
@@ -34,15 +40,21 @@
       "examples": [
         {
           "target": "I work on Monday.",
-          "native": "Trabajo el lunes."
+          "native": "Trabajo el lunes.",
+          "en": "I work on Monday.",
+          "es": "Trabajo el lunes."
         },
         {
           "target": "My birthday is in July.",
-          "native": "Mi cumpleaños es en julio."
+          "native": "Mi cumpleaños es en julio.",
+          "en": "My birthday is in July.",
+          "es": "Mi cumpleaños es en julio."
         },
         {
           "target": "The class starts at ten.",
-          "native": "La clase empieza a las diez."
+          "native": "La clase empieza a las diez.",
+          "en": "The class starts at ten.",
+          "es": "La clase empieza a las diez."
         }
       ],
       "watch_out": "En español escribimos \"lunes\" en minúscula; en inglés Monday siempre va con mayúscula."
@@ -57,15 +69,21 @@
       "examples": [
         {
           "target": "Good morning, Mr. Smith.",
-          "native": "Buenos días, señor Smith."
+          "native": "Buenos días, señor Smith.",
+          "en": "Good morning, Mr. Smith.",
+          "es": "Buenos días, señor Smith."
         },
         {
           "target": "Hi! I'm Ana. Nice to meet you.",
-          "native": "¡Hola! Soy Ana. Encantada."
+          "native": "¡Hola! Soy Ana. Encantada.",
+          "en": "Hi! I'm Ana. Nice to meet you.",
+          "es": "¡Hola! Soy Ana. Encantada."
         },
         {
           "target": "Good night, see you tomorrow.",
-          "native": "Buenas noches, nos vemos mañana."
+          "native": "Buenas noches, nos vemos mañana.",
+          "en": "Good night, see you tomorrow.",
+          "es": "Buenas noches, nos vemos mañana."
         }
       ],
       "watch_out": "\"Good night\" despide, no saluda. Si llegás a una reunión de noche, va \"good evening\"."
@@ -80,15 +98,21 @@
       "examples": [
         {
           "target": "I have thirteen books.",
-          "native": "Tengo trece libros."
+          "native": "Tengo trece libros.",
+          "en": "I have thirteen books.",
+          "es": "Tengo trece libros."
         },
         {
           "target": "She is thirty years old.",
-          "native": "Ella tiene treinta años."
+          "native": "Ella tiene treinta años.",
+          "en": "She is thirty years old.",
+          "es": "Ella tiene treinta años."
         },
         {
           "target": "There are twenty-five students.",
-          "native": "Hay veinticinco estudiantes."
+          "native": "Hay veinticinco estudiantes.",
+          "en": "There are twenty-five students.",
+          "es": "Hay veinticinco estudiantes."
         }
       ],
       "watch_out": "La edad se dice con el verbo to be, no con have: \"I am 30\", nunca \"I have 30\"."
@@ -103,15 +127,21 @@
       "examples": [
         {
           "target": "I am a student.",
-          "native": "Soy estudiante."
+          "native": "Soy estudiante.",
+          "en": "I am a student.",
+          "es": "Soy estudiante."
         },
         {
           "target": "She is tired.",
-          "native": "Ella está cansada."
+          "native": "Ella está cansada.",
+          "en": "She is tired.",
+          "es": "Ella está cansada."
         },
         {
           "target": "They are from Spain.",
-          "native": "Ellos son de España."
+          "native": "Ellos son de España.",
+          "en": "They are from Spain.",
+          "es": "Ellos son de España."
         }
       ],
       "watch_out": "El sujeto nunca se omite: se dice \"I am tired\", no \"am tired\". En español \"estoy cansado\" se entiende sin el yo; en inglés no."
@@ -126,15 +156,21 @@
       "examples": [
         {
           "target": "This is my sister.",
-          "native": "Esta es mi hermana."
+          "native": "Esta es mi hermana.",
+          "en": "This is my sister.",
+          "es": "Esta es mi hermana."
         },
         {
           "target": "I have two siblings.",
-          "native": "Tengo dos hermanos."
+          "native": "Tengo dos hermanos.",
+          "en": "I have two siblings.",
+          "es": "Tengo dos hermanos."
         },
         {
           "target": "Ana's mother is a doctor.",
-          "native": "La madre de Ana es médica."
+          "native": "La madre de Ana es médica.",
+          "en": "Ana's mother is a doctor.",
+          "es": "La madre de Ana es médica."
         }
       ],
       "watch_out": "\"Parents\" son los padres, no los parientes. Parientes en general se dice relatives."
@@ -149,15 +185,21 @@
       "examples": [
         {
           "target": "I am from Argentina.",
-          "native": "Soy de Argentina."
+          "native": "Soy de Argentina.",
+          "en": "I am from Argentina.",
+          "es": "Soy de Argentina."
         },
         {
           "target": "She is Italian.",
-          "native": "Ella es italiana."
+          "native": "Ella es italiana.",
+          "en": "She is Italian.",
+          "es": "Ella es italiana."
         },
         {
           "target": "I love Japanese food.",
-          "native": "Me encanta la comida japonesa."
+          "native": "Me encanta la comida japonesa.",
+          "en": "I love Japanese food.",
+          "es": "Me encanta la comida japonesa."
         }
       ],
       "watch_out": "No se mezclan las dos formas: o \"I am from Italy\" o \"I am Italian\", nunca \"I am from Italian\"."
@@ -172,15 +214,21 @@
       "examples": [
         {
           "target": "This is my house.",
-          "native": "Esta es mi casa."
+          "native": "Esta es mi casa.",
+          "en": "This is my house.",
+          "es": "Esta es mi casa."
         },
         {
           "target": "Her brother is a teacher.",
-          "native": "Su hermano (de ella) es profesor."
+          "native": "Su hermano (de ella) es profesor.",
+          "en": "Her brother is a teacher.",
+          "es": "Su hermano (de ella) es profesor."
         },
         {
           "target": "Their cars are new.",
-          "native": "Sus autos son nuevos."
+          "native": "Sus autos son nuevos.",
+          "en": "Their cars are new.",
+          "es": "Sus autos son nuevos."
         }
       ],
       "watch_out": "his/her se elige por quién posee, no por lo poseído: \"Ana and her father\", \"Juan and his mother\"."
@@ -195,15 +243,21 @@
       "examples": [
         {
           "target": "She is a nurse.",
-          "native": "Ella es enfermera."
+          "native": "Ella es enfermera.",
+          "en": "She is a nurse.",
+          "es": "Ella es enfermera."
         },
         {
           "target": "I am an engineer.",
-          "native": "Soy ingeniero."
+          "native": "Soy ingeniero.",
+          "en": "I am an engineer.",
+          "es": "Soy ingeniero."
         },
         {
           "target": "What do you do?",
-          "native": "¿A qué te dedicás?"
+          "native": "¿A qué te dedicás?",
+          "en": "What do you do?",
+          "es": "¿A qué te dedicás?"
         }
       ],
       "watch_out": "Va \"I am a doctor\", nunca \"I am doctor\". Y ante sonido de vocal, an: an engineer, an architect."
@@ -218,15 +272,21 @@
       "examples": [
         {
           "target": "Are you a student?",
-          "native": "¿Sos estudiante?"
+          "native": "¿Sos estudiante?",
+          "en": "Are you a student?",
+          "es": "¿Sos estudiante?"
         },
         {
           "target": "She isn't at home.",
-          "native": "Ella no está en casa."
+          "native": "Ella no está en casa.",
+          "en": "She isn't at home.",
+          "es": "Ella no está en casa."
         },
         {
           "target": "Yes, I am. / No, I'm not.",
-          "native": "Sí, lo soy. / No, no lo soy."
+          "native": "Sí, lo soy. / No, no lo soy.",
+          "en": "Yes, I am. / No, I'm not.",
+          "es": "Sí, lo soy. / No, no lo soy."
         }
       ],
       "watch_out": "Con to be NO se usa do: es \"Are you tired?\", no \"Do you are tired?\"."
@@ -241,15 +301,21 @@
       "examples": [
         {
           "target": "I get up at seven.",
-          "native": "Me levanto a las siete."
+          "native": "Me levanto a las siete.",
+          "en": "I get up at seven.",
+          "es": "Me levanto a las siete."
         },
         {
           "target": "She has breakfast at home.",
-          "native": "Ella desayuna en casa."
+          "native": "Ella desayuna en casa.",
+          "en": "She has breakfast at home.",
+          "es": "Ella desayuna en casa."
         },
         {
           "target": "We go to bed late.",
-          "native": "Nos acostamos tarde."
+          "native": "Nos acostamos tarde.",
+          "en": "We go to bed late.",
+          "es": "Nos acostamos tarde."
         }
       ],
       "watch_out": "Son bloques fijos: have breakfast, take a shower, go to bed. Cambiar el verbo suena raro aunque la traducción cierre."
@@ -264,15 +330,21 @@
       "examples": [
         {
           "target": "The keys are on the table.",
-          "native": "Las llaves están sobre la mesa."
+          "native": "Las llaves están sobre la mesa.",
+          "en": "The keys are on the table.",
+          "es": "Las llaves están sobre la mesa."
         },
         {
           "target": "She is in the kitchen.",
-          "native": "Ella está en la cocina."
+          "native": "Ella está en la cocina.",
+          "en": "She is in the kitchen.",
+          "es": "Ella está en la cocina."
         },
         {
           "target": "I'll meet you at the door.",
-          "native": "Te veo en la puerta."
+          "native": "Te veo en la puerta.",
+          "en": "I'll meet you at the door.",
+          "es": "Te veo en la puerta."
         }
       ],
       "watch_out": "\"En\" del español se reparte entre in, on y at: \"en la mesa\" es on, \"en la cocina\" es in."
@@ -287,15 +359,21 @@
       "examples": [
         {
           "target": "I work in a hospital.",
-          "native": "Trabajo en un hospital."
+          "native": "Trabajo en un hospital.",
+          "en": "I work in a hospital.",
+          "es": "Trabajo en un hospital."
         },
         {
           "target": "He works on Saturdays.",
-          "native": "Él trabaja los sábados."
+          "native": "Él trabaja los sábados.",
+          "en": "He works on Saturdays.",
+          "es": "Él trabaja los sábados."
         },
         {
           "target": "Does she live here?",
-          "native": "¿Ella vive acá?"
+          "native": "¿Ella vive acá?",
+          "en": "Does she live here?",
+          "es": "¿Ella vive acá?"
         }
       ],
       "watch_out": "La s aparece una sola vez: o en el verbo (\"she works\") o en el auxiliar (\"does she work?\"), nunca en los dos."
@@ -311,15 +389,21 @@
       "examples": [
         {
           "target": "Are you Argentinian? — Yes, I am.",
-          "native": "¿Sos argentino? — Sí."
+          "native": "¿Sos argentino? — Sí.",
+          "en": "Are you Argentinian? — Yes, I am.",
+          "es": "¿Sos argentino? — Sí."
         },
         {
           "target": "Does he work here? — No, he doesn't.",
-          "native": "¿Él trabaja acá? — No."
+          "native": "¿Él trabaja acá? — No.",
+          "en": "Does he work here? — No, he doesn't.",
+          "es": "¿Él trabaja acá? — No."
         },
         {
           "target": "Can you swim? — Yes, I can.",
-          "native": "¿Sabés nadar? — Sí."
+          "native": "¿Sabés nadar? — Sí.",
+          "en": "Can you swim? — Yes, I can.",
+          "es": "¿Sabés nadar? — Sí."
         }
       ]
     },
@@ -333,15 +417,21 @@
       "examples": [
         {
           "target": "There is a bank on the corner.",
-          "native": "Hay un banco en la esquina."
+          "native": "Hay un banco en la esquina.",
+          "en": "There is a bank on the corner.",
+          "es": "Hay un banco en la esquina."
         },
         {
           "target": "There are two windows.",
-          "native": "Hay dos ventanas."
+          "native": "Hay dos ventanas.",
+          "en": "There are two windows.",
+          "es": "Hay dos ventanas."
         },
         {
           "target": "Is there a bathroom here?",
-          "native": "¿Hay un baño acá?"
+          "native": "¿Hay un baño acá?",
+          "en": "Is there a bathroom here?",
+          "es": "¿Hay un baño acá?"
         }
       ],
       "watch_out": "El verbo concuerda con lo que sigue: \"There are three books\", no \"There is three books\"."
@@ -356,15 +446,21 @@
       "examples": [
         {
           "target": "It's half past nine.",
-          "native": "Son las nueve y media."
+          "native": "Son las nueve y media.",
+          "en": "It's half past nine.",
+          "es": "Son las nueve y media."
         },
         {
           "target": "The class is at quarter to eight.",
-          "native": "La clase es a las ocho menos cuarto."
+          "native": "La clase es a las ocho menos cuarto.",
+          "en": "The class is at quarter to eight.",
+          "es": "La clase es a las ocho menos cuarto."
         },
         {
           "target": "What time is it?",
-          "native": "¿Qué hora es?"
+          "native": "¿Qué hora es?",
+          "en": "What time is it?",
+          "es": "¿Qué hora es?"
         }
       ],
       "watch_out": "\"o'clock\" solo va con la hora exacta: \"five o'clock\", nunca \"five thirty o'clock\"."
@@ -379,15 +475,21 @@
       "examples": [
         {
           "target": "I can speak English.",
-          "native": "Sé hablar inglés."
+          "native": "Sé hablar inglés.",
+          "en": "I can speak English.",
+          "es": "Sé hablar inglés."
         },
         {
           "target": "She can't come today.",
-          "native": "Ella no puede venir hoy."
+          "native": "Ella no puede venir hoy.",
+          "en": "She can't come today.",
+          "es": "Ella no puede venir hoy."
         },
         {
           "target": "Can you help me?",
-          "native": "¿Me podés ayudar?"
+          "native": "¿Me podés ayudar?",
+          "en": "Can you help me?",
+          "es": "¿Me podés ayudar?"
         }
       ],
       "watch_out": "Después de can el verbo va desnudo: \"I can go\", nunca \"I can to go\"."
@@ -403,15 +505,21 @@
       "examples": [
         {
           "target": "Excuse me, how do I get to the museum?",
-          "native": "Disculpe, ¿cómo llego al museo?"
+          "native": "Disculpe, ¿cómo llego al museo?",
+          "en": "Excuse me, how do I get to the museum?",
+          "es": "Disculpe, ¿cómo llego al museo?"
         },
         {
           "target": "Go straight and turn left at the bank.",
-          "native": "Seguí derecho y doblá a la izquierda en el banco."
+          "native": "Seguí derecho y doblá a la izquierda en el banco.",
+          "en": "Go straight and turn left at the bank.",
+          "es": "Seguí derecho y doblá a la izquierda en el banco."
         },
         {
           "target": "It's opposite the park.",
-          "native": "Está enfrente de la plaza."
+          "native": "Está enfrente de la plaza.",
+          "en": "It's opposite the park.",
+          "es": "Está enfrente de la plaza."
         }
       ]
     },
@@ -425,15 +533,21 @@
       "examples": [
         {
           "target": "I have two brothers.",
-          "native": "Tengo dos hermanos."
+          "native": "Tengo dos hermanos.",
+          "en": "I have two brothers.",
+          "es": "Tengo dos hermanos."
         },
         {
           "target": "She has got a new phone.",
-          "native": "Ella tiene un teléfono nuevo."
+          "native": "Ella tiene un teléfono nuevo.",
+          "en": "She has got a new phone.",
+          "es": "Ella tiene un teléfono nuevo."
         },
         {
           "target": "Do you have a pen?",
-          "native": "¿Tenés una lapicera?"
+          "native": "¿Tenés una lapicera?",
+          "en": "Do you have a pen?",
+          "es": "¿Tenés una lapicera?"
         }
       ],
       "watch_out": "No se mezclan: o \"Do you have...?\" o \"Have you got...?\", nunca \"Do you have got...?\"."
@@ -448,15 +562,21 @@
       "examples": [
         {
           "target": "I was born in 1995.",
-          "native": "Nací en 1995."
+          "native": "Nací en 1995.",
+          "en": "I was born in 1995.",
+          "es": "Nací en 1995."
         },
         {
           "target": "The meeting is on Friday.",
-          "native": "La reunión es el viernes."
+          "native": "La reunión es el viernes.",
+          "en": "The meeting is on Friday.",
+          "es": "La reunión es el viernes."
         },
         {
           "target": "I study at night.",
-          "native": "Estudio de noche."
+          "native": "Estudio de noche.",
+          "en": "I study at night.",
+          "es": "Estudio de noche."
         }
       ],
       "watch_out": "\"in the morning\" pero \"at night\": esa no sigue la regla, va de memoria."
@@ -472,15 +592,21 @@
       "examples": [
         {
           "target": "How much is this?",
-          "native": "¿Cuánto cuesta esto?"
+          "native": "¿Cuánto cuesta esto?",
+          "en": "How much is this?",
+          "es": "¿Cuánto cuesta esto?"
         },
         {
           "target": "How much are the tickets?",
-          "native": "¿Cuánto salen las entradas?"
+          "native": "¿Cuánto salen las entradas?",
+          "en": "How much are the tickets?",
+          "es": "¿Cuánto salen las entradas?"
         },
         {
           "target": "How many tickets do you want?",
-          "native": "¿Cuántas entradas querés?"
+          "native": "¿Cuántas entradas querés?",
+          "en": "How many tickets do you want?",
+          "es": "¿Cuántas entradas querés?"
         }
       ]
     },
@@ -494,15 +620,21 @@
       "examples": [
         {
           "target": "This is my book.",
-          "native": "Este es mi libro."
+          "native": "Este es mi libro.",
+          "en": "This is my book.",
+          "es": "Este es mi libro."
         },
         {
           "target": "Those cars are expensive.",
-          "native": "Aquellos autos son caros."
+          "native": "Aquellos autos son caros.",
+          "en": "Those cars are expensive.",
+          "es": "Aquellos autos son caros."
         },
         {
           "target": "That's a good idea.",
-          "native": "Esa es una buena idea."
+          "native": "Esa es una buena idea.",
+          "en": "That's a good idea.",
+          "es": "Esa es una buena idea."
         }
       ],
       "watch_out": "this/that van con singular y these/those con plural: \"these books\", nunca \"this books\"."
@@ -517,15 +649,21 @@
       "examples": [
         {
           "target": "I like coffee.",
-          "native": "Me gusta el café."
+          "native": "Me gusta el café.",
+          "en": "I like coffee.",
+          "es": "Me gusta el café."
         },
         {
           "target": "She loves swimming.",
-          "native": "A ella le encanta nadar."
+          "native": "A ella le encanta nadar.",
+          "en": "She loves swimming.",
+          "es": "A ella le encanta nadar."
         },
         {
           "target": "Do you like this song?",
-          "native": "¿Te gusta esta canción?"
+          "native": "¿Te gusta esta canción?",
+          "en": "Do you like this song?",
+          "es": "¿Te gusta esta canción?"
         }
       ],
       "watch_out": "El sujeto es quien gusta: \"I like it\", nunca \"me like\" ni \"it likes me\"."
@@ -540,15 +678,21 @@
       "examples": [
         {
           "target": "I have a new car.",
-          "native": "Tengo un auto nuevo."
+          "native": "Tengo un auto nuevo.",
+          "en": "I have a new car.",
+          "es": "Tengo un auto nuevo."
         },
         {
           "target": "They are good students.",
-          "native": "Son buenos estudiantes."
+          "native": "Son buenos estudiantes.",
+          "en": "They are good students.",
+          "es": "Son buenos estudiantes."
         },
         {
           "target": "The house is big.",
-          "native": "La casa es grande."
+          "native": "La casa es grande.",
+          "en": "The house is big.",
+          "es": "La casa es grande."
         }
       ],
       "watch_out": "El adjetivo no lleva plural: \"two big houses\", nunca \"two bigs houses\"."
@@ -563,15 +707,21 @@
       "examples": [
         {
           "target": "I always drink coffee.",
-          "native": "Siempre tomo café."
+          "native": "Siempre tomo café.",
+          "en": "I always drink coffee.",
+          "es": "Siempre tomo café."
         },
         {
           "target": "She is never late.",
-          "native": "Ella nunca llega tarde."
+          "native": "Ella nunca llega tarde.",
+          "en": "She is never late.",
+          "es": "Ella nunca llega tarde."
         },
         {
           "target": "How often do you exercise?",
-          "native": "¿Cada cuánto hacés ejercicio?"
+          "native": "¿Cada cuánto hacés ejercicio?",
+          "en": "How often do you exercise?",
+          "es": "¿Cada cuánto hacés ejercicio?"
         }
       ],
       "watch_out": "Con to be el adverbio va después: \"He is always tired\", no \"He always is tired\"."
@@ -587,15 +737,21 @@
       "examples": [
         {
           "target": "This hotel is cheaper than the other one.",
-          "native": "Este hotel es más barato que el otro."
+          "native": "Este hotel es más barato que el otro.",
+          "en": "This hotel is cheaper than the other one.",
+          "es": "Este hotel es más barato que el otro."
         },
         {
           "target": "She is the most interesting person here.",
-          "native": "Ella es la persona más interesante de acá."
+          "native": "Ella es la persona más interesante de acá.",
+          "en": "She is the most interesting person here.",
+          "es": "Ella es la persona más interesante de acá."
         },
         {
           "target": "My English is better than last year.",
-          "native": "Mi inglés está mejor que el año pasado."
+          "native": "Mi inglés está mejor que el año pasado.",
+          "en": "My English is better than last year.",
+          "es": "Mi inglés está mejor que el año pasado."
         }
       ]
     },
@@ -610,15 +766,21 @@
       "examples": [
         {
           "target": "I'm going to study English this year.",
-          "native": "Voy a estudiar inglés este año."
+          "native": "Voy a estudiar inglés este año.",
+          "en": "I'm going to study English this year.",
+          "es": "Voy a estudiar inglés este año."
         },
         {
           "target": "It's going to rain, take an umbrella.",
-          "native": "Va a llover, llevate un paraguas."
+          "native": "Va a llover, llevate un paraguas.",
+          "en": "It's going to rain, take an umbrella.",
+          "es": "Va a llover, llevate un paraguas."
         },
         {
           "target": "They aren't going to come.",
-          "native": "Ellos no van a venir."
+          "native": "Ellos no van a venir.",
+          "en": "They aren't going to come.",
+          "es": "Ellos no van a venir."
         }
       ]
     },
@@ -633,15 +795,21 @@
       "examples": [
         {
           "target": "I have lived here for five years.",
-          "native": "Vivo acá hace cinco años (y sigo)."
+          "native": "Vivo acá hace cinco años (y sigo).",
+          "en": "I have lived here for five years.",
+          "es": "Vivo acá hace cinco años (y sigo)."
         },
         {
           "target": "I lived there for five years.",
-          "native": "Viví ahí cinco años (ya no)."
+          "native": "Viví ahí cinco años (ya no).",
+          "en": "I lived there for five years.",
+          "es": "Viví ahí cinco años (ya no)."
         },
         {
           "target": "Have you ever been to London?",
-          "native": "¿Alguna vez fuiste a Londres?"
+          "native": "¿Alguna vez fuiste a Londres?",
+          "en": "Have you ever been to London?",
+          "es": "¿Alguna vez fuiste a Londres?"
         }
       ]
     },
@@ -656,15 +824,21 @@
       "examples": [
         {
           "target": "You're a teacher, aren't you?",
-          "native": "Sos profesor, ¿no?"
+          "native": "Sos profesor, ¿no?",
+          "en": "You're a teacher, aren't you?",
+          "es": "Sos profesor, ¿no?"
         },
         {
           "target": "She doesn't smoke, does she?",
-          "native": "Ella no fuma, ¿no?"
+          "native": "Ella no fuma, ¿no?",
+          "en": "She doesn't smoke, does she?",
+          "es": "Ella no fuma, ¿no?"
         },
         {
           "target": "They can swim, can't they?",
-          "native": "Ellos saben nadar, ¿no?"
+          "native": "Ellos saben nadar, ¿no?",
+          "en": "They can swim, can't they?",
+          "es": "Ellos saben nadar, ¿no?"
         }
       ]
     },
@@ -679,15 +853,21 @@
       "examples": [
         {
           "target": "You should rest, you look tired.",
-          "native": "Deberías descansar, se te ve cansado."
+          "native": "Deberías descansar, se te ve cansado.",
+          "en": "You should rest, you look tired.",
+          "es": "Deberías descansar, se te ve cansado."
         },
         {
           "target": "He shouldn't work so much.",
-          "native": "Él no debería trabajar tanto."
+          "native": "Él no debería trabajar tanto.",
+          "en": "He shouldn't work so much.",
+          "es": "Él no debería trabajar tanto."
         },
         {
           "target": "Should I call her?",
-          "native": "¿Debería llamarla?"
+          "native": "¿Debería llamarla?",
+          "en": "Should I call her?",
+          "es": "¿Debería llamarla?"
         }
       ]
     },
@@ -702,15 +882,21 @@
       "examples": [
         {
           "target": "I have to work on Saturday.",
-          "native": "Tengo que trabajar el sábado."
+          "native": "Tengo que trabajar el sábado.",
+          "en": "I have to work on Saturday.",
+          "es": "Tengo que trabajar el sábado."
         },
         {
           "target": "You mustn't park here.",
-          "native": "No podés estacionar acá (está prohibido)."
+          "native": "No podés estacionar acá (está prohibido).",
+          "en": "You mustn't park here.",
+          "es": "No podés estacionar acá (está prohibido)."
         },
         {
           "target": "You don't have to pay, it's free.",
-          "native": "No hace falta que pagues, es gratis."
+          "native": "No hace falta que pagues, es gratis.",
+          "en": "You don't have to pay, it's free.",
+          "es": "No hace falta que pagues, es gratis."
         }
       ]
     },
@@ -725,15 +911,21 @@
       "examples": [
         {
           "target": "The office is cleaned every day.",
-          "native": "La oficina se limpia todos los días."
+          "native": "La oficina se limpia todos los días.",
+          "en": "The office is cleaned every day.",
+          "es": "La oficina se limpia todos los días."
         },
         {
           "target": "My phone was stolen last night.",
-          "native": "Me robaron el celular anoche."
+          "native": "Me robaron el celular anoche.",
+          "en": "My phone was stolen last night.",
+          "es": "Me robaron el celular anoche."
         },
         {
           "target": "This book was written by a friend.",
-          "native": "Este libro lo escribió un amigo."
+          "native": "Este libro lo escribió un amigo.",
+          "en": "This book was written by a friend.",
+          "es": "Este libro lo escribió un amigo."
         }
       ]
     },
@@ -748,15 +940,21 @@
       "examples": [
         {
           "target": "He said he was busy.",
-          "native": "Dijo que estaba ocupado."
+          "native": "Dijo que estaba ocupado.",
+          "en": "He said he was busy.",
+          "es": "Dijo que estaba ocupado."
         },
         {
           "target": "She told me she would call.",
-          "native": "Me dijo que iba a llamar."
+          "native": "Me dijo que iba a llamar.",
+          "en": "She told me she would call.",
+          "es": "Me dijo que iba a llamar."
         },
         {
           "target": "They said they had finished.",
-          "native": "Dijeron que habían terminado."
+          "native": "Dijeron que habían terminado.",
+          "en": "They said they had finished.",
+          "es": "Dijeron que habían terminado."
         }
       ]
     },
@@ -771,15 +969,21 @@
       "examples": [
         {
           "target": "If I had more money, I would travel.",
-          "native": "Si tuviera más plata, viajaría."
+          "native": "Si tuviera más plata, viajaría.",
+          "en": "If I had more money, I would travel.",
+          "es": "Si tuviera más plata, viajaría."
         },
         {
           "target": "If I were you, I'd study more.",
-          "native": "Si yo fuera vos, estudiaría más."
+          "native": "Si yo fuera vos, estudiaría más.",
+          "en": "If I were you, I'd study more.",
+          "es": "Si yo fuera vos, estudiaría más."
         },
         {
           "target": "What would you do if you lost your job?",
-          "native": "¿Qué harías si perdieras el trabajo?"
+          "native": "¿Qué harías si perdieras el trabajo?",
+          "en": "What would you do if you lost your job?",
+          "es": "¿Qué harías si perdieras el trabajo?"
         }
       ]
     },
@@ -794,15 +998,21 @@
       "examples": [
         {
           "target": "If it rains, we'll stay home.",
-          "native": "Si llueve, nos quedamos en casa."
+          "native": "Si llueve, nos quedamos en casa.",
+          "en": "If it rains, we'll stay home.",
+          "es": "Si llueve, nos quedamos en casa."
         },
         {
           "target": "If you study, you'll pass.",
-          "native": "Si estudiás, vas a aprobar."
+          "native": "Si estudiás, vas a aprobar.",
+          "en": "If you study, you'll pass.",
+          "es": "Si estudiás, vas a aprobar."
         },
         {
           "target": "I'll call you when I arrive.",
-          "native": "Te llamo cuando llegue."
+          "native": "Te llamo cuando llegue.",
+          "en": "I'll call you when I arrive.",
+          "es": "Te llamo cuando llegue."
         }
       ]
     },
@@ -817,15 +1027,21 @@
       "examples": [
         {
           "target": "It might rain later.",
-          "native": "Capaz que llueve más tarde."
+          "native": "Capaz que llueve más tarde.",
+          "en": "It might rain later.",
+          "es": "Capaz que llueve más tarde."
         },
         {
           "target": "She may not come to the party.",
-          "native": "Puede que ella no venga a la fiesta."
+          "native": "Puede que ella no venga a la fiesta.",
+          "en": "She may not come to the party.",
+          "es": "Puede que ella no venga a la fiesta."
         },
         {
           "target": "May I ask a question?",
-          "native": "¿Puedo hacer una pregunta?"
+          "native": "¿Puedo hacer una pregunta?",
+          "en": "May I ask a question?",
+          "es": "¿Puedo hacer una pregunta?"
         }
       ]
     },
@@ -840,15 +1056,21 @@
       "examples": [
         {
           "target": "I have a sore throat.",
-          "native": "Me duele la garganta."
+          "native": "Me duele la garganta.",
+          "en": "I have a sore throat.",
+          "es": "Me duele la garganta."
         },
         {
           "target": "You should see a doctor.",
-          "native": "Deberías ver a un médico."
+          "native": "Deberías ver a un médico.",
+          "en": "You should see a doctor.",
+          "es": "Deberías ver a un médico."
         },
         {
           "target": "You shouldn't eat so late.",
-          "native": "No deberías comer tan tarde."
+          "native": "No deberías comer tan tarde.",
+          "en": "You shouldn't eat so late.",
+          "es": "No deberías comer tan tarde."
         }
       ]
     },
@@ -863,15 +1085,21 @@
       "examples": [
         {
           "target": "I used to play football.",
-          "native": "Antes jugaba al fútbol."
+          "native": "Antes jugaba al fútbol.",
+          "en": "I used to play football.",
+          "es": "Antes jugaba al fútbol."
         },
         {
           "target": "She didn't use to like coffee.",
-          "native": "Antes no le gustaba el café."
+          "native": "Antes no le gustaba el café.",
+          "en": "She didn't use to like coffee.",
+          "es": "Antes no le gustaba el café."
         },
         {
           "target": "Did you use to live here?",
-          "native": "¿Antes vivías acá?"
+          "native": "¿Antes vivías acá?",
+          "en": "Did you use to live here?",
+          "es": "¿Antes vivías acá?"
         }
       ]
     },
@@ -886,15 +1114,21 @@
       "examples": [
         {
           "target": "We must reduce plastic waste.",
-          "native": "Tenemos que reducir los residuos plásticos."
+          "native": "Tenemos que reducir los residuos plásticos.",
+          "en": "We must reduce plastic waste.",
+          "es": "Tenemos que reducir los residuos plásticos."
         },
         {
           "target": "You mustn't throw batteries in the bin.",
-          "native": "No se pueden tirar pilas a la basura."
+          "native": "No se pueden tirar pilas a la basura.",
+          "en": "You mustn't throw batteries in the bin.",
+          "es": "No se pueden tirar pilas a la basura."
         },
         {
           "target": "We should recycle more.",
-          "native": "Deberíamos reciclar más."
+          "native": "Deberíamos reciclar más.",
+          "en": "We should recycle more.",
+          "es": "Deberíamos reciclar más."
         }
       ]
     },
@@ -909,15 +1143,21 @@
       "examples": [
         {
           "target": "Plastic is recycled in this plant.",
-          "native": "El plástico se recicla en esta planta."
+          "native": "El plástico se recicla en esta planta.",
+          "en": "Plastic is recycled in this plant.",
+          "es": "El plástico se recicla en esta planta."
         },
         {
           "target": "Thousands of trees were cut down.",
-          "native": "Se talaron miles de árboles."
+          "native": "Se talaron miles de árboles.",
+          "en": "Thousands of trees were cut down.",
+          "es": "Se talaron miles de árboles."
         },
         {
           "target": "The report was published by the UN.",
-          "native": "El informe fue publicado por la ONU."
+          "native": "El informe fue publicado por la ONU.",
+          "en": "The report was published by the UN.",
+          "es": "El informe fue publicado por la ONU."
         }
       ]
     },
@@ -932,15 +1172,21 @@
       "examples": [
         {
           "target": "The man who lives next door is a doctor.",
-          "native": "El hombre que vive al lado es médico."
+          "native": "El hombre que vive al lado es médico.",
+          "en": "The man who lives next door is a doctor.",
+          "es": "El hombre que vive al lado es médico."
         },
         {
           "target": "This is the book which changed my life.",
-          "native": "Este es el libro que me cambió la vida."
+          "native": "Este es el libro que me cambió la vida.",
+          "en": "This is the book which changed my life.",
+          "es": "Este es el libro que me cambió la vida."
         },
         {
           "target": "The city where I was born is small.",
-          "native": "La ciudad donde nací es chica."
+          "native": "La ciudad donde nací es chica.",
+          "en": "The city where I was born is small.",
+          "es": "La ciudad donde nací es chica."
         }
       ]
     },
@@ -955,15 +1201,21 @@
       "examples": [
         {
           "target": "If we recycled more, we would produce less waste.",
-          "native": "Si recicláramos más, produciríamos menos residuos."
+          "native": "Si recicláramos más, produciríamos menos residuos.",
+          "en": "If we recycled more, we would produce less waste.",
+          "es": "Si recicláramos más, produciríamos menos residuos."
         },
         {
           "target": "If everyone used public transport, the air would be cleaner.",
-          "native": "Si todos usaran transporte público, el aire sería más limpio."
+          "native": "Si todos usaran transporte público, el aire sería más limpio.",
+          "en": "If everyone used public transport, the air would be cleaner.",
+          "es": "Si todos usaran transporte público, el aire sería más limpio."
         },
         {
           "target": "The planet would be better if we consumed less.",
-          "native": "El planeta estaría mejor si consumiéramos menos."
+          "native": "El planeta estaría mejor si consumiéramos menos.",
+          "en": "The planet would be better if we consumed less.",
+          "es": "El planeta estaría mejor si consumiéramos menos."
         }
       ]
     },
@@ -978,15 +1230,21 @@
       "examples": [
         {
           "target": "It is said that the company will close.",
-          "native": "Se dice que la empresa va a cerrar."
+          "native": "Se dice que la empresa va a cerrar.",
+          "en": "It is said that the company will close.",
+          "es": "Se dice que la empresa va a cerrar."
         },
         {
           "target": "The film was directed by a newcomer.",
-          "native": "La película fue dirigida por un debutante."
+          "native": "La película fue dirigida por un debutante.",
+          "en": "The film was directed by a newcomer.",
+          "es": "La película fue dirigida por un debutante."
         },
         {
           "target": "He is believed to be innocent.",
-          "native": "Se cree que es inocente."
+          "native": "Se cree que es inocente.",
+          "en": "He is believed to be innocent.",
+          "es": "Se cree que es inocente."
         }
       ]
     },
@@ -1001,15 +1259,21 @@
       "examples": [
         {
           "target": "I have been working all day.",
-          "native": "Estuve trabajando todo el día."
+          "native": "Estuve trabajando todo el día.",
+          "en": "I have been working all day.",
+          "es": "Estuve trabajando todo el día."
         },
         {
           "target": "She has been studying English for two years.",
-          "native": "Hace dos años que estudia inglés."
+          "native": "Hace dos años que estudia inglés.",
+          "en": "She has been studying English for two years.",
+          "es": "Hace dos años que estudia inglés."
         },
         {
           "target": "It's been raining since morning.",
-          "native": "Está lloviendo desde la mañana."
+          "native": "Está lloviendo desde la mañana.",
+          "en": "It's been raining since morning.",
+          "es": "Está lloviendo desde la mañana."
         }
       ]
     },
@@ -1024,15 +1288,21 @@
       "examples": [
         {
           "target": "The journalist, who lives in Madrid, wrote the article.",
-          "native": "El periodista, que vive en Madrid, escribió el artículo."
+          "native": "El periodista, que vive en Madrid, escribió el artículo.",
+          "en": "The journalist, who lives in Madrid, wrote the article.",
+          "es": "El periodista, que vive en Madrid, escribió el artículo."
         },
         {
           "target": "The article which won the prize was short.",
-          "native": "El artículo que ganó el premio era corto."
+          "native": "El artículo que ganó el premio era corto.",
+          "en": "The article which won the prize was short.",
+          "es": "El artículo que ganó el premio era corto."
         },
         {
           "target": "This is the studio where they film the show.",
-          "native": "Este es el estudio donde graban el programa."
+          "native": "Este es el estudio donde graban el programa.",
+          "en": "This is the studio where they film the show.",
+          "es": "Este es el estudio donde graban el programa."
         }
       ]
     },
@@ -1047,15 +1317,21 @@
       "examples": [
         {
           "target": "The minister announced that taxes would rise.",
-          "native": "El ministro anunció que los impuestos subirían."
+          "native": "El ministro anunció que los impuestos subirían.",
+          "en": "The minister announced that taxes would rise.",
+          "es": "El ministro anunció que los impuestos subirían."
         },
         {
           "target": "He denied taking the money.",
-          "native": "Negó haber tomado el dinero."
+          "native": "Negó haber tomado el dinero.",
+          "en": "He denied taking the money.",
+          "es": "Negó haber tomado el dinero."
         },
         {
           "target": "She suggested going to the police.",
-          "native": "Sugirió ir a la policía."
+          "native": "Sugirió ir a la policía.",
+          "en": "She suggested going to the police.",
+          "es": "Sugirió ir a la policía."
         }
       ]
     },
@@ -1070,15 +1346,21 @@
       "examples": [
         {
           "target": "If I get the job, I'll move to Córdoba.",
-          "native": "Si consigo el trabajo, me mudo a Córdoba."
+          "native": "Si consigo el trabajo, me mudo a Córdoba.",
+          "en": "If I get the job, I'll move to Córdoba.",
+          "es": "Si consigo el trabajo, me mudo a Córdoba."
         },
         {
           "target": "If she passes, she'll study medicine.",
-          "native": "Si aprueba, va a estudiar medicina."
+          "native": "Si aprueba, va a estudiar medicina.",
+          "en": "If she passes, she'll study medicine.",
+          "es": "Si aprueba, va a estudiar medicina."
         },
         {
           "target": "We'll leave when the rain stops.",
-          "native": "Salimos cuando pare la lluvia."
+          "native": "Salimos cuando pare la lluvia.",
+          "en": "We'll leave when the rain stops.",
+          "es": "Salimos cuando pare la lluvia."
         }
       ]
     },
@@ -1093,15 +1375,21 @@
       "examples": [
         {
           "target": "I enjoy reading before bed.",
-          "native": "Disfruto leer antes de dormir."
+          "native": "Disfruto leer antes de dormir.",
+          "en": "I enjoy reading before bed.",
+          "es": "Disfruto leer antes de dormir."
         },
         {
           "target": "She decided to change jobs.",
-          "native": "Decidió cambiar de trabajo."
+          "native": "Decidió cambiar de trabajo.",
+          "en": "She decided to change jobs.",
+          "es": "Decidió cambiar de trabajo."
         },
         {
           "target": "He's good at solving problems.",
-          "native": "Es bueno resolviendo problemas."
+          "native": "Es bueno resolviendo problemas.",
+          "en": "He's good at solving problems.",
+          "es": "Es bueno resolviendo problemas."
         }
       ]
     },
@@ -1116,15 +1404,21 @@
       "examples": [
         {
           "target": "I won't go unless you come with me.",
-          "native": "No voy a ir a menos que vengas conmigo."
+          "native": "No voy a ir a menos que vengas conmigo.",
+          "en": "I won't go unless you come with me.",
+          "es": "No voy a ir a menos que vengas conmigo."
         },
         {
           "target": "We'll have the picnic unless it rains.",
-          "native": "Hacemos el picnic salvo que llueva."
+          "native": "Hacemos el picnic salvo que llueva.",
+          "en": "We'll have the picnic unless it rains.",
+          "es": "Hacemos el picnic salvo que llueva."
         },
         {
           "target": "Unless you hurry, you'll miss the train.",
-          "native": "Si no te apurás, vas a perder el tren."
+          "native": "Si no te apurás, vas a perder el tren.",
+          "en": "Unless you hurry, you'll miss the train.",
+          "es": "Si no te apurás, vas a perder el tren."
         }
       ]
     },
@@ -1139,15 +1433,21 @@
       "examples": [
         {
           "target": "The phone is ringing — I'll get it.",
-          "native": "Suena el teléfono, atiendo yo."
+          "native": "Suena el teléfono, atiendo yo.",
+          "en": "The phone is ringing — I'll get it.",
+          "es": "Suena el teléfono, atiendo yo."
         },
         {
           "target": "I'm going to buy a car next month.",
-          "native": "Voy a comprar un auto el mes que viene."
+          "native": "Voy a comprar un auto el mes que viene.",
+          "en": "I'm going to buy a car next month.",
+          "es": "Voy a comprar un auto el mes que viene."
         },
         {
           "target": "I'm meeting Ana at six.",
-          "native": "Me encuentro con Ana a las seis."
+          "native": "Me encuentro con Ana a las seis.",
+          "en": "I'm meeting Ana at six.",
+          "es": "Me encuentro con Ana a las seis."
         }
       ]
     },
@@ -1162,15 +1462,21 @@
       "examples": [
         {
           "target": "If I had studied medicine, I would be a doctor now.",
-          "native": "Si hubiera estudiado medicina, ahora sería médico."
+          "native": "Si hubiera estudiado medicina, ahora sería médico.",
+          "en": "If I had studied medicine, I would be a doctor now.",
+          "es": "Si hubiera estudiado medicina, ahora sería médico."
         },
         {
           "target": "If she weren't so shy, she would have spoken.",
-          "native": "Si no fuera tan tímida, habría hablado."
+          "native": "Si no fuera tan tímida, habría hablado.",
+          "en": "If she weren't so shy, she would have spoken.",
+          "es": "Si no fuera tan tímida, habría hablado."
         },
         {
           "target": "If I had saved money, I wouldn't be broke today.",
-          "native": "Si hubiera ahorrado, hoy no estaría sin plata."
+          "native": "Si hubiera ahorrado, hoy no estaría sin plata.",
+          "en": "If I had saved money, I wouldn't be broke today.",
+          "es": "Si hubiera ahorrado, hoy no estaría sin plata."
         }
       ]
     },
@@ -1185,15 +1491,21 @@
       "examples": [
         {
           "target": "If I had studied, I would have passed.",
-          "native": "Si hubiera estudiado, habría aprobado."
+          "native": "Si hubiera estudiado, habría aprobado.",
+          "en": "If I had studied, I would have passed.",
+          "es": "Si hubiera estudiado, habría aprobado."
         },
         {
           "target": "She would have come if you had invited her.",
-          "native": "Habría venido si la hubieras invitado."
+          "native": "Habría venido si la hubieras invitado.",
+          "en": "She would have come if you had invited her.",
+          "es": "Habría venido si la hubieras invitado."
         },
         {
           "target": "We could have won if we had played better.",
-          "native": "Podríamos haber ganado si hubiéramos jugado mejor."
+          "native": "Podríamos haber ganado si hubiéramos jugado mejor.",
+          "en": "We could have won if we had played better.",
+          "es": "Podríamos haber ganado si hubiéramos jugado mejor."
         }
       ]
     },
@@ -1208,15 +1520,21 @@
       "examples": [
         {
           "target": "I wish I had more free time.",
-          "native": "Ojalá tuviera más tiempo libre."
+          "native": "Ojalá tuviera más tiempo libre.",
+          "en": "I wish I had more free time.",
+          "es": "Ojalá tuviera más tiempo libre."
         },
         {
           "target": "I wish I had studied more.",
-          "native": "Ojalá hubiera estudiado más."
+          "native": "Ojalá hubiera estudiado más.",
+          "en": "I wish I had studied more.",
+          "es": "Ojalá hubiera estudiado más."
         },
         {
           "target": "I wish he would listen.",
-          "native": "Ojalá escuchara."
+          "native": "Ojalá escuchara.",
+          "en": "I wish he would listen.",
+          "es": "Ojalá escuchara."
         }
       ]
     },
@@ -1231,15 +1549,21 @@
       "examples": [
         {
           "target": "It was Ana who called you.",
-          "native": "Fue Ana la que te llamó."
+          "native": "Fue Ana la que te llamó.",
+          "en": "It was Ana who called you.",
+          "es": "Fue Ana la que te llamó."
         },
         {
           "target": "What I need is a holiday.",
-          "native": "Lo que necesito son vacaciones."
+          "native": "Lo que necesito son vacaciones.",
+          "en": "What I need is a holiday.",
+          "es": "Lo que necesito son vacaciones."
         },
         {
           "target": "It wasn't me who broke it.",
-          "native": "No fui yo el que lo rompió."
+          "native": "No fui yo el que lo rompió.",
+          "en": "It wasn't me who broke it.",
+          "es": "No fui yo el que lo rompió."
         }
       ]
     },
@@ -1254,15 +1578,21 @@
       "examples": [
         {
           "target": "Never have I seen such a mess.",
-          "native": "Nunca vi semejante desorden."
+          "native": "Nunca vi semejante desorden.",
+          "en": "Never have I seen such a mess.",
+          "es": "Nunca vi semejante desorden."
         },
         {
           "target": "Rarely does he complain.",
-          "native": "Rara vez se queja."
+          "native": "Rara vez se queja.",
+          "en": "Rarely does he complain.",
+          "es": "Rara vez se queja."
         },
         {
           "target": "No sooner had we arrived than it started raining.",
-          "native": "Apenas llegamos, empezó a llover."
+          "native": "Apenas llegamos, empezó a llover.",
+          "en": "No sooner had we arrived than it started raining.",
+          "es": "Apenas llegamos, empezó a llover."
         }
       ]
     },
@@ -1277,15 +1607,21 @@
       "examples": [
         {
           "target": "My brother, who lives in Spain, is coming.",
-          "native": "Mi hermano, que vive en España, viene."
+          "native": "Mi hermano, que vive en España, viene.",
+          "en": "My brother, who lives in Spain, is coming.",
+          "es": "Mi hermano, que vive en España, viene."
         },
         {
           "target": "The report, which was published today, is long.",
-          "native": "El informe, que se publicó hoy, es largo."
+          "native": "El informe, que se publicó hoy, es largo.",
+          "en": "The report, which was published today, is long.",
+          "es": "El informe, que se publicó hoy, es largo."
         },
         {
           "target": "He arrived late, which annoyed everyone.",
-          "native": "Llegó tarde, lo cual molestó a todos."
+          "native": "Llegó tarde, lo cual molestó a todos.",
+          "en": "He arrived late, which annoyed everyone.",
+          "es": "Llegó tarde, lo cual molestó a todos."
         }
       ]
     },
@@ -1300,15 +1636,21 @@
       "examples": [
         {
           "target": "I was given a second chance.",
-          "native": "Me dieron una segunda oportunidad."
+          "native": "Me dieron una segunda oportunidad.",
+          "en": "I was given a second chance.",
+          "es": "Me dieron una segunda oportunidad."
         },
         {
           "target": "The road is being repaired.",
-          "native": "Están arreglando la ruta."
+          "native": "Están arreglando la ruta.",
+          "en": "The road is being repaired.",
+          "es": "Están arreglando la ruta."
         },
         {
           "target": "He is thought to have left the country.",
-          "native": "Se cree que se fue del país."
+          "native": "Se cree que se fue del país.",
+          "en": "He is thought to have left the country.",
+          "es": "Se cree que se fue del país."
         }
       ]
     },
@@ -1323,15 +1665,21 @@
       "examples": [
         {
           "target": "The plan failed. However, we learnt a lot.",
-          "native": "El plan falló. Sin embargo, aprendimos mucho."
+          "native": "El plan falló. Sin embargo, aprendimos mucho.",
+          "en": "The plan failed. However, we learnt a lot.",
+          "es": "El plan falló. Sin embargo, aprendimos mucho."
         },
         {
           "target": "Sales dropped; therefore, we changed strategy.",
-          "native": "Las ventas cayeron; por lo tanto, cambiamos de estrategia."
+          "native": "Las ventas cayeron; por lo tanto, cambiamos de estrategia.",
+          "en": "Sales dropped; therefore, we changed strategy.",
+          "es": "Las ventas cayeron; por lo tanto, cambiamos de estrategia."
         },
         {
           "target": "Moreover, the cost was too high.",
-          "native": "Además, el costo era demasiado alto."
+          "native": "Además, el costo era demasiado alto.",
+          "en": "Moreover, the cost was too high.",
+          "es": "Además, el costo era demasiado alto."
         }
       ]
     },
@@ -1346,15 +1694,21 @@
       "examples": [
         {
           "target": "She must have forgotten the meeting.",
-          "native": "Se debe haber olvidado de la reunión."
+          "native": "Se debe haber olvidado de la reunión.",
+          "en": "She must have forgotten the meeting.",
+          "es": "Se debe haber olvidado de la reunión."
         },
         {
           "target": "I should have called you earlier.",
-          "native": "Tendría que haberte llamado antes."
+          "native": "Tendría que haberte llamado antes.",
+          "en": "I should have called you earlier.",
+          "es": "Tendría que haberte llamado antes."
         },
         {
           "target": "He can't have known about it.",
-          "native": "No puede haberlo sabido."
+          "native": "No puede haberlo sabido.",
+          "en": "He can't have known about it.",
+          "es": "No puede haberlo sabido."
         }
       ]
     },
@@ -1369,15 +1723,21 @@
       "examples": [
         {
           "target": "Despite the cost, the project continued.",
-          "native": "A pesar del costo, el proyecto siguió."
+          "native": "A pesar del costo, el proyecto siguió.",
+          "en": "Despite the cost, the project continued.",
+          "es": "A pesar del costo, el proyecto siguió."
         },
         {
           "target": "Although it rained, we went out.",
-          "native": "Aunque llovió, salimos."
+          "native": "Aunque llovió, salimos.",
+          "en": "Although it rained, we went out.",
+          "es": "Aunque llovió, salimos."
         },
         {
           "target": "Sales rose in Europe, whereas they fell in Asia.",
-          "native": "Las ventas subieron en Europa, mientras que cayeron en Asia."
+          "native": "Las ventas subieron en Europa, mientras que cayeron en Asia.",
+          "en": "Sales rose in Europe, whereas they fell in Asia.",
+          "es": "Las ventas subieron en Europa, mientras que cayeron en Asia."
         }
       ]
     },
@@ -1392,15 +1752,21 @@
       "examples": [
         {
           "target": "Suppose you won the lottery, what would you do?",
-          "native": "Supongamos que ganás la lotería, ¿qué harías?"
+          "native": "Supongamos que ganás la lotería, ¿qué harías?",
+          "en": "Suppose you won the lottery, what would you do?",
+          "es": "Supongamos que ganás la lotería, ¿qué harías?"
         },
         {
           "target": "He talks as if he knew everything.",
-          "native": "Habla como si supiera todo."
+          "native": "Habla como si supiera todo.",
+          "en": "He talks as if he knew everything.",
+          "es": "Habla como si supiera todo."
         },
         {
           "target": "It's time we left.",
-          "native": "Ya deberíamos irnos."
+          "native": "Ya deberíamos irnos.",
+          "en": "It's time we left.",
+          "es": "Ya deberíamos irnos."
         }
       ]
     },
@@ -1415,15 +1781,21 @@
       "examples": [
         {
           "target": "Their decision was unexpected.",
-          "native": "Su decisión fue inesperada."
+          "native": "Su decisión fue inesperada.",
+          "en": "Their decision was unexpected.",
+          "es": "Su decisión fue inesperada."
         },
         {
           "target": "The implementation of the policy took years.",
-          "native": "La implementación de la política llevó años."
+          "native": "La implementación de la política llevó años.",
+          "en": "The implementation of the policy took years.",
+          "es": "La implementación de la política llevó años."
         },
         {
           "target": "There has been a reduction in staff.",
-          "native": "Hubo una reducción de personal."
+          "native": "Hubo una reducción de personal.",
+          "en": "There has been a reduction in staff.",
+          "es": "Hubo una reducción de personal."
         }
       ]
     },
@@ -1438,15 +1810,21 @@
       "examples": [
         {
           "target": "The report must be finished by Friday.",
-          "native": "El informe tiene que estar terminado para el viernes."
+          "native": "El informe tiene que estar terminado para el viernes.",
+          "en": "The report must be finished by Friday.",
+          "es": "El informe tiene que estar terminado para el viernes."
         },
         {
           "target": "The painting is believed to have been stolen in 1990.",
-          "native": "Se cree que el cuadro fue robado en 1990."
+          "native": "Se cree que el cuadro fue robado en 1990.",
+          "en": "The painting is believed to have been stolen in 1990.",
+          "es": "Se cree que el cuadro fue robado en 1990."
         },
         {
           "target": "He wants to be told the truth.",
-          "native": "Quiere que le digan la verdad."
+          "native": "Quiere que le digan la verdad.",
+          "en": "He wants to be told the truth.",
+          "es": "Quiere que le digan la verdad."
         }
       ]
     },
@@ -1461,15 +1839,21 @@
       "examples": [
         {
           "target": "I am writing to enquire about the position.",
-          "native": "Escribo para consultar sobre el puesto."
+          "native": "Escribo para consultar sobre el puesto.",
+          "en": "I am writing to enquire about the position.",
+          "es": "Escribo para consultar sobre el puesto."
         },
         {
           "target": "The meeting has been postponed.",
-          "native": "La reunión fue pospuesta."
+          "native": "La reunión fue pospuesta.",
+          "en": "The meeting has been postponed.",
+          "es": "La reunión fue pospuesta."
         },
         {
           "target": "I would be grateful if you could confirm.",
-          "native": "Le agradecería que confirmara."
+          "native": "Le agradecería que confirmara.",
+          "en": "I would be grateful if you could confirm.",
+          "es": "Le agradecería que confirmara."
         }
       ]
     },
@@ -1484,15 +1868,21 @@
       "examples": [
         {
           "target": "That book I have read three times.",
-          "native": "Ese libro lo leí tres veces."
+          "native": "Ese libro lo leí tres veces.",
+          "en": "That book I have read three times.",
+          "es": "Ese libro lo leí tres veces."
         },
         {
           "target": "Only then did he understand.",
-          "native": "Recién ahí entendió."
+          "native": "Recién ahí entendió.",
+          "en": "Only then did he understand.",
+          "es": "Recién ahí entendió."
         },
         {
           "target": "What surprised me was the ending.",
-          "native": "Lo que me sorprendió fue el final."
+          "native": "Lo que me sorprendió fue el final.",
+          "en": "What surprised me was the ending.",
+          "es": "Lo que me sorprendió fue el final."
         }
       ]
     },
@@ -1507,15 +1897,21 @@
       "examples": [
         {
           "target": "This essay argues that the policy failed.",
-          "native": "Este ensayo sostiene que la política fracasó."
+          "native": "Este ensayo sostiene que la política fracasó.",
+          "en": "This essay argues that the policy failed.",
+          "es": "Este ensayo sostiene que la política fracasó."
         },
         {
           "target": "The evidence suggests a strong correlation.",
-          "native": "La evidencia sugiere una correlación fuerte."
+          "native": "La evidencia sugiere una correlación fuerte.",
+          "en": "The evidence suggests a strong correlation.",
+          "es": "La evidencia sugiere una correlación fuerte."
         },
         {
           "target": "While critics argue X, supporters maintain Y.",
-          "native": "Mientras los críticos sostienen X, los partidarios mantienen Y."
+          "native": "Mientras los críticos sostienen X, los partidarios mantienen Y.",
+          "en": "While critics argue X, supporters maintain Y.",
+          "es": "Mientras los críticos sostienen X, los partidarios mantienen Y."
         }
       ]
     },
@@ -1530,15 +1926,21 @@
       "examples": [
         {
           "target": "He admitted taking the money.",
-          "native": "Admitió haber tomado el dinero."
+          "native": "Admitió haber tomado el dinero.",
+          "en": "He admitted taking the money.",
+          "es": "Admitió haber tomado el dinero."
         },
         {
           "target": "She refused to sign the contract.",
-          "native": "Se negó a firmar el contrato."
+          "native": "Se negó a firmar el contrato.",
+          "en": "She refused to sign the contract.",
+          "es": "Se negó a firmar el contrato."
         },
         {
           "target": "He asked me where I lived.",
-          "native": "Me preguntó dónde vivía."
+          "native": "Me preguntó dónde vivía.",
+          "en": "He asked me where I lived.",
+          "es": "Me preguntó dónde vivía."
         }
       ]
     },
@@ -1553,15 +1955,21 @@
       "examples": [
         {
           "target": "By 2030, I will have finished my degree.",
-          "native": "Para 2030 voy a haber terminado la carrera."
+          "native": "Para 2030 voy a haber terminado la carrera.",
+          "en": "By 2030, I will have finished my degree.",
+          "es": "Para 2030 voy a haber terminado la carrera."
         },
         {
           "target": "This time tomorrow I'll be flying to Madrid.",
-          "native": "Mañana a esta hora voy a estar volando a Madrid."
+          "native": "Mañana a esta hora voy a estar volando a Madrid.",
+          "en": "This time tomorrow I'll be flying to Madrid.",
+          "es": "Mañana a esta hora voy a estar volando a Madrid."
         },
         {
           "target": "By the time you arrive, we will have eaten.",
-          "native": "Para cuando llegues ya vamos a haber comido."
+          "native": "Para cuando llegues ya vamos a haber comido.",
+          "en": "By the time you arrive, we will have eaten.",
+          "es": "Para cuando llegues ya vamos a haber comido."
         }
       ]
     },
@@ -1576,15 +1984,21 @@
       "examples": [
         {
           "target": "Had I known, I would have helped.",
-          "native": "Si hubiera sabido, habría ayudado."
+          "native": "Si hubiera sabido, habría ayudado.",
+          "en": "Had I known, I would have helped.",
+          "es": "Si hubiera sabido, habría ayudado."
         },
         {
           "target": "Little did he know what awaited him.",
-          "native": "Poco sabía lo que le esperaba."
+          "native": "Poco sabía lo que le esperaba.",
+          "en": "Little did he know what awaited him.",
+          "es": "Poco sabía lo que le esperaba."
         },
         {
           "target": "Under no circumstances should you sign this.",
-          "native": "Bajo ninguna circunstancia deberías firmar esto."
+          "native": "Bajo ninguna circunstancia deberías firmar esto.",
+          "en": "Under no circumstances should you sign this.",
+          "es": "Bajo ninguna circunstancia deberías firmar esto."
         }
       ]
     },
@@ -1599,15 +2013,21 @@
       "examples": [
         {
           "target": "It is believed that the company is bankrupt.",
-          "native": "Se cree que la empresa está en quiebra."
+          "native": "Se cree que la empresa está en quiebra.",
+          "en": "It is believed that the company is bankrupt.",
+          "es": "Se cree que la empresa está en quiebra."
         },
         {
           "target": "He allegedly took the money.",
-          "native": "Presuntamente tomó el dinero."
+          "native": "Presuntamente tomó el dinero.",
+          "en": "He allegedly took the money.",
+          "es": "Presuntamente tomó el dinero."
         },
         {
           "target": "She is known to have visited the site.",
-          "native": "Se sabe que visitó el lugar."
+          "native": "Se sabe que visitó el lugar.",
+          "en": "She is known to have visited the site.",
+          "es": "Se sabe que visitó el lugar."
         }
       ]
     },
@@ -1622,15 +2042,21 @@
       "examples": [
         {
           "target": "I suggest that he go alone.",
-          "native": "Sugiero que vaya solo."
+          "native": "Sugiero que vaya solo.",
+          "en": "I suggest that he go alone.",
+          "es": "Sugiero que vaya solo."
         },
         {
           "target": "It is essential that she be informed.",
-          "native": "Es esencial que se le informe."
+          "native": "Es esencial que se le informe.",
+          "en": "It is essential that she be informed.",
+          "es": "Es esencial que se le informe."
         },
         {
           "target": "They demanded that the report be submitted.",
-          "native": "Exigieron que se presentara el informe."
+          "native": "Exigieron que se presentara el informe.",
+          "en": "They demanded that the report be submitted.",
+          "es": "Exigieron que se presentara el informe."
         }
       ]
     },
@@ -1645,15 +2071,21 @@
       "examples": [
         {
           "target": "He stopped smoking last year.",
-          "native": "Dejó de fumar el año pasado."
+          "native": "Dejó de fumar el año pasado.",
+          "en": "He stopped smoking last year.",
+          "es": "Dejó de fumar el año pasado."
         },
         {
           "target": "He stopped to smoke a cigarette.",
-          "native": "Se detuvo para fumar un cigarrillo."
+          "native": "Se detuvo para fumar un cigarrillo.",
+          "en": "He stopped to smoke a cigarette.",
+          "es": "Se detuvo para fumar un cigarrillo."
         },
         {
           "target": "I regret to inform you that we cannot proceed.",
-          "native": "Lamento informarle que no podemos continuar."
+          "native": "Lamento informarle que no podemos continuar.",
+          "en": "I regret to inform you that we cannot proceed.",
+          "es": "Lamento informarle que no podemos continuar."
         }
       ]
     },
@@ -1668,15 +2100,21 @@
       "examples": [
         {
           "target": "She must have left already.",
-          "native": "Ya se debe haber ido."
+          "native": "Ya se debe haber ido.",
+          "en": "She must have left already.",
+          "es": "Ya se debe haber ido."
         },
         {
           "target": "I'm glad to have met you.",
-          "native": "Me alegra haberte conocido."
+          "native": "Me alegra haberte conocido.",
+          "en": "I'm glad to have met you.",
+          "es": "Me alegra haberte conocido."
         },
         {
           "target": "He is said to have won twice.",
-          "native": "Se dice que ganó dos veces."
+          "native": "Se dice que ganó dos veces.",
+          "en": "He is said to have won twice.",
+          "es": "Se dice que ganó dos veces."
         }
       ]
     },
@@ -1691,15 +2129,21 @@
       "examples": [
         {
           "target": "Firstly, the data must be verified.",
-          "native": "En primer lugar, los datos deben verificarse."
+          "native": "En primer lugar, los datos deben verificarse.",
+          "en": "Firstly, the data must be verified.",
+          "es": "En primer lugar, los datos deben verificarse."
         },
         {
           "target": "The results were inconclusive; hence, further study is needed.",
-          "native": "Los resultados fueron poco concluyentes; de ahí que haga falta más investigación."
+          "native": "Los resultados fueron poco concluyentes; de ahí que haga falta más investigación.",
+          "en": "The results were inconclusive; hence, further study is needed.",
+          "es": "Los resultados fueron poco concluyentes; de ahí que haga falta más investigación."
         },
         {
           "target": "Admittedly, the sample was small. Nonetheless, the trend is clear.",
-          "native": "Hay que admitir que la muestra era chica. Aun así, la tendencia es clara."
+          "native": "Hay que admitir que la muestra era chica. Aun así, la tendencia es clara.",
+          "en": "Admittedly, the sample was small. Nonetheless, the trend is clear.",
+          "es": "Hay que admitir que la muestra era chica. Aun así, la tendencia es clara."
         }
       ]
     },
@@ -1714,15 +2158,21 @@
       "examples": [
         {
           "target": "She can sing and dance.",
-          "native": "Sabe cantar y bailar."
+          "native": "Sabe cantar y bailar.",
+          "en": "She can sing and dance.",
+          "es": "Sabe cantar y bailar."
         },
         {
           "target": "— Who wants tea? — I do.",
-          "native": "— ¿Quién quiere té? — Yo."
+          "native": "— ¿Quién quiere té? — Yo.",
+          "en": "— Who wants tea? — I do.",
+          "es": "— ¿Quién quiere té? — Yo."
         },
         {
           "target": "I haven't finished, but she has.",
-          "native": "Yo no terminé, pero ella sí."
+          "native": "Yo no terminé, pero ella sí.",
+          "en": "I haven't finished, but she has.",
+          "es": "Yo no terminé, pero ella sí."
         }
       ]
     },
@@ -1737,15 +2187,21 @@
       "examples": [
         {
           "target": "I'll take the red one.",
-          "native": "Me llevo el rojo."
+          "native": "Me llevo el rojo.",
+          "en": "I'll take the red one.",
+          "es": "Me llevo el rojo."
         },
         {
           "target": "— Is it raining? — I think so.",
-          "native": "— ¿Está lloviendo? — Creo que sí."
+          "native": "— ¿Está lloviendo? — Creo que sí.",
+          "en": "— Is it raining? — I think so.",
+          "es": "— ¿Está lloviendo? — Creo que sí."
         },
         {
           "target": "She asked me to leave and I did.",
-          "native": "Me pidió que me fuera y lo hice."
+          "native": "Me pidió que me fuera y lo hice.",
+          "en": "She asked me to leave and I did.",
+          "es": "Me pidió que me fuera y lo hice."
         }
       ]
     },
@@ -1760,15 +2216,21 @@
       "examples": [
         {
           "target": "All I want is a coffee.",
-          "native": "Lo único que quiero es un café."
+          "native": "Lo único que quiero es un café.",
+          "en": "All I want is a coffee.",
+          "es": "Lo único que quiero es un café."
         },
         {
           "target": "The reason I called was to apologise.",
-          "native": "La razón por la que llamé fue para disculparme."
+          "native": "La razón por la que llamé fue para disculparme.",
+          "en": "The reason I called was to apologise.",
+          "es": "La razón por la que llamé fue para disculparme."
         },
         {
           "target": "What she did was resign.",
-          "native": "Lo que hizo fue renunciar."
+          "native": "Lo que hizo fue renunciar.",
+          "en": "What she did was resign.",
+          "es": "Lo que hizo fue renunciar."
         }
       ]
     },
@@ -1783,15 +2245,21 @@
       "examples": [
         {
           "target": "Only after the meeting did we understand.",
-          "native": "Recién después de la reunión entendimos."
+          "native": "Recién después de la reunión entendimos.",
+          "en": "Only after the meeting did we understand.",
+          "es": "Recién después de la reunión entendimos."
         },
         {
           "target": "Not only did he apologise, but he also paid.",
-          "native": "No solo se disculpó, sino que además pagó."
+          "native": "No solo se disculpó, sino que además pagó.",
+          "en": "Not only did he apologise, but he also paid.",
+          "es": "No solo se disculpó, sino que además pagó."
         },
         {
           "target": "So loud was the music that we left.",
-          "native": "Tan fuerte estaba la música que nos fuimos."
+          "native": "Tan fuerte estaba la música que nos fuimos.",
+          "en": "So loud was the music that we left.",
+          "es": "Tan fuerte estaba la música que nos fuimos."
         }
       ]
     },
@@ -1806,15 +2274,21 @@
       "examples": [
         {
           "target": "I had my car repaired last week.",
-          "native": "Hice arreglar el auto la semana pasada."
+          "native": "Hice arreglar el auto la semana pasada.",
+          "en": "I had my car repaired last week.",
+          "es": "Hice arreglar el auto la semana pasada."
         },
         {
           "target": "She got her hair cut.",
-          "native": "Se cortó el pelo (en la peluquería)."
+          "native": "Se cortó el pelo (en la peluquería).",
+          "en": "She got her hair cut.",
+          "es": "Se cortó el pelo (en la peluquería)."
         },
         {
           "target": "He had his wallet stolen.",
-          "native": "Le robaron la billetera."
+          "native": "Le robaron la billetera.",
+          "en": "He had his wallet stolen.",
+          "es": "Le robaron la billetera."
         }
       ]
     },
@@ -1829,15 +2303,21 @@
       "examples": [
         {
           "target": "It is believed that the site is ancient.",
-          "native": "Se cree que el sitio es antiguo."
+          "native": "Se cree que el sitio es antiguo.",
+          "en": "It is believed that the site is ancient.",
+          "es": "Se cree que el sitio es antiguo."
         },
         {
           "target": "The site is believed to be ancient.",
-          "native": "Se cree que el sitio es antiguo."
+          "native": "Se cree que el sitio es antiguo.",
+          "en": "The site is believed to be ancient.",
+          "es": "Se cree que el sitio es antiguo."
         },
         {
           "target": "He is thought to have left the country.",
-          "native": "Se piensa que se fue del país."
+          "native": "Se piensa que se fue del país.",
+          "en": "He is thought to have left the country.",
+          "es": "Se piensa que se fue del país."
         }
       ]
     },
@@ -1852,15 +2332,21 @@
       "examples": [
         {
           "target": "No matter how hard he tried, he failed.",
-          "native": "Por más que se esforzó, fracasó."
+          "native": "Por más que se esforzó, fracasó.",
+          "en": "No matter how hard he tried, he failed.",
+          "es": "Por más que se esforzó, fracasó."
         },
         {
           "target": "Hard as he tried, he failed.",
-          "native": "Por mucho que lo intentó, fracasó."
+          "native": "Por mucho que lo intentó, fracasó.",
+          "en": "Hard as he tried, he failed.",
+          "es": "Por mucho que lo intentó, fracasó."
         },
         {
           "target": "For all his money, he isn't happy.",
-          "native": "Con toda su plata, no es feliz."
+          "native": "Con toda su plata, no es feliz.",
+          "en": "For all his money, he isn't happy.",
+          "es": "Con toda su plata, no es feliz."
         }
       ]
     },
@@ -1875,15 +2361,21 @@
       "examples": [
         {
           "target": "Provided that you finish, you can leave.",
-          "native": "Siempre y cuando termines, podés irte."
+          "native": "Siempre y cuando termines, podés irte.",
+          "en": "Provided that you finish, you can leave.",
+          "es": "Siempre y cuando termines, podés irte."
         },
         {
           "target": "Take an umbrella in case it rains.",
-          "native": "Llevá paraguas por si llueve."
+          "native": "Llevá paraguas por si llueve.",
+          "en": "Take an umbrella in case it rains.",
+          "es": "Llevá paraguas por si llueve."
         },
         {
           "target": "But for your help, I would have failed.",
-          "native": "Si no fuera por tu ayuda, habría fracasado."
+          "native": "Si no fuera por tu ayuda, habría fracasado.",
+          "en": "But for your help, I would have failed.",
+          "es": "Si no fuera por tu ayuda, habría fracasado."
         }
       ]
     },
@@ -1898,15 +2390,21 @@
       "examples": [
         {
           "target": "Ask not what your country can do for you; ask what you can do for your country.",
-          "native": "No preguntes qué puede hacer tu país por vos; preguntá qué podés hacer vos por tu país."
+          "native": "No preguntes qué puede hacer tu país por vos; preguntá qué podés hacer vos por tu país.",
+          "en": "Ask not what your country can do for you; ask what you can do for your country.",
+          "es": "No preguntes qué puede hacer tu país por vos; preguntá qué podés hacer vos por tu país."
         },
         {
           "target": "We shape our buildings; thereafter they shape us.",
-          "native": "Damos forma a nuestros edificios; después ellos nos dan forma a nosotros."
+          "native": "Damos forma a nuestros edificios; después ellos nos dan forma a nosotros.",
+          "en": "We shape our buildings; thereafter they shape us.",
+          "es": "Damos forma a nuestros edificios; después ellos nos dan forma a nosotros."
         },
         {
           "target": "Eat to live, don't live to eat.",
-          "native": "Comé para vivir, no vivas para comer."
+          "native": "Comé para vivir, no vivas para comer.",
+          "en": "Eat to live, don't live to eat.",
+          "es": "Comé para vivir, no vivas para comer."
         }
       ]
     },
@@ -1921,15 +2419,21 @@
       "examples": [
         {
           "target": "Admittedly, the cost is high. However, the savings are greater.",
-          "native": "Hay que admitir que el costo es alto. Sin embargo, el ahorro es mayor."
+          "native": "Hay que admitir que el costo es alto. Sin embargo, el ahorro es mayor.",
+          "en": "Admittedly, the cost is high. However, the savings are greater.",
+          "es": "Hay que admitir que el costo es alto. Sin embargo, el ahorro es mayor."
         },
         {
           "target": "Critics argue that it is unfair. This overlooks who benefits.",
-          "native": "Los críticos dicen que es injusto. Eso pasa por alto quién se beneficia."
+          "native": "Los críticos dicen que es injusto. Eso pasa por alto quién se beneficia.",
+          "en": "Critics argue that it is unfair. This overlooks who benefits.",
+          "es": "Los críticos dicen que es injusto. Eso pasa por alto quién se beneficia."
         },
         {
           "target": "While it may be true in theory, practice shows otherwise.",
-          "native": "Aunque sea cierto en teoría, la práctica muestra otra cosa."
+          "native": "Aunque sea cierto en teoría, la práctica muestra otra cosa.",
+          "en": "While it may be true in theory, practice shows otherwise.",
+          "es": "Aunque sea cierto en teoría, la práctica muestra otra cosa."
         }
       ]
     },
@@ -1944,15 +2448,21 @@
       "examples": [
         {
           "target": "The treatment has a 90% survival rate.",
-          "native": "El tratamiento tiene un 90% de supervivencia."
+          "native": "El tratamiento tiene un 90% de supervivencia.",
+          "en": "The treatment has a 90% survival rate.",
+          "es": "El tratamiento tiene un 90% de supervivencia."
         },
         {
           "target": "The treatment has a 10% mortality rate.",
-          "native": "El tratamiento tiene un 10% de mortalidad."
+          "native": "El tratamiento tiene un 10% de mortalidad.",
+          "en": "The treatment has a 10% mortality rate.",
+          "es": "El tratamiento tiene un 10% de mortalidad."
         },
         {
           "target": "The war on drugs has failed.",
-          "native": "La guerra contra las drogas fracasó."
+          "native": "La guerra contra las drogas fracasó.",
+          "en": "The war on drugs has failed.",
+          "es": "La guerra contra las drogas fracasó."
         }
       ]
     },
@@ -1967,15 +2477,21 @@
       "examples": [
         {
           "target": "The evidence suggests a possible link.",
-          "native": "La evidencia sugiere un vínculo posible."
+          "native": "La evidencia sugiere un vínculo posible.",
+          "en": "The evidence suggests a possible link.",
+          "es": "La evidencia sugiere un vínculo posible."
         },
         {
           "target": "This tends to occur in older patients.",
-          "native": "Esto suele ocurrir en pacientes mayores."
+          "native": "Esto suele ocurrir en pacientes mayores.",
+          "en": "This tends to occur in older patients.",
+          "es": "Esto suele ocurrir en pacientes mayores."
         },
         {
           "target": "It could be argued that the policy failed.",
-          "native": "Podría argumentarse que la política fracasó."
+          "native": "Podría argumentarse que la política fracasó.",
+          "en": "It could be argued that the policy failed.",
+          "es": "Podría argumentarse que la política fracasó."
         }
       ]
     },
@@ -1990,15 +2506,21 @@
       "examples": [
         {
           "target": "The regime's so-called reforms.",
-          "native": "Las supuestas reformas del régimen."
+          "native": "Las supuestas reformas del régimen.",
+          "en": "The regime's so-called reforms.",
+          "es": "Las supuestas reformas del régimen."
         },
         {
           "target": "The company announced a downsizing.",
-          "native": "La empresa anunció una reducción de personal."
+          "native": "La empresa anunció una reducción de personal.",
+          "en": "The company announced a downsizing.",
+          "es": "La empresa anunció una reducción de personal."
         },
         {
           "target": "He admitted that he was there.",
-          "native": "Admitió que estuvo ahí."
+          "native": "Admitió que estuvo ahí.",
+          "en": "He admitted that he was there.",
+          "es": "Admitió que estuvo ahí."
         }
       ]
     },
@@ -2013,15 +2535,21 @@
       "examples": [
         {
           "target": "You can't trust his opinion, he failed at business.",
-          "native": "No podés confiar en su opinión, fracasó en los negocios."
+          "native": "No podés confiar en su opinión, fracasó en los negocios.",
+          "en": "You can't trust his opinion, he failed at business.",
+          "es": "No podés confiar en su opinión, fracasó en los negocios."
         },
         {
           "target": "Either we act now or we lose everything.",
-          "native": "O actuamos ahora o perdemos todo."
+          "native": "O actuamos ahora o perdemos todo.",
+          "en": "Either we act now or we lose everything.",
+          "es": "O actuamos ahora o perdemos todo."
         },
         {
           "target": "Sales rose after the ad, so the ad worked.",
-          "native": "Las ventas subieron después del aviso, así que el aviso funcionó."
+          "native": "Las ventas subieron después del aviso, así que el aviso funcionó.",
+          "en": "Sales rose after the ad, so the ad worked.",
+          "es": "Las ventas subieron después del aviso, así que el aviso funcionó."
         }
       ]
     },
@@ -2036,15 +2564,21 @@
       "examples": [
         {
           "target": "When did you stop cheating?",
-          "native": "¿Cuándo dejaste de hacer trampa?"
+          "native": "¿Cuándo dejaste de hacer trampa?",
+          "en": "When did you stop cheating?",
+          "es": "¿Cuándo dejaste de hacer trampa?"
         },
         {
           "target": "The failure of the plan was predictable.",
-          "native": "El fracaso del plan era previsible."
+          "native": "El fracaso del plan era previsible.",
+          "en": "The failure of the plan was predictable.",
+          "es": "El fracaso del plan era previsible."
         },
         {
           "target": "Still using that old phone?",
-          "native": "¿Seguís usando ese teléfono viejo?"
+          "native": "¿Seguís usando ese teléfono viejo?",
+          "en": "Still using that old phone?",
+          "es": "¿Seguís usando ese teléfono viejo?"
         }
       ]
     },
@@ -2059,15 +2593,21 @@
       "examples": [
         {
           "target": "As a doctor, I can tell you this treatment works.",
-          "native": "Como médico, puedo decirle que este tratamiento funciona."
+          "native": "Como médico, puedo decirle que este tratamiento funciona.",
+          "en": "As a doctor, I can tell you this treatment works.",
+          "es": "Como médico, puedo decirle que este tratamiento funciona."
         },
         {
           "target": "Imagine your own child in that hospital bed.",
-          "native": "Imaginá a tu propio hijo en esa cama de hospital."
+          "native": "Imaginá a tu propio hijo en esa cama de hospital.",
+          "en": "Imagine your own child in that hospital bed.",
+          "es": "Imaginá a tu propio hijo en esa cama de hospital."
         },
         {
           "target": "Three independent studies reached the same conclusion.",
-          "native": "Tres estudios independientes llegaron a la misma conclusión."
+          "native": "Tres estudios independientes llegaron a la misma conclusión.",
+          "en": "Three independent studies reached the same conclusion.",
+          "es": "Tres estudios independientes llegaron a la misma conclusión."
         }
       ]
     },
@@ -2082,15 +2622,21 @@
       "examples": [
         {
           "target": "We shall fight on the beaches, we shall fight in the fields.",
-          "native": "Lucharemos en las playas, lucharemos en los campos."
+          "native": "Lucharemos en las playas, lucharemos en los campos.",
+          "en": "We shall fight on the beaches, we shall fight in the fields.",
+          "es": "Lucharemos en las playas, lucharemos en los campos."
         },
         {
           "target": "Government of the people, by the people, for the people.",
-          "native": "Gobierno del pueblo, por el pueblo, para el pueblo."
+          "native": "Gobierno del pueblo, por el pueblo, para el pueblo.",
+          "en": "Government of the people, by the people, for the people.",
+          "es": "Gobierno del pueblo, por el pueblo, para el pueblo."
         },
         {
           "target": "Ask not what your country can do for you.",
-          "native": "No preguntes qué puede hacer tu país por vos."
+          "native": "No preguntes qué puede hacer tu país por vos.",
+          "en": "Ask not what your country can do for you.",
+          "es": "No preguntes qué puede hacer tu país por vos."
         }
       ]
     },
@@ -2105,15 +2651,21 @@
       "examples": [
         {
           "target": "How much longer must we wait?",
-          "native": "¿Cuánto más tenemos que esperar?"
+          "native": "¿Cuánto más tenemos que esperar?",
+          "en": "How much longer must we wait?",
+          "es": "¿Cuánto más tenemos que esperar?"
         },
         {
           "target": "And what did they do? Nothing.",
-          "native": "¿Y qué hicieron? Nada."
+          "native": "¿Y qué hicieron? Nada.",
+          "en": "And what did they do? Nothing.",
+          "es": "¿Y qué hicieron? Nada."
         },
         {
           "target": "Is this the country we want to leave our children?",
-          "native": "¿Es este el país que queremos dejarles a nuestros hijos?"
+          "native": "¿Es este el país que queremos dejarles a nuestros hijos?",
+          "en": "Is this the country we want to leave our children?",
+          "es": "¿Es este el país que queremos dejarles a nuestros hijos?"
         }
       ]
     },
@@ -2128,15 +2680,21 @@
       "examples": [
         {
           "target": "It's just a scratch.",
-          "native": "Es apenas un rasguño (dicho ante un choque)."
+          "native": "Es apenas un rasguño (dicho ante un choque).",
+          "en": "It's just a scratch.",
+          "es": "Es apenas un rasguño (dicho ante un choque)."
         },
         {
           "target": "The food wasn't bad at all.",
-          "native": "La comida estuvo muy buena."
+          "native": "La comida estuvo muy buena.",
+          "en": "The food wasn't bad at all.",
+          "es": "La comida estuvo muy buena."
         },
         {
           "target": "He's no fool.",
-          "native": "De tonto no tiene nada."
+          "native": "De tonto no tiene nada.",
+          "en": "He's no fool.",
+          "es": "De tonto no tiene nada."
         }
       ]
     },
@@ -2151,15 +2709,21 @@
       "examples": [
         {
           "target": "Animal Farm is an allegory of the Russian Revolution.",
-          "native": "Rebelión en la granja es una alegoría de la Revolución Rusa."
+          "native": "Rebelión en la granja es una alegoría de la Revolución Rusa.",
+          "en": "Animal Farm is an allegory of the Russian Revolution.",
+          "es": "Rebelión en la granja es una alegoría de la Revolución Rusa."
         },
         {
           "target": "Each character stands for a historical figure.",
-          "native": "Cada personaje representa a una figura histórica."
+          "native": "Cada personaje representa a una figura histórica.",
+          "en": "Each character stands for a historical figure.",
+          "es": "Cada personaje representa a una figura histórica."
         },
         {
           "target": "The Pilgrim's Progress narrates a journey and a whole moral life.",
-          "native": "El progreso del peregrino narra un viaje y toda una vida moral."
+          "native": "El progreso del peregrino narra un viaje y toda una vida moral.",
+          "en": "The Pilgrim's Progress narrates a journey and a whole moral life.",
+          "es": "El progreso del peregrino narra un viaje y toda una vida moral."
         }
       ]
     },
@@ -2174,15 +2738,21 @@
       "examples": [
         {
           "target": "The final scene provides catharsis.",
-          "native": "La escena final produce catarsis."
+          "native": "La escena final produce catarsis.",
+          "en": "The final scene provides catharsis.",
+          "es": "La escena final produce catarsis."
         },
         {
           "target": "Tragedy arouses pity and fear.",
-          "native": "La tragedia despierta piedad y temor."
+          "native": "La tragedia despierta piedad y temor.",
+          "en": "Tragedy arouses pity and fear.",
+          "es": "La tragedia despierta piedad y temor."
         },
         {
           "target": "We weep for Oedipus and feel lighter afterwards.",
-          "native": "Lloramos por Edipo y después salimos más livianos."
+          "native": "Lloramos por Edipo y después salimos más livianos.",
+          "en": "We weep for Oedipus and feel lighter afterwards.",
+          "es": "Lloramos por Edipo y después salimos más livianos."
         }
       ]
     },
@@ -2197,15 +2767,21 @@
       "examples": [
         {
           "target": "The denouement ties up the remaining threads.",
-          "native": "El desenlace ata los cabos que quedaban."
+          "native": "El desenlace ata los cabos que quedaban.",
+          "en": "The denouement ties up the remaining threads.",
+          "es": "El desenlace ata los cabos que quedaban."
         },
         {
           "target": "A rushed denouement weakens the whole novel.",
-          "native": "Un desenlace apurado debilita toda la novela."
+          "native": "Un desenlace apurado debilita toda la novela.",
+          "en": "A rushed denouement weakens the whole novel.",
+          "es": "Un desenlace apurado debilita toda la novela."
         },
         {
           "target": "The last chapter says who married whom and who kept the house.",
-          "native": "El último capítulo dice quién se casó con quién y quién se quedó la casa."
+          "native": "El último capítulo dice quién se casó con quién y quién se quedó la casa.",
+          "en": "The last chapter says who married whom and who kept the house.",
+          "es": "El último capítulo dice quién se casó con quién y quién se quedó la casa."
         }
       ]
     },
@@ -2220,15 +2796,21 @@
       "examples": [
         {
           "target": "The diction is deliberately archaic.",
-          "native": "La dicción es deliberadamente arcaica."
+          "native": "La dicción es deliberadamente arcaica.",
+          "en": "The diction is deliberately archaic.",
+          "es": "La dicción es deliberadamente arcaica."
         },
         {
           "target": "Latinate diction creates distance.",
-          "native": "La dicción latina crea distancia."
+          "native": "La dicción latina crea distancia.",
+          "en": "Latinate diction creates distance.",
+          "es": "La dicción latina crea distancia."
         },
         {
           "target": "'He passed away' and 'he croaked' report the same death.",
-          "native": "«Falleció» y «espichó» informan la misma muerte."
+          "native": "«Falleció» y «espichó» informan la misma muerte.",
+          "en": "'He passed away' and 'he croaked' report the same death.",
+          "es": "«Falleció» y «espichó» informan la misma muerte."
         }
       ]
     },
@@ -2243,15 +2825,21 @@
       "examples": [
         {
           "target": "Dramatic irony makes the audience dread what is coming.",
-          "native": "La ironía dramática hace que el público tema lo que viene."
+          "native": "La ironía dramática hace que el público tema lo que viene.",
+          "en": "Dramatic irony makes the audience dread what is coming.",
+          "es": "La ironía dramática hace que el público tema lo que viene."
         },
         {
           "target": "We know the truth long before he does.",
-          "native": "Sabemos la verdad mucho antes que él."
+          "native": "Sabemos la verdad mucho antes que él.",
+          "en": "We know the truth long before he does.",
+          "es": "Sabemos la verdad mucho antes que él."
         },
         {
           "target": "He toasts to his oldest friend — the one who betrayed him.",
-          "native": "Brinda por su amigo más viejo: el que lo traicionó."
+          "native": "Brinda por su amigo más viejo: el que lo traicionó.",
+          "en": "He toasts to his oldest friend — the one who betrayed him.",
+          "es": "Brinda por su amigo más viejo: el que lo traicionó."
         }
       ]
     },
@@ -2266,15 +2854,21 @@
       "examples": [
         {
           "target": "The story ends with a quiet epiphany.",
-          "native": "El cuento termina con una epifanía callada."
+          "native": "El cuento termina con una epifanía callada.",
+          "en": "The story ends with a quiet epiphany.",
+          "es": "El cuento termina con una epifanía callada."
         },
         {
           "target": "A trivial detail triggers the revelation.",
-          "native": "Un detalle trivial desencadena la revelación."
+          "native": "Un detalle trivial desencadena la revelación.",
+          "en": "A trivial detail triggers the revelation.",
+          "es": "Un detalle trivial desencadena la revelación."
         },
         {
           "target": "A stranger's laugh in the street, and he understood everything.",
-          "native": "La risa de un desconocido en la calle, y entendió todo."
+          "native": "La risa de un desconocido en la calle, y entendió todo.",
+          "en": "A stranger's laugh in the street, and he understood everything.",
+          "es": "La risa de un desconocido en la calle, y entendió todo."
         }
       ]
     },
@@ -2289,15 +2883,21 @@
       "examples": [
         {
           "target": "Laertes acts as a foil to Hamlet.",
-          "native": "Laertes funciona como contraste de Hamlet."
+          "native": "Laertes funciona como contraste de Hamlet.",
+          "en": "Laertes acts as a foil to Hamlet.",
+          "es": "Laertes funciona como contraste de Hamlet."
         },
         {
           "target": "The foil highlights the hero's hesitation.",
-          "native": "El contraste resalta la vacilación del héroe."
+          "native": "El contraste resalta la vacilación del héroe.",
+          "en": "The foil highlights the hero's hesitation.",
+          "es": "El contraste resalta la vacilación del héroe."
         },
         {
           "target": "Watson asks what the reader is thinking, so Holmes can shine.",
-          "native": "Watson pregunta lo que piensa el lector, para que Holmes brille."
+          "native": "Watson pregunta lo que piensa el lector, para que Holmes brille.",
+          "en": "Watson asks what the reader is thinking, so Holmes can shine.",
+          "es": "Watson pregunta lo que piensa el lector, para que Holmes brille."
         }
       ]
     },
@@ -2312,15 +2912,21 @@
       "examples": [
         {
           "target": "The storm foreshadows the tragedy to come.",
-          "native": "La tormenta prefigura la tragedia que viene."
+          "native": "La tormenta prefigura la tragedia que viene.",
+          "en": "The storm foreshadows the tragedy to come.",
+          "es": "La tormenta prefigura la tragedia que viene."
         },
         {
           "target": "Chekhov's gun must go off before the end.",
-          "native": "El arma de Chéjov tiene que dispararse antes del final."
+          "native": "El arma de Chéjov tiene que dispararse antes del final.",
+          "en": "Chekhov's gun must go off before the end.",
+          "es": "El arma de Chéjov tiene que dispararse antes del final."
         },
         {
           "target": "She locked the door twice that night, as she never did again.",
-          "native": "Esa noche cerró la puerta dos veces, como no volvería a hacerlo."
+          "native": "Esa noche cerró la puerta dos veces, como no volvería a hacerlo.",
+          "en": "She locked the door twice that night, as she never did again.",
+          "es": "Esa noche cerró la puerta dos veces, como no volvería a hacerlo."
         }
       ]
     },
@@ -2335,15 +2941,21 @@
       "examples": [
         {
           "target": "This was intolerable. She would not stay another minute.",
-          "native": "Esto era intolerable. No se quedaría ni un minuto más."
+          "native": "Esto era intolerable. No se quedaría ni un minuto más.",
+          "en": "This was intolerable. She would not stay another minute.",
+          "es": "Esto era intolerable. No se quedaría ni un minuto más."
         },
         {
           "target": "Free indirect discourse blends narrator and character.",
-          "native": "El estilo indirecto libre mezcla narrador y personaje."
+          "native": "El estilo indirecto libre mezcla narrador y personaje.",
+          "en": "Free indirect discourse blends narrator and character.",
+          "es": "El estilo indirecto libre mezcla narrador y personaje."
         },
         {
           "target": "How dare they. She would not forgive this.",
-          "native": "Cómo se atrevían. No iba a perdonar esto. (el juicio es del personaje)"
+          "native": "Cómo se atrevían. No iba a perdonar esto. (el juicio es del personaje)",
+          "en": "How dare they. She would not forgive this.",
+          "es": "Cómo se atrevían. No iba a perdonar esto. (el juicio es del personaje)"
         }
       ]
     },
@@ -2358,15 +2970,21 @@
       "examples": [
         {
           "target": "The poem is rich in tactile imagery.",
-          "native": "El poema es rico en imaginería táctil."
+          "native": "El poema es rico en imaginería táctil.",
+          "en": "The poem is rich in tactile imagery.",
+          "es": "El poema es rico en imaginería táctil."
         },
         {
           "target": "Cold imagery dominates the opening chapter.",
-          "native": "La imaginería fría domina el capítulo inicial."
+          "native": "La imaginería fría domina el capítulo inicial.",
+          "en": "Cold imagery dominates the opening chapter.",
+          "es": "La imaginería fría domina el capítulo inicial."
         },
         {
           "target": "The room smelled of wet wool and cold ash.",
-          "native": "El cuarto olía a lana mojada y ceniza fría."
+          "native": "El cuarto olía a lana mojada y ceniza fría.",
+          "en": "The room smelled of wet wool and cold ash.",
+          "es": "El cuarto olía a lana mojada y ceniza fría."
         }
       ]
     },
@@ -2381,15 +2999,21 @@
       "examples": [
         {
           "target": "The novel is full of biblical intertextuality.",
-          "native": "La novela está llena de intertextualidad bíblica."
+          "native": "La novela está llena de intertextualidad bíblica.",
+          "en": "The novel is full of biblical intertextuality.",
+          "es": "La novela está llena de intertextualidad bíblica."
         },
         {
           "target": "Wide Sargasso Sea rewrites Jane Eyre.",
-          "native": "Ancho mar de los Sargazos reescribe Jane Eyre."
+          "native": "Ancho mar de los Sargazos reescribe Jane Eyre.",
+          "en": "Wide Sargasso Sea rewrites Jane Eyre.",
+          "es": "Ancho mar de los Sargazos reescribe Jane Eyre."
         },
         {
           "target": "Calling a character Cassandra warns you nobody will believe her.",
-          "native": "Llamar Casandra a un personaje ya avisa que nadie va a creerle."
+          "native": "Llamar Casandra a un personaje ya avisa que nadie va a creerle.",
+          "en": "Calling a character Cassandra warns you nobody will believe her.",
+          "es": "Llamar Casandra a un personaje ya avisa que nadie va a creerle."
         }
       ]
     },
@@ -2404,15 +3028,21 @@
       "examples": [
         {
           "target": "Water is a recurring motif in the novel.",
-          "native": "El agua es un motivo recurrente en la novela."
+          "native": "El agua es un motivo recurrente en la novela.",
+          "en": "Water is a recurring motif in the novel.",
+          "es": "El agua es un motivo recurrente en la novela."
         },
         {
           "target": "The motif gathers meaning with each appearance.",
-          "native": "El motivo acumula significado con cada aparición."
+          "native": "El motivo acumula significado con cada aparición.",
+          "en": "The motif gathers meaning with each appearance.",
+          "es": "El motivo acumula significado con cada aparición."
         },
         {
           "target": "Every time she lies, a mirror appears in the room.",
-          "native": "Cada vez que miente, aparece un espejo en el cuarto."
+          "native": "Cada vez que miente, aparece un espejo en el cuarto.",
+          "en": "Every time she lies, a mirror appears in the room.",
+          "es": "Cada vez que miente, aparece un espejo en el cuarto."
         }
       ]
     },
@@ -2427,15 +3057,21 @@
       "examples": [
         {
           "target": "The novel is told in the first person.",
-          "native": "La novela está narrada en primera persona."
+          "native": "La novela está narrada en primera persona.",
+          "en": "The novel is told in the first person.",
+          "es": "La novela está narrada en primera persona."
         },
         {
           "target": "An omniscient narrator knows every character's thoughts.",
-          "native": "Un narrador omnisciente conoce los pensamientos de todos los personajes."
+          "native": "Un narrador omnisciente conoce los pensamientos de todos los personajes.",
+          "en": "An omniscient narrator knows every character's thoughts.",
+          "es": "Un narrador omnisciente conoce los pensamientos de todos los personajes."
         },
         {
           "target": "In first person we only know what the narrator knows.",
-          "native": "En primera persona solo sabemos lo que sabe el narrador."
+          "native": "En primera persona solo sabemos lo que sabe el narrador.",
+          "en": "In first person we only know what the narrator knows.",
+          "es": "En primera persona solo sabemos lo que sabe el narrador."
         }
       ]
     },
@@ -2450,15 +3086,21 @@
       "examples": [
         {
           "target": "He fought like a lion.",
-          "native": "Peleó como un león."
+          "native": "Peleó como un león.",
+          "en": "He fought like a lion.",
+          "es": "Peleó como un león."
         },
         {
           "target": "He was a lion in battle.",
-          "native": "Era un león en la batalla."
+          "native": "Era un león en la batalla.",
+          "en": "He was a lion in battle.",
+          "es": "Era un león en la batalla."
         },
         {
           "target": "Her voice was a knife — no 'like', so it is a metaphor.",
-          "native": "Su voz era un cuchillo: sin «como», así que es metáfora."
+          "native": "Su voz era un cuchillo: sin «como», así que es metáfora.",
+          "en": "Her voice was a knife — no 'like', so it is a metaphor.",
+          "es": "Su voz era un cuchillo: sin «como», así que es metáfora."
         }
       ]
     },
@@ -2473,15 +3115,21 @@
       "examples": [
         {
           "target": "Joyce uses stream of consciousness in the final chapter.",
-          "native": "Joyce usa el flujo de conciencia en el capítulo final."
+          "native": "Joyce usa el flujo de conciencia en el capítulo final.",
+          "en": "Joyce uses stream of consciousness in the final chapter.",
+          "es": "Joyce usa el flujo de conciencia en el capítulo final."
         },
         {
           "target": "The prose imitates the movement of thought.",
-          "native": "La prosa imita el movimiento del pensamiento."
+          "native": "La prosa imita el movimiento del pensamiento.",
+          "en": "The prose imitates the movement of thought.",
+          "es": "La prosa imita el movimiento del pensamiento."
         },
         {
           "target": "yes and the sea the sea crimson sometimes like fire",
-          "native": "sí y el mar el mar carmesí a veces como fuego (Joyce, sin puntuación)"
+          "native": "sí y el mar el mar carmesí a veces como fuego (Joyce, sin puntuación)",
+          "en": "yes and the sea the sea crimson sometimes like fire",
+          "es": "sí y el mar el mar carmesí a veces como fuego (Joyce, sin puntuación)"
         }
       ]
     },
@@ -2496,15 +3144,21 @@
       "examples": [
         {
           "target": "His style is spare and unadorned.",
-          "native": "Su estilo es escueto y sin adornos."
+          "native": "Su estilo es escueto y sin adornos.",
+          "en": "His style is spare and unadorned.",
+          "es": "Su estilo es escueto y sin adornos."
         },
         {
           "target": "Long subordinate clauses slow the reader down.",
-          "native": "Las subordinadas largas frenan al lector."
+          "native": "Las subordinadas largas frenan al lector.",
+          "en": "Long subordinate clauses slow the reader down.",
+          "es": "Las subordinadas largas frenan al lector."
         },
         {
           "target": "He came. He sat. He waited. Three sentences, no subordination.",
-          "native": "Vino. Se sentó. Esperó. Tres oraciones, sin subordinar."
+          "native": "Vino. Se sentó. Esperó. Tres oraciones, sin subordinar.",
+          "en": "He came. He sat. He waited. Three sentences, no subordination.",
+          "es": "Vino. Se sentó. Esperó. Tres oraciones, sin subordinar."
         }
       ]
     },
@@ -2519,15 +3173,21 @@
       "examples": [
         {
           "target": "The argument about the heating is pure subtext.",
-          "native": "La discusión sobre la calefacción es puro subtexto."
+          "native": "La discusión sobre la calefacción es puro subtexto.",
+          "en": "The argument about the heating is pure subtext.",
+          "es": "La discusión sobre la calefacción es puro subtexto."
         },
         {
           "target": "What matters is what the characters do not say.",
-          "native": "Lo que importa es lo que los personajes no dicen."
+          "native": "Lo que importa es lo que los personajes no dicen.",
+          "en": "What matters is what the characters do not say.",
+          "es": "Lo que importa es lo que los personajes no dicen."
         },
         {
           "target": "— Is there more coffee? — You never ask about the coffee.",
-          "native": "— ¿Queda café? — Vos nunca preguntás por el café."
+          "native": "— ¿Queda café? — Vos nunca preguntás por el café.",
+          "en": "— Is there more coffee? — You never ask about the coffee.",
+          "es": "— ¿Queda café? — Vos nunca preguntás por el café."
         }
       ]
     },
@@ -2542,15 +3202,21 @@
       "examples": [
         {
           "target": "The tone shifts from playful to grim.",
-          "native": "El tono pasa de juguetón a sombrío."
+          "native": "El tono pasa de juguetón a sombrío.",
+          "en": "The tone shifts from playful to grim.",
+          "es": "El tono pasa de juguetón a sombrío."
         },
         {
           "target": "Word choice establishes the tone from the first line.",
-          "native": "La elección de palabras fija el tono desde la primera línea."
+          "native": "La elección de palabras fija el tono desde la primera línea.",
+          "en": "Word choice establishes the tone from the first line.",
+          "es": "La elección de palabras fija el tono desde la primera línea."
         },
         {
           "target": "'The operation was a complete success' — said at a funeral.",
-          "native": "«La operación fue un éxito total», dicho en un velorio."
+          "native": "«La operación fue un éxito total», dicho en un velorio.",
+          "en": "'The operation was a complete success' — said at a funeral.",
+          "es": "«La operación fue un éxito total», dicho en un velorio."
         }
       ]
     },
@@ -2565,15 +3231,21 @@
       "examples": [
         {
           "target": "The narrator turns out to be unreliable.",
-          "native": "El narrador resulta no ser confiable."
+          "native": "El narrador resulta no ser confiable.",
+          "en": "The narrator turns out to be unreliable.",
+          "es": "El narrador resulta no ser confiable."
         },
         {
           "target": "Small contradictions hint that he is hiding something.",
-          "native": "Pequeñas contradicciones sugieren que oculta algo."
+          "native": "Pequeñas contradicciones sugieren que oculta algo.",
+          "en": "Small contradictions hint that he is hiding something.",
+          "es": "Pequeñas contradicciones sugieren que oculta algo."
         },
         {
           "target": "He insists he is honest — which is why we start to doubt him.",
-          "native": "Insiste en que es honesto, y por eso empezamos a dudar de él."
+          "native": "Insiste en que es honesto, y por eso empezamos a dudar de él.",
+          "en": "He insists he is honest — which is why we start to doubt him.",
+          "es": "Insiste en que es honesto, y por eso empezamos a dudar de él."
         }
       ]
     },
@@ -2588,15 +3260,21 @@
       "examples": [
         {
           "target": "Her acerbic wit made her feared.",
-          "native": "Su ingenio ácido la hacía temible."
+          "native": "Su ingenio ácido la hacía temible.",
+          "en": "Her acerbic wit made her feared.",
+          "es": "Su ingenio ácido la hacía temible."
         },
         {
           "target": "A scathing review ended the play's run.",
-          "native": "Una crítica demoledora terminó con la obra."
+          "native": "Una crítica demoledora terminó con la obra.",
+          "en": "A scathing review ended the play's run.",
+          "es": "Una crítica demoledora terminó con la obra."
         },
         {
           "target": "He has all the charm of a parking fine.",
-          "native": "Tiene todo el encanto de una multa de estacionamiento."
+          "native": "Tiene todo el encanto de una multa de estacionamiento.",
+          "en": "He has all the charm of a parking fine.",
+          "es": "Tiene todo el encanto de una multa de estacionamiento."
         }
       ]
     },
@@ -2611,15 +3289,21 @@
       "examples": [
         {
           "target": "He lost his country, his family and his umbrella.",
-          "native": "Perdió su país, su familia y su paraguas."
+          "native": "Perdió su país, su familia y su paraguas.",
+          "en": "He lost his country, his family and his umbrella.",
+          "es": "Perdió su país, su familia y su paraguas."
         },
         {
           "target": "Unintentional bathos ruins the tragic scene.",
-          "native": "El bathos involuntario arruina la escena trágica."
+          "native": "El bathos involuntario arruina la escena trágica.",
+          "en": "Unintentional bathos ruins the tragic scene.",
+          "es": "El bathos involuntario arruina la escena trágica."
         },
         {
           "target": "She fought injustice, poverty, and the office printer.",
-          "native": "Peleó contra la injusticia, la pobreza y la impresora de la oficina."
+          "native": "Peleó contra la injusticia, la pobreza y la impresora de la oficina.",
+          "en": "She fought injustice, poverty, and the office printer.",
+          "es": "Peleó contra la injusticia, la pobreza y la impresora de la oficina."
         }
       ]
     },
@@ -2634,15 +3318,21 @@
       "examples": [
         {
           "target": "The novel uses black humour to survive the horror.",
-          "native": "La novela usa humor negro para sobrevivir al horror."
+          "native": "La novela usa humor negro para sobrevivir al horror.",
+          "en": "The novel uses black humour to survive the horror.",
+          "es": "La novela usa humor negro para sobrevivir al horror."
         },
         {
           "target": "Laughing at death is a defence mechanism.",
-          "native": "Reírse de la muerte es un mecanismo de defensa."
+          "native": "Reírse de la muerte es un mecanismo de defensa.",
+          "en": "Laughing at death is a defence mechanism.",
+          "es": "Reírse de la muerte es un mecanismo de defensa."
         },
         {
           "target": "The doctor says I have six months. I told him I'd take twelve.",
-          "native": "El médico me da seis meses. Le dije que me llevaba doce."
+          "native": "El médico me da seis meses. Le dije que me llevaba doce.",
+          "en": "The doctor says I have six months. I told him I'd take twelve.",
+          "es": "El médico me da seis meses. Le dije que me llevaba doce."
         }
       ]
     },
@@ -2657,15 +3347,21 @@
       "examples": [
         {
           "target": "The pause before the punchline is everything.",
-          "native": "La pausa antes del remate lo es todo."
+          "native": "La pausa antes del remate lo es todo.",
+          "en": "The pause before the punchline is everything.",
+          "es": "La pausa antes del remate lo es todo."
         },
         {
           "target": "The rule of three: two to set up, one to break.",
-          "native": "La regla de tres: dos para armar, uno para romper."
+          "native": "La regla de tres: dos para armar, uno para romper.",
+          "en": "The rule of three: two to set up, one to break.",
+          "es": "La regla de tres: dos para armar, uno para romper."
         },
         {
           "target": "I told my wife she should embrace her mistakes. She hugged me.",
-          "native": "Le dije a mi mujer que abrazara sus errores. Me abrazó a mí."
+          "native": "Le dije a mi mujer que abrazara sus errores. Me abrazó a mí.",
+          "en": "I told my wife she should embrace her mistakes. She hugged me.",
+          "es": "Le dije a mi mujer que abrazara sus errores. Me abrazó a mí."
         }
       ]
     },
@@ -2680,15 +3376,21 @@
       "examples": [
         {
           "target": "He delivered the line completely deadpan.",
-          "native": "Dijo la línea con total impasibilidad."
+          "native": "Dijo la línea con total impasibilidad.",
+          "en": "He delivered the line completely deadpan.",
+          "es": "Dijo la línea con total impasibilidad."
         },
         {
           "target": "Dry humour relies on a straight face.",
-          "native": "El humor seco depende de la cara de póker."
+          "native": "El humor seco depende de la cara de póker.",
+          "en": "Dry humour relies on a straight face.",
+          "es": "El humor seco depende de la cara de póker."
         },
         {
           "target": "I have a stepladder. I never knew my real ladder.",
-          "native": "Tengo una escalera de mano. Nunca conocí a mi escalera real."
+          "native": "Tengo una escalera de mano. Nunca conocí a mi escalera real.",
+          "en": "I have a stepladder. I never knew my real ladder.",
+          "es": "Tengo una escalera de mano. Nunca conocí a mi escalera real."
         }
       ]
     },
@@ -2703,15 +3405,21 @@
       "examples": [
         {
           "target": "Gallows humour keeps them sane.",
-          "native": "El humor de patíbulo los mantiene cuerdos."
+          "native": "El humor de patíbulo los mantiene cuerdos.",
+          "en": "Gallows humour keeps them sane.",
+          "es": "El humor de patíbulo los mantiene cuerdos."
         },
         {
           "target": "Only the condemned may joke about the gallows.",
-          "native": "Solo el condenado puede bromear sobre la horca."
+          "native": "Solo el condenado puede bromear sobre la horca.",
+          "en": "Only the condemned may joke about the gallows.",
+          "es": "Solo el condenado puede bromear sobre la horca."
         },
         {
           "target": "At least the shelling stopped for lunch, said the soldier.",
-          "native": "Al menos los bombardeos pararon para el almuerzo, dijo el soldado."
+          "native": "Al menos los bombardeos pararon para el almuerzo, dijo el soldado.",
+          "en": "At least the shelling stopped for lunch, said the soldier.",
+          "es": "Al menos los bombardeos pararon para el almuerzo, dijo el soldado."
         }
       ]
     },
@@ -2726,15 +3434,21 @@
       "examples": [
         {
           "target": "The punchline forces a reinterpretation.",
-          "native": "El remate obliga a reinterpretar."
+          "native": "El remate obliga a reinterpretar.",
+          "en": "The punchline forces a reinterpretation.",
+          "es": "El remate obliga a reinterpretar."
         },
         {
           "target": "Humour arises from incongruity.",
-          "native": "El humor surge de la incongruencia."
+          "native": "El humor surge de la incongruencia.",
+          "en": "Humour arises from incongruity.",
+          "es": "El humor surge de la incongruencia."
         },
         {
           "target": "My dog used to chase people on a bike. So I took the bike away.",
-          "native": "Mi perro perseguía gente en bicicleta. Así que le saqué la bicicleta."
+          "native": "Mi perro perseguía gente en bicicleta. Así que le saqué la bicicleta.",
+          "en": "My dog used to chase people on a bike. So I took the bike away.",
+          "es": "Mi perro perseguía gente en bicicleta. Así que le saqué la bicicleta."
         }
       ]
     },
@@ -2749,15 +3463,21 @@
       "examples": [
         {
           "target": "The essay is written with ironic detachment.",
-          "native": "El ensayo está escrito con distancia irónica."
+          "native": "El ensayo está escrito con distancia irónica.",
+          "en": "The essay is written with ironic detachment.",
+          "es": "El ensayo está escrito con distancia irónica."
         },
         {
           "target": "Irony protects the writer from sincerity.",
-          "native": "La ironía protege al escritor de la sinceridad."
+          "native": "La ironía protege al escritor de la sinceridad.",
+          "en": "Irony protects the writer from sincerity.",
+          "es": "La ironía protege al escritor de la sinceridad."
         },
         {
           "target": "I guess this is the part where I'm supposed to care.",
-          "native": "Supongo que esta es la parte donde debería importarme."
+          "native": "Supongo que esta es la parte donde debería importarme.",
+          "en": "I guess this is the part where I'm supposed to care.",
+          "es": "Supongo que esta es la parte donde debería importarme."
         }
       ]
     },
@@ -2772,15 +3492,21 @@
       "examples": [
         {
           "target": "Lovely weather, isn't it?",
-          "native": "Qué lindo clima, ¿no? (bajo la lluvia)"
+          "native": "Qué lindo clima, ¿no? (bajo la lluvia)",
+          "en": "Lovely weather, isn't it?",
+          "es": "Qué lindo clima, ¿no? (bajo la lluvia)"
         },
         {
           "target": "The fire station burned down — situational irony.",
-          "native": "Se incendió el cuartel de bomberos: ironía situacional."
+          "native": "Se incendió el cuartel de bomberos: ironía situacional.",
+          "en": "The fire station burned down — situational irony.",
+          "es": "Se incendió el cuartel de bomberos: ironía situacional."
         },
         {
           "target": "The fire station burned down while the crew was at a fire drill.",
-          "native": "Se incendió el cuartel mientras los bomberos hacían un simulacro."
+          "native": "Se incendió el cuartel mientras los bomberos hacían un simulacro.",
+          "en": "The fire station burned down while the crew was at a fire drill.",
+          "es": "Se incendió el cuartel mientras los bomberos hacían un simulacro."
         }
       ]
     },
@@ -2795,15 +3521,21 @@
       "examples": [
         {
           "target": "It's a parody of Victorian novels.",
-          "native": "Es una parodia de las novelas victorianas."
+          "native": "Es una parodia de las novelas victorianas.",
+          "en": "It's a parody of Victorian novels.",
+          "es": "Es una parodia de las novelas victorianas."
         },
         {
           "target": "Pastiche imitates without mocking.",
-          "native": "El pastiche imita sin burlarse."
+          "native": "El pastiche imita sin burlarse.",
+          "en": "Pastiche imitates without mocking.",
+          "es": "El pastiche imita sin burlarse."
         },
         {
           "target": "It was a dark and stormy night, and also a Tuesday.",
-          "native": "Era una noche oscura y tormentosa, y además un martes."
+          "native": "Era una noche oscura y tormentosa, y además un martes.",
+          "en": "It was a dark and stormy night, and also a Tuesday.",
+          "es": "Era una noche oscura y tormentosa, y además un martes."
         }
       ]
     },
@@ -2818,15 +3550,21 @@
       "examples": [
         {
           "target": "Nice job. Really. Outstanding.",
-          "native": "Buen trabajo. En serio. Excepcional."
+          "native": "Buen trabajo. En serio. Excepcional.",
+          "en": "Nice job. Really. Outstanding.",
+          "es": "Buen trabajo. En serio. Excepcional."
         },
         {
           "target": "Sarcasm is irony with a target.",
-          "native": "El sarcasmo es ironía con un blanco."
+          "native": "El sarcasmo es ironía con un blanco.",
+          "en": "Sarcasm is irony with a target.",
+          "es": "El sarcasmo es ironía con un blanco."
         },
         {
           "target": "Great plan. Really. Whose idea was it? Oh — yours.",
-          "native": "Gran plan. En serio. ¿De quién fue la idea? Ah, tuya."
+          "native": "Gran plan. En serio. ¿De quién fue la idea? Ah, tuya.",
+          "en": "Great plan. Really. Whose idea was it? Oh — yours.",
+          "es": "Gran plan. En serio. ¿De quién fue la idea? Ah, tuya."
         }
       ]
     },
@@ -2841,15 +3579,21 @@
       "examples": [
         {
           "target": "A Modest Proposal is savage satire.",
-          "native": "Una modesta proposición es una sátira feroz."
+          "native": "Una modesta proposición es una sátira feroz.",
+          "en": "A Modest Proposal is savage satire.",
+          "es": "Una modesta proposición es una sátira feroz."
         },
         {
           "target": "The show satirises political corruption.",
-          "native": "El programa satiriza la corrupción política."
+          "native": "El programa satiriza la corrupción política.",
+          "en": "The show satirises political corruption.",
+          "es": "El programa satiriza la corrupción política."
         },
         {
           "target": "The minister announces a hunger plan from a banquet table.",
-          "native": "El ministro anuncia un plan contra el hambre desde un banquete."
+          "native": "El ministro anuncia un plan contra el hambre desde un banquete.",
+          "en": "The minister announces a hunger plan from a banquet table.",
+          "es": "El ministro anuncia un plan contra el hambre desde un banquete."
         }
       ]
     },
@@ -2864,15 +3608,21 @@
       "examples": [
         {
           "target": "The film parodies action movies.",
-          "native": "La película parodia el cine de acción."
+          "native": "La película parodia el cine de acción.",
+          "en": "The film parodies action movies.",
+          "es": "La película parodia el cine de acción."
         },
         {
           "target": "The sketch satirises the housing crisis.",
-          "native": "El sketch satiriza la crisis de vivienda."
+          "native": "El sketch satiriza la crisis de vivienda.",
+          "en": "The sketch satirises the housing crisis.",
+          "es": "El sketch satiriza la crisis de vivienda."
         },
         {
           "target": "Parody copies the voice; satire chooses the target.",
-          "native": "La parodia copia la voz; la sátira elige el blanco."
+          "native": "La parodia copia la voz; la sátira elige el blanco.",
+          "en": "Parody copies the voice; satire chooses the target.",
+          "es": "La parodia copia la voz; la sátira elige el blanco."
         }
       ]
     },
@@ -2887,15 +3637,21 @@
       "examples": [
         {
           "target": "I only understood half of it myself.",
-          "native": "Yo mismo entendí la mitad."
+          "native": "Yo mismo entendí la mitad.",
+          "en": "I only understood half of it myself.",
+          "es": "Yo mismo entendí la mitad."
         },
         {
           "target": "Self-deprecation is almost compulsory in British small talk.",
-          "native": "La autocrítica es casi obligatoria en la charla casual británica."
+          "native": "La autocrítica es casi obligatoria en la charla casual británica.",
+          "en": "Self-deprecation is almost compulsory in British small talk.",
+          "es": "La autocrítica es casi obligatoria en la charla casual británica."
         },
         {
           "target": "I'm not saying I'm slow, but my shadow overtakes me.",
-          "native": "No digo que sea lento, pero mi sombra me pasa."
+          "native": "No digo que sea lento, pero mi sombra me pasa.",
+          "en": "I'm not saying I'm slow, but my shadow overtakes me.",
+          "es": "No digo que sea lento, pero mi sombra me pasa."
         }
       ]
     },
@@ -2910,15 +3666,21 @@
       "examples": [
         {
           "target": "The swimming instructor drowned.",
-          "native": "El instructor de natación se ahogó."
+          "native": "El instructor de natación se ahogó.",
+          "en": "The swimming instructor drowned.",
+          "es": "El instructor de natación se ahogó."
         },
         {
           "target": "The thief's house was robbed.",
-          "native": "Al ladrón le robaron la casa."
+          "native": "Al ladrón le robaron la casa.",
+          "en": "The thief's house was robbed.",
+          "es": "Al ladrón le robaron la casa."
         },
         {
           "target": "The safety inspector slipped on the wet floor sign.",
-          "native": "El inspector de seguridad se resbaló con el cartel de piso mojado."
+          "native": "El inspector de seguridad se resbaló con el cartel de piso mojado.",
+          "en": "The safety inspector slipped on the wet floor sign.",
+          "es": "El inspector de seguridad se resbaló con el cartel de piso mojado."
         }
       ]
     },
@@ -2933,15 +3695,21 @@
       "examples": [
         {
           "target": "The article is written tongue-in-cheek.",
-          "native": "El artículo está escrito con sorna liviana."
+          "native": "El artículo está escrito con sorna liviana.",
+          "en": "The article is written tongue-in-cheek.",
+          "es": "El artículo está escrito con sorna liviana."
         },
         {
           "target": "I'm sure the meeting will be riveting.",
-          "native": "Seguro que la reunión va a ser apasionante."
+          "native": "Seguro que la reunión va a ser apasionante.",
+          "en": "I'm sure the meeting will be riveting.",
+          "es": "Seguro que la reunión va a ser apasionante."
         },
         {
           "target": "Our office coffee is award-winning, if the award is for temperature.",
-          "native": "Nuestro café de oficina es premiado, si el premio es a la temperatura."
+          "native": "Nuestro café de oficina es premiado, si el premio es a la temperatura.",
+          "en": "Our office coffee is award-winning, if the award is for temperature.",
+          "es": "Nuestro café de oficina es premiado, si el premio es a la temperatura."
         }
       ]
     },
@@ -2956,15 +3724,21 @@
       "examples": [
         {
           "target": "What a brilliant idea.",
-          "native": "Qué idea brillante. (no lo es)"
+          "native": "Qué idea brillante. (no lo es)",
+          "en": "What a brilliant idea.",
+          "es": "Qué idea brillante. (no lo es)"
         },
         {
           "target": "You're not exactly early, are you?",
-          "native": "No es que llegaste temprano, ¿no?"
+          "native": "No es que llegaste temprano, ¿no?",
+          "en": "You're not exactly early, are you?",
+          "es": "No es que llegaste temprano, ¿no?"
         },
         {
           "target": "Don't rush. We've only been waiting an hour.",
-          "native": "No te apures. Apenas llevamos una hora esperando."
+          "native": "No te apures. Apenas llevamos una hora esperando.",
+          "en": "Don't rush. We've only been waiting an hour.",
+          "es": "No te apures. Apenas llevamos una hora esperando."
         }
       ]
     },
@@ -2979,15 +3753,21 @@
       "examples": [
         {
           "target": "Time flies like an arrow; fruit flies like a banana.",
-          "native": "Juego con el doble sentido de «flies» y «like»."
+          "native": "Juego con el doble sentido de «flies» y «like».",
+          "en": "Time flies like an arrow; fruit flies like a banana.",
+          "es": "Juego con el doble sentido de «flies» y «like»."
         },
         {
           "target": "A pun is the lowest form of wit — and the foundation of literature.",
-          "native": "El juego de palabras es la forma más baja del ingenio, y la base de la literatura."
+          "native": "El juego de palabras es la forma más baja del ingenio, y la base de la literatura.",
+          "en": "A pun is the lowest form of wit — and the foundation of literature.",
+          "es": "El juego de palabras es la forma más baja del ingenio, y la base de la literatura."
         },
         {
           "target": "I used to be a banker, but I lost interest.",
-          "native": "Era banquero, pero perdí el interés. (interest = interés y rédito)"
+          "native": "Era banquero, pero perdí el interés. (interest = interés y rédito)",
+          "en": "I used to be a banker, but I lost interest.",
+          "es": "Era banquero, pero perdí el interés. (interest = interés y rédito)"
         }
       ]
     },
@@ -3002,15 +3782,21 @@
       "examples": [
         {
           "target": "The abstract must stand alone.",
-          "native": "El resumen tiene que sostenerse solo."
+          "native": "El resumen tiene que sostenerse solo.",
+          "en": "The abstract must stand alone.",
+          "es": "El resumen tiene que sostenerse solo."
         },
         {
           "target": "Write the abstract last, even though it comes first.",
-          "native": "Escribí el abstract último, aunque vaya primero."
+          "native": "Escribí el abstract último, aunque vaya primero.",
+          "en": "Write the abstract last, even though it comes first.",
+          "es": "Escribí el abstract último, aunque vaya primero."
         },
         {
           "target": "Objective, methods, results, conclusion — in 200 words.",
-          "native": "Objetivo, métodos, resultados y conclusión, en doscientas palabras."
+          "native": "Objetivo, métodos, resultados y conclusión, en doscientas palabras.",
+          "en": "Objective, methods, results, conclusion — in 200 words.",
+          "es": "Objetivo, métodos, resultados y conclusión, en doscientas palabras."
         }
       ]
     },
@@ -3025,15 +3811,21 @@
       "examples": [
         {
           "target": "The findings indicate a possible association.",
-          "native": "Los resultados indican una asociación posible."
+          "native": "Los resultados indican una asociación posible.",
+          "en": "The findings indicate a possible association.",
+          "es": "Los resultados indican una asociación posible."
         },
         {
           "target": "Further research is needed to confirm causality.",
-          "native": "Hace falta más investigación para confirmar la causalidad."
+          "native": "Hace falta más investigación para confirmar la causalidad.",
+          "en": "Further research is needed to confirm causality.",
+          "es": "Hace falta más investigación para confirmar la causalidad."
         },
         {
           "target": "Smoking is associated with, not causes, in an observational study.",
-          "native": "En un estudio observacional se dice «se asocia con», no «causa»."
+          "native": "En un estudio observacional se dice «se asocia con», no «causa».",
+          "en": "Smoking is associated with, not causes, in an observational study.",
+          "es": "En un estudio observacional se dice «se asocia con», no «causa»."
         }
       ]
     },
@@ -3048,15 +3840,21 @@
       "examples": [
         {
           "target": "Ignore the boilerplate at the bottom of the email.",
-          "native": "Ignorá el texto estándar al pie del correo."
+          "native": "Ignorá el texto estándar al pie del correo.",
+          "en": "Ignore the boilerplate at the bottom of the email.",
+          "es": "Ignorá el texto estándar al pie del correo."
         },
         {
           "target": "Boilerplate clauses are still enforceable.",
-          "native": "Las cláusulas estándar siguen siendo exigibles."
+          "native": "Las cláusulas estándar siguen siendo exigibles.",
+          "en": "Boilerplate clauses are still enforceable.",
+          "es": "Las cláusulas estándar siguen siendo exigibles."
         },
         {
           "target": "This email and any attachments are confidential.",
-          "native": "Este correo y sus adjuntos son confidenciales. (va en todos)"
+          "native": "Este correo y sus adjuntos son confidenciales. (va en todos)",
+          "en": "This email and any attachments are confidential.",
+          "es": "Este correo y sus adjuntos son confidenciales. (va en todos)"
         }
       ]
     },
@@ -3071,15 +3869,21 @@
       "examples": [
         {
           "target": "The thing you use to open bottles.",
-          "native": "La cosa que se usa para abrir botellas."
+          "native": "La cosa que se usa para abrir botellas.",
+          "en": "The thing you use to open bottles.",
+          "es": "La cosa que se usa para abrir botellas."
         },
         {
           "target": "'At this point in time' simply means 'now'.",
-          "native": "«En este momento del tiempo» quiere decir «ahora»."
+          "native": "«En este momento del tiempo» quiere decir «ahora».",
+          "en": "'At this point in time' simply means 'now'.",
+          "es": "«En este momento del tiempo» quiere decir «ahora»."
         },
         {
           "target": "The place where you go when the plane lands.",
-          "native": "El lugar al que vas cuando el avión aterriza. (por «aeropuerto»)"
+          "native": "El lugar al que vas cuando el avión aterriza. (por «aeropuerto»)",
+          "en": "The place where you go when the plane lands.",
+          "es": "El lugar al que vas cuando el avión aterriza. (por «aeropuerto»)"
         }
       ]
     },
@@ -3094,15 +3898,21 @@
       "examples": [
         {
           "target": "We have some concerns about the timeline.",
-          "native": "Tenemos algunas inquietudes con los plazos."
+          "native": "Tenemos algunas inquietudes con los plazos.",
+          "en": "We have some concerns about the timeline.",
+          "es": "Tenemos algunas inquietudes con los plazos."
         },
         {
           "target": "It was a frank exchange of views.",
-          "native": "Fue un intercambio franco de opiniones. (discutieron)"
+          "native": "Fue un intercambio franco de opiniones. (discutieron)",
+          "en": "It was a frank exchange of views.",
+          "es": "Fue un intercambio franco de opiniones. (discutieron)"
         },
         {
           "target": "We would welcome further clarification on this point.",
-          "native": "Agradeceríamos una aclaración sobre este punto. (no entendimos nada)"
+          "native": "Agradeceríamos una aclaración sobre este punto. (no entendimos nada)",
+          "en": "We would welcome further clarification on this point.",
+          "es": "Agradeceríamos una aclaración sobre este punto. (no entendimos nada)"
         }
       ]
     },
@@ -3117,15 +3927,21 @@
       "examples": [
         {
           "target": "The executive summary states the recommendation first.",
-          "native": "El resumen ejecutivo dice la recomendación primero."
+          "native": "El resumen ejecutivo dice la recomendación primero.",
+          "en": "The executive summary states the recommendation first.",
+          "es": "El resumen ejecutivo dice la recomendación primero."
         },
         {
           "target": "It should stand alone without the report.",
-          "native": "Tiene que sostenerse solo, sin el informe."
+          "native": "Tiene que sostenerse solo, sin el informe.",
+          "en": "It should stand alone without the report.",
+          "es": "Tiene que sostenerse solo, sin el informe."
         },
         {
           "target": "We recommend closing the branch. The reasons follow.",
-          "native": "Recomendamos cerrar la sucursal. Los motivos siguen abajo."
+          "native": "Recomendamos cerrar la sucursal. Los motivos siguen abajo.",
+          "en": "We recommend closing the branch. The reasons follow.",
+          "es": "Recomendamos cerrar la sucursal. Los motivos siguen abajo."
         }
       ]
     },
@@ -3140,15 +3956,21 @@
       "examples": [
         {
           "target": "Press releases follow the inverted pyramid.",
-          "native": "Las gacetillas siguen la pirámide invertida."
+          "native": "Las gacetillas siguen la pirámide invertida.",
+          "en": "Press releases follow the inverted pyramid.",
+          "es": "Las gacetillas siguen la pirámide invertida."
         },
         {
           "target": "Breaking a convention only works if you know it.",
-          "native": "Romper una convención solo funciona si la conocés."
+          "native": "Romper una convención solo funciona si la conocés.",
+          "en": "Breaking a convention only works if you know it.",
+          "es": "Romper una convención solo funciona si la conocés."
         },
         {
           "target": "A recipe lists ingredients first. Nobody wrote that rule down.",
-          "native": "Una receta lista los ingredientes primero. Esa regla no la escribió nadie."
+          "native": "Una receta lista los ingredientes primero. Esa regla no la escribió nadie.",
+          "en": "A recipe lists ingredients first. Nobody wrote that rule down.",
+          "es": "Una receta lista los ingredientes primero. Esa regla no la escribió nadie."
         }
       ]
     },
@@ -3163,15 +3985,21 @@
       "examples": [
         {
           "target": "The data suggest a possible correlation.",
-          "native": "Los datos sugieren una correlación posible."
+          "native": "Los datos sugieren una correlación posible.",
+          "en": "The data suggest a possible correlation.",
+          "es": "Los datos sugieren una correlación posible."
         },
         {
           "target": "This tends to occur in most cases.",
-          "native": "Esto suele ocurrir en la mayoría de los casos."
+          "native": "Esto suele ocurrir en la mayoría de los casos.",
+          "en": "This tends to occur in most cases.",
+          "es": "Esto suele ocurrir en la mayoría de los casos."
         },
         {
           "target": "The results may indicate a trend, though the sample was small.",
-          "native": "Los resultados podrían indicar una tendencia, aunque la muestra era chica."
+          "native": "Los resultados podrían indicar una tendencia, aunque la muestra era chica.",
+          "en": "The results may indicate a trend, though the sample was small.",
+          "es": "Los resultados podrían indicar una tendencia, aunque la muestra era chica."
         }
       ]
     },
@@ -3186,15 +4014,21 @@
       "examples": [
         {
           "target": "Avoid jargon when writing for a general audience.",
-          "native": "Evitá la jerga al escribir para público general."
+          "native": "Evitá la jerga al escribir para público general.",
+          "en": "Avoid jargon when writing for a general audience.",
+          "es": "Evitá la jerga al escribir para público general."
         },
         {
           "target": "'Synergy' is a buzzword, not a technical term.",
-          "native": "«Sinergia» es una palabra de moda, no un término técnico."
+          "native": "«Sinergia» es una palabra de moda, no un término técnico.",
+          "en": "'Synergy' is a buzzword, not a technical term.",
+          "es": "«Sinergia» es una palabra de moda, no un término técnico."
         },
         {
           "target": "Let's circle back and socialise the deck before we go live.",
-          "native": "Retomemos y socialicemos la presentación antes de salir. (puro relleno)"
+          "native": "Retomemos y socialicemos la presentación antes de salir. (puro relleno)",
+          "en": "Let's circle back and socialise the deck before we go live.",
+          "es": "Retomemos y socialicemos la presentación antes de salir. (puro relleno)"
         }
       ]
     },
@@ -3209,15 +4043,21 @@
       "examples": [
         {
           "target": "The party of the first part hereinafter referred to as the Seller.",
-          "native": "La parte de la primera parte, en adelante denominada el Vendedor."
+          "native": "La parte de la primera parte, en adelante denominada el Vendedor.",
+          "en": "The party of the first part hereinafter referred to as the Seller.",
+          "es": "La parte de la primera parte, en adelante denominada el Vendedor."
         },
         {
           "target": "Null and void.",
-          "native": "Nulo y sin efecto."
+          "native": "Nulo y sin efecto.",
+          "en": "Null and void.",
+          "es": "Nulo y sin efecto."
         },
         {
           "target": "The undersigned hereby agrees to the terms set forth herein.",
-          "native": "El abajo firmante acuerda por la presente los términos aquí establecidos."
+          "native": "El abajo firmante acuerda por la presente los términos aquí establecidos.",
+          "en": "The undersigned hereby agrees to the terms set forth herein.",
+          "es": "El abajo firmante acuerda por la presente los términos aquí establecidos."
         }
       ]
     },
@@ -3232,15 +4072,21 @@
       "examples": [
         {
           "target": "The reduction in staff was announced.",
-          "native": "Se anunció la reducción de personal."
+          "native": "Se anunció la reducción de personal.",
+          "en": "The reduction in staff was announced.",
+          "es": "Se anunció la reducción de personal."
         },
         {
           "target": "Who reduced the staff? The nominalisation hides it.",
-          "native": "¿Quién redujo el personal? La nominalización lo esconde."
+          "native": "¿Quién redujo el personal? La nominalización lo esconde.",
+          "en": "Who reduced the staff? The nominalisation hides it.",
+          "es": "¿Quién redujo el personal? La nominalización lo esconde."
         },
         {
           "target": "The cancellation of the flight, instead of: we cancelled the flight.",
-          "native": "La cancelación del vuelo, en vez de: cancelamos el vuelo."
+          "native": "La cancelación del vuelo, en vez de: cancelamos el vuelo.",
+          "en": "The cancellation of the flight, instead of: we cancelled the flight.",
+          "es": "La cancelación del vuelo, en vez de: cancelamos el vuelo."
         }
       ]
     },
@@ -3255,15 +4101,21 @@
       "examples": [
         {
           "target": "Mistakes were made.",
-          "native": "Se cometieron errores."
+          "native": "Se cometieron errores.",
+          "en": "Mistakes were made.",
+          "es": "Se cometieron errores."
         },
         {
           "target": "The samples were heated to 200 degrees.",
-          "native": "Las muestras se calentaron a 200 grados."
+          "native": "Las muestras se calentaron a 200 grados.",
+          "en": "The samples were heated to 200 degrees.",
+          "es": "Las muestras se calentaron a 200 grados."
         },
         {
           "target": "The decision was reached, and nobody says by whom.",
-          "native": "Se llegó a una decisión, y nadie dice quién."
+          "native": "Se llegó a una decisión, y nadie dice quién.",
+          "en": "The decision was reached, and nobody says by whom.",
+          "es": "Se llegó a una decisión, y nadie dice quién."
         }
       ]
     },
@@ -3278,15 +4130,21 @@
       "examples": [
         {
           "target": "The committee carried out the procedure.",
-          "native": "El comité llevó a cabo el procedimiento."
+          "native": "El comité llevó a cabo el procedimiento.",
+          "en": "The committee carried out the procedure.",
+          "es": "El comité llevó a cabo el procedimiento."
         },
         {
           "target": "Plain language is a discipline, not a simplification.",
-          "native": "El lenguaje claro es una disciplina, no una simplificación."
+          "native": "El lenguaje claro es una disciplina, no una simplificación.",
+          "en": "Plain language is a discipline, not a simplification.",
+          "es": "El lenguaje claro es una disciplina, no una simplificación."
         },
         {
           "target": "You must apply before 1 March, beats prior to the aforementioned date.",
-          "native": "«Presentá la solicitud antes del 1 de marzo» le gana a «con anterioridad a la fecha precitada»."
+          "native": "«Presentá la solicitud antes del 1 de marzo» le gana a «con anterioridad a la fecha precitada».",
+          "en": "You must apply before 1 March, beats prior to the aforementioned date.",
+          "es": "«Presentá la solicitud antes del 1 de marzo» le gana a «con anterioridad a la fecha precitada»."
         }
       ]
     },
@@ -3301,15 +4159,21 @@
       "examples": [
         {
           "target": "The sudden shift to slang undermines the report.",
-          "native": "El cambio repentino a jerga debilita el informe."
+          "native": "El cambio repentino a jerga debilita el informe.",
+          "en": "The sudden shift to slang undermines the report.",
+          "es": "El cambio repentino a jerga debilita el informe."
         },
         {
           "target": "Moving from 'Hi' to 'Dear Ms López' signals distance.",
-          "native": "Pasar de «Hola» a «Estimada Sra. López» marca distancia."
+          "native": "Pasar de «Hola» a «Estimada Sra. López» marca distancia.",
+          "en": "Moving from 'Hi' to 'Dear Ms López' signals distance.",
+          "es": "Pasar de «Hola» a «Estimada Sra. López» marca distancia."
         },
         {
           "target": "We regret to inform you. Anyway, no biggie.",
-          "native": "Lamentamos informarle. En fin, no pasa nada. (el cambio delata)"
+          "native": "Lamentamos informarle. En fin, no pasa nada. (el cambio delata)",
+          "en": "We regret to inform you. Anyway, no biggie.",
+          "es": "Lamentamos informarle. En fin, no pasa nada. (el cambio delata)"
         }
       ]
     },
@@ -3324,15 +4188,21 @@
       "examples": [
         {
           "target": "Make a decision, not do a decision.",
-          "native": "Tomar una decisión."
+          "native": "Tomar una decisión.",
+          "en": "Make a decision, not do a decision.",
+          "es": "Tomar una decisión."
         },
         {
           "target": "Heavy rain, strong coffee, deeply concerned.",
-          "native": "Lluvia fuerte, café cargado, profundamente preocupado."
+          "native": "Lluvia fuerte, café cargado, profundamente preocupado.",
+          "en": "Heavy rain, strong coffee, deeply concerned.",
+          "es": "Lluvia fuerte, café cargado, profundamente preocupado."
         },
         {
           "target": "You catch a cold and you take a shower, never the other way round.",
-          "native": "Uno «agarra» un resfrío y «toma» una ducha, nunca al revés."
+          "native": "Uno «agarra» un resfrío y «toma» una ducha, nunca al revés.",
+          "en": "You catch a cold and you take a shower, never the other way round.",
+          "es": "Uno «agarra» un resfrío y «toma» una ducha, nunca al revés."
         }
       ]
     },
@@ -3347,15 +4217,21 @@
       "examples": [
         {
           "target": "Slim, thin, skinny: same size, different judgement.",
-          "native": "Esbelto, delgado, flaco: mismo tamaño, distinto juicio."
+          "native": "Esbelto, delgado, flaco: mismo tamaño, distinto juicio.",
+          "en": "Slim, thin, skinny: same size, different judgement.",
+          "es": "Esbelto, delgado, flaco: mismo tamaño, distinto juicio."
         },
         {
           "target": "He's determined. She's stubborn.",
-          "native": "Él es decidido. Ella es terca."
+          "native": "Él es decidido. Ella es terca.",
+          "en": "He's determined. She's stubborn.",
+          "es": "Él es decidido. Ella es terca."
         },
         {
           "target": "She's thrifty or she's stingy, depending on whether you like her.",
-          "native": "Es ahorrativa o es tacaña, según si te cae bien."
+          "native": "Es ahorrativa o es tacaña, según si te cae bien.",
+          "en": "She's thrifty or she's stingy, depending on whether you like her.",
+          "es": "Es ahorrativa o es tacaña, según si te cae bien."
         }
       ]
     },
@@ -3370,15 +4246,21 @@
       "examples": [
         {
           "target": "The White House announced new measures.",
-          "native": "La Casa Blanca anunció nuevas medidas."
+          "native": "La Casa Blanca anunció nuevas medidas.",
+          "en": "The White House announced new measures.",
+          "es": "La Casa Blanca anunció nuevas medidas."
         },
         {
           "target": "The wind whispered through the trees.",
-          "native": "El viento susurraba entre los árboles."
+          "native": "El viento susurraba entre los árboles.",
+          "en": "The wind whispered through the trees.",
+          "es": "El viento susurraba entre los árboles."
         },
         {
           "target": "The city never sleeps — cities do not sleep at all.",
-          "native": "La ciudad nunca duerme, y las ciudades no duermen nunca."
+          "native": "La ciudad nunca duerme, y las ciudades no duermen nunca.",
+          "en": "The city never sleeps — cities do not sleep at all.",
+          "es": "La ciudad nunca duerme, y las ciudades no duermen nunca."
         }
       ]
     },
@@ -3393,15 +4275,21 @@
       "examples": [
         {
           "target": "If the literal reading makes no sense, it's an idiom.",
-          "native": "Si la lectura literal no tiene sentido, es un modismo."
+          "native": "Si la lectura literal no tiene sentido, es un modismo.",
+          "en": "If the literal reading makes no sense, it's an idiom.",
+          "es": "Si la lectura literal no tiene sentido, es un modismo."
         },
         {
           "target": "Context narrows the meaning faster than a dictionary.",
-          "native": "El contexto acota el significado más rápido que un diccionario."
+          "native": "El contexto acota el significado más rápido que un diccionario.",
+          "en": "Context narrows the meaning faster than a dictionary.",
+          "es": "El contexto acota el significado más rápido que un diccionario."
         },
         {
           "target": "He threw in the towel, said about a job, means he quit.",
-          "native": "Tiró la toalla, dicho de un trabajo, significa que renunció."
+          "native": "Tiró la toalla, dicho de un trabajo, significa que renunció.",
+          "en": "He threw in the towel, said about a job, means he quit.",
+          "es": "Tiró la toalla, dicho de un trabajo, significa que renunció."
         }
       ]
     },
@@ -3416,15 +4304,21 @@
       "examples": [
         {
           "target": "'Pass away' is respectful; 'kick the bucket' is not.",
-          "native": "«Fallecer» es respetuoso; «estirar la pata» no."
+          "native": "«Fallecer» es respetuoso; «estirar la pata» no.",
+          "en": "'Pass away' is respectful; 'kick the bucket' is not.",
+          "es": "«Fallecer» es respetuoso; «estirar la pata» no."
         },
         {
           "target": "'Across the board' works in a business report.",
-          "native": "«En todos los niveles» funciona en un informe."
+          "native": "«En todos los niveles» funciona en un informe.",
+          "en": "'Across the board' works in a business report.",
+          "es": "«En todos los niveles» funciona en un informe."
         },
         {
           "target": "'He passed away' at the funeral; 'he snuffed it' at the pub.",
-          "native": "«Falleció» en el velorio; «la palmó» en el bar."
+          "native": "«Falleció» en el velorio; «la palmó» en el bar.",
+          "en": "'He passed away' at the funeral; 'he snuffed it' at the pub.",
+          "es": "«Falleció» en el velorio; «la palmó» en el bar."
         }
       ]
     },
@@ -3439,15 +4333,21 @@
       "examples": [
         {
           "target": "He kicked the bucket last year.",
-          "native": "Estiró la pata el año pasado."
+          "native": "Estiró la pata el año pasado.",
+          "en": "He kicked the bucket last year.",
+          "es": "Estiró la pata el año pasado."
         },
         {
           "target": "Let the cat out of the bag.",
-          "native": "Se le escapó el secreto."
+          "native": "Se le escapó el secreto.",
+          "en": "Let the cat out of the bag.",
+          "es": "Se le escapó el secreto."
         },
         {
           "target": "It's raining cats and dogs — no animals involved.",
-          "native": "Está lloviendo a cántaros. (en inglés, gatos y perros)"
+          "native": "Está lloviendo a cántaros. (en inglés, gatos y perros)",
+          "en": "It's raining cats and dogs — no animals involved.",
+          "es": "Está lloviendo a cántaros. (en inglés, gatos y perros)"
         }
       ]
     },
@@ -3462,15 +4362,21 @@
       "examples": [
         {
           "target": "Turn it off, please.",
-          "native": "Apagalo, por favor."
+          "native": "Apagalo, por favor.",
+          "en": "Turn it off, please.",
+          "es": "Apagalo, por favor."
         },
         {
           "target": "They put off the meeting until Friday.",
-          "native": "Pospusieron la reunión hasta el viernes."
+          "native": "Pospusieron la reunión hasta el viernes.",
+          "en": "They put off the meeting until Friday.",
+          "es": "Pospusieron la reunión hasta el viernes."
         },
         {
           "target": "She looked after the kids, then looked up the word, then looked out.",
-          "native": "Cuidó a los chicos, después buscó la palabra, después se cuidó."
+          "native": "Cuidó a los chicos, después buscó la palabra, después se cuidó.",
+          "en": "She looked after the kids, then looked up the word, then looked out.",
+          "es": "Cuidó a los chicos, después buscó la palabra, después se cuidó."
         }
       ]
     },
@@ -3485,15 +4391,21 @@
       "examples": [
         {
           "target": "Don't count your chickens before they hatch.",
-          "native": "No cantes victoria antes de tiempo."
+          "native": "No cantes victoria antes de tiempo.",
+          "en": "Don't count your chickens before they hatch.",
+          "es": "No cantes victoria antes de tiempo."
         },
         {
           "target": "Well, when in Rome...",
-          "native": "Bueno, donde fueres..."
+          "native": "Bueno, donde fueres...",
+          "en": "Well, when in Rome...",
+          "es": "Bueno, donde fueres..."
         },
         {
           "target": "Every cloud has a silver lining, said after losing a job.",
-          "native": "No hay mal que por bien no venga, dicho tras perder el trabajo."
+          "native": "No hay mal que por bien no venga, dicho tras perder el trabajo.",
+          "en": "Every cloud has a silver lining, said after losing a job.",
+          "es": "No hay mal que por bien no venga, dicho tras perder el trabajo."
         }
       ]
     },
@@ -3508,15 +4420,21 @@
       "examples": [
         {
           "target": "'Therefore' signals a conclusion.",
-          "native": "«Por lo tanto» señala una conclusión."
+          "native": "«Por lo tanto» señala una conclusión.",
+          "en": "'Therefore' signals a conclusion.",
+          "es": "«Por lo tanto» señala una conclusión."
         },
         {
           "target": "The unstated assumption is the weakest link.",
-          "native": "El supuesto no declarado es el eslabón más débil."
+          "native": "El supuesto no declarado es el eslabón más débil.",
+          "en": "The unstated assumption is the weakest link.",
+          "es": "El supuesto no declarado es el eslabón más débil."
         },
         {
           "target": "It is raining, therefore the match is off — the unstated premise is that they play outdoors.",
-          "native": "Llueve, por lo tanto se suspende: la premisa callada es que juegan al aire libre."
+          "native": "Llueve, por lo tanto se suspende: la premisa callada es que juegan al aire libre.",
+          "en": "It is raining, therefore the match is off — the unstated premise is that they play outdoors.",
+          "es": "Llueve, por lo tanto se suspende: la premisa callada es que juegan al aire libre."
         }
       ]
     },
@@ -3531,15 +4449,21 @@
       "examples": [
         {
           "target": "Knowing the rule and using it are different skills.",
-          "native": "Saber la regla y usarla son habilidades distintas."
+          "native": "Saber la regla y usarla son habilidades distintas.",
+          "en": "Knowing the rule and using it are different skills.",
+          "es": "Saber la regla y usarla son habilidades distintas."
         },
         {
           "target": "Automaticity frees attention for content.",
-          "native": "La automaticidad libera atención para el contenido."
+          "native": "La automaticidad libera atención para el contenido.",
+          "en": "Automaticity frees attention for content.",
+          "es": "La automaticidad libera atención para el contenido."
         },
         {
           "target": "You answer the phone in English before deciding to.",
-          "native": "Atendés el teléfono en inglés antes de decidir hacerlo."
+          "native": "Atendés el teléfono en inglés antes de decidir hacerlo.",
+          "en": "You answer the phone in English before deciding to.",
+          "es": "Atendés el teléfono en inglés antes de decidir hacerlo."
         }
       ]
     },
@@ -3554,15 +4478,21 @@
       "examples": [
         {
           "target": "Grammar is only one of four competences.",
-          "native": "La gramática es solo una de cuatro competencias."
+          "native": "La gramática es solo una de cuatro competencias.",
+          "en": "Grammar is only one of four competences.",
+          "es": "La gramática es solo una de cuatro competencias."
         },
         {
           "target": "Strategic competence is the most underrated.",
-          "native": "La competencia estratégica es la más subestimada."
+          "native": "La competencia estratégica es la más subestimada.",
+          "en": "Strategic competence is the most underrated.",
+          "es": "La competencia estratégica es la más subestimada."
         },
         {
           "target": "Perfect grammar and no idea how to interrupt politely.",
-          "native": "Gramática impecable y ni idea de cómo interrumpir con cortesía."
+          "native": "Gramática impecable y ni idea de cómo interrumpir con cortesía.",
+          "en": "Perfect grammar and no idea how to interrupt politely.",
+          "es": "Gramática impecable y ni idea de cómo interrumpir con cortesía."
         }
       ]
     },
@@ -3577,15 +4507,21 @@
       "examples": [
         {
           "target": "The argument rests on an unstated assumption.",
-          "native": "El argumento se apoya en un supuesto no declarado."
+          "native": "El argumento se apoya en un supuesto no declarado.",
+          "en": "The argument rests on an unstated assumption.",
+          "es": "El argumento se apoya en un supuesto no declarado."
         },
         {
           "target": "The evidence is compelling but incomplete.",
-          "native": "La evidencia es convincente pero incompleta."
+          "native": "La evidencia es convincente pero incompleta.",
+          "en": "The evidence is compelling but incomplete.",
+          "es": "La evidencia es convincente pero incompleta."
         },
         {
           "target": "The sample was thirty students, all from the same class.",
-          "native": "La muestra fueron treinta estudiantes, todos del mismo curso."
+          "native": "La muestra fueron treinta estudiantes, todos del mismo curso.",
+          "en": "The sample was thirty students, all from the same class.",
+          "es": "La muestra fueron treinta estudiantes, todos del mismo curso."
         }
       ]
     },
@@ -3600,15 +4536,21 @@
       "examples": [
         {
           "target": "'That's interesting' may be a polite objection.",
-          "native": "«Qué interesante» puede ser una objeción cortés."
+          "native": "«Qué interesante» puede ser una objeción cortés.",
+          "en": "'That's interesting' may be a polite objection.",
+          "es": "«Qué interesante» puede ser una objeción cortés."
         },
         {
           "target": "Mediating culture means anticipating misunderstanding.",
-          "native": "Mediar culturalmente es anticipar el malentendido."
+          "native": "Mediar culturalmente es anticipar el malentendido.",
+          "en": "Mediating culture means anticipating misunderstanding.",
+          "es": "Mediar culturalmente es anticipar el malentendido."
         },
         {
           "target": "'We'll see' can mean no, and the visitor keeps waiting for yes.",
-          "native": "«Vamos a ver» puede significar no, y el visitante sigue esperando el sí."
+          "native": "«Vamos a ver» puede significar no, y el visitante sigue esperando el sí.",
+          "en": "'We'll see' can mean no, and the visitor keeps waiting for yes.",
+          "es": "«Vamos a ver» puede significar no, y el visitante sigue esperando el sí."
         }
       ]
     },
@@ -3623,15 +4565,21 @@
       "examples": [
         {
           "target": "Cohesion is visible; coherence is structural.",
-          "native": "La cohesión se ve; la coherencia es estructural."
+          "native": "La cohesión se ve; la coherencia es estructural.",
+          "en": "Cohesion is visible; coherence is structural.",
+          "es": "La cohesión se ve; la coherencia es estructural."
         },
         {
           "target": "Connectors cannot fix incoherent content.",
-          "native": "Los conectores no arreglan un contenido incoherente."
+          "native": "Los conectores no arreglan un contenido incoherente.",
+          "en": "Connectors cannot fix incoherent content.",
+          "es": "Los conectores no arreglan un contenido incoherente."
         },
         {
           "target": "It rained. Therefore we swam. The connector cannot save that.",
-          "native": "Llovió. Por lo tanto nadamos. El conector no salva eso."
+          "native": "Llovió. Por lo tanto nadamos. El conector no salva eso.",
+          "en": "It rained. Therefore we swam. The connector cannot save that.",
+          "es": "Llovió. Por lo tanto nadamos. El conector no salva eso."
         }
       ]
     },
@@ -3646,15 +4594,21 @@
       "examples": [
         {
           "target": "— Coming to the party? — I have to work tomorrow.",
-          "native": "— ¿Venís a la fiesta? — Mañana trabajo."
+          "native": "— ¿Venís a la fiesta? — Mañana trabajo.",
+          "en": "— Coming to the party? — I have to work tomorrow.",
+          "es": "— ¿Venís a la fiesta? — Mañana trabajo."
         },
         {
           "target": "Implicature can be cancelled; presupposition cannot.",
-          "native": "La implicatura se puede cancelar; la presuposición no."
+          "native": "La implicatura se puede cancelar; la presuposición no.",
+          "en": "Implicature can be cancelled; presupposition cannot.",
+          "es": "La implicatura se puede cancelar; la presuposición no."
         },
         {
           "target": "— Did you like the food? — The company was lovely.",
-          "native": "— ¿Te gustó la comida? — La compañía estuvo hermosa."
+          "native": "— ¿Te gustó la comida? — La compañía estuvo hermosa.",
+          "en": "— Did you like the food? — The company was lovely.",
+          "es": "— ¿Te gustó la comida? — La compañía estuvo hermosa."
         }
       ]
     },
@@ -3669,15 +4623,21 @@
       "examples": [
         {
           "target": "Seeing your own culture as one option among many.",
-          "native": "Ver la cultura propia como una opción entre otras."
+          "native": "Ver la cultura propia como una opción entre otras.",
+          "en": "Seeing your own culture as one option among many.",
+          "es": "Ver la cultura propia como una opción entre otras."
         },
         {
           "target": "How much silence is comfortable varies by culture.",
-          "native": "Cuánto silencio resulta cómodo varía según la cultura."
+          "native": "Cuánto silencio resulta cómodo varía según la cultura.",
+          "en": "How much silence is comfortable varies by culture.",
+          "es": "Cuánto silencio resulta cómodo varía según la cultura."
         },
         {
           "target": "Noticing that your normal is a convention, not the default.",
-          "native": "Notar que lo normal tuyo es una convención, no el punto neutro."
+          "native": "Notar que lo normal tuyo es una convención, no el punto neutro.",
+          "en": "Noticing that your normal is a convention, not the default.",
+          "es": "Notar que lo normal tuyo es una convención, no el punto neutro."
         }
       ]
     },
@@ -3692,15 +4652,21 @@
       "examples": [
         {
           "target": "Precision matters more than rarity.",
-          "native": "La precisión importa más que la rareza."
+          "native": "La precisión importa más que la rareza.",
+          "en": "Precision matters more than rarity.",
+          "es": "La precisión importa más que la rareza."
         },
         {
           "target": "A rare word in the wrong place lowers the score.",
-          "native": "Una palabra rara mal ubicada baja la nota."
+          "native": "Una palabra rara mal ubicada baja la nota.",
+          "en": "A rare word in the wrong place lowers the score.",
+          "es": "Una palabra rara mal ubicada baja la nota."
         },
         {
           "target": "The rain got worse beats the precipitation underwent deterioration.",
-          "native": "«La lluvia empeoró» le gana a «la precipitación experimentó un deterioro»."
+          "native": "«La lluvia empeoró» le gana a «la precipitación experimentó un deterioro».",
+          "en": "The rain got worse beats the precipitation underwent deterioration.",
+          "es": "«La lluvia empeoró» le gana a «la precipitación experimentó un deterioro»."
         }
       ]
     },
@@ -3715,15 +4681,21 @@
       "examples": [
         {
           "target": "Mediation is the fourth skill in the CEFR.",
-          "native": "La mediación es la cuarta habilidad del Marco Común Europeo."
+          "native": "La mediación es la cuarta habilidad del Marco Común Europeo.",
+          "en": "Mediation is the fourth skill in the CEFR.",
+          "es": "La mediación es la cuarta habilidad del Marco Común Europeo."
         },
         {
           "target": "Explaining a contract to a layperson is mediation.",
-          "native": "Explicarle un contrato a un lego es mediación."
+          "native": "Explicarle un contrato a un lego es mediación.",
+          "en": "Explaining a contract to a layperson is mediation.",
+          "es": "Explicarle un contrato a un lego es mediación."
         },
         {
           "target": "Telling your grandmother what the doctor actually meant.",
-          "native": "Contarle a tu abuela qué quiso decir el médico."
+          "native": "Contarle a tu abuela qué quiso decir el médico.",
+          "en": "Telling your grandmother what the doctor actually meant.",
+          "es": "Contarle a tu abuela qué quiso decir el médico."
         }
       ]
     },
@@ -3738,15 +4710,21 @@
       "examples": [
         {
           "target": "If you can't paraphrase it, you didn't understand it.",
-          "native": "Si no lo podés parafrasear, no lo entendiste."
+          "native": "Si no lo podés parafrasear, no lo entendiste.",
+          "en": "If you can't paraphrase it, you didn't understand it.",
+          "es": "Si no lo podés parafrasear, no lo entendiste."
         },
         {
           "target": "Change the structure, not just the words.",
-          "native": "Cambiá la estructura, no solo las palabras."
+          "native": "Cambiá la estructura, no solo las palabras.",
+          "en": "Change the structure, not just the words.",
+          "es": "Cambiá la estructura, no solo las palabras."
         },
         {
           "target": "The study found no link, becomes: researchers detected no connection.",
-          "native": "El estudio no halló vínculo, pasa a: los investigadores no detectaron conexión."
+          "native": "El estudio no halló vínculo, pasa a: los investigadores no detectaron conexión.",
+          "en": "The study found no link, becomes: researchers detected no connection.",
+          "es": "El estudio no halló vínculo, pasa a: los investigadores no detectaron conexión."
         }
       ]
     },
@@ -3761,15 +4739,21 @@
       "examples": [
         {
           "target": "Could you possibly open the window?",
-          "native": "¿Podrías abrir la ventana, por favor?"
+          "native": "¿Podrías abrir la ventana, por favor?",
+          "en": "Could you possibly open the window?",
+          "es": "¿Podrías abrir la ventana, por favor?"
         },
         {
           "target": "Is it a bit warm in here?",
-          "native": "¿No hace un poco de calor acá?"
+          "native": "¿No hace un poco de calor acá?",
+          "en": "Is it a bit warm in here?",
+          "es": "¿No hace un poco de calor acá?"
         },
         {
           "target": "I need this by Friday, against: would Friday be at all possible?",
-          "native": "Lo necesito para el viernes, contra: ¿sería posible para el viernes?"
+          "native": "Lo necesito para el viernes, contra: ¿sería posible para el viernes?",
+          "en": "I need this by Friday, against: would Friday be at all possible?",
+          "es": "Lo necesito para el viernes, contra: ¿sería posible para el viernes?"
         }
       ]
     },
@@ -3784,15 +4768,21 @@
       "examples": [
         {
           "target": "A précis keeps the original's order.",
-          "native": "Un précis conserva el orden del original."
+          "native": "Un précis conserva el orden del original.",
+          "en": "A précis keeps the original's order.",
+          "es": "Un précis conserva el orden del original."
         },
         {
           "target": "No comments, no interpretation: only compression.",
-          "native": "Sin comentarios ni interpretación: solo compresión."
+          "native": "Sin comentarios ni interpretación: solo compresión.",
+          "en": "No comments, no interpretation: only compression.",
+          "es": "Sin comentarios ni interpretación: solo compresión."
         },
         {
           "target": "Twelve pages of minutes turned into one, in the same order.",
-          "native": "Doce páginas de actas convertidas en una, en el mismo orden."
+          "native": "Doce páginas de actas convertidas en una, en el mismo orden.",
+          "en": "Twelve pages of minutes turned into one, in the same order.",
+          "es": "Doce páginas de actas convertidas en una, en el mismo orden."
         }
       ]
     },
@@ -3807,15 +4797,21 @@
       "examples": [
         {
           "target": "In other words, the plan is too expensive.",
-          "native": "En otras palabras, el plan es demasiado caro."
+          "native": "En otras palabras, el plan es demasiado caro.",
+          "en": "In other words, the plan is too expensive.",
+          "es": "En otras palabras, el plan es demasiado caro."
         },
         {
           "target": "Repeating louder is not reformulating.",
-          "native": "Repetir más fuerte no es reformular."
+          "native": "Repetir más fuerte no es reformular.",
+          "en": "Repeating louder is not reformulating.",
+          "es": "Repetir más fuerte no es reformular."
         },
         {
           "target": "What I mean is that the deadline cannot move.",
-          "native": "Lo que quiero decir es que la fecha no se puede mover."
+          "native": "Lo que quiero decir es que la fecha no se puede mover.",
+          "en": "What I mean is that the deadline cannot move.",
+          "es": "Lo que quiero decir es que la fecha no se puede mover."
         }
       ]
     },
@@ -3830,15 +4826,21 @@
       "examples": [
         {
           "target": "Convert the report into a press release.",
-          "native": "Convertí el informe en una gacetilla."
+          "native": "Convertí el informe en una gacetilla.",
+          "en": "Convert the report into a press release.",
+          "es": "Convertí el informe en una gacetilla."
         },
         {
           "target": "Simplifying is not the same as altering.",
-          "native": "Simplificar no es lo mismo que alterar."
+          "native": "Simplificar no es lo mismo que alterar.",
+          "en": "Simplifying is not the same as altering.",
+          "es": "Simplificar no es lo mismo que alterar."
         },
         {
           "target": "Myocardial infarction becomes heart attack, for a patient.",
-          "native": "Infarto de miocardio pasa a ataque al corazón, para un paciente."
+          "native": "Infarto de miocardio pasa a ataque al corazón, para un paciente.",
+          "en": "Myocardial infarction becomes heart attack, for a patient.",
+          "es": "Infarto de miocardio pasa a ataque al corazón, para un paciente."
         }
       ]
     },
@@ -3853,15 +4855,21 @@
       "examples": [
         {
           "target": "A C2 writer has several styles, not one.",
-          "native": "Quien escribe en C2 tiene varios estilos, no uno."
+          "native": "Quien escribe en C2 tiene varios estilos, no uno.",
+          "en": "A C2 writer has several styles, not one.",
+          "es": "Quien escribe en C2 tiene varios estilos, no uno."
         },
         {
           "target": "Write the same content three ways and compare.",
-          "native": "Escribí el mismo contenido de tres formas y compará."
+          "native": "Escribí el mismo contenido de tres formas y compará.",
+          "en": "Write the same content three ways and compare.",
+          "es": "Escribí el mismo contenido de tres formas y compará."
         },
         {
           "target": "The same news as a legal notice, a tweet and a condolence card.",
-          "native": "La misma noticia como aviso legal, como tuit y como tarjeta de pésame."
+          "native": "La misma noticia como aviso legal, como tuit y como tarjeta de pésame.",
+          "en": "The same news as a legal notice, a tweet and a condolence card.",
+          "es": "La misma noticia como aviso legal, como tuit y como tarjeta de pésame."
         }
       ]
     },
@@ -3876,15 +4884,21 @@
       "examples": [
         {
           "target": "Organise by idea, not by source.",
-          "native": "Organizá por idea, no por fuente."
+          "native": "Organizá por idea, no por fuente.",
+          "en": "Organise by idea, not by source.",
+          "es": "Organizá por idea, no por fuente."
         },
         {
           "target": "While Smith argues X, Chen found the opposite.",
-          "native": "Mientras Smith sostiene X, Chen encontró lo contrario."
+          "native": "Mientras Smith sostiene X, Chen encontró lo contrario.",
+          "en": "While Smith argues X, Chen found the opposite.",
+          "es": "Mientras Smith sostiene X, Chen encontró lo contrario."
         },
         {
           "target": "Three papers agree on the cause and disagree on the remedy.",
-          "native": "Tres trabajos coinciden en la causa y discrepan en el remedio."
+          "native": "Tres trabajos coinciden en la causa y discrepan en el remedio.",
+          "en": "Three papers agree on the cause and disagree on the remedy.",
+          "es": "Tres trabajos coinciden en la causa y discrepan en el remedio."
         }
       ]
     }

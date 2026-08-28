@@ -1,933 +1,3513 @@
 {
   "passages": [
-
     {
-      "id": "rcp_u1_01", "unit": 1, "level": 1,
+      "id": "rcp_u1_01",
+      "unit": 1,
+      "level": 1,
       "title": "Conociendo a María",
       "text": "Me llamo María. Soy de España. Soy profesora. Trabajo en una escuela en la ciudad. Tengo treinta años. Me gusta la música y el deporte.",
       "questions": [
-        { "q": "¿Cuál es su profesión?", "options": ["Profesora", "Doctora", "Estudiante", "Ingeniera"], "answer": "Profesora" },
-        { "q": "¿De dónde es María?", "options": ["Italia", "España", "Francia", "México"], "answer": "España" },
-        { "q": "¿Cuántos años tiene María?", "options": ["25", "28", "30", "35"], "answer": "30" }
+        {
+          "q": "¿Cuál es su profesión?",
+          "options": [
+            "Profesora",
+            "Doctora",
+            "Estudiante",
+            "Ingeniera"
+          ],
+          "answer": "Profesora"
+        },
+        {
+          "q": "¿De dónde es María?",
+          "options": [
+            "Italia",
+            "España",
+            "Francia",
+            "México"
+          ],
+          "answer": "España"
+        },
+        {
+          "q": "¿Cuántos años tiene María?",
+          "options": [
+            "25",
+            "28",
+            "30",
+            "35"
+          ],
+          "answer": "30"
+        }
       ]
     },
     {
-      "id": "rcp_u1_02", "unit": 1, "level": 1,
+      "id": "rcp_u1_02",
+      "unit": 1,
+      "level": 1,
       "title": "El primer día de clase",
       "text": "¡Hola a todos! Me llamo Tomás. Soy su profesor de español. Hoy es lunes. Es el primer día de clase. Hay quince estudiantes en el salón. Todos están muy contentos de estar aquí.",
       "questions": [
-        { "q": "¿Quién es Tomás?", "options": ["Un estudiante", "Un profesor", "Un doctor", "Un amigo"], "answer": "Un profesor" },
-        { "q": "¿Qué día es?", "options": ["Martes", "Lunes", "Miércoles", "Jueves"], "answer": "Lunes" },
-        { "q": "¿Cuántos estudiantes hay en el salón?", "options": ["10", "12", "15", "20"], "answer": "15" }
+        {
+          "q": "¿Quién es Tomás?",
+          "options": [
+            "Un estudiante",
+            "Un profesor",
+            "Un doctor",
+            "Un amigo"
+          ],
+          "answer": "Un profesor"
+        },
+        {
+          "q": "¿Qué día es?",
+          "options": [
+            "Martes",
+            "Lunes",
+            "Miércoles",
+            "Jueves"
+          ],
+          "answer": "Lunes"
+        },
+        {
+          "q": "¿Cuántos estudiantes hay en el salón?",
+          "options": [
+            "10",
+            "12",
+            "15",
+            "20"
+          ],
+          "answer": "15"
+        }
       ]
     },
     {
-      "id": "rcp_u1_03", "unit": 1, "level": 1,
+      "id": "rcp_u1_03",
+      "unit": 1,
+      "level": 1,
       "title": "Mi escuela",
       "text": "En mi escuela hay cinco salones. Cada salón tiene veinte escritorios. La escuela abre a las ocho de la mañana. Cierra a las cuatro de la tarde. Voy a la escuela cinco días a la semana.",
       "questions": [
-        { "q": "¿Cuántos salones hay?", "options": ["3", "4", "5", "6"], "answer": "5" },
-        { "q": "¿A qué hora abre la escuela?", "options": ["7:00", "8:00", "9:00", "10:00"], "answer": "8:00" },
-        { "q": "¿Cuántos días a la semana va el estudiante a la escuela?", "options": ["3", "4", "5", "6"], "answer": "5" }
+        {
+          "q": "¿Cuántos salones hay?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer": "5"
+        },
+        {
+          "q": "¿A qué hora abre la escuela?",
+          "options": [
+            "7:00",
+            "8:00",
+            "9:00",
+            "10:00"
+          ],
+          "answer": "8:00"
+        },
+        {
+          "q": "¿Cuántos días a la semana va el estudiante a la escuela?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer": "5"
+        }
       ]
     },
-
     {
-      "id": "rcp_u2_01", "unit": 2, "level": 1,
+      "id": "rcp_u2_01",
+      "unit": 2,
+      "level": 1,
       "title": "Mi familia",
       "text": "Tengo una familia grande. Mi padre es ingeniero y mi madre es enfermera. Tengo dos hermanas y un hermano. Mis abuelos viven cerca de nuestra casa. Los visitamos todos los domingos.",
       "questions": [
-        { "q": "¿Cuál es la profesión del padre?", "options": ["Doctor", "Ingeniero", "Profesor", "Enfermero"], "answer": "Ingeniero" },
-        { "q": "¿Cuántos hermanos tiene en total?", "options": ["2", "3", "4", "5"], "answer": "3" },
-        { "q": "¿Cuándo visitan a los abuelos?", "options": ["Los sábados", "Los domingos", "Los lunes", "Los viernes"], "answer": "Los domingos" }
+        {
+          "q": "¿Cuál es la profesión del padre?",
+          "options": [
+            "Doctor",
+            "Ingeniero",
+            "Profesor",
+            "Enfermero"
+          ],
+          "answer": "Ingeniero"
+        },
+        {
+          "q": "¿Cuántos hermanos tiene en total?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "3"
+        },
+        {
+          "q": "¿Cuándo visitan a los abuelos?",
+          "options": [
+            "Los sábados",
+            "Los domingos",
+            "Los lunes",
+            "Los viernes"
+          ],
+          "answer": "Los domingos"
+        }
       ]
     },
     {
-      "id": "rcp_u2_02", "unit": 2, "level": 1,
+      "id": "rcp_u2_02",
+      "unit": 2,
+      "level": 1,
       "title": "Un amigo de otro país",
       "text": "Mi amigo Pedro es de México, pero ahora vive en Argentina. Su esposa es argentina. Tienen un hijo pequeño. Pedro trabaja como médico en un hospital grande. Le gusta mucho su nuevo país.",
       "questions": [
-        { "q": "¿De dónde es Pedro?", "options": ["Argentina", "México", "Chile", "Perú"], "answer": "México" },
-        { "q": "¿Cuál es la nacionalidad de su esposa?", "options": ["Mexicana", "Chilena", "Argentina", "Uruguaya"], "answer": "Argentina" },
-        { "q": "¿Dónde trabaja Pedro?", "options": ["En una escuela", "En un hospital", "En un banco", "En una tienda"], "answer": "En un hospital" }
+        {
+          "q": "¿De dónde es Pedro?",
+          "options": [
+            "Argentina",
+            "México",
+            "Chile",
+            "Perú"
+          ],
+          "answer": "México"
+        },
+        {
+          "q": "¿Cuál es la nacionalidad de su esposa?",
+          "options": [
+            "Mexicana",
+            "Chilena",
+            "Argentina",
+            "Uruguaya"
+          ],
+          "answer": "Argentina"
+        },
+        {
+          "q": "¿Dónde trabaja Pedro?",
+          "options": [
+            "En una escuela",
+            "En un hospital",
+            "En un banco",
+            "En una tienda"
+          ],
+          "answer": "En un hospital"
+        }
       ]
     },
     {
-      "id": "rcp_u2_03", "unit": 2, "level": 1,
+      "id": "rcp_u2_03",
+      "unit": 2,
+      "level": 1,
       "title": "La familia de Ana",
       "text": "Ana tiene una familia pequeña. Es hija única. Su madre es abogada y su padre es maestro. Viven en un apartamento en el centro de la ciudad. Ana tiene un gato que se llama Luna.",
       "questions": [
-        { "q": "¿Ana tiene hermanos?", "options": ["Sí, dos", "Sí, uno", "No, es hija única", "No se sabe"], "answer": "No, es hija única" },
-        { "q": "¿Cuál es la profesión de la madre?", "options": ["Maestra", "Abogada", "Doctora", "Enfermera"], "answer": "Abogada" },
-        { "q": "¿Cómo se llama el gato de Ana?", "options": ["Sol", "Luna", "Estrella", "Nube"], "answer": "Luna" }
+        {
+          "q": "¿Ana tiene hermanos?",
+          "options": [
+            "Sí, dos",
+            "Sí, uno",
+            "No, es hija única",
+            "No se sabe"
+          ],
+          "answer": "No, es hija única"
+        },
+        {
+          "q": "¿Cuál es la profesión de la madre?",
+          "options": [
+            "Maestra",
+            "Abogada",
+            "Doctora",
+            "Enfermera"
+          ],
+          "answer": "Abogada"
+        },
+        {
+          "q": "¿Cómo se llama el gato de Ana?",
+          "options": [
+            "Sol",
+            "Luna",
+            "Estrella",
+            "Nube"
+          ],
+          "answer": "Luna"
+        }
       ]
     },
-
     {
-      "id": "rcp_u3_01", "unit": 3, "level": 1,
+      "id": "rcp_u3_01",
+      "unit": 3,
+      "level": 1,
       "title": "Mi rutina diaria",
       "text": "Me despierto a las siete de la mañana. Desayuno pan con café. Voy al trabajo en autobús. Trabajo de nueve a cinco. Por la tarde, hago ejercicio en el parque. Ceno a las ocho y me acuesto a las once.",
       "questions": [
-        { "q": "¿A qué hora se despierta?", "options": ["6:00", "7:00", "8:00", "9:00"], "answer": "7:00" },
-        { "q": "¿Cómo va al trabajo?", "options": ["En auto", "Caminando", "En autobús", "En bicicleta"], "answer": "En autobús" },
-        { "q": "¿Dónde hace ejercicio?", "options": ["En el gimnasio", "En casa", "En el parque", "En la escuela"], "answer": "En el parque" }
+        {
+          "q": "¿A qué hora se despierta?",
+          "options": [
+            "6:00",
+            "7:00",
+            "8:00",
+            "9:00"
+          ],
+          "answer": "7:00"
+        },
+        {
+          "q": "¿Cómo va al trabajo?",
+          "options": [
+            "En auto",
+            "Caminando",
+            "En autobús",
+            "En bicicleta"
+          ],
+          "answer": "En autobús"
+        },
+        {
+          "q": "¿Dónde hace ejercicio?",
+          "options": [
+            "En el gimnasio",
+            "En casa",
+            "En el parque",
+            "En la escuela"
+          ],
+          "answer": "En el parque"
+        }
       ]
     },
     {
-      "id": "rcp_u3_02", "unit": 3, "level": 1,
+      "id": "rcp_u3_02",
+      "unit": 3,
+      "level": 1,
       "title": "El barrio de Carla",
       "text": "En el barrio de Carla hay muchas tiendas. El supermercado está al lado del banco. La farmacia está entre la panadería y la librería. Hay un parque cerca de su casa. A Carla le gusta caminar por el barrio los fines de semana.",
       "questions": [
-        { "q": "¿Qué está al lado del banco?", "options": ["La farmacia", "El supermercado", "La librería", "El parque"], "answer": "El supermercado" },
-        { "q": "¿Dónde está la farmacia?", "options": ["Cerca del parque", "Entre la panadería y la librería", "Al lado del banco", "Lejos de todo"], "answer": "Entre la panadería y la librería" },
-        { "q": "¿Cuándo camina Carla por el barrio?", "options": ["Todos los días", "Los fines de semana", "Solo los lunes", "Nunca"], "answer": "Los fines de semana" }
+        {
+          "q": "¿Qué está al lado del banco?",
+          "options": [
+            "La farmacia",
+            "El supermercado",
+            "La librería",
+            "El parque"
+          ],
+          "answer": "El supermercado"
+        },
+        {
+          "q": "¿Dónde está la farmacia?",
+          "options": [
+            "Cerca del parque",
+            "Entre la panadería y la librería",
+            "Al lado del banco",
+            "Lejos de todo"
+          ],
+          "answer": "Entre la panadería y la librería"
+        },
+        {
+          "q": "¿Cuándo camina Carla por el barrio?",
+          "options": [
+            "Todos los días",
+            "Los fines de semana",
+            "Solo los lunes",
+            "Nunca"
+          ],
+          "answer": "Los fines de semana"
+        }
       ]
     },
     {
-      "id": "rcp_u3_03", "unit": 3, "level": 1,
+      "id": "rcp_u3_03",
+      "unit": 3,
+      "level": 1,
       "title": "Un día de trabajo",
       "text": "Hay veinte personas en mi oficina. Empezamos a trabajar a las ocho. Almorzamos al mediodía en un restaurante cerca de la oficina. Por la tarde, tenemos una reunión a las tres. Salimos del trabajo a las seis.",
       "questions": [
-        { "q": "¿Cuántas personas hay en la oficina?", "options": ["Diez", "Quince", "Veinte", "Veinticinco"], "answer": "Veinte" },
-        { "q": "¿A qué hora almuerzan?", "options": ["A las once", "Al mediodía", "A la una", "A las dos"], "answer": "Al mediodía" },
-        { "q": "¿A qué hora es la reunión?", "options": ["A la una", "A las dos", "A las tres", "A las cuatro"], "answer": "A las tres" }
+        {
+          "q": "¿Cuántas personas hay en la oficina?",
+          "options": [
+            "Diez",
+            "Quince",
+            "Veinte",
+            "Veinticinco"
+          ],
+          "answer": "Veinte"
+        },
+        {
+          "q": "¿A qué hora almuerzan?",
+          "options": [
+            "A las once",
+            "Al mediodía",
+            "A la una",
+            "A las dos"
+          ],
+          "answer": "Al mediodía"
+        },
+        {
+          "q": "¿A qué hora es la reunión?",
+          "options": [
+            "A la una",
+            "A las dos",
+            "A las tres",
+            "A las cuatro"
+          ],
+          "answer": "A las tres"
+        }
       ]
     },
-
     {
-      "id": "rcp_u4_01", "unit": 4, "level": 1,
+      "id": "rcp_u4_01",
+      "unit": 4,
+      "level": 1,
       "title": "De compras",
       "text": "Voy al mercado a comprar frutas. Estas manzanas cuestan dos dólares el kilo. Esos plátanos son más baratos. Puedo pagar con tarjeta o en efectivo. El vendedor es muy amable y me ayuda a elegir la mejor fruta.",
       "questions": [
-        { "q": "¿Cuánto cuestan las manzanas?", "options": ["Un dólar el kilo", "Dos dólares el kilo", "Tres dólares el kilo", "Cuatro dólares el kilo"], "answer": "Dos dólares el kilo" },
-        { "q": "¿Qué fruta es más barata?", "options": ["Las manzanas", "Los plátanos", "Las naranjas", "Las uvas"], "answer": "Los plátanos" },
-        { "q": "¿Cómo se puede pagar?", "options": ["Solo en efectivo", "Solo con tarjeta", "Con tarjeta o en efectivo", "No se puede pagar"], "answer": "Con tarjeta o en efectivo" }
+        {
+          "q": "¿Cuánto cuestan las manzanas?",
+          "options": [
+            "Un dólar el kilo",
+            "Dos dólares el kilo",
+            "Tres dólares el kilo",
+            "Cuatro dólares el kilo"
+          ],
+          "answer": "Dos dólares el kilo"
+        },
+        {
+          "q": "¿Qué fruta es más barata?",
+          "options": [
+            "Las manzanas",
+            "Los plátanos",
+            "Las naranjas",
+            "Las uvas"
+          ],
+          "answer": "Los plátanos"
+        },
+        {
+          "q": "¿Cómo se puede pagar?",
+          "options": [
+            "Solo en efectivo",
+            "Solo con tarjeta",
+            "Con tarjeta o en efectivo",
+            "No se puede pagar"
+          ],
+          "answer": "Con tarjeta o en efectivo"
+        }
       ]
     },
     {
-      "id": "rcp_u4_02", "unit": 4, "level": 1,
+      "id": "rcp_u4_02",
+      "unit": 4,
+      "level": 1,
       "title": "¿Cómo llego al museo?",
       "text": "Perdón, ¿puede ayudarme? Busco el museo de arte. Debe seguir derecho dos cuadras. Luego, doble a la izquierda en la esquina. El museo está a la derecha, al lado de la biblioteca. No puede perderse.",
       "questions": [
-        { "q": "¿Qué busca la persona?", "options": ["Un hospital", "El museo de arte", "Una biblioteca", "Un banco"], "answer": "El museo de arte" },
-        { "q": "¿Hacia dónde debe doblar?", "options": ["A la derecha", "A la izquierda", "Debe seguir derecho", "Debe regresar"], "answer": "A la izquierda" },
-        { "q": "¿Qué hay al lado del museo?", "options": ["Un banco", "Un parque", "Una biblioteca", "Un restaurante"], "answer": "Una biblioteca" }
+        {
+          "q": "¿Qué busca la persona?",
+          "options": [
+            "Un hospital",
+            "El museo de arte",
+            "Una biblioteca",
+            "Un banco"
+          ],
+          "answer": "El museo de arte"
+        },
+        {
+          "q": "¿Hacia dónde debe doblar?",
+          "options": [
+            "A la derecha",
+            "A la izquierda",
+            "Debe seguir derecho",
+            "Debe regresar"
+          ],
+          "answer": "A la izquierda"
+        },
+        {
+          "q": "¿Qué hay al lado del museo?",
+          "options": [
+            "Un banco",
+            "Un parque",
+            "Una biblioteca",
+            "Un restaurante"
+          ],
+          "answer": "Una biblioteca"
+        }
       ]
     },
     {
-      "id": "rcp_u4_03", "unit": 4, "level": 1,
+      "id": "rcp_u4_03",
+      "unit": 4,
+      "level": 1,
       "title": "Un dolor de cabeza",
       "text": "Tengo dolor de cabeza desde esta mañana. También me duele un poco la garganta. Puedo tomar una aspirina. Si no mejoro mañana, debo ir al médico. Es importante descansar y beber mucha agua.",
       "questions": [
-        { "q": "¿Qué le duele además de la cabeza?", "options": ["El estómago", "La garganta", "La espalda", "Los pies"], "answer": "La garganta" },
-        { "q": "¿Qué puede tomar?", "options": ["Un té", "Una aspirina", "Un jarabe", "Nada"], "answer": "Una aspirina" },
-        { "q": "¿Qué debe hacer si no mejora?", "options": ["Ir al médico", "Dormir más", "Nada especial", "Viajar"], "answer": "Ir al médico" }
+        {
+          "q": "¿Qué le duele además de la cabeza?",
+          "options": [
+            "El estómago",
+            "La garganta",
+            "La espalda",
+            "Los pies"
+          ],
+          "answer": "La garganta"
+        },
+        {
+          "q": "¿Qué puede tomar?",
+          "options": [
+            "Un té",
+            "Una aspirina",
+            "Un jarabe",
+            "Nada"
+          ],
+          "answer": "Una aspirina"
+        },
+        {
+          "q": "¿Qué debe hacer si no mejora?",
+          "options": [
+            "Ir al médico",
+            "Dormir más",
+            "Nada especial",
+            "Viajar"
+          ],
+          "answer": "Ir al médico"
+        }
       ]
     },
-
     {
-      "id": "rcp_u5_01", "unit": 5, "level": 1,
+      "id": "rcp_u5_01",
+      "unit": 5,
+      "level": 1,
       "title": "Los gustos de Sofía",
       "text": "A Sofía le gusta mucho la música clásica. También le encanta pintar los fines de semana. No le gustan los deportes, pero le interesa mucho la ciencia. A ella y a su hermano les gusta viajar juntos cada verano.",
       "questions": [
-        { "q": "¿Qué tipo de música le gusta a Sofía?", "options": ["Pop", "Clásica", "Rock", "Jazz"], "answer": "Clásica" },
-        { "q": "¿Qué hace los fines de semana?", "options": ["Pintar", "Correr", "Cocinar", "Estudiar"], "answer": "Pintar" },
-        { "q": "¿Qué le interesa a Sofía?", "options": ["Los deportes", "La ciencia", "La cocina", "La moda"], "answer": "La ciencia" }
+        {
+          "q": "¿Qué tipo de música le gusta a Sofía?",
+          "options": [
+            "Pop",
+            "Clásica",
+            "Rock",
+            "Jazz"
+          ],
+          "answer": "Clásica"
+        },
+        {
+          "q": "¿Qué hace los fines de semana?",
+          "options": [
+            "Pintar",
+            "Correr",
+            "Cocinar",
+            "Estudiar"
+          ],
+          "answer": "Pintar"
+        },
+        {
+          "q": "¿Qué le interesa a Sofía?",
+          "options": [
+            "Los deportes",
+            "La ciencia",
+            "La cocina",
+            "La moda"
+          ],
+          "answer": "La ciencia"
+        }
       ]
     },
     {
-      "id": "rcp_u5_02", "unit": 5, "level": 1,
+      "id": "rcp_u5_02",
+      "unit": 5,
+      "level": 1,
       "title": "Una entrevista sencilla",
       "text": "¿Cómo te llamas? Me llamo Diego. ¿Cuántos años tienes? Tengo veintidós años. ¿Qué te gusta hacer en tu tiempo libre? Me gusta jugar fútbol y me encanta leer novelas. ¿Por qué te gusta leer? Porque me relaja mucho.",
       "questions": [
-        { "q": "¿Cuántos años tiene Diego?", "options": ["20", "21", "22", "23"], "answer": "22" },
-        { "q": "¿Qué le encanta hacer?", "options": ["Jugar fútbol", "Leer novelas", "Ver películas", "Cocinar"], "answer": "Leer novelas" },
-        { "q": "¿Por qué le gusta leer?", "options": ["Porque aprende mucho", "Porque lo relaja", "Porque es fácil", "No lo dice"], "answer": "Porque lo relaja" }
+        {
+          "q": "¿Cuántos años tiene Diego?",
+          "options": [
+            "20",
+            "21",
+            "22",
+            "23"
+          ],
+          "answer": "22"
+        },
+        {
+          "q": "¿Qué le encanta hacer?",
+          "options": [
+            "Jugar fútbol",
+            "Leer novelas",
+            "Ver películas",
+            "Cocinar"
+          ],
+          "answer": "Leer novelas"
+        },
+        {
+          "q": "¿Por qué le gusta leer?",
+          "options": [
+            "Porque aprende mucho",
+            "Porque lo relaja",
+            "Porque es fácil",
+            "No lo dice"
+          ],
+          "answer": "Porque lo relaja"
+        }
       ]
     },
     {
-      "id": "rcp_u5_03", "unit": 5, "level": 1,
+      "id": "rcp_u5_03",
+      "unit": 5,
+      "level": 1,
       "title": "Lo que molesta a Javier",
       "text": "A Javier le molestan los ruidos fuertes. No soporta el humo del cigarrillo. En cambio, le encanta el silencio y la naturaleza. Le interesan mucho los animales. Su sueño es vivir en el campo algún día.",
       "questions": [
-        { "q": "¿Qué le molesta a Javier?", "options": ["El silencio", "Los ruidos fuertes", "Los animales", "El campo"], "answer": "Los ruidos fuertes" },
-        { "q": "¿Qué no soporta?", "options": ["El calor", "El humo del cigarrillo", "El frío", "La lluvia"], "answer": "El humo del cigarrillo" },
-        { "q": "¿Cuál es su sueño?", "options": ["Viajar mucho", "Vivir en el campo", "Tener una casa grande", "Trabajar menos"], "answer": "Vivir en el campo" }
+        {
+          "q": "¿Qué le molesta a Javier?",
+          "options": [
+            "El silencio",
+            "Los ruidos fuertes",
+            "Los animales",
+            "El campo"
+          ],
+          "answer": "Los ruidos fuertes"
+        },
+        {
+          "q": "¿Qué no soporta?",
+          "options": [
+            "El calor",
+            "El humo del cigarrillo",
+            "El frío",
+            "La lluvia"
+          ],
+          "answer": "El humo del cigarrillo"
+        },
+        {
+          "q": "¿Cuál es su sueño?",
+          "options": [
+            "Viajar mucho",
+            "Vivir en el campo",
+            "Tener una casa grande",
+            "Trabajar menos"
+          ],
+          "answer": "Vivir en el campo"
+        }
       ]
     },
-
     {
-      "id": "rcp_u6_01", "unit": 6, "level": 2,
+      "id": "rcp_u6_01",
+      "unit": 6,
+      "level": 2,
       "title": "Comparando dos ciudades",
       "text": "Buenos Aires es más grande que Montevideo. Sin embargo, Montevideo es más tranquila. Buenos Aires tiene más restaurantes y museos, pero Montevideo tiene playas más cercanas al centro. Las dos ciudades son muy interesantes para visitar.",
       "questions": [
-        { "q": "¿Cuál ciudad es más grande?", "options": ["Montevideo", "Buenos Aires", "Son iguales", "No se dice"], "answer": "Buenos Aires" },
-        { "q": "¿Cuál ciudad es más tranquila?", "options": ["Buenos Aires", "Montevideo", "Ninguna", "Las dos"], "answer": "Montevideo" },
-        { "q": "¿Qué tiene Montevideo cerca del centro?", "options": ["Museos", "Playas", "Montañas", "Ríos"], "answer": "Playas" }
+        {
+          "q": "¿Cuál ciudad es más grande?",
+          "options": [
+            "Montevideo",
+            "Buenos Aires",
+            "Son iguales",
+            "No se dice"
+          ],
+          "answer": "Buenos Aires"
+        },
+        {
+          "q": "¿Cuál ciudad es más tranquila?",
+          "options": [
+            "Buenos Aires",
+            "Montevideo",
+            "Ninguna",
+            "Las dos"
+          ],
+          "answer": "Montevideo"
+        },
+        {
+          "q": "¿Qué tiene Montevideo cerca del centro?",
+          "options": [
+            "Museos",
+            "Playas",
+            "Montañas",
+            "Ríos"
+          ],
+          "answer": "Playas"
+        }
       ]
     },
     {
-      "id": "rcp_u6_02", "unit": 6, "level": 2,
+      "id": "rcp_u6_02",
+      "unit": 6,
+      "level": 2,
       "title": "El auto nuevo de Lucía",
       "text": "Lucía compró un auto rojo muy rápido. Es más caro que su auto viejo, pero es mucho más cómodo. Siempre lo lava los sábados. Nunca lo maneja por la noche porque le da un poco de miedo la ciudad de noche.",
       "questions": [
-        { "q": "¿De qué color es el auto nuevo?", "options": ["Azul", "Rojo", "Negro", "Blanco"], "answer": "Rojo" },
-        { "q": "¿Cuándo lava el auto?", "options": ["Los domingos", "Los sábados", "Todos los días", "Los viernes"], "answer": "Los sábados" },
-        { "q": "¿Cuándo no maneja el auto?", "options": ["Por la mañana", "Por la tarde", "Por la noche", "Los fines de semana"], "answer": "Por la noche" }
+        {
+          "q": "¿De qué color es el auto nuevo?",
+          "options": [
+            "Azul",
+            "Rojo",
+            "Negro",
+            "Blanco"
+          ],
+          "answer": "Rojo"
+        },
+        {
+          "q": "¿Cuándo lava el auto?",
+          "options": [
+            "Los domingos",
+            "Los sábados",
+            "Todos los días",
+            "Los viernes"
+          ],
+          "answer": "Los sábados"
+        },
+        {
+          "q": "¿Cuándo no maneja el auto?",
+          "options": [
+            "Por la mañana",
+            "Por la tarde",
+            "Por la noche",
+            "Los fines de semana"
+          ],
+          "answer": "Por la noche"
+        }
       ]
     },
     {
-      "id": "rcp_u6_03", "unit": 6, "level": 2,
+      "id": "rcp_u6_03",
+      "unit": 6,
+      "level": 2,
       "title": "El mejor restaurante del barrio",
       "text": "Este restaurante es el mejor del barrio. La comida es tan buena como en los mejores restaurantes de la ciudad. Los precios son más bajos que en el centro. Normalmente está lleno los fines de semana, así que es mejor reservar mesa.",
       "questions": [
-        { "q": "¿Cómo es la comida en comparación con el centro?", "options": ["Peor", "Tan buena", "Mucho peor", "No se compara"], "answer": "Tan buena" },
-        { "q": "¿Cómo son los precios?", "options": ["Más altos", "Más bajos", "Iguales", "Muy altos"], "answer": "Más bajos" },
-        { "q": "¿Qué es mejor hacer los fines de semana?", "options": ["Llegar temprano", "Reservar mesa", "Ir solo", "No ir"], "answer": "Reservar mesa" }
+        {
+          "q": "¿Cómo es la comida en comparación con el centro?",
+          "options": [
+            "Peor",
+            "Tan buena",
+            "Mucho peor",
+            "No se compara"
+          ],
+          "answer": "Tan buena"
+        },
+        {
+          "q": "¿Cómo son los precios?",
+          "options": [
+            "Más altos",
+            "Más bajos",
+            "Iguales",
+            "Muy altos"
+          ],
+          "answer": "Más bajos"
+        },
+        {
+          "q": "¿Qué es mejor hacer los fines de semana?",
+          "options": [
+            "Llegar temprano",
+            "Reservar mesa",
+            "Ir solo",
+            "No ir"
+          ],
+          "answer": "Reservar mesa"
+        }
       ]
     },
-
     {
-      "id": "rcp_u7_01", "unit": 7, "level": 2,
+      "id": "rcp_u7_01",
+      "unit": 7,
+      "level": 2,
       "title": "Un viaje a Perú",
       "text": "El año pasado viajé a Perú con mi familia. Llegamos a Lima en avión y nos quedamos en un hotel cerca del centro. Visitamos Machu Picchu, que fue increíble. Compramos muchos recuerdos y comimos platos típicos. Fue el mejor viaje de mi vida.",
       "questions": [
-        { "q": "¿Cuándo viajaron a Perú?", "options": ["Este año", "El año pasado", "Hace dos años", "El mes pasado"], "answer": "El año pasado" },
-        { "q": "¿Qué lugar visitaron?", "options": ["Cusco", "Machu Picchu", "El desierto", "El lago Titicaca"], "answer": "Machu Picchu" },
-        { "q": "¿Cómo describe el viaje?", "options": ["Aburrido", "Normal", "El mejor de su vida", "Muy corto"], "answer": "El mejor de su vida" }
+        {
+          "q": "¿Cuándo viajaron a Perú?",
+          "options": [
+            "Este año",
+            "El año pasado",
+            "Hace dos años",
+            "El mes pasado"
+          ],
+          "answer": "El año pasado"
+        },
+        {
+          "q": "¿Qué lugar visitaron?",
+          "options": [
+            "Cusco",
+            "Machu Picchu",
+            "El desierto",
+            "El lago Titicaca"
+          ],
+          "answer": "Machu Picchu"
+        },
+        {
+          "q": "¿Cómo describe el viaje?",
+          "options": [
+            "Aburrido",
+            "Normal",
+            "El mejor de su vida",
+            "Muy corto"
+          ],
+          "answer": "El mejor de su vida"
+        }
       ]
     },
     {
-      "id": "rcp_u7_02", "unit": 7, "level": 2,
+      "id": "rcp_u7_02",
+      "unit": 7,
+      "level": 2,
       "title": "El vuelo cancelado",
       "text": "Ayer fuimos al aeropuerto para tomar un vuelo a Chile. Compramos los boletos hace un mes. Cuando llegamos, la aerolínea canceló el vuelo por el mal tiempo. Esperamos cuatro horas y finalmente nos dieron otro vuelo para el día siguiente.",
       "questions": [
-        { "q": "¿Cuándo compraron los boletos?", "options": ["Ayer", "Hace un mes", "Hace una semana", "Hoy"], "answer": "Hace un mes" },
-        { "q": "¿Por qué se canceló el vuelo?", "options": ["Por un problema técnico", "Por el mal tiempo", "Por falta de pasajeros", "No se dice"], "answer": "Por el mal tiempo" },
-        { "q": "¿Cuánto tiempo esperaron?", "options": ["Dos horas", "Tres horas", "Cuatro horas", "Cinco horas"], "answer": "Cuatro horas" }
+        {
+          "q": "¿Cuándo compraron los boletos?",
+          "options": [
+            "Ayer",
+            "Hace un mes",
+            "Hace una semana",
+            "Hoy"
+          ],
+          "answer": "Hace un mes"
+        },
+        {
+          "q": "¿Por qué se canceló el vuelo?",
+          "options": [
+            "Por un problema técnico",
+            "Por el mal tiempo",
+            "Por falta de pasajeros",
+            "No se dice"
+          ],
+          "answer": "Por el mal tiempo"
+        },
+        {
+          "q": "¿Cuánto tiempo esperaron?",
+          "options": [
+            "Dos horas",
+            "Tres horas",
+            "Cuatro horas",
+            "Cinco horas"
+          ],
+          "answer": "Cuatro horas"
+        }
       ]
     },
     {
-      "id": "rcp_u7_03", "unit": 7, "level": 2,
+      "id": "rcp_u7_03",
+      "unit": 7,
+      "level": 2,
       "title": "Explorando la ciudad",
       "text": "Cuando llegamos a Barcelona, vimos toda la ciudad en un día. Caminamos por las calles antiguas, tomamos fotos de los edificios famosos y comimos en un restaurante local. Al final del día, estábamos muy cansados, pero felices con lo que descubrimos.",
       "questions": [
-        { "q": "¿Qué ciudad visitaron?", "options": ["Madrid", "Barcelona", "Sevilla", "Valencia"], "answer": "Barcelona" },
-        { "q": "¿Qué hicieron primero?", "options": ["Comer", "Caminar por las calles", "Dormir", "Tomar el tren"], "answer": "Caminar por las calles" },
-        { "q": "¿Cómo se sentían al final del día?", "options": ["Aburridos", "Cansados pero felices", "Enojados", "Tristes"], "answer": "Cansados pero felices" }
+        {
+          "q": "¿Qué ciudad visitaron?",
+          "options": [
+            "Madrid",
+            "Barcelona",
+            "Sevilla",
+            "Valencia"
+          ],
+          "answer": "Barcelona"
+        },
+        {
+          "q": "¿Qué hicieron primero?",
+          "options": [
+            "Comer",
+            "Caminar por las calles",
+            "Dormir",
+            "Tomar el tren"
+          ],
+          "answer": "Caminar por las calles"
+        },
+        {
+          "q": "¿Cómo se sentían al final del día?",
+          "options": [
+            "Aburridos",
+            "Cansados pero felices",
+            "Enojados",
+            "Tristes"
+          ],
+          "answer": "Cansados pero felices"
+        }
       ]
     },
-
     {
-      "id": "rcp_u8_01", "unit": 8, "level": 2,
+      "id": "rcp_u8_01",
+      "unit": 8,
+      "level": 2,
       "title": "Cuando era joven",
       "text": "Cuando era joven, trabajaba en una fábrica pequeña. Mi jefe siempre llegaba temprano y era muy estricto. Yo tenía que levantarme a las cinco de la mañana. Con el tiempo, aprendí mucho y hoy tengo mi propio negocio.",
       "questions": [
-        { "q": "¿Dónde trabajaba cuando era joven?", "options": ["En una oficina", "En una fábrica pequeña", "En un banco", "En una tienda"], "answer": "En una fábrica pequeña" },
-        { "q": "¿Cómo era su jefe?", "options": ["Muy amable", "Muy estricto", "Ausente", "Perezoso"], "answer": "Muy estricto" },
-        { "q": "¿Qué tiene hoy?", "options": ["Otro trabajo en fábrica", "Su propio negocio", "Nada", "Un trabajo similar"], "answer": "Su propio negocio" }
+        {
+          "q": "¿Dónde trabajaba cuando era joven?",
+          "options": [
+            "En una oficina",
+            "En una fábrica pequeña",
+            "En un banco",
+            "En una tienda"
+          ],
+          "answer": "En una fábrica pequeña"
+        },
+        {
+          "q": "¿Cómo era su jefe?",
+          "options": [
+            "Muy amable",
+            "Muy estricto",
+            "Ausente",
+            "Perezoso"
+          ],
+          "answer": "Muy estricto"
+        },
+        {
+          "q": "¿Qué tiene hoy?",
+          "options": [
+            "Otro trabajo en fábrica",
+            "Su propio negocio",
+            "Nada",
+            "Un trabajo similar"
+          ],
+          "answer": "Su propio negocio"
+        }
       ]
     },
     {
-      "id": "rcp_u8_02", "unit": 8, "level": 2,
+      "id": "rcp_u8_02",
+      "unit": 8,
+      "level": 2,
       "title": "El día que sonó el teléfono",
       "text": "Mientras trabajaba en mi oficina, sonó el teléfono. Era mi hermana. Ella me dijo que había una emergencia familiar. Yo debía terminar un informe urgente, pero decidí ir a ayudarla de inmediato. Mi jefe entendió la situación.",
       "questions": [
-        { "q": "¿Quién llamó por teléfono?", "options": ["Su madre", "Su hermana", "Su jefe", "Un amigo"], "answer": "Su hermana" },
-        { "q": "¿Qué tenía que terminar?", "options": ["Una carta", "Un informe urgente", "Una llamada", "Un viaje"], "answer": "Un informe urgente" },
-        { "q": "¿Qué decidió hacer?", "options": ["Terminar el informe primero", "Ir a ayudar a su hermana", "No hacer nada", "Llamar a su jefe"], "answer": "Ir a ayudar a su hermana" }
+        {
+          "q": "¿Quién llamó por teléfono?",
+          "options": [
+            "Su madre",
+            "Su hermana",
+            "Su jefe",
+            "Un amigo"
+          ],
+          "answer": "Su hermana"
+        },
+        {
+          "q": "¿Qué tenía que terminar?",
+          "options": [
+            "Una carta",
+            "Un informe urgente",
+            "Una llamada",
+            "Un viaje"
+          ],
+          "answer": "Un informe urgente"
+        },
+        {
+          "q": "¿Qué decidió hacer?",
+          "options": [
+            "Terminar el informe primero",
+            "Ir a ayudar a su hermana",
+            "No hacer nada",
+            "Llamar a su jefe"
+          ],
+          "answer": "Ir a ayudar a su hermana"
+        }
       ]
     },
     {
-      "id": "rcp_u8_03", "unit": 8, "level": 2,
+      "id": "rcp_u8_03",
+      "unit": 8,
+      "level": 2,
       "title": "Mi primer trabajo",
       "text": "Mi primer trabajo fue en una tienda de ropa. Tenía muchos clientes cada día. Debía atender a las personas, organizar la ropa y cerrar la caja al final del día. No ganaba mucho dinero, pero aprendí mucho sobre el trabajo en equipo.",
       "questions": [
-        { "q": "¿Dónde fue su primer trabajo?", "options": ["En un restaurante", "En una tienda de ropa", "En una escuela", "En un hospital"], "answer": "En una tienda de ropa" },
-        { "q": "¿Qué debía hacer al final del día?", "options": ["Cerrar la caja", "Limpiar el piso", "Llamar al jefe", "Contar la ropa"], "answer": "Cerrar la caja" },
-        { "q": "¿Qué aprendió?", "options": ["A vender más", "Sobre el trabajo en equipo", "A no trabajar", "Nada importante"], "answer": "Sobre el trabajo en equipo" }
+        {
+          "q": "¿Dónde fue su primer trabajo?",
+          "options": [
+            "En un restaurante",
+            "En una tienda de ropa",
+            "En una escuela",
+            "En un hospital"
+          ],
+          "answer": "En una tienda de ropa"
+        },
+        {
+          "q": "¿Qué debía hacer al final del día?",
+          "options": [
+            "Cerrar la caja",
+            "Limpiar el piso",
+            "Llamar al jefe",
+            "Contar la ropa"
+          ],
+          "answer": "Cerrar la caja"
+        },
+        {
+          "q": "¿Qué aprendió?",
+          "options": [
+            "A vender más",
+            "Sobre el trabajo en equipo",
+            "A no trabajar",
+            "Nada importante"
+          ],
+          "answer": "Sobre el trabajo en equipo"
+        }
       ]
     },
-
     {
-      "id": "rcp_u9_01", "unit": 9, "level": 2,
+      "id": "rcp_u9_01",
+      "unit": 9,
+      "level": 2,
       "title": "Consejos del médico",
       "text": "El médico me dijo: bebe mucha agua y descansa. No fumes y evita el estrés. Toma esta medicina cada ocho horas. Si el dolor no mejora en tres días, ven de nuevo a la clínica. Es importante seguir estos consejos.",
       "questions": [
-        { "q": "¿Qué debe evitar el paciente?", "options": ["El agua", "El estrés", "El descanso", "La medicina"], "answer": "El estrés" },
-        { "q": "¿Cada cuánto debe tomar la medicina?", "options": ["Cada cuatro horas", "Cada seis horas", "Cada ocho horas", "Cada doce horas"], "answer": "Cada ocho horas" },
-        { "q": "¿Qué debe hacer si no mejora?", "options": ["Ir a otro médico", "Volver a la clínica", "Tomar más medicina", "No hacer nada"], "answer": "Volver a la clínica" }
+        {
+          "q": "¿Qué debe evitar el paciente?",
+          "options": [
+            "El agua",
+            "El estrés",
+            "El descanso",
+            "La medicina"
+          ],
+          "answer": "El estrés"
+        },
+        {
+          "q": "¿Cada cuánto debe tomar la medicina?",
+          "options": [
+            "Cada cuatro horas",
+            "Cada seis horas",
+            "Cada ocho horas",
+            "Cada doce horas"
+          ],
+          "answer": "Cada ocho horas"
+        },
+        {
+          "q": "¿Qué debe hacer si no mejora?",
+          "options": [
+            "Ir a otro médico",
+            "Volver a la clínica",
+            "Tomar más medicina",
+            "No hacer nada"
+          ],
+          "answer": "Volver a la clínica"
+        }
       ]
     },
     {
-      "id": "rcp_u9_02", "unit": 9, "level": 2,
+      "id": "rcp_u9_02",
+      "unit": 9,
+      "level": 2,
       "title": "Un dolor de espalda",
       "text": "Me duele mucho la espalda desde hace una semana. Fui al médico por este dolor. Él me dijo que necesito hacer más ejercicio y sentarme correctamente. En esta clínica, se recomienda también hacer yoga para relajar los músculos.",
       "questions": [
-        { "q": "¿Desde cuándo le duele la espalda?", "options": ["Un día", "Una semana", "Un mes", "Un año"], "answer": "Una semana" },
-        { "q": "¿Qué le recomendó el médico?", "options": ["Descansar más", "Hacer más ejercicio", "Tomar medicina", "Dormir más"], "answer": "Hacer más ejercicio" },
-        { "q": "¿Qué se recomienda en la clínica?", "options": ["Nadar", "Correr", "Hacer yoga", "Levantar pesas"], "answer": "Hacer yoga" }
+        {
+          "q": "¿Desde cuándo le duele la espalda?",
+          "options": [
+            "Un día",
+            "Una semana",
+            "Un mes",
+            "Un año"
+          ],
+          "answer": "Una semana"
+        },
+        {
+          "q": "¿Qué le recomendó el médico?",
+          "options": [
+            "Descansar más",
+            "Hacer más ejercicio",
+            "Tomar medicina",
+            "Dormir más"
+          ],
+          "answer": "Hacer más ejercicio"
+        },
+        {
+          "q": "¿Qué se recomienda en la clínica?",
+          "options": [
+            "Nadar",
+            "Correr",
+            "Hacer yoga",
+            "Levantar pesas"
+          ],
+          "answer": "Hacer yoga"
+        }
       ]
     },
     {
-      "id": "rcp_u9_03", "unit": 9, "level": 2,
+      "id": "rcp_u9_03",
+      "unit": 9,
+      "level": 2,
       "title": "En la sala de espera",
       "text": "En este hospital se habla español e inglés. Los pacientes esperan su turno en la sala. Una enfermera llama a cada persona por su nombre. Si tienes fiebre, debes decírselo a la enfermera de inmediato. La atención es rápida y amable.",
       "questions": [
-        { "q": "¿Qué idiomas se hablan en el hospital?", "options": ["Solo español", "Español e inglés", "Solo inglés", "Francés y español"], "answer": "Español e inglés" },
-        { "q": "¿Quién llama a los pacientes?", "options": ["El médico", "Una enfermera", "El recepcionista", "Nadie"], "answer": "Una enfermera" },
-        { "q": "¿Qué se debe decir si tienes fiebre?", "options": ["Nada", "Decírselo a la enfermera", "Esperar en silencio", "Irse a casa"], "answer": "Decírselo a la enfermera" }
+        {
+          "q": "¿Qué idiomas se hablan en el hospital?",
+          "options": [
+            "Solo español",
+            "Español e inglés",
+            "Solo inglés",
+            "Francés y español"
+          ],
+          "answer": "Español e inglés"
+        },
+        {
+          "q": "¿Quién llama a los pacientes?",
+          "options": [
+            "El médico",
+            "Una enfermera",
+            "El recepcionista",
+            "Nadie"
+          ],
+          "answer": "Una enfermera"
+        },
+        {
+          "q": "¿Qué se debe decir si tienes fiebre?",
+          "options": [
+            "Nada",
+            "Decírselo a la enfermera",
+            "Esperar en silencio",
+            "Irse a casa"
+          ],
+          "answer": "Decírselo a la enfermera"
+        }
       ]
     },
-
     {
-      "id": "rcp_u10_01", "unit": 10, "level": 2,
+      "id": "rcp_u10_01",
+      "unit": 10,
+      "level": 2,
       "title": "El futuro del planeta",
       "text": "En el futuro, habrá menos contaminación si todos reciclamos más. Las ciudades serán más verdes y usaremos más energía solar. Si cada persona plantara un árbol, el aire sería mucho más limpio. Todos debemos cuidar el medioambiente.",
       "questions": [
-        { "q": "¿Qué habrá si reciclamos más?", "options": ["Más contaminación", "Menos contaminación", "Más basura", "Nada cambiará"], "answer": "Menos contaminación" },
-        { "q": "¿Qué tipo de energía usaremos más?", "options": ["Energía nuclear", "Energía solar", "Energía de carbón", "Energía de gas"], "answer": "Energía solar" },
-        { "q": "¿Qué pasaría si cada persona plantara un árbol?", "options": ["Nada", "El aire sería más limpio", "Habría más contaminación", "Costaría dinero"], "answer": "El aire sería más limpio" }
+        {
+          "q": "¿Qué habrá si reciclamos más?",
+          "options": [
+            "Más contaminación",
+            "Menos contaminación",
+            "Más basura",
+            "Nada cambiará"
+          ],
+          "answer": "Menos contaminación"
+        },
+        {
+          "q": "¿Qué tipo de energía usaremos más?",
+          "options": [
+            "Energía nuclear",
+            "Energía solar",
+            "Energía de carbón",
+            "Energía de gas"
+          ],
+          "answer": "Energía solar"
+        },
+        {
+          "q": "¿Qué pasaría si cada persona plantara un árbol?",
+          "options": [
+            "Nada",
+            "El aire sería más limpio",
+            "Habría más contaminación",
+            "Costaría dinero"
+          ],
+          "answer": "El aire sería más limpio"
+        }
       ]
     },
     {
-      "id": "rcp_u10_02", "unit": 10, "level": 2,
+      "id": "rcp_u10_02",
+      "unit": 10,
+      "level": 2,
       "title": "Reciclaje en la fábrica",
       "text": "En esta fábrica, el plástico se recicla todos los días. Las botellas de vidrio también se reciclan aquí. El río que pasa cerca de la fábrica estaba contaminado, pero ahora está mucho más limpio gracias a estos cambios.",
       "questions": [
-        { "q": "¿Qué se recicla todos los días?", "options": ["Papel", "Plástico", "Metal", "Madera"], "answer": "Plástico" },
-        { "q": "¿Qué más se recicla en la fábrica?", "options": ["Botellas de vidrio", "Ropa", "Comida", "Muebles"], "answer": "Botellas de vidrio" },
-        { "q": "¿Cómo está el río ahora?", "options": ["Igual de contaminado", "Más contaminado", "Mucho más limpio", "Seco"], "answer": "Mucho más limpio" }
+        {
+          "q": "¿Qué se recicla todos los días?",
+          "options": [
+            "Papel",
+            "Plástico",
+            "Metal",
+            "Madera"
+          ],
+          "answer": "Plástico"
+        },
+        {
+          "q": "¿Qué más se recicla en la fábrica?",
+          "options": [
+            "Botellas de vidrio",
+            "Ropa",
+            "Comida",
+            "Muebles"
+          ],
+          "answer": "Botellas de vidrio"
+        },
+        {
+          "q": "¿Cómo está el río ahora?",
+          "options": [
+            "Igual de contaminado",
+            "Más contaminado",
+            "Mucho más limpio",
+            "Seco"
+          ],
+          "answer": "Mucho más limpio"
+        }
       ]
     },
     {
-      "id": "rcp_u10_03", "unit": 10, "level": 2,
+      "id": "rcp_u10_03",
+      "unit": 10,
+      "level": 2,
       "title": "Un bosque que vimos",
       "text": "El bosque que vimos el año pasado era enorme y muy verde. Si pudiera, viviría cerca de allí. En diez años, dicen que este bosque será un parque nacional protegido. Espero que eso ayude a proteger a los animales que viven allí.",
       "questions": [
-        { "q": "¿Cómo era el bosque?", "options": ["Pequeño y seco", "Enorme y muy verde", "Sin árboles", "Contaminado"], "answer": "Enorme y muy verde" },
-        { "q": "¿Qué será el bosque en diez años?", "options": ["Una ciudad", "Un parque nacional protegido", "Un desierto", "Una fábrica"], "answer": "Un parque nacional protegido" },
-        { "q": "¿Qué espera la persona?", "options": ["Que se venda el bosque", "Que se proteja a los animales", "Que se corten los árboles", "Nada en particular"], "answer": "Que se proteja a los animales" }
+        {
+          "q": "¿Cómo era el bosque?",
+          "options": [
+            "Pequeño y seco",
+            "Enorme y muy verde",
+            "Sin árboles",
+            "Contaminado"
+          ],
+          "answer": "Enorme y muy verde"
+        },
+        {
+          "q": "¿Qué será el bosque en diez años?",
+          "options": [
+            "Una ciudad",
+            "Un parque nacional protegido",
+            "Un desierto",
+            "Una fábrica"
+          ],
+          "answer": "Un parque nacional protegido"
+        },
+        {
+          "q": "¿Qué espera la persona?",
+          "options": [
+            "Que se venda el bosque",
+            "Que se proteja a los animales",
+            "Que se corten los árboles",
+            "Nada en particular"
+          ],
+          "answer": "Que se proteja a los animales"
+        }
       ]
     },
-
     {
-      "id": "rcp_u11_01", "unit": 11, "level": 3,
+      "id": "rcp_u11_01",
+      "unit": 11,
+      "level": 3,
       "title": "Las noticias de hoy",
       "text": "Ya he visto las noticias de hoy. El periodista dijo que la economía había mejorado un poco. Es posible que las cosas sigan mejorando el próximo año. Ahora estoy leyendo un artículo interesante sobre la nueva tecnología.",
       "questions": [
-        { "q": "¿Qué dijo el periodista?", "options": ["Que la economía empeoró", "Que la economía había mejorado", "Que nada cambió", "Que la economía es igual"], "answer": "Que la economía había mejorado" },
-        { "q": "¿Qué es posible según el texto?", "options": ["Que las cosas empeoren", "Que las cosas sigan mejorando", "Que no cambie nada", "No se dice"], "answer": "Que las cosas sigan mejorando" },
-        { "q": "¿Qué está leyendo ahora?", "options": ["Una novela", "Un artículo sobre tecnología", "Una carta", "Un periódico viejo"], "answer": "Un artículo sobre tecnología" }
+        {
+          "q": "¿Qué dijo el periodista?",
+          "options": [
+            "Que la economía empeoró",
+            "Que la economía había mejorado",
+            "Que nada cambió",
+            "Que la economía es igual"
+          ],
+          "answer": "Que la economía había mejorado"
+        },
+        {
+          "q": "¿Qué es posible según el texto?",
+          "options": [
+            "Que las cosas empeoren",
+            "Que las cosas sigan mejorando",
+            "Que no cambie nada",
+            "No se dice"
+          ],
+          "answer": "Que las cosas sigan mejorando"
+        },
+        {
+          "q": "¿Qué está leyendo ahora?",
+          "options": [
+            "Una novela",
+            "Un artículo sobre tecnología",
+            "Una carta",
+            "Un periódico viejo"
+          ],
+          "answer": "Un artículo sobre tecnología"
+        }
       ]
     },
     {
-      "id": "rcp_u11_02", "unit": 11, "level": 3,
+      "id": "rcp_u11_02",
+      "unit": 11,
+      "level": 3,
       "title": "Un video viral",
       "text": "Ellos han publicado un video en las redes sociales que se ha vuelto muy popular. Ya millones de personas lo han visto. Espero que hayas visto la entrevista completa, porque explica todo el contexto de la noticia.",
       "questions": [
-        { "q": "¿Dónde publicaron el video?", "options": ["En la televisión", "En las redes sociales", "En el periódico", "En la radio"], "answer": "En las redes sociales" },
-        { "q": "¿Cuántas personas lo han visto?", "options": ["Miles", "Millones", "Cientos", "Pocas"], "answer": "Millones" },
-        { "q": "¿Qué explica la entrevista?", "options": ["Nada importante", "Todo el contexto de la noticia", "Solo el título", "Otra noticia"], "answer": "Todo el contexto de la noticia" }
+        {
+          "q": "¿Dónde publicaron el video?",
+          "options": [
+            "En la televisión",
+            "En las redes sociales",
+            "En el periódico",
+            "En la radio"
+          ],
+          "answer": "En las redes sociales"
+        },
+        {
+          "q": "¿Cuántas personas lo han visto?",
+          "options": [
+            "Miles",
+            "Millones",
+            "Cientos",
+            "Pocas"
+          ],
+          "answer": "Millones"
+        },
+        {
+          "q": "¿Qué explica la entrevista?",
+          "options": [
+            "Nada importante",
+            "Todo el contexto de la noticia",
+            "Solo el título",
+            "Otra noticia"
+          ],
+          "answer": "Todo el contexto de la noticia"
+        }
       ]
     },
     {
-      "id": "rcp_u11_03", "unit": 11, "level": 3,
+      "id": "rcp_u11_03",
+      "unit": 11,
+      "level": 3,
       "title": "El programa de radio",
       "text": "Todavía no hemos escuchado el nuevo programa de radio, pero dicen que es muy bueno. El periodista dijo que la próxima semana entrevistará a un escritor famoso. Es posible que el programa se transmita también por internet.",
       "questions": [
-        { "q": "¿Qué dicen del nuevo programa?", "options": ["Que es aburrido", "Que es muy bueno", "Que es corto", "Que es caro"], "answer": "Que es muy bueno" },
-        { "q": "¿A quién entrevistará el periodista?", "options": ["A un político", "A un escritor famoso", "A un deportista", "A un actor"], "answer": "A un escritor famoso" },
-        { "q": "¿Dónde más podría transmitirse el programa?", "options": ["En la televisión", "Por internet", "En el cine", "En un libro"], "answer": "Por internet" }
+        {
+          "q": "¿Qué dicen del nuevo programa?",
+          "options": [
+            "Que es aburrido",
+            "Que es muy bueno",
+            "Que es corto",
+            "Que es caro"
+          ],
+          "answer": "Que es muy bueno"
+        },
+        {
+          "q": "¿A quién entrevistará el periodista?",
+          "options": [
+            "A un político",
+            "A un escritor famoso",
+            "A un deportista",
+            "A un actor"
+          ],
+          "answer": "A un escritor famoso"
+        },
+        {
+          "q": "¿Dónde más podría transmitirse el programa?",
+          "options": [
+            "En la televisión",
+            "Por internet",
+            "En el cine",
+            "En un libro"
+          ],
+          "answer": "Por internet"
+        }
       ]
     },
-
     {
-      "id": "rcp_u12_01", "unit": 12, "level": 3,
+      "id": "rcp_u12_01",
+      "unit": 12,
+      "level": 3,
       "title": "Planes para el verano",
       "text": "Ojalá tengamos un buen verano este año. Pienso viajar a la costa con mi familia. Cuando termine mis exámenes, empezaré a hacer las maletas. Espero que todo salga bien y que el clima sea agradable durante el viaje.",
       "questions": [
-        { "q": "¿Qué espera la persona para el verano?", "options": ["Un mal verano", "Un buen verano", "Quedarse en casa", "Trabajar mucho"], "answer": "Un buen verano" },
-        { "q": "¿Adónde piensa viajar?", "options": ["A las montañas", "A la costa", "A otro país", "A la capital"], "answer": "A la costa" },
-        { "q": "¿Cuándo empezará a hacer las maletas?", "options": ["Ahora mismo", "Cuando termine sus exámenes", "El día del viaje", "Nunca"], "answer": "Cuando termine sus exámenes" }
+        {
+          "q": "¿Qué espera la persona para el verano?",
+          "options": [
+            "Un mal verano",
+            "Un buen verano",
+            "Quedarse en casa",
+            "Trabajar mucho"
+          ],
+          "answer": "Un buen verano"
+        },
+        {
+          "q": "¿Adónde piensa viajar?",
+          "options": [
+            "A las montañas",
+            "A la costa",
+            "A otro país",
+            "A la capital"
+          ],
+          "answer": "A la costa"
+        },
+        {
+          "q": "¿Cuándo empezará a hacer las maletas?",
+          "options": [
+            "Ahora mismo",
+            "Cuando termine sus exámenes",
+            "El día del viaje",
+            "Nunca"
+          ],
+          "answer": "Cuando termine sus exámenes"
+        }
       ]
     },
     {
-      "id": "rcp_u12_02", "unit": 12, "level": 3,
+      "id": "rcp_u12_02",
+      "unit": 12,
+      "level": 3,
       "title": "Un consejo para un amigo",
       "text": "Yo sugeriría que estudies un poco cada día en vez de todo junto al final. Deberías descansar más y organizar mejor tu tiempo. Cuando tengas dudas, escríbeme un mensaje y te ayudaré con gusto.",
       "questions": [
-        { "q": "¿Qué sugiere la persona?", "options": ["Estudiar todo junto al final", "Estudiar un poco cada día", "No estudiar", "Estudiar solo los fines de semana"], "answer": "Estudiar un poco cada día" },
-        { "q": "¿Qué más recomienda?", "options": ["Trabajar más", "Descansar más", "Viajar más", "Dormir menos"], "answer": "Descansar más" },
-        { "q": "¿Qué debe hacer si tiene dudas?", "options": ["Nada", "Escribir un mensaje", "Buscar en internet", "Preguntar a otra persona"], "answer": "Escribir un mensaje" }
+        {
+          "q": "¿Qué sugiere la persona?",
+          "options": [
+            "Estudiar todo junto al final",
+            "Estudiar un poco cada día",
+            "No estudiar",
+            "Estudiar solo los fines de semana"
+          ],
+          "answer": "Estudiar un poco cada día"
+        },
+        {
+          "q": "¿Qué más recomienda?",
+          "options": [
+            "Trabajar más",
+            "Descansar más",
+            "Viajar más",
+            "Dormir menos"
+          ],
+          "answer": "Descansar más"
+        },
+        {
+          "q": "¿Qué debe hacer si tiene dudas?",
+          "options": [
+            "Nada",
+            "Escribir un mensaje",
+            "Buscar en internet",
+            "Preguntar a otra persona"
+          ],
+          "answer": "Escribir un mensaje"
+        }
       ]
     },
     {
-      "id": "rcp_u12_03", "unit": 12, "level": 3,
+      "id": "rcp_u12_03",
+      "unit": 12,
+      "level": 3,
       "title": "Esperando buenas noticias",
       "text": "Esperamos verte pronto en la fiesta de graduación. Ojalá todo salga bien con tus planes de estudiar en el extranjero. Cuando llegues a tu nuevo país, envíanos un mensaje para saber que estás bien.",
       "questions": [
-        { "q": "¿A qué evento esperan que vaya?", "options": ["Un cumpleaños", "Una fiesta de graduación", "Una boda", "Una reunión de trabajo"], "answer": "Una fiesta de graduación" },
-        { "q": "¿Qué planea la persona?", "options": ["Cambiar de trabajo", "Estudiar en el extranjero", "Mudarse de ciudad", "Comprar una casa"], "answer": "Estudiar en el extranjero" },
-        { "q": "¿Qué deben hacer cuando lleguen?", "options": ["Llamar por teléfono", "Enviar un mensaje", "Escribir una carta", "Nada"], "answer": "Enviar un mensaje" }
+        {
+          "q": "¿A qué evento esperan que vaya?",
+          "options": [
+            "Un cumpleaños",
+            "Una fiesta de graduación",
+            "Una boda",
+            "Una reunión de trabajo"
+          ],
+          "answer": "Una fiesta de graduación"
+        },
+        {
+          "q": "¿Qué planea la persona?",
+          "options": [
+            "Cambiar de trabajo",
+            "Estudiar en el extranjero",
+            "Mudarse de ciudad",
+            "Comprar una casa"
+          ],
+          "answer": "Estudiar en el extranjero"
+        },
+        {
+          "q": "¿Qué deben hacer cuando lleguen?",
+          "options": [
+            "Llamar por teléfono",
+            "Enviar un mensaje",
+            "Escribir una carta",
+            "Nada"
+          ],
+          "answer": "Enviar un mensaje"
+        }
       ]
     },
-
     {
-      "id": "rcp_u13_01", "unit": 13, "level": 3,
+      "id": "rcp_u13_01",
+      "unit": 13,
+      "level": 3,
       "title": "Una comunidad unida",
       "text": "La comunidad es pobre; sin embargo, está muy unida. Cuando llegamos al barrio, la reunión ya había terminado, pero los vecinos nos contaron todo. Dudo que exista otro lugar donde la gente se ayude tanto entre sí.",
       "questions": [
-        { "q": "¿Cómo es la comunidad además de pobre?", "options": ["Dividida", "Muy unida", "Indiferente", "Pequeña"], "answer": "Muy unida" },
-        { "q": "¿Qué había pasado cuando llegaron?", "options": ["La reunión no había empezado", "La reunión ya había terminado", "No hubo reunión", "La reunión seguía"], "answer": "La reunión ya había terminado" },
-        { "q": "¿Qué duda tiene la persona?", "options": ["Que la gente sea pobre", "Que exista otro lugar tan solidario", "Que el barrio sea grande", "Que haya vecinos"], "answer": "Que exista otro lugar tan solidario" }
+        {
+          "q": "¿Cómo es la comunidad además de pobre?",
+          "options": [
+            "Dividida",
+            "Muy unida",
+            "Indiferente",
+            "Pequeña"
+          ],
+          "answer": "Muy unida"
+        },
+        {
+          "q": "¿Qué había pasado cuando llegaron?",
+          "options": [
+            "La reunión no había empezado",
+            "La reunión ya había terminado",
+            "No hubo reunión",
+            "La reunión seguía"
+          ],
+          "answer": "La reunión ya había terminado"
+        },
+        {
+          "q": "¿Qué duda tiene la persona?",
+          "options": [
+            "Que la gente sea pobre",
+            "Que exista otro lugar tan solidario",
+            "Que el barrio sea grande",
+            "Que haya vecinos"
+          ],
+          "answer": "Que exista otro lugar tan solidario"
+        }
       ]
     },
     {
-      "id": "rcp_u13_02", "unit": 13, "level": 3,
+      "id": "rcp_u13_02",
+      "unit": 13,
+      "level": 3,
       "title": "Desigualdad en la ciudad",
       "text": "Nunca había visto tanta desigualdad como en esta ciudad. Aunque la ley es estricta, poca gente la respeta de verdad. Era necesario que el gobierno hiciera algo, pero por ahora nada ha cambiado realmente.",
       "questions": [
-        { "q": "¿Qué nunca había visto la persona?", "options": ["Tanta pobreza", "Tanta desigualdad", "Tanta riqueza", "Tanta gente"], "answer": "Tanta desigualdad" },
-        { "q": "¿Qué es cierto sobre la ley?", "options": ["Es débil", "Es estricta pero poco respetada", "No existe", "Es perfecta"], "answer": "Es estricta pero poco respetada" },
-        { "q": "¿Qué era necesario según el texto?", "options": ["Que la gente se fuera", "Que el gobierno hiciera algo", "Que subieran los precios", "Nada"], "answer": "Que el gobierno hiciera algo" }
+        {
+          "q": "¿Qué nunca había visto la persona?",
+          "options": [
+            "Tanta pobreza",
+            "Tanta desigualdad",
+            "Tanta riqueza",
+            "Tanta gente"
+          ],
+          "answer": "Tanta desigualdad"
+        },
+        {
+          "q": "¿Qué es cierto sobre la ley?",
+          "options": [
+            "Es débil",
+            "Es estricta pero poco respetada",
+            "No existe",
+            "Es perfecta"
+          ],
+          "answer": "Es estricta pero poco respetada"
+        },
+        {
+          "q": "¿Qué era necesario según el texto?",
+          "options": [
+            "Que la gente se fuera",
+            "Que el gobierno hiciera algo",
+            "Que subieran los precios",
+            "Nada"
+          ],
+          "answer": "Que el gobierno hiciera algo"
+        }
       ]
     },
     {
-      "id": "rcp_u13_03", "unit": 13, "level": 3,
+      "id": "rcp_u13_03",
+      "unit": 13,
+      "level": 3,
       "title": "Un cambio social",
       "text": "Aunque protestamos durante meses, al principio nada cambió. Deseábamos que las cosas fueran diferentes, pero el proceso fue muy lento. Con el tiempo, y sin que nadie lo esperara, las autoridades escucharon nuestras demandas.",
       "questions": [
-        { "q": "¿Qué pasó al principio de las protestas?", "options": ["Todo cambió rápido", "Nada cambió", "Se detuvieron pronto", "No hubo protestas"], "answer": "Nada cambió" },
-        { "q": "¿Cómo fue el proceso?", "options": ["Muy rápido", "Muy lento", "Instantáneo", "No hubo proceso"], "answer": "Muy lento" },
-        { "q": "¿Qué pasó con el tiempo?", "options": ["Nada", "Las autoridades escucharon las demandas", "La gente se rindió", "Todo empeoró"], "answer": "Las autoridades escucharon las demandas" }
+        {
+          "q": "¿Qué pasó al principio de las protestas?",
+          "options": [
+            "Todo cambió rápido",
+            "Nada cambió",
+            "Se detuvieron pronto",
+            "No hubo protestas"
+          ],
+          "answer": "Nada cambió"
+        },
+        {
+          "q": "¿Cómo fue el proceso?",
+          "options": [
+            "Muy rápido",
+            "Muy lento",
+            "Instantáneo",
+            "No hubo proceso"
+          ],
+          "answer": "Muy lento"
+        },
+        {
+          "q": "¿Qué pasó con el tiempo?",
+          "options": [
+            "Nada",
+            "Las autoridades escucharon las demandas",
+            "La gente se rindió",
+            "Todo empeoró"
+          ],
+          "answer": "Las autoridades escucharon las demandas"
+        }
       ]
     },
-
     {
-      "id": "rcp_u14_01", "unit": 14, "level": 3,
+      "id": "rcp_u14_01",
+      "unit": 14,
+      "level": 3,
       "title": "El lanzamiento de la aplicación",
       "text": "Ella me dijo que enviaría el archivo al día siguiente. Trabajando desde casa, el equipo terminó la aplicación mucho antes de lo esperado. La empresa para la cual trabajan desarrolla software para pequeños negocios.",
       "questions": [
-        { "q": "¿Qué prometió enviar la persona?", "options": ["Un correo", "El archivo", "Una llamada", "Un mensaje"], "answer": "El archivo" },
-        { "q": "¿Dónde trabajaba el equipo?", "options": ["En la oficina", "Desde casa", "En una cafetería", "En otra ciudad"], "answer": "Desde casa" },
-        { "q": "¿Para quién desarrolla software la empresa?", "options": ["Grandes corporaciones", "El gobierno", "Pequeños negocios", "Escuelas"], "answer": "Pequeños negocios" }
+        {
+          "q": "¿Qué prometió enviar la persona?",
+          "options": [
+            "Un correo",
+            "El archivo",
+            "Una llamada",
+            "Un mensaje"
+          ],
+          "answer": "El archivo"
+        },
+        {
+          "q": "¿Dónde trabajaba el equipo?",
+          "options": [
+            "En la oficina",
+            "Desde casa",
+            "En una cafetería",
+            "En otra ciudad"
+          ],
+          "answer": "Desde casa"
+        },
+        {
+          "q": "¿Para quién desarrolla software la empresa?",
+          "options": [
+            "Grandes corporaciones",
+            "El gobierno",
+            "Pequeños negocios",
+            "Escuelas"
+          ],
+          "answer": "Pequeños negocios"
+        }
       ]
     },
     {
-      "id": "rcp_u14_02", "unit": 14, "level": 3,
+      "id": "rcp_u14_02",
+      "unit": 14,
+      "level": 3,
       "title": "Una actualización importante",
       "text": "El ingeniero cuyo proyecto ganó el premio explicó que la mejora del sistema tomó meses de trabajo. Si hubieran invertido más dinero al principio, la aplicación habría tenido éxito mucho antes. Aun así, ahora funciona perfectamente.",
       "questions": [
-        { "q": "¿Qué ganó el ingeniero?", "options": ["Un premio", "Dinero extra", "Un ascenso", "Nada"], "answer": "Un premio" },
-        { "q": "¿Cuánto tiempo tomó la mejora del sistema?", "options": ["Días", "Semanas", "Meses", "Años"], "answer": "Meses" },
-        { "q": "¿Cómo funciona la aplicación ahora?", "options": ["Mal", "Perfectamente", "Con errores", "No funciona"], "answer": "Perfectamente" }
+        {
+          "q": "¿Qué ganó el ingeniero?",
+          "options": [
+            "Un premio",
+            "Dinero extra",
+            "Un ascenso",
+            "Nada"
+          ],
+          "answer": "Un premio"
+        },
+        {
+          "q": "¿Cuánto tiempo tomó la mejora del sistema?",
+          "options": [
+            "Días",
+            "Semanas",
+            "Meses",
+            "Años"
+          ],
+          "answer": "Meses"
+        },
+        {
+          "q": "¿Cómo funciona la aplicación ahora?",
+          "options": [
+            "Mal",
+            "Perfectamente",
+            "Con errores",
+            "No funciona"
+          ],
+          "answer": "Perfectamente"
+        }
       ]
     },
     {
-      "id": "rcp_u14_03", "unit": 14, "level": 3,
+      "id": "rcp_u14_03",
+      "unit": 14,
+      "level": 3,
       "title": "La creación de nueva tecnología",
       "text": "La creación de nueva tecnología cambia todo cada año. Al seguir haciendo clic en las actualizaciones, los usuarios aceptan nuevos términos. Para cuando termine este proyecto, habremos aprendido mucho sobre inteligencia artificial.",
       "questions": [
-        { "q": "¿Qué cambia cada año según el texto?", "options": ["La economía", "La creación de nueva tecnología", "El clima", "La política"], "answer": "La creación de nueva tecnología" },
-        { "q": "¿Qué aceptan los usuarios al hacer clic?", "options": ["Nuevos precios", "Nuevos términos", "Nada", "Un contrato de trabajo"], "answer": "Nuevos términos" },
-        { "q": "¿Sobre qué habrán aprendido mucho?", "options": ["Robótica", "Inteligencia artificial", "Programación básica", "Redes sociales"], "answer": "Inteligencia artificial" }
+        {
+          "q": "¿Qué cambia cada año según el texto?",
+          "options": [
+            "La economía",
+            "La creación de nueva tecnología",
+            "El clima",
+            "La política"
+          ],
+          "answer": "La creación de nueva tecnología"
+        },
+        {
+          "q": "¿Qué aceptan los usuarios al hacer clic?",
+          "options": [
+            "Nuevos precios",
+            "Nuevos términos",
+            "Nada",
+            "Un contrato de trabajo"
+          ],
+          "answer": "Nuevos términos"
+        },
+        {
+          "q": "¿Sobre qué habrán aprendido mucho?",
+          "options": [
+            "Robótica",
+            "Inteligencia artificial",
+            "Programación básica",
+            "Redes sociales"
+          ],
+          "answer": "Inteligencia artificial"
+        }
       ]
     },
-
     {
-      "id": "rcp_u15_01", "unit": 15, "level": 3,
+      "id": "rcp_u15_01",
+      "unit": 15,
+      "level": 3,
       "title": "Un festival popularísimo",
       "text": "Me alegra que te guste esta tradición tan antigua. Este festival es popularísimo en todo el país. Antes de que empiece el espectáculo, la gente compra las entradas con semanas de anticipación porque siempre se agotan rápido.",
       "questions": [
-        { "q": "¿Qué le alegra a la persona?", "options": ["Que no exista la tradición", "Que le guste esta tradición", "Nada en particular", "Que sea cara"], "answer": "Que le guste esta tradición" },
-        { "q": "¿Cómo es el festival?", "options": ["Poco conocido", "Popularísimo", "Aburrido", "Solo local"], "answer": "Popularísimo" },
-        { "q": "¿Qué hace la gente antes del espectáculo?", "options": ["Nada especial", "Compra las entradas con anticipación", "Espera en la puerta", "No compra entradas"], "answer": "Compra las entradas con anticipación" }
+        {
+          "q": "¿Qué le alegra a la persona?",
+          "options": [
+            "Que no exista la tradición",
+            "Que le guste esta tradición",
+            "Nada en particular",
+            "Que sea cara"
+          ],
+          "answer": "Que le guste esta tradición"
+        },
+        {
+          "q": "¿Cómo es el festival?",
+          "options": [
+            "Poco conocido",
+            "Popularísimo",
+            "Aburrido",
+            "Solo local"
+          ],
+          "answer": "Popularísimo"
+        },
+        {
+          "q": "¿Qué hace la gente antes del espectáculo?",
+          "options": [
+            "Nada especial",
+            "Compra las entradas con anticipación",
+            "Espera en la puerta",
+            "No compra entradas"
+          ],
+          "answer": "Compra las entradas con anticipación"
+        }
       ]
     },
     {
-      "id": "rcp_u15_02", "unit": 15, "level": 3,
+      "id": "rcp_u15_02",
+      "unit": 15,
+      "level": 3,
       "title": "El museo más hermoso",
       "text": "Este cuadro es el más hermoso de todos los que hay en el museo. Me sorprende que haya venido tanta gente hoy, ya que normalmente está más tranquilo. Esta costumbre de visitar el museo los domingos es más antigua que la ciudad misma.",
       "questions": [
-        { "q": "¿Qué cuadro es el más hermoso?", "options": ["El de la entrada", "El mencionado en el texto", "Ninguno en particular", "No se sabe"], "answer": "El mencionado en el texto" },
-        { "q": "¿Qué sorprende a la persona?", "options": ["Que el museo esté cerrado", "Que haya venido tanta gente", "Que no haya nadie", "El precio de las entradas"], "answer": "Que haya venido tanta gente" },
-        { "q": "¿Qué costumbre menciona el texto?", "options": ["Visitar el museo los lunes", "Visitar el museo los domingos", "No visitar nunca el museo", "Visitar solo de noche"], "answer": "Visitar el museo los domingos" }
+        {
+          "q": "¿Qué cuadro es el más hermoso?",
+          "options": [
+            "El de la entrada",
+            "El mencionado en el texto",
+            "Ninguno en particular",
+            "No se sabe"
+          ],
+          "answer": "El mencionado en el texto"
+        },
+        {
+          "q": "¿Qué sorprende a la persona?",
+          "options": [
+            "Que el museo esté cerrado",
+            "Que haya venido tanta gente",
+            "Que no haya nadie",
+            "El precio de las entradas"
+          ],
+          "answer": "Que haya venido tanta gente"
+        },
+        {
+          "q": "¿Qué costumbre menciona el texto?",
+          "options": [
+            "Visitar el museo los lunes",
+            "Visitar el museo los domingos",
+            "No visitar nunca el museo",
+            "Visitar solo de noche"
+          ],
+          "answer": "Visitar el museo los domingos"
+        }
       ]
     },
     {
-      "id": "rcp_u15_03", "unit": 15, "level": 3,
+      "id": "rcp_u15_03",
+      "unit": 15,
+      "level": 3,
       "title": "Una exposición inolvidable",
       "text": "Es una pena que la exposición haya cerrado tan pronto, porque era realmente extraordinaria. En cuanto termine el concierto de esta noche, iremos a ver la última muestra del artista. Este museo es peor que el del centro, pero tiene obras únicas.",
       "questions": [
-        { "q": "¿Qué es una pena según el texto?", "options": ["Que la exposición sea gratis", "Que la exposición haya cerrado", "Que el museo esté abierto", "Nada"], "answer": "Que la exposición haya cerrado" },
-        { "q": "¿Qué harán después del concierto?", "options": ["Ir a cenar", "Ver la última muestra del artista", "Volver a casa", "Nada especial"], "answer": "Ver la última muestra del artista" },
-        { "q": "¿Qué tiene el museo aunque sea peor que el del centro?", "options": ["Más espacio", "Obras únicas", "Entradas gratis", "Mejor ubicación"], "answer": "Obras únicas" }
+        {
+          "q": "¿Qué es una pena según el texto?",
+          "options": [
+            "Que la exposición sea gratis",
+            "Que la exposición haya cerrado",
+            "Que el museo esté abierto",
+            "Nada"
+          ],
+          "answer": "Que la exposición haya cerrado"
+        },
+        {
+          "q": "¿Qué harán después del concierto?",
+          "options": [
+            "Ir a cenar",
+            "Ver la última muestra del artista",
+            "Volver a casa",
+            "Nada especial"
+          ],
+          "answer": "Ver la última muestra del artista"
+        },
+        {
+          "q": "¿Qué tiene el museo aunque sea peor que el del centro?",
+          "options": [
+            "Más espacio",
+            "Obras únicas",
+            "Entradas gratis",
+            "Mejor ubicación"
+          ],
+          "answer": "Obras únicas"
+        }
       ]
     },
-
     {
-      "id": "rcp_u16_01", "unit": 16, "level": 4,
+      "id": "rcp_u16_01",
+      "unit": 16,
+      "level": 4,
       "title": "Una decisión de negocios",
       "text": "Si yo fuera el gerente, cambiaría la estrategia de la empresa. Las ventas bajaron debido a la crisis económica y necesitamos un empleado que hable varios idiomas para expandirnos al mercado internacional. Dado que las ganancias cayeron, debemos actuar rápido.",
       "questions": [
-        { "q": "¿Qué haría la persona si fuera gerente?", "options": ["No cambiaría nada", "Cambiaría la estrategia", "Cerraría la empresa", "Despediría a todos"], "answer": "Cambiaría la estrategia" },
-        { "q": "¿Por qué bajaron las ventas?", "options": ["Por mala publicidad", "Debido a la crisis económica", "Por falta de empleados", "No se dice"], "answer": "Debido a la crisis económica" },
-        { "q": "¿Qué tipo de empleado necesitan?", "options": ["Uno con experiencia en ventas", "Uno que hable varios idiomas", "Uno joven", "Uno local"], "answer": "Uno que hable varios idiomas" }
+        {
+          "q": "¿Qué haría la persona si fuera gerente?",
+          "options": [
+            "No cambiaría nada",
+            "Cambiaría la estrategia",
+            "Cerraría la empresa",
+            "Despediría a todos"
+          ],
+          "answer": "Cambiaría la estrategia"
+        },
+        {
+          "q": "¿Por qué bajaron las ventas?",
+          "options": [
+            "Por mala publicidad",
+            "Debido a la crisis económica",
+            "Por falta de empleados",
+            "No se dice"
+          ],
+          "answer": "Debido a la crisis económica"
+        },
+        {
+          "q": "¿Qué tipo de empleado necesitan?",
+          "options": [
+            "Uno con experiencia en ventas",
+            "Uno que hable varios idiomas",
+            "Uno joven",
+            "Uno local"
+          ],
+          "answer": "Uno que hable varios idiomas"
+        }
       ]
     },
     {
-      "id": "rcp_u16_02", "unit": 16, "level": 4,
+      "id": "rcp_u16_02",
+      "unit": 16,
+      "level": 4,
       "title": "El contrato perdido",
       "text": "Si hubiéramos firmado el contrato antes, habríamos ganado mucho más dinero este año. Firmando el acuerdo con el otro socio, aseguraron una inversión importante. No hay nadie que quiera tomar ese riesgo ahora, así que la oportunidad se perdió.",
       "questions": [
-        { "q": "¿Qué habría pasado si hubieran firmado antes?", "options": ["Habrían perdido dinero", "Habrían ganado más dinero", "Nada habría cambiado", "Habrían perdido el negocio"], "answer": "Habrían ganado más dinero" },
-        { "q": "¿Qué aseguraron al firmar el acuerdo?", "options": ["Un préstamo", "Una inversión importante", "Un nuevo cliente", "Un local nuevo"], "answer": "Una inversión importante" },
-        { "q": "¿Qué pasó con la oportunidad?", "options": ["Se aprovechó", "Se perdió", "Se pospuso", "Se duplicó"], "answer": "Se perdió" }
+        {
+          "q": "¿Qué habría pasado si hubieran firmado antes?",
+          "options": [
+            "Habrían perdido dinero",
+            "Habrían ganado más dinero",
+            "Nada habría cambiado",
+            "Habrían perdido el negocio"
+          ],
+          "answer": "Habrían ganado más dinero"
+        },
+        {
+          "q": "¿Qué aseguraron al firmar el acuerdo?",
+          "options": [
+            "Un préstamo",
+            "Una inversión importante",
+            "Un nuevo cliente",
+            "Un local nuevo"
+          ],
+          "answer": "Una inversión importante"
+        },
+        {
+          "q": "¿Qué pasó con la oportunidad?",
+          "options": [
+            "Se aprovechó",
+            "Se perdió",
+            "Se pospuso",
+            "Se duplicó"
+          ],
+          "answer": "Se perdió"
+        }
       ]
     },
     {
-      "id": "rcp_u16_03", "unit": 16, "level": 4,
+      "id": "rcp_u16_03",
+      "unit": 16,
+      "level": 4,
       "title": "Como el cliente se quejó",
       "text": "Como el cliente se quejó por el mal servicio, la empresa cambió toda su política de atención. Leyendo el informe anual, la directora encontró varios errores importantes. Si el mercado creciera el próximo año, contrataríamos más personal.",
       "questions": [
-        { "q": "¿Por qué cambió la empresa su política?", "options": ["Por decisión propia", "Porque el cliente se quejó", "Por orden del gobierno", "Por falta de dinero"], "answer": "Porque el cliente se quejó" },
-        { "q": "¿Qué encontró la directora?", "options": ["Buenas noticias", "Varios errores importantes", "Nada relevante", "Un premio"], "answer": "Varios errores importantes" },
-        { "q": "¿Qué harían si el mercado creciera?", "options": ["Despedir personal", "Contratar más personal", "Cerrar la empresa", "No cambiar nada"], "answer": "Contratar más personal" }
+        {
+          "q": "¿Por qué cambió la empresa su política?",
+          "options": [
+            "Por decisión propia",
+            "Porque el cliente se quejó",
+            "Por orden del gobierno",
+            "Por falta de dinero"
+          ],
+          "answer": "Porque el cliente se quejó"
+        },
+        {
+          "q": "¿Qué encontró la directora?",
+          "options": [
+            "Buenas noticias",
+            "Varios errores importantes",
+            "Nada relevante",
+            "Un premio"
+          ],
+          "answer": "Varios errores importantes"
+        },
+        {
+          "q": "¿Qué harían si el mercado creciera?",
+          "options": [
+            "Despedir personal",
+            "Contratar más personal",
+            "Cerrar la empresa",
+            "No cambiar nada"
+          ],
+          "answer": "Contratar más personal"
+        }
       ]
     },
-
     {
-      "id": "rcp_u17_01", "unit": 17, "level": 4,
+      "id": "rcp_u17_01",
+      "unit": 17,
+      "level": 4,
       "title": "La cumbre internacional",
       "text": "No sé dónde se realizará la próxima cumbre, pero es importante que los países cooperen para resolver el problema climático. El acuerdo anterior fue firmado por casi todos los presidentes, pero algunos países todavía se oponen al tratado.",
       "questions": [
-        { "q": "¿Qué no sabe la persona?", "options": ["Cuándo será la cumbre", "Dónde se realizará la cumbre", "Quién asistirá", "Nada, lo sabe todo"], "answer": "Dónde se realizará la cumbre" },
-        { "q": "¿Qué es importante según el texto?", "options": ["Que un solo país decida", "Que los países cooperen", "Que nadie participe", "Cancelar la cumbre"], "answer": "Que los países cooperen" },
-        { "q": "¿Qué hacen algunos países?", "options": ["Apoyan el tratado", "Se oponen al tratado", "Ignoran el tema", "Firman de inmediato"], "answer": "Se oponen al tratado" }
+        {
+          "q": "¿Qué no sabe la persona?",
+          "options": [
+            "Cuándo será la cumbre",
+            "Dónde se realizará la cumbre",
+            "Quién asistirá",
+            "Nada, lo sabe todo"
+          ],
+          "answer": "Dónde se realizará la cumbre"
+        },
+        {
+          "q": "¿Qué es importante según el texto?",
+          "options": [
+            "Que un solo país decida",
+            "Que los países cooperen",
+            "Que nadie participe",
+            "Cancelar la cumbre"
+          ],
+          "answer": "Que los países cooperen"
+        },
+        {
+          "q": "¿Qué hacen algunos países?",
+          "options": [
+            "Apoyan el tratado",
+            "Se oponen al tratado",
+            "Ignoran el tema",
+            "Firman de inmediato"
+          ],
+          "answer": "Se oponen al tratado"
+        }
       ]
     },
     {
-      "id": "rcp_u17_02", "unit": 17, "level": 4,
+      "id": "rcp_u17_02",
+      "unit": 17,
+      "level": 4,
       "title": "Refugiados en la comunidad",
       "text": "Los refugiados fueron acogidos por la comunidad local, aunque al principio hubo cierta resistencia. Por otro lado, algunos vecinos ofrecieron trabajo y vivienda temporal. Primero llegaron las familias, luego llegaron los grupos de jóvenes solteros.",
       "questions": [
-        { "q": "¿Quién acogió a los refugiados?", "options": ["El gobierno nacional", "La comunidad local", "Una organización extranjera", "Nadie"], "answer": "La comunidad local" },
-        { "q": "¿Qué ofrecieron algunos vecinos?", "options": ["Solo comida", "Trabajo y vivienda temporal", "Dinero solamente", "Nada"], "answer": "Trabajo y vivienda temporal" },
-        { "q": "¿Quiénes llegaron primero?", "options": ["Los jóvenes solteros", "Las familias", "Los ancianos", "Nadie llegó primero"], "answer": "Las familias" }
+        {
+          "q": "¿Quién acogió a los refugiados?",
+          "options": [
+            "El gobierno nacional",
+            "La comunidad local",
+            "Una organización extranjera",
+            "Nadie"
+          ],
+          "answer": "La comunidad local"
+        },
+        {
+          "q": "¿Qué ofrecieron algunos vecinos?",
+          "options": [
+            "Solo comida",
+            "Trabajo y vivienda temporal",
+            "Dinero solamente",
+            "Nada"
+          ],
+          "answer": "Trabajo y vivienda temporal"
+        },
+        {
+          "q": "¿Quiénes llegaron primero?",
+          "options": [
+            "Los jóvenes solteros",
+            "Las familias",
+            "Los ancianos",
+            "Nadie llegó primero"
+          ],
+          "answer": "Las familias"
+        }
       ]
     },
     {
-      "id": "rcp_u17_03", "unit": 17, "level": 4,
+      "id": "rcp_u17_03",
+      "unit": 17,
+      "level": 4,
       "title": "Un tratado comercial",
       "text": "Me pregunto si el nuevo tratado comercial funcionará como esperan los economistas. Es necesario que se apruebe la resolución antes de fin de año. La economía crece; no obstante, la pobreza persiste en varias regiones del país.",
       "questions": [
-        { "q": "¿Qué se pregunta la persona?", "options": ["Si el tratado ya se firmó", "Si el tratado funcionará", "Quién escribió el tratado", "Cuándo empezó el tratado"], "answer": "Si el tratado funcionará" },
-        { "q": "¿Qué es necesario antes de fin de año?", "options": ["Cancelar la resolución", "Aprobar la resolución", "Escribir una nueva ley", "Nada"], "answer": "Aprobar la resolución" },
-        { "q": "¿Qué persiste a pesar del crecimiento económico?", "options": ["El desempleo", "La pobreza", "La inflación", "La corrupción"], "answer": "La pobreza" }
+        {
+          "q": "¿Qué se pregunta la persona?",
+          "options": [
+            "Si el tratado ya se firmó",
+            "Si el tratado funcionará",
+            "Quién escribió el tratado",
+            "Cuándo empezó el tratado"
+          ],
+          "answer": "Si el tratado funcionará"
+        },
+        {
+          "q": "¿Qué es necesario antes de fin de año?",
+          "options": [
+            "Cancelar la resolución",
+            "Aprobar la resolución",
+            "Escribir una nueva ley",
+            "Nada"
+          ],
+          "answer": "Aprobar la resolución"
+        },
+        {
+          "q": "¿Qué persiste a pesar del crecimiento económico?",
+          "options": [
+            "El desempleo",
+            "La pobreza",
+            "La inflación",
+            "La corrupción"
+          ],
+          "answer": "La pobreza"
+        }
       ]
     },
-
     {
-      "id": "rcp_u18_01", "unit": 18, "level": 4,
+      "id": "rcp_u18_01",
+      "unit": 18,
+      "level": 4,
       "title": "La vacuna eficaz",
       "text": "Se dice que la vacuna es muy eficaz contra la nueva enfermedad. El médico insiste en que nos vacunemos lo antes posible. Para 2030, los científicos habrán descubierto probablemente una cura definitiva para muchas otras enfermedades.",
       "questions": [
-        { "q": "¿Qué se dice de la vacuna?", "options": ["Que es peligrosa", "Que es muy eficaz", "Que no funciona", "Que es cara"], "answer": "Que es muy eficaz" },
-        { "q": "¿En qué insiste el médico?", "options": ["En descansar más", "En que nos vacunemos", "En tomar medicina", "En hacer ejercicio"], "answer": "En que nos vacunemos" },
-        { "q": "¿Qué podría pasar para 2030?", "options": ["Nada cambiará", "Habrán descubierto una cura", "Se acabará la ciencia", "No se sabe"], "answer": "Habrán descubierto una cura" }
+        {
+          "q": "¿Qué se dice de la vacuna?",
+          "options": [
+            "Que es peligrosa",
+            "Que es muy eficaz",
+            "Que no funciona",
+            "Que es cara"
+          ],
+          "answer": "Que es muy eficaz"
+        },
+        {
+          "q": "¿En qué insiste el médico?",
+          "options": [
+            "En descansar más",
+            "En que nos vacunemos",
+            "En tomar medicina",
+            "En hacer ejercicio"
+          ],
+          "answer": "En que nos vacunemos"
+        },
+        {
+          "q": "¿Qué podría pasar para 2030?",
+          "options": [
+            "Nada cambiará",
+            "Habrán descubierto una cura",
+            "Se acabará la ciencia",
+            "No se sabe"
+          ],
+          "answer": "Habrán descubierto una cura"
+        }
       ]
     },
     {
-      "id": "rcp_u18_02", "unit": 18, "level": 4,
+      "id": "rcp_u18_02",
+      "unit": 18,
+      "level": 4,
       "title": "Resultados del experimento",
       "text": "Él nos dijo que el experimento había fallado varias veces antes de tener éxito. Ella explicó que los resultados anteriores eran incorrectos debido a un error de cálculo. El comité sugiere que el equipo publique los nuevos datos cuanto antes.",
       "questions": [
-        { "q": "¿Qué pasó con el experimento al principio?", "options": ["Tuvo éxito de inmediato", "Había fallado varias veces", "No se realizó", "Fue cancelado"], "answer": "Había fallado varias veces" },
-        { "q": "¿Por qué eran incorrectos los resultados anteriores?", "options": ["Por falta de tiempo", "Por un error de cálculo", "Por mala suerte", "No se explica"], "answer": "Por un error de cálculo" },
-        { "q": "¿Qué sugiere el comité?", "options": ["Que se detenga la investigación", "Que se publiquen los nuevos datos", "Que se repita todo", "Nada"], "answer": "Que se publiquen los nuevos datos" }
+        {
+          "q": "¿Qué pasó con el experimento al principio?",
+          "options": [
+            "Tuvo éxito de inmediato",
+            "Había fallado varias veces",
+            "No se realizó",
+            "Fue cancelado"
+          ],
+          "answer": "Había fallado varias veces"
+        },
+        {
+          "q": "¿Por qué eran incorrectos los resultados anteriores?",
+          "options": [
+            "Por falta de tiempo",
+            "Por un error de cálculo",
+            "Por mala suerte",
+            "No se explica"
+          ],
+          "answer": "Por un error de cálculo"
+        },
+        {
+          "q": "¿Qué sugiere el comité?",
+          "options": [
+            "Que se detenga la investigación",
+            "Que se publiquen los nuevos datos",
+            "Que se repita todo",
+            "Nada"
+          ],
+          "answer": "Que se publiquen los nuevos datos"
+        }
       ]
     },
     {
-      "id": "rcp_u18_03", "unit": 18, "level": 4,
+      "id": "rcp_u18_03",
+      "unit": 18,
+      "level": 4,
       "title": "Vida en otro planeta",
       "text": "Se cree que el planeta descubierto recientemente tiene agua en su superficie. El profesor recomienda que leamos el estudio completo antes de sacar conclusiones. Para fines de siglo, habremos resuelto probablemente muchas preguntas sobre el universo.",
       "questions": [
-        { "q": "¿Qué se cree sobre el planeta?", "options": ["Que tiene vida inteligente", "Que tiene agua en su superficie", "Que es muy pequeño", "Que está muy cerca"], "answer": "Que tiene agua en su superficie" },
-        { "q": "¿Qué recomienda el profesor?", "options": ["Ignorar el estudio", "Leer el estudio completo", "Escribir un nuevo estudio", "Nada"], "answer": "Leer el estudio completo" },
-        { "q": "¿Qué esperan resolver para fines de siglo?", "options": ["Problemas económicos", "Preguntas sobre el universo", "Problemas de tráfico", "Nada en particular"], "answer": "Preguntas sobre el universo" }
+        {
+          "q": "¿Qué se cree sobre el planeta?",
+          "options": [
+            "Que tiene vida inteligente",
+            "Que tiene agua en su superficie",
+            "Que es muy pequeño",
+            "Que está muy cerca"
+          ],
+          "answer": "Que tiene agua en su superficie"
+        },
+        {
+          "q": "¿Qué recomienda el profesor?",
+          "options": [
+            "Ignorar el estudio",
+            "Leer el estudio completo",
+            "Escribir un nuevo estudio",
+            "Nada"
+          ],
+          "answer": "Leer el estudio completo"
+        },
+        {
+          "q": "¿Qué esperan resolver para fines de siglo?",
+          "options": [
+            "Problemas económicos",
+            "Preguntas sobre el universo",
+            "Problemas de tráfico",
+            "Nada en particular"
+          ],
+          "answer": "Preguntas sobre el universo"
+        }
       ]
     },
-
     {
-      "id": "rcp_u19_01", "unit": 19, "level": 4,
+      "id": "rcp_u19_01",
+      "unit": 19,
+      "level": 4,
       "title": "Un candidato polémico",
       "text": "Aunque es un buen candidato, no ganará las elecciones según las encuestas. Por más que insista en sus propuestas, la ley que él quiere cambiar seguirá igual. El hecho de que renunciara a su cargo anterior sorprendió a todos sus seguidores.",
       "questions": [
-        { "q": "¿Qué dicen las encuestas sobre el candidato?", "options": ["Que ganará fácilmente", "Que no ganará", "Que empatará", "No se menciona"], "answer": "Que no ganará" },
-        { "q": "¿Qué pasará con la ley aunque él insista?", "options": ["Cambiará pronto", "Seguirá igual", "Se eliminará", "Se votará de nuevo"], "answer": "Seguirá igual" },
-        { "q": "¿Qué sorprendió a sus seguidores?", "options": ["Su discurso", "Que renunciara a su cargo anterior", "Su nueva propuesta", "Su edad"], "answer": "Que renunciara a su cargo anterior" }
+        {
+          "q": "¿Qué dicen las encuestas sobre el candidato?",
+          "options": [
+            "Que ganará fácilmente",
+            "Que no ganará",
+            "Que empatará",
+            "No se menciona"
+          ],
+          "answer": "Que no ganará"
+        },
+        {
+          "q": "¿Qué pasará con la ley aunque él insista?",
+          "options": [
+            "Cambiará pronto",
+            "Seguirá igual",
+            "Se eliminará",
+            "Se votará de nuevo"
+          ],
+          "answer": "Seguirá igual"
+        },
+        {
+          "q": "¿Qué sorprendió a sus seguidores?",
+          "options": [
+            "Su discurso",
+            "Que renunciara a su cargo anterior",
+            "Su nueva propuesta",
+            "Su edad"
+          ],
+          "answer": "Que renunciara a su cargo anterior"
+        }
       ]
     },
     {
-      "id": "rcp_u19_02", "unit": 19, "level": 4,
+      "id": "rcp_u19_02",
+      "unit": 19,
+      "level": 4,
       "title": "Un país dividido",
       "text": "Es increíble lo dividido que está el país en este momento. Aunque el debate televisivo fue largo, pocos ciudadanos lo vieron completo. El hecho de que los políticos mintieran repetidamente preocupa profundamente a los votantes jóvenes.",
       "questions": [
-        { "q": "¿Cómo está el país según el texto?", "options": ["Muy unido", "Muy dividido", "Indiferente", "En calma"], "answer": "Muy dividido" },
-        { "q": "¿Quiénes vieron el debate completo?", "options": ["La mayoría", "Pocos ciudadanos", "Todos", "Nadie"], "answer": "Pocos ciudadanos" },
-        { "q": "¿Qué preocupa a los votantes jóvenes?", "options": ["El precio de la comida", "Que los políticos mintieran", "El clima", "Los impuestos"], "answer": "Que los políticos mintieran" }
+        {
+          "q": "¿Cómo está el país según el texto?",
+          "options": [
+            "Muy unido",
+            "Muy dividido",
+            "Indiferente",
+            "En calma"
+          ],
+          "answer": "Muy dividido"
+        },
+        {
+          "q": "¿Quiénes vieron el debate completo?",
+          "options": [
+            "La mayoría",
+            "Pocos ciudadanos",
+            "Todos",
+            "Nadie"
+          ],
+          "answer": "Pocos ciudadanos"
+        },
+        {
+          "q": "¿Qué preocupa a los votantes jóvenes?",
+          "options": [
+            "El precio de la comida",
+            "Que los políticos mintieran",
+            "El clima",
+            "Los impuestos"
+          ],
+          "answer": "Que los políticos mintieran"
+        }
       ]
     },
     {
-      "id": "rcp_u19_03", "unit": 19, "level": 4,
+      "id": "rcp_u19_03",
+      "unit": 19,
+      "level": 4,
       "title": "Una joven líder",
       "text": "Aunque es joven, lidera el partido con gran habilidad. Por más que sus opositores la critiquen, ella sigue ganando apoyo popular. Es admirable lo comprometida que está con las causas sociales que defiende desde hace años.",
       "questions": [
-        { "q": "¿Qué lidera la joven?", "options": ["Una empresa", "El partido", "Una universidad", "Un periódico"], "answer": "El partido" },
-        { "q": "¿Qué sigue ganando a pesar de las críticas?", "options": ["Dinero", "Apoyo popular", "Enemigos", "Nada"], "answer": "Apoyo popular" },
-        { "q": "¿Con qué está comprometida?", "options": ["Las causas sociales", "Los negocios", "Los deportes", "El turismo"], "answer": "Las causas sociales" }
+        {
+          "q": "¿Qué lidera la joven?",
+          "options": [
+            "Una empresa",
+            "El partido",
+            "Una universidad",
+            "Un periódico"
+          ],
+          "answer": "El partido"
+        },
+        {
+          "q": "¿Qué sigue ganando a pesar de las críticas?",
+          "options": [
+            "Dinero",
+            "Apoyo popular",
+            "Enemigos",
+            "Nada"
+          ],
+          "answer": "Apoyo popular"
+        },
+        {
+          "q": "¿Con qué está comprometida?",
+          "options": [
+            "Las causas sociales",
+            "Los negocios",
+            "Los deportes",
+            "El turismo"
+          ],
+          "answer": "Las causas sociales"
+        }
       ]
     },
-
     {
-      "id": "rcp_u20_01", "unit": 20, "level": 4,
+      "id": "rcp_u20_01",
+      "unit": 20,
+      "level": 4,
       "title": "Dudas de un filósofo",
       "text": "Puede que la teoría de este filósofo esté equivocada, pero sigue siendo muy influyente. Él acabó aceptando ideas que antes rechazaba completamente. Me parece que este argumento es débil, aunque muchos estudiantes lo defienden con pasión.",
       "questions": [
-        { "q": "¿Qué puede pasar con la teoría?", "options": ["Que sea perfecta", "Que esté equivocada", "Que se pruebe fácilmente", "Que no exista"], "answer": "Que esté equivocada" },
-        { "q": "¿Qué acabó haciendo el filósofo?", "options": ["Rechazando todo", "Aceptando ideas que antes rechazaba", "Cambiando de profesión", "Dejando de escribir"], "answer": "Aceptando ideas que antes rechazaba" },
-        { "q": "¿Cómo le parece el argumento a la persona?", "options": ["Muy fuerte", "Débil", "Perfecto", "Imposible de entender"], "answer": "Débil" }
+        {
+          "q": "¿Qué puede pasar con la teoría?",
+          "options": [
+            "Que sea perfecta",
+            "Que esté equivocada",
+            "Que se pruebe fácilmente",
+            "Que no exista"
+          ],
+          "answer": "Que esté equivocada"
+        },
+        {
+          "q": "¿Qué acabó haciendo el filósofo?",
+          "options": [
+            "Rechazando todo",
+            "Aceptando ideas que antes rechazaba",
+            "Cambiando de profesión",
+            "Dejando de escribir"
+          ],
+          "answer": "Aceptando ideas que antes rechazaba"
+        },
+        {
+          "q": "¿Cómo le parece el argumento a la persona?",
+          "options": [
+            "Muy fuerte",
+            "Débil",
+            "Perfecto",
+            "Imposible de entender"
+          ],
+          "answer": "Débil"
+        }
       ]
     },
     {
-      "id": "rcp_u20_02", "unit": 20, "level": 4,
+      "id": "rcp_u20_02",
+      "unit": 20,
+      "level": 4,
       "title": "En busca de la verdad",
       "text": "Ella llegó a darse cuenta de la verdad después de años de estudio. Puede que nunca sepamos con certeza cuál es el sentido de la vida, pero seguir buscando tiene un valor propio. Este filósofo acabó rechazando su propia teoría inicial.",
       "questions": [
-        { "q": "¿Cuándo se dio cuenta de la verdad?", "options": ["De inmediato", "Después de años de estudio", "Nunca", "En un sueño"], "answer": "Después de años de estudio" },
-        { "q": "¿Qué puede que nunca sepamos?", "options": ["Nuestro nombre", "El sentido de la vida", "La hora exacta", "El clima de mañana"], "answer": "El sentido de la vida" },
-        { "q": "¿Qué acabó haciendo el filósofo con su teoría?", "options": ["La defendió siempre", "La rechazó", "La vendió", "La olvidó"], "answer": "La rechazó" }
+        {
+          "q": "¿Cuándo se dio cuenta de la verdad?",
+          "options": [
+            "De inmediato",
+            "Después de años de estudio",
+            "Nunca",
+            "En un sueño"
+          ],
+          "answer": "Después de años de estudio"
+        },
+        {
+          "q": "¿Qué puede que nunca sepamos?",
+          "options": [
+            "Nuestro nombre",
+            "El sentido de la vida",
+            "La hora exacta",
+            "El clima de mañana"
+          ],
+          "answer": "El sentido de la vida"
+        },
+        {
+          "q": "¿Qué acabó haciendo el filósofo con su teoría?",
+          "options": [
+            "La defendió siempre",
+            "La rechazó",
+            "La vendió",
+            "La olvidó"
+          ],
+          "answer": "La rechazó"
+        }
       ]
     },
     {
-      "id": "rcp_u20_03", "unit": 20, "level": 4,
+      "id": "rcp_u20_03",
+      "unit": 20,
+      "level": 4,
       "title": "Ética sin respuestas fáciles",
       "text": "Parece que la ética no tiene respuestas fáciles para los dilemas modernos. Estaba a punto de cambiar de opinión cuando escuchó un nuevo argumento convincente. Espero entender algún día la complejidad de estas preguntas filosóficas tan antiguas.",
       "questions": [
-        { "q": "¿Qué parece según el texto?", "options": ["Que la ética es simple", "Que la ética no tiene respuestas fáciles", "Que no existen dilemas", "Que todo está resuelto"], "answer": "Que la ética no tiene respuestas fáciles" },
-        { "q": "¿Qué estaba a punto de hacer la persona?", "options": ["Dejar de estudiar", "Cambiar de opinión", "Escribir un libro", "Discutir con alguien"], "answer": "Cambiar de opinión" },
-        { "q": "¿Qué espera entender algún día?", "options": ["La política actual", "La complejidad de estas preguntas", "Un idioma nuevo", "La historia del país"], "answer": "La complejidad de estas preguntas" }
+        {
+          "q": "¿Qué parece según el texto?",
+          "options": [
+            "Que la ética es simple",
+            "Que la ética no tiene respuestas fáciles",
+            "Que no existen dilemas",
+            "Que todo está resuelto"
+          ],
+          "answer": "Que la ética no tiene respuestas fáciles"
+        },
+        {
+          "q": "¿Qué estaba a punto de hacer la persona?",
+          "options": [
+            "Dejar de estudiar",
+            "Cambiar de opinión",
+            "Escribir un libro",
+            "Discutir con alguien"
+          ],
+          "answer": "Cambiar de opinión"
+        },
+        {
+          "q": "¿Qué espera entender algún día?",
+          "options": [
+            "La política actual",
+            "La complejidad de estas preguntas",
+            "Un idioma nuevo",
+            "La historia del país"
+          ],
+          "answer": "La complejidad de estas preguntas"
+        }
       ]
     },
-
     {
-      "id": "rcp_u21_01", "unit": 21, "level": 5,
+      "id": "rcp_u21_01",
+      "unit": 21,
+      "level": 5,
       "title": "Resultados de la investigación",
       "text": "En cuanto a los resultados, se necesita más análisis antes de publicar conclusiones definitivas. El autor señala que la muestra era pequeña comparada con estudios similares. Se recomienda que los investigadores verifiquen los datos con más cuidado.",
       "questions": [
-        { "q": "¿Qué se necesita antes de publicar conclusiones?", "options": ["Menos datos", "Más análisis", "Nada más", "Menos tiempo"], "answer": "Más análisis" },
-        { "q": "¿Qué señala el autor sobre la muestra?", "options": ["Que era muy grande", "Que era pequeña", "Que era perfecta", "Que no existía"], "answer": "Que era pequeña" },
-        { "q": "¿Qué se recomienda a los investigadores?", "options": ["Ignorar los datos", "Verificar los datos con cuidado", "Repetir todo el estudio", "Publicar rápido"], "answer": "Verificar los datos con cuidado" }
+        {
+          "q": "¿Qué se necesita antes de publicar conclusiones?",
+          "options": [
+            "Menos datos",
+            "Más análisis",
+            "Nada más",
+            "Menos tiempo"
+          ],
+          "answer": "Más análisis"
+        },
+        {
+          "q": "¿Qué señala el autor sobre la muestra?",
+          "options": [
+            "Que era muy grande",
+            "Que era pequeña",
+            "Que era perfecta",
+            "Que no existía"
+          ],
+          "answer": "Que era pequeña"
+        },
+        {
+          "q": "¿Qué se recomienda a los investigadores?",
+          "options": [
+            "Ignorar los datos",
+            "Verificar los datos con cuidado",
+            "Repetir todo el estudio",
+            "Publicar rápido"
+          ],
+          "answer": "Verificar los datos con cuidado"
+        }
       ]
     },
     {
-      "id": "rcp_u21_02", "unit": 21, "level": 5,
+      "id": "rcp_u21_02",
+      "unit": 21,
+      "level": 5,
       "title": "Metodología cuestionada",
       "text": "El investigador afirma que el método utilizado es válido a pesar de las críticas recibidas. La publicación del artículo generó un intenso debate académico en varias universidades. Es fundamental que el comité revise la propuesta antes de aprobar más fondos.",
       "questions": [
-        { "q": "¿Qué afirma el investigador sobre el método?", "options": ["Que es inválido", "Que es válido", "Que no importa", "Que es nuevo"], "answer": "Que es válido" },
-        { "q": "¿Qué generó la publicación del artículo?", "options": ["Ningún interés", "Un intenso debate académico", "La cancelación del proyecto", "Poco interés"], "answer": "Un intenso debate académico" },
-        { "q": "¿Qué es fundamental antes de aprobar más fondos?", "options": ["Nada específico", "Que el comité revise la propuesta", "Cambiar de investigador", "Cancelar el proyecto"], "answer": "Que el comité revise la propuesta" }
+        {
+          "q": "¿Qué afirma el investigador sobre el método?",
+          "options": [
+            "Que es inválido",
+            "Que es válido",
+            "Que no importa",
+            "Que es nuevo"
+          ],
+          "answer": "Que es válido"
+        },
+        {
+          "q": "¿Qué generó la publicación del artículo?",
+          "options": [
+            "Ningún interés",
+            "Un intenso debate académico",
+            "La cancelación del proyecto",
+            "Poco interés"
+          ],
+          "answer": "Un intenso debate académico"
+        },
+        {
+          "q": "¿Qué es fundamental antes de aprobar más fondos?",
+          "options": [
+            "Nada específico",
+            "Que el comité revise la propuesta",
+            "Cambiar de investigador",
+            "Cancelar el proyecto"
+          ],
+          "answer": "Que el comité revise la propuesta"
+        }
       ]
     },
     {
-      "id": "rcp_u21_03", "unit": 21, "level": 5,
+      "id": "rcp_u21_03",
+      "unit": 21,
+      "level": 5,
       "title": "Una hipótesis verificada",
       "text": "La verificación de la hipótesis tomó dos años de trabajo constante. Conforme al estudio mencionado, los resultados son poco concluyentes todavía. El profesor sostiene que los datos apoyan su teoría, aunque algunos colegas no están de acuerdo.",
       "questions": [
-        { "q": "¿Cuánto tiempo tomó la verificación?", "options": ["Unos meses", "Dos años", "Diez años", "Una semana"], "answer": "Dos años" },
-        { "q": "¿Cómo son los resultados según el estudio?", "options": ["Muy concluyentes", "Poco concluyentes", "Perfectos", "Inexistentes"], "answer": "Poco concluyentes" },
-        { "q": "¿Qué sostiene el profesor?", "options": ["Que su teoría está mal", "Que los datos apoyan su teoría", "Que no hay datos", "Que debe empezar de nuevo"], "answer": "Que los datos apoyan su teoría" }
+        {
+          "q": "¿Cuánto tiempo tomó la verificación?",
+          "options": [
+            "Unos meses",
+            "Dos años",
+            "Diez años",
+            "Una semana"
+          ],
+          "answer": "Dos años"
+        },
+        {
+          "q": "¿Cómo son los resultados según el estudio?",
+          "options": [
+            "Muy concluyentes",
+            "Poco concluyentes",
+            "Perfectos",
+            "Inexistentes"
+          ],
+          "answer": "Poco concluyentes"
+        },
+        {
+          "q": "¿Qué sostiene el profesor?",
+          "options": [
+            "Que su teoría está mal",
+            "Que los datos apoyan su teoría",
+            "Que no hay datos",
+            "Que debe empezar de nuevo"
+          ],
+          "answer": "Que los datos apoyan su teoría"
+        }
       ]
     },
-
     {
-      "id": "rcp_u22_01", "unit": 22, "level": 5,
+      "id": "rcp_u22_01",
+      "unit": 22,
+      "level": 5,
       "title": "El escándalo político",
       "text": "Fue el ministro quien renunció primero, sorprendiendo a todo el gabinete. Lo que más me preocupa es la falta de transparencia en todo este proceso. En mi opinión, la prensa exageró un poco la magnitud de la noticia.",
       "questions": [
-        { "q": "¿Quién renunció primero?", "options": ["El presidente", "El ministro", "Un senador", "Un juez"], "answer": "El ministro" },
-        { "q": "¿Qué preocupa más al autor?", "options": ["El costo económico", "La falta de transparencia", "La reacción del público", "Nada en particular"], "answer": "La falta de transparencia" },
-        { "q": "¿Qué opina el autor sobre la prensa?", "options": ["Que fue muy objetiva", "Que exageró la noticia", "Que no informó nada", "Que mintió completamente"], "answer": "Que exageró la noticia" }
+        {
+          "q": "¿Quién renunció primero?",
+          "options": [
+            "El presidente",
+            "El ministro",
+            "Un senador",
+            "Un juez"
+          ],
+          "answer": "El ministro"
+        },
+        {
+          "q": "¿Qué preocupa más al autor?",
+          "options": [
+            "El costo económico",
+            "La falta de transparencia",
+            "La reacción del público",
+            "Nada en particular"
+          ],
+          "answer": "La falta de transparencia"
+        },
+        {
+          "q": "¿Qué opina el autor sobre la prensa?",
+          "options": [
+            "Que fue muy objetiva",
+            "Que exageró la noticia",
+            "Que no informó nada",
+            "Que mintió completamente"
+          ],
+          "answer": "Que exageró la noticia"
+        }
       ]
     },
     {
-      "id": "rcp_u22_02", "unit": 22, "level": 5,
+      "id": "rcp_u22_02",
+      "unit": 22,
+      "level": 5,
       "title": "La filtración periodística",
       "text": "Fue el periódico que publicó la filtración lo que provocó la crisis actual. Lo que sorprendió a todos fue la renuncia repentina del director de comunicaciones. Según fuentes cercanas al caso, vienen más revelaciones en las próximas semanas.",
       "questions": [
-        { "q": "¿Qué provocó la crisis actual?", "options": ["Una declaración pública", "El periódico que publicó la filtración", "Una decisión del gobierno", "Un error técnico"], "answer": "El periódico que publicó la filtración" },
-        { "q": "¿Qué sorprendió a todos?", "options": ["El silencio del director", "La renuncia repentina del director", "Un nuevo nombramiento", "Una disculpa pública"], "answer": "La renuncia repentina del director" },
-        { "q": "¿Qué se espera en las próximas semanas?", "options": ["El fin del caso", "Más revelaciones", "Un juicio inmediato", "Nada nuevo"], "answer": "Más revelaciones" }
+        {
+          "q": "¿Qué provocó la crisis actual?",
+          "options": [
+            "Una declaración pública",
+            "El periódico que publicó la filtración",
+            "Una decisión del gobierno",
+            "Un error técnico"
+          ],
+          "answer": "El periódico que publicó la filtración"
+        },
+        {
+          "q": "¿Qué sorprendió a todos?",
+          "options": [
+            "El silencio del director",
+            "La renuncia repentina del director",
+            "Un nuevo nombramiento",
+            "Una disculpa pública"
+          ],
+          "answer": "La renuncia repentina del director"
+        },
+        {
+          "q": "¿Qué se espera en las próximas semanas?",
+          "options": [
+            "El fin del caso",
+            "Más revelaciones",
+            "Un juicio inmediato",
+            "Nada nuevo"
+          ],
+          "answer": "Más revelaciones"
+        }
       ]
     },
     {
-      "id": "rcp_u22_03", "unit": 22, "level": 5,
+      "id": "rcp_u22_03",
+      "unit": 22,
+      "level": 5,
       "title": "La periodista que destapó todo",
       "text": "Fue la periodista quien destapó el escándalo después de meses de investigación secreta. Aunque el artículo fue breve, causó un revuelo enorme en la opinión pública. Por lo que a mí respecta, el informe oficial sigue estando sesgado.",
       "questions": [
-        { "q": "¿Quién destapó el escándalo?", "options": ["Un político", "La periodista", "Un juez", "Un ciudadano anónimo"], "answer": "La periodista" },
-        { "q": "¿Cómo fue el artículo que causó revuelo?", "options": ["Muy largo", "Breve", "Confuso", "Anónimo"], "answer": "Breve" },
-        { "q": "¿Qué opina el autor sobre el informe oficial?", "options": ["Que es imparcial", "Que sigue sesgado", "Que es perfecto", "Que ya no existe"], "answer": "Que sigue sesgado" }
+        {
+          "q": "¿Quién destapó el escándalo?",
+          "options": [
+            "Un político",
+            "La periodista",
+            "Un juez",
+            "Un ciudadano anónimo"
+          ],
+          "answer": "La periodista"
+        },
+        {
+          "q": "¿Cómo fue el artículo que causó revuelo?",
+          "options": [
+            "Muy largo",
+            "Breve",
+            "Confuso",
+            "Anónimo"
+          ],
+          "answer": "Breve"
+        },
+        {
+          "q": "¿Qué opina el autor sobre el informe oficial?",
+          "options": [
+            "Que es imparcial",
+            "Que sigue sesgado",
+            "Que es perfecto",
+            "Que ya no existe"
+          ],
+          "answer": "Que sigue sesgado"
+        }
       ]
     },
-
     {
-      "id": "rcp_u23_01", "unit": 23, "level": 5,
+      "id": "rcp_u23_01",
+      "unit": 23,
+      "level": 5,
       "title": "Identidad y lengua",
       "text": "Me reconozco en este idioma cada día más, aunque no sea mi lengua materna. Por más que lo intento, no puedo perder mi acento original, pero ya no me importa tanto como antes. Quienquiera que aprenda un idioma gana una nueva forma de ver el mundo.",
       "questions": [
-        { "q": "¿Qué le pasa a la persona con el idioma?", "options": ["Lo odia cada vez más", "Se reconoce en él cada día más", "Lo ha olvidado", "Nunca lo entendió"], "answer": "Se reconoce en él cada día más" },
-        { "q": "¿Qué no puede perder por más que lo intenta?", "options": ["Su vocabulario", "Su acento original", "Su memoria", "Su interés"], "answer": "Su acento original" },
-        { "q": "¿Qué gana quien aprende un idioma?", "options": ["Solo dinero", "Una nueva forma de ver el mundo", "Nada especial", "Más trabajo"], "answer": "Una nueva forma de ver el mundo" }
+        {
+          "q": "¿Qué le pasa a la persona con el idioma?",
+          "options": [
+            "Lo odia cada vez más",
+            "Se reconoce en él cada día más",
+            "Lo ha olvidado",
+            "Nunca lo entendió"
+          ],
+          "answer": "Se reconoce en él cada día más"
+        },
+        {
+          "q": "¿Qué no puede perder por más que lo intenta?",
+          "options": [
+            "Su vocabulario",
+            "Su acento original",
+            "Su memoria",
+            "Su interés"
+          ],
+          "answer": "Su acento original"
+        },
+        {
+          "q": "¿Qué gana quien aprende un idioma?",
+          "options": [
+            "Solo dinero",
+            "Una nueva forma de ver el mundo",
+            "Nada especial",
+            "Más trabajo"
+          ],
+          "answer": "Una nueva forma de ver el mundo"
+        }
       ]
     },
     {
-      "id": "rcp_u23_02", "unit": 23, "level": 5,
+      "id": "rcp_u23_02",
+      "unit": 23,
+      "level": 5,
       "title": "Costumbres compartidas",
       "text": "Esta costumbre, la tuya, es muy diferente de la mía, y esa diferencia me parece hermosa. Por difícil que parezca, la identidad se construye a diario, con pequeños gestos y decisiones. Cuantos más idiomas aprendas, más se adapta tu mente a nuevas maneras de pensar.",
       "questions": [
-        { "q": "¿Qué le parece hermosa a la persona?", "options": ["La comida", "La diferencia entre costumbres", "El clima", "La ciudad"], "answer": "La diferencia entre costumbres" },
-        { "q": "¿Cómo se construye la identidad según el texto?", "options": ["De golpe", "A diario, con pequeños gestos", "Solo con el idioma", "No se construye"], "answer": "A diario, con pequeños gestos" },
-        { "q": "¿Qué pasa cuantos más idiomas aprendes?", "options": ["Tu mente se cansa", "Tu mente se adapta más", "No pasa nada", "Olvidas tu idioma natal"], "answer": "Tu mente se adapta más" }
+        {
+          "q": "¿Qué le parece hermosa a la persona?",
+          "options": [
+            "La comida",
+            "La diferencia entre costumbres",
+            "El clima",
+            "La ciudad"
+          ],
+          "answer": "La diferencia entre costumbres"
+        },
+        {
+          "q": "¿Cómo se construye la identidad según el texto?",
+          "options": [
+            "De golpe",
+            "A diario, con pequeños gestos",
+            "Solo con el idioma",
+            "No se construye"
+          ],
+          "answer": "A diario, con pequeños gestos"
+        },
+        {
+          "q": "¿Qué pasa cuantos más idiomas aprendes?",
+          "options": [
+            "Tu mente se cansa",
+            "Tu mente se adapta más",
+            "No pasa nada",
+            "Olvidas tu idioma natal"
+          ],
+          "answer": "Tu mente se adapta más"
+        }
       ]
     },
     {
-      "id": "rcp_u23_03", "unit": 23, "level": 5,
+      "id": "rcp_u23_03",
+      "unit": 23,
+      "level": 5,
       "title": "Raíces y pertenencia",
       "text": "Me defino a través de mi idioma y mis raíces, aunque a veces sea difícil explicarlo a otros. Quienquiera que hable dos idiomas ve el mundo de otra manera, con más matices y menos certezas absolutas. Esta tradición, la nuestra, debe preservarse para las próximas generaciones.",
       "questions": [
-        { "q": "¿A través de qué se define la persona?", "options": ["Solo de su trabajo", "Su idioma y sus raíces", "Su edad", "Su nacionalidad únicamente"], "answer": "Su idioma y sus raíces" },
-        { "q": "¿Cómo ve el mundo quien habla dos idiomas?", "options": ["De forma más simple", "Con más matices", "Igual que todos", "Con más certezas absolutas"], "answer": "Con más matices" },
-        { "q": "¿Qué debe preservarse según el texto?", "options": ["Solo el idioma", "Esta tradición", "Nada en particular", "El dinero familiar"], "answer": "Esta tradición" }
+        {
+          "q": "¿A través de qué se define la persona?",
+          "options": [
+            "Solo de su trabajo",
+            "Su idioma y sus raíces",
+            "Su edad",
+            "Su nacionalidad únicamente"
+          ],
+          "answer": "Su idioma y sus raíces"
+        },
+        {
+          "q": "¿Cómo ve el mundo quien habla dos idiomas?",
+          "options": [
+            "De forma más simple",
+            "Con más matices",
+            "Igual que todos",
+            "Con más certezas absolutas"
+          ],
+          "answer": "Con más matices"
+        },
+        {
+          "q": "¿Qué debe preservarse según el texto?",
+          "options": [
+            "Solo el idioma",
+            "Esta tradición",
+            "Nada en particular",
+            "El dinero familiar"
+          ],
+          "answer": "Esta tradición"
+        }
       ]
     },
-
     {
-      "id": "rcp_u24_01", "unit": 24, "level": 5,
+      "id": "rcp_u24_01",
+      "unit": 24,
+      "level": 5,
       "title": "Un vacío legal",
       "text": "La ley debe de tener un vacío legal, porque muchas empresas lo aprovechan sin consecuencias. Los ciudadanos deben obedecer las normas, pero también deben poder cuestionarlas cuando son injustas. El documento está redactado en términos legales muy complejos.",
       "questions": [
-        { "q": "¿Qué debe tener la ley según el texto?", "options": ["Un vacío legal", "Perfección total", "Menos artículos", "Más páginas"], "answer": "Un vacío legal" },
-        { "q": "¿Qué deben poder hacer los ciudadanos?", "options": ["Ignorar las normas", "Cuestionar las normas injustas", "Nada", "Cambiar la ley solos"], "answer": "Cuestionar las normas injustas" },
-        { "q": "¿Cómo está redactado el documento?", "options": ["En lenguaje simple", "En términos legales complejos", "En otro idioma", "De forma breve"], "answer": "En términos legales complejos" }
+        {
+          "q": "¿Qué debe tener la ley según el texto?",
+          "options": [
+            "Un vacío legal",
+            "Perfección total",
+            "Menos artículos",
+            "Más páginas"
+          ],
+          "answer": "Un vacío legal"
+        },
+        {
+          "q": "¿Qué deben poder hacer los ciudadanos?",
+          "options": [
+            "Ignorar las normas",
+            "Cuestionar las normas injustas",
+            "Nada",
+            "Cambiar la ley solos"
+          ],
+          "answer": "Cuestionar las normas injustas"
+        },
+        {
+          "q": "¿Cómo está redactado el documento?",
+          "options": [
+            "En lenguaje simple",
+            "En términos legales complejos",
+            "En otro idioma",
+            "De forma breve"
+          ],
+          "answer": "En términos legales complejos"
+        }
       ]
     },
     {
-      "id": "rcp_u24_02", "unit": 24, "level": 5,
+      "id": "rcp_u24_02",
+      "unit": 24,
+      "level": 5,
       "title": "Comercio internacional",
       "text": "La globalización ha cambiado profundamente el comercio internacional en las últimas décadas. De acuerdo con el nuevo tratado, los aranceles se reducirán gradualmente durante los próximos cinco años. A menos que las partes acuerden nuevas condiciones, el caso irá a juicio.",
       "questions": [
-        { "q": "¿Qué ha cambiado la globalización?", "options": ["Solo la cultura", "El comercio internacional", "Nada importante", "Solo la política"], "answer": "El comercio internacional" },
-        { "q": "¿Qué pasará con los aranceles?", "options": ["Aumentarán", "Se reducirán gradualmente", "Se eliminarán de inmediato", "No cambiarán"], "answer": "Se reducirán gradualmente" },
-        { "q": "¿Qué pasará si las partes no acuerdan?", "options": ["Nada", "El caso irá a juicio", "Se cancelará el tratado", "Se firmará de inmediato"], "answer": "El caso irá a juicio" }
+        {
+          "q": "¿Qué ha cambiado la globalización?",
+          "options": [
+            "Solo la cultura",
+            "El comercio internacional",
+            "Nada importante",
+            "Solo la política"
+          ],
+          "answer": "El comercio internacional"
+        },
+        {
+          "q": "¿Qué pasará con los aranceles?",
+          "options": [
+            "Aumentarán",
+            "Se reducirán gradualmente",
+            "Se eliminarán de inmediato",
+            "No cambiarán"
+          ],
+          "answer": "Se reducirán gradualmente"
+        },
+        {
+          "q": "¿Qué pasará si las partes no acuerdan?",
+          "options": [
+            "Nada",
+            "El caso irá a juicio",
+            "Se cancelará el tratado",
+            "Se firmará de inmediato"
+          ],
+          "answer": "El caso irá a juicio"
+        }
       ]
     },
     {
-      "id": "rcp_u24_03", "unit": 24, "level": 5,
+      "id": "rcp_u24_03",
+      "unit": 24,
+      "level": 5,
       "title": "Fronteras y disputas",
       "text": "La frontera permanece cerrada debido a la disputa territorial entre ambos países. No está claro si la nueva ley se hará cumplir de manera efectiva. Las empresas deben cumplir con las normas internacionales si quieren operar en el mercado global.",
       "questions": [
-        { "q": "¿Por qué está cerrada la frontera?", "options": ["Por el clima", "Por una disputa territorial", "Por reparaciones", "Por una fiesta nacional"], "answer": "Por una disputa territorial" },
-        { "q": "¿Qué no está claro sobre la nueva ley?", "options": ["Su nombre", "Si se hará cumplir efectivamente", "Cuándo se escribió", "Quién la propuso"], "answer": "Si se hará cumplir efectivamente" },
-        { "q": "¿Qué deben cumplir las empresas para operar globalmente?", "options": ["Solo las leyes locales", "Las normas internacionales", "Ninguna norma", "Solo acuerdos privados"], "answer": "Las normas internacionales" }
+        {
+          "q": "¿Por qué está cerrada la frontera?",
+          "options": [
+            "Por el clima",
+            "Por una disputa territorial",
+            "Por reparaciones",
+            "Por una fiesta nacional"
+          ],
+          "answer": "Por una disputa territorial"
+        },
+        {
+          "q": "¿Qué no está claro sobre la nueva ley?",
+          "options": [
+            "Su nombre",
+            "Si se hará cumplir efectivamente",
+            "Cuándo se escribió",
+            "Quién la propuso"
+          ],
+          "answer": "Si se hará cumplir efectivamente"
+        },
+        {
+          "q": "¿Qué deben cumplir las empresas para operar globalmente?",
+          "options": [
+            "Solo las leyes locales",
+            "Las normas internacionales",
+            "Ninguna norma",
+            "Solo acuerdos privados"
+          ],
+          "answer": "Las normas internacionales"
+        }
       ]
     },
-
     {
-      "id": "rcp_u25_01", "unit": 25, "level": 5,
+      "id": "rcp_u25_01",
+      "unit": 25,
+      "level": 5,
       "title": "Un discurso persuasivo",
       "text": "Digan lo que digan los críticos, los resultados hablan por sí solos. No solo convenció al jurado, sino que además lo inspiró con su pasión. ¿Quién no ha soñado alguna vez con cambiar el mundo con sus propias palabras?",
       "questions": [
-        { "q": "¿Qué hablan por sí solos según el orador?", "options": ["Las opiniones", "Los resultados", "Los críticos", "Los rumores"], "answer": "Los resultados" },
-        { "q": "¿Qué logró además de convencer al jurado?", "options": ["Aburrirlos", "Inspirarlos", "Confundirlos", "Nada más"], "answer": "Inspirarlos" },
-        { "q": "¿Con qué ha soñado la gente según el discurso?", "options": ["Con ser rico", "Con cambiar el mundo", "Con viajar", "Con descansar"], "answer": "Con cambiar el mundo" }
+        {
+          "q": "¿Qué hablan por sí solos según el orador?",
+          "options": [
+            "Las opiniones",
+            "Los resultados",
+            "Los críticos",
+            "Los rumores"
+          ],
+          "answer": "Los resultados"
+        },
+        {
+          "q": "¿Qué logró además de convencer al jurado?",
+          "options": [
+            "Aburrirlos",
+            "Inspirarlos",
+            "Confundirlos",
+            "Nada más"
+          ],
+          "answer": "Inspirarlos"
+        },
+        {
+          "q": "¿Con qué ha soñado la gente según el discurso?",
+          "options": [
+            "Con ser rico",
+            "Con cambiar el mundo",
+            "Con viajar",
+            "Con descansar"
+          ],
+          "answer": "Con cambiar el mundo"
+        }
       ]
     },
     {
-      "id": "rcp_u25_02", "unit": 25, "level": 5,
+      "id": "rcp_u25_02",
+      "unit": 25,
+      "level": 5,
       "title": "Palabras que convencen",
       "text": "Grande es el sacrificio que exige esta causa, pero mayor será la recompensa. Pase lo que pase, seguiremos luchando por lo que creemos justo. Podría argumentarse que la reforma llegó demasiado tarde, pero nunca es tarde para hacer lo correcto.",
       "questions": [
-        { "q": "¿Qué exige la causa según el orador?", "options": ["Poco esfuerzo", "Un gran sacrificio", "Dinero solamente", "Nada especial"], "answer": "Un gran sacrificio" },
-        { "q": "¿Qué prometen seguir haciendo?", "options": ["Rendirse", "Luchando por lo justo", "Esperando", "Callando"], "answer": "Luchando por lo justo" },
-        { "q": "¿Qué podría argumentarse sobre la reforma?", "options": ["Que fue perfecta", "Que llegó demasiado tarde", "Que no era necesaria", "Que costó poco"], "answer": "Que llegó demasiado tarde" }
+        {
+          "q": "¿Qué exige la causa según el orador?",
+          "options": [
+            "Poco esfuerzo",
+            "Un gran sacrificio",
+            "Dinero solamente",
+            "Nada especial"
+          ],
+          "answer": "Un gran sacrificio"
+        },
+        {
+          "q": "¿Qué prometen seguir haciendo?",
+          "options": [
+            "Rendirse",
+            "Luchando por lo justo",
+            "Esperando",
+            "Callando"
+          ],
+          "answer": "Luchando por lo justo"
+        },
+        {
+          "q": "¿Qué podría argumentarse sobre la reforma?",
+          "options": [
+            "Que fue perfecta",
+            "Que llegó demasiado tarde",
+            "Que no era necesaria",
+            "Que costó poco"
+          ],
+          "answer": "Que llegó demasiado tarde"
+        }
       ]
     },
     {
-      "id": "rcp_u25_03", "unit": 25, "level": 5,
+      "id": "rcp_u25_03",
+      "unit": 25,
+      "level": 5,
       "title": "Ante la injusticia",
       "text": "¿Cómo podríamos callar ante semejante injusticia sin sentir vergüenza? Profunda es la herida que ha dejado esta crisis en nuestra comunidad. Parecería, entonces, que el plan fracasará si no cambiamos nuestra estrategia de inmediato.",
       "questions": [
-        { "q": "¿Qué pregunta retórica hace el orador?", "options": ["Cómo celebrar", "Cómo podrían callar", "Cómo huir", "Cómo olvidar"], "answer": "Cómo podrían callar" },
-        { "q": "¿Qué ha dejado la crisis en la comunidad?", "options": ["Alegría", "Una herida profunda", "Prosperidad", "Indiferencia"], "answer": "Una herida profunda" },
-        { "q": "¿Qué pasará si no cambian la estrategia?", "options": ["El plan tendrá éxito", "El plan fracasará", "Nada cambiará", "Todo mejorará solo"], "answer": "El plan fracasará" }
+        {
+          "q": "¿Qué pregunta retórica hace el orador?",
+          "options": [
+            "Cómo celebrar",
+            "Cómo podrían callar",
+            "Cómo huir",
+            "Cómo olvidar"
+          ],
+          "answer": "Cómo podrían callar"
+        },
+        {
+          "q": "¿Qué ha dejado la crisis en la comunidad?",
+          "options": [
+            "Alegría",
+            "Una herida profunda",
+            "Prosperidad",
+            "Indiferencia"
+          ],
+          "answer": "Una herida profunda"
+        },
+        {
+          "q": "¿Qué pasará si no cambian la estrategia?",
+          "options": [
+            "El plan tendrá éxito",
+            "El plan fracasará",
+            "Nada cambiará",
+            "Todo mejorará solo"
+          ],
+          "answer": "El plan fracasará"
+        }
       ]
     },
-
     {
-      "id": "rcp_u26_01", "unit": 26, "level": 5,
+      "id": "rcp_u26_01",
+      "unit": 26,
+      "level": 5,
       "title": "La casita del recuerdo",
       "text": "Llovía aquella tarde cuando todo cambió para siempre. La vieja casita guardaba muchos recuerdos de una infancia feliz. Nunca se había sentido tan sola como en ese momento, mirando las paredes vacías de lo que fue su hogar.",
       "questions": [
-        { "q": "¿Qué pasaba con el clima aquella tarde?", "options": ["Hacía sol", "Llovía", "Nevaba", "Había viento"], "answer": "Llovía" },
-        { "q": "¿Qué guardaba la vieja casita?", "options": ["Dinero", "Muchos recuerdos", "Nada especial", "Documentos"], "answer": "Muchos recuerdos" },
-        { "q": "¿Cómo se sentía el personaje en ese momento?", "options": ["Muy feliz", "Muy sola", "Enojada", "Indiferente"], "answer": "Muy sola" }
+        {
+          "q": "¿Qué pasaba con el clima aquella tarde?",
+          "options": [
+            "Hacía sol",
+            "Llovía",
+            "Nevaba",
+            "Había viento"
+          ],
+          "answer": "Llovía"
+        },
+        {
+          "q": "¿Qué guardaba la vieja casita?",
+          "options": [
+            "Dinero",
+            "Muchos recuerdos",
+            "Nada especial",
+            "Documentos"
+          ],
+          "answer": "Muchos recuerdos"
+        },
+        {
+          "q": "¿Cómo se sentía el personaje en ese momento?",
+          "options": [
+            "Muy feliz",
+            "Muy sola",
+            "Enojada",
+            "Indiferente"
+          ],
+          "answer": "Muy sola"
+        }
       ]
     },
     {
-      "id": "rcp_u26_02", "unit": 26, "level": 5,
+      "id": "rcp_u26_02",
+      "unit": 26,
+      "level": 5,
       "title": "Más allá de las montañas",
       "text": "Más allá de las montañas se alzaba un bosque antiguo que nadie se atrevía a explorar. Aquella tormentona destruyó todo a su paso, dejando solo silencio. Caminaba despacio por las calles vacías, pensando en lo que había perdido.",
       "questions": [
-        { "q": "¿Qué se alzaba más allá de las montañas?", "options": ["Una ciudad", "Un bosque antiguo", "Un río", "Un desierto"], "answer": "Un bosque antiguo" },
-        { "q": "¿Qué destruyó la tormenta?", "options": ["Nada", "Todo a su paso", "Solo el bosque", "Solo las casas"], "answer": "Todo a su paso" },
-        { "q": "¿Por dónde caminaba el personaje?", "options": ["Por el bosque", "Por las calles vacías", "Por la montaña", "Por el río"], "answer": "Por las calles vacías" }
+        {
+          "q": "¿Qué se alzaba más allá de las montañas?",
+          "options": [
+            "Una ciudad",
+            "Un bosque antiguo",
+            "Un río",
+            "Un desierto"
+          ],
+          "answer": "Un bosque antiguo"
+        },
+        {
+          "q": "¿Qué destruyó la tormenta?",
+          "options": [
+            "Nada",
+            "Todo a su paso",
+            "Solo el bosque",
+            "Solo las casas"
+          ],
+          "answer": "Todo a su paso"
+        },
+        {
+          "q": "¿Por dónde caminaba el personaje?",
+          "options": [
+            "Por el bosque",
+            "Por las calles vacías",
+            "Por la montaña",
+            "Por el río"
+          ],
+          "answer": "Por las calles vacías"
+        }
       ]
     },
     {
-      "id": "rcp_u26_03", "unit": 26, "level": 5,
+      "id": "rcp_u26_03",
+      "unit": 26,
+      "level": 5,
       "title": "Una noche oscura",
       "text": "Era una noche oscura y tormentosa cuando el viajero llegó al pueblo. A lo lejos se alzaba el antiguo castillo, envuelto en niebla y misterio. Una sola lágrima corrió por su mejilla al recordar todo lo que había dejado atrás.",
       "questions": [
-        { "q": "¿Cómo era la noche cuando llegó el viajero?", "options": ["Clara y tranquila", "Oscura y tormentosa", "Calurosa", "Silenciosa y fría"], "answer": "Oscura y tormentosa" },
-        { "q": "¿Qué se alzaba a lo lejos?", "options": ["Una montaña", "El antiguo castillo", "Un río", "Un pueblo nuevo"], "answer": "El antiguo castillo" },
-        { "q": "¿Qué corrió por su mejilla?", "options": ["Sudor", "Una lágrima", "Sangre", "Nada"], "answer": "Una lágrima" }
+        {
+          "q": "¿Cómo era la noche cuando llegó el viajero?",
+          "options": [
+            "Clara y tranquila",
+            "Oscura y tormentosa",
+            "Calurosa",
+            "Silenciosa y fría"
+          ],
+          "answer": "Oscura y tormentosa"
+        },
+        {
+          "q": "¿Qué se alzaba a lo lejos?",
+          "options": [
+            "Una montaña",
+            "El antiguo castillo",
+            "Un río",
+            "Un pueblo nuevo"
+          ],
+          "answer": "El antiguo castillo"
+        },
+        {
+          "q": "¿Qué corrió por su mejilla?",
+          "options": [
+            "Sudor",
+            "Una lágrima",
+            "Sangre",
+            "Nada"
+          ],
+          "answer": "Una lágrima"
+        }
       ]
     },
-
     {
-      "id": "rcp_u27_01", "unit": 27, "level": 5,
+      "id": "rcp_u27_01",
+      "unit": 27,
+      "level": 5,
       "title": "Otro lunes más",
       "text": "Qué bien, otro lunes, pensó con sarcasmo mientras se levantaba a las seis. Ha llorado un millón de veces por eso, al parecer, según cuenta ella misma con humor. Esa broma tuya no fue muy graciosa, pero al menos nos hizo sonreír un poco.",
       "questions": [
-        { "q": "¿Qué tono tiene el comentario sobre el lunes?", "options": ["Serio", "Sarcástico", "Triste", "Neutral"], "answer": "Sarcástico" },
-        { "q": "¿Cómo describe ella su propio llanto?", "options": ["Con enojo", "Con humor, exagerando", "Con vergüenza", "Con indiferencia"], "answer": "Con humor, exagerando" },
-        { "q": "¿Qué logró la broma a pesar de no ser muy graciosa?", "options": ["Nada", "Hacerlos sonreír un poco", "Enojar a todos", "Aburrir a la gente"], "answer": "Hacerlos sonreír un poco" }
+        {
+          "q": "¿Qué tono tiene el comentario sobre el lunes?",
+          "options": [
+            "Serio",
+            "Sarcástico",
+            "Triste",
+            "Neutral"
+          ],
+          "answer": "Sarcástico"
+        },
+        {
+          "q": "¿Cómo describe ella su propio llanto?",
+          "options": [
+            "Con enojo",
+            "Con humor, exagerando",
+            "Con vergüenza",
+            "Con indiferencia"
+          ],
+          "answer": "Con humor, exagerando"
+        },
+        {
+          "q": "¿Qué logró la broma a pesar de no ser muy graciosa?",
+          "options": [
+            "Nada",
+            "Hacerlos sonreír un poco",
+            "Enojar a todos",
+            "Aburrir a la gente"
+          ],
+          "answer": "Hacerlos sonreír un poco"
+        }
       ]
     },
     {
-      "id": "rcp_u27_02", "unit": 27, "level": 5,
+      "id": "rcp_u27_02",
+      "unit": 27,
+      "level": 5,
       "title": "Un pequeño errorcito",
       "text": "Qué genio, olvidando las llaves otra vez, dijo su hermana entre risas. Ese pequeño errorcito nos costó todo el proyecto, pero al menos aprendimos a reírnos de nosotros mismos. No fue el plan más inteligente, digamos, pero fue memorable.",
       "questions": [
-        { "q": "¿Qué olvidó la persona otra vez?", "options": ["El teléfono", "Las llaves", "La billetera", "El paraguas"], "answer": "Las llaves" },
-        { "q": "¿Qué costó el pequeño errorcito?", "options": ["Nada importante", "Todo el proyecto", "Un poco de dinero", "Un día de trabajo"], "answer": "Todo el proyecto" },
-        { "q": "¿Cómo describen el plan con ironía?", "options": ["Como el mejor plan", "Como no muy inteligente", "Como perfecto", "Como imposible"], "answer": "Como no muy inteligente" }
+        {
+          "q": "¿Qué olvidó la persona otra vez?",
+          "options": [
+            "El teléfono",
+            "Las llaves",
+            "La billetera",
+            "El paraguas"
+          ],
+          "answer": "Las llaves"
+        },
+        {
+          "q": "¿Qué costó el pequeño errorcito?",
+          "options": [
+            "Nada importante",
+            "Todo el proyecto",
+            "Un poco de dinero",
+            "Un día de trabajo"
+          ],
+          "answer": "Todo el proyecto"
+        },
+        {
+          "q": "¿Cómo describen el plan con ironía?",
+          "options": [
+            "Como el mejor plan",
+            "Como no muy inteligente",
+            "Como perfecto",
+            "Como imposible"
+          ],
+          "answer": "Como no muy inteligente"
+        }
       ]
     },
     {
-      "id": "rcp_u27_03", "unit": 27, "level": 5,
+      "id": "rcp_u27_03",
+      "unit": 27,
+      "level": 5,
       "title": "Quién lo iba a decir",
       "text": "Quién lo iba a decir, ¿no?, comentó riendo después de todo lo que había pasado. Bueno, eso salió genial, ¿verdad?, dijo con evidente ironía mirando el desastre en la cocina. Y quién, si se puede saber, pensó que esto era buena idea.",
       "questions": [
-        { "q": "¿Qué expresión de sorpresa irónica usa?", "options": ["Qué aburrido", "Quién lo iba a decir", "No importa", "Da igual"], "answer": "Quién lo iba a decir" },
-        { "q": "¿Qué está mirando cuando habla con ironía?", "options": ["Un jardín", "Un desastre en la cocina", "Una película", "Un libro"], "answer": "Un desastre en la cocina" },
-        { "q": "¿Qué pregunta irónica hace al final?", "options": ["Quién limpiará esto", "Quién pensó que era buena idea", "Cuándo terminará", "Dónde están todos"], "answer": "Quién pensó que era buena idea" }
+        {
+          "q": "¿Qué expresión de sorpresa irónica usa?",
+          "options": [
+            "Qué aburrido",
+            "Quién lo iba a decir",
+            "No importa",
+            "Da igual"
+          ],
+          "answer": "Quién lo iba a decir"
+        },
+        {
+          "q": "¿Qué está mirando cuando habla con ironía?",
+          "options": [
+            "Un jardín",
+            "Un desastre en la cocina",
+            "Una película",
+            "Un libro"
+          ],
+          "answer": "Un desastre en la cocina"
+        },
+        {
+          "q": "¿Qué pregunta irónica hace al final?",
+          "options": [
+            "Quién limpiará esto",
+            "Quién pensó que era buena idea",
+            "Cuándo terminará",
+            "Dónde están todos"
+          ],
+          "answer": "Quién pensó que era buena idea"
+        }
       ]
     },
-
     {
-      "id": "rcp_u28_01", "unit": 28, "level": 5,
+      "id": "rcp_u28_01",
+      "unit": 28,
+      "level": 5,
       "title": "Un documento oficial",
       "text": "El abajo firmante certifica por la presente el cumplimiento de la normativa vigente. En virtud del artículo cinco, el solicitante debe presentar el formulario correspondiente antes del plazo establecido. Cabe señalar que se recomienda una revisión adicional del expediente.",
       "questions": [
-        { "q": "¿Qué certifica el abajo firmante?", "options": ["Su identidad", "El cumplimiento de la normativa", "Su dirección", "Nada en particular"], "answer": "El cumplimiento de la normativa" },
-        { "q": "¿Qué debe presentar el solicitante?", "options": ["Una carta personal", "El formulario correspondiente", "Un pago", "Nada"], "answer": "El formulario correspondiente" },
-        { "q": "¿Qué se recomienda según el documento?", "options": ["Cancelar el trámite", "Una revisión adicional", "Ignorar el expediente", "Repetir el proceso"], "answer": "Una revisión adicional" }
+        {
+          "q": "¿Qué certifica el abajo firmante?",
+          "options": [
+            "Su identidad",
+            "El cumplimiento de la normativa",
+            "Su dirección",
+            "Nada en particular"
+          ],
+          "answer": "El cumplimiento de la normativa"
+        },
+        {
+          "q": "¿Qué debe presentar el solicitante?",
+          "options": [
+            "Una carta personal",
+            "El formulario correspondiente",
+            "Un pago",
+            "Nada"
+          ],
+          "answer": "El formulario correspondiente"
+        },
+        {
+          "q": "¿Qué se recomienda según el documento?",
+          "options": [
+            "Cancelar el trámite",
+            "Una revisión adicional",
+            "Ignorar el expediente",
+            "Repetir el proceso"
+          ],
+          "answer": "Una revisión adicional"
+        }
       ]
     },
     {
-      "id": "rcp_u28_02", "unit": 28, "level": 5,
+      "id": "rcp_u28_02",
+      "unit": 28,
+      "level": 5,
       "title": "Che, qué quilombo",
       "text": "Che, ese plan está totalmente al pedo, dijo mi amigo con su típico tono informal. Honestamente, todo esto es un quilombo, agregó, mientras yo trataba de explicarle la situación con más formalidad y calma.",
       "questions": [
-        { "q": "¿Cómo describe el amigo el plan?", "options": ["Muy bueno", "Totalmente al pedo", "Aceptable", "Perfecto"], "answer": "Totalmente al pedo" },
-        { "q": "¿Qué palabra coloquial usa para describir la situación?", "options": ["Un desastre formal", "Un quilombo", "Un problema menor", "Una solución"], "answer": "Un quilombo" },
-        { "q": "¿Cómo trataba de hablar la otra persona?", "options": ["De forma más informal", "Con más formalidad y calma", "Gritando", "En silencio"], "answer": "Con más formalidad y calma" }
+        {
+          "q": "¿Cómo describe el amigo el plan?",
+          "options": [
+            "Muy bueno",
+            "Totalmente al pedo",
+            "Aceptable",
+            "Perfecto"
+          ],
+          "answer": "Totalmente al pedo"
+        },
+        {
+          "q": "¿Qué palabra coloquial usa para describir la situación?",
+          "options": [
+            "Un desastre formal",
+            "Un quilombo",
+            "Un problema menor",
+            "Una solución"
+          ],
+          "answer": "Un quilombo"
+        },
+        {
+          "q": "¿Cómo trataba de hablar la otra persona?",
+          "options": [
+            "De forma más informal",
+            "Con más formalidad y calma",
+            "Gritando",
+            "En silencio"
+          ],
+          "answer": "Con más formalidad y calma"
+        }
       ]
     },
     {
-      "id": "rcp_u28_03", "unit": 28, "level": 5,
+      "id": "rcp_u28_03",
+      "unit": 28,
+      "level": 5,
       "title": "Una carta formal",
       "text": "Lamentamos informarle que su solicitud ha sido denegada por no cumplir los requisitos establecidos. Con el debido respeto, debemos disentir de la propuesta presentada por su departamento. Le agradeceríamos que reconsiderara la decisión en una futura instancia.",
       "questions": [
-        { "q": "¿Qué le informan a la persona?", "options": ["Que fue aceptada", "Que fue denegada", "Que debe esperar", "Que ganó un premio"], "answer": "Que fue denegada" },
-        { "q": "¿Con qué actitud expresan su desacuerdo?", "options": ["Con enojo", "Con el debido respeto", "Sin explicación", "Con indiferencia"], "answer": "Con el debido respeto" },
-        { "q": "¿Qué le piden que haga?", "options": ["Que se rinda", "Que reconsidere la decisión", "Que no vuelva a pedir", "Nada"], "answer": "Que reconsidere la decisión" }
+        {
+          "q": "¿Qué le informan a la persona?",
+          "options": [
+            "Que fue aceptada",
+            "Que fue denegada",
+            "Que debe esperar",
+            "Que ganó un premio"
+          ],
+          "answer": "Que fue denegada"
+        },
+        {
+          "q": "¿Con qué actitud expresan su desacuerdo?",
+          "options": [
+            "Con enojo",
+            "Con el debido respeto",
+            "Sin explicación",
+            "Con indiferencia"
+          ],
+          "answer": "Con el debido respeto"
+        },
+        {
+          "q": "¿Qué le piden que haga?",
+          "options": [
+            "Que se rinda",
+            "Que reconsidere la decisión",
+            "Que no vuelva a pedir",
+            "Nada"
+          ],
+          "answer": "Que reconsidere la decisión"
+        }
       ]
     },
-
     {
-      "id": "rcp_u29_01", "unit": 29, "level": 5,
+      "id": "rcp_u29_01",
+      "unit": 29,
+      "level": 5,
       "title": "Ganas de comer pizza",
       "text": "Tengo ganas de comer pizza esta noche, así que voy a dar el todo por el todo buscando la mejor pizzería de la ciudad. Este proyecto me hace mucha ilusión, aunque tarde una eternidad en tomar la decisión final sobre el menú.",
       "questions": [
-        { "q": "¿Qué tiene ganas de comer la persona?", "options": ["Pasta", "Pizza", "Ensalada", "Sushi"], "answer": "Pizza" },
-        { "q": "¿Qué está buscando?", "options": ["Un restaurante barato", "La mejor pizzería de la ciudad", "Una receta", "Un chef famoso"], "answer": "La mejor pizzería de la ciudad" },
-        { "q": "¿Qué le hace mucha ilusión?", "options": ["El clima", "Este proyecto", "El fin de semana", "Nada en particular"], "answer": "Este proyecto" }
+        {
+          "q": "¿Qué tiene ganas de comer la persona?",
+          "options": [
+            "Pasta",
+            "Pizza",
+            "Ensalada",
+            "Sushi"
+          ],
+          "answer": "Pizza"
+        },
+        {
+          "q": "¿Qué está buscando?",
+          "options": [
+            "Un restaurante barato",
+            "La mejor pizzería de la ciudad",
+            "Una receta",
+            "Un chef famoso"
+          ],
+          "answer": "La mejor pizzería de la ciudad"
+        },
+        {
+          "q": "¿Qué le hace mucha ilusión?",
+          "options": [
+            "El clima",
+            "Este proyecto",
+            "El fin de semana",
+            "Nada en particular"
+          ],
+          "answer": "Este proyecto"
+        }
       ]
     },
     {
-      "id": "rcp_u29_02", "unit": 29, "level": 5,
+      "id": "rcp_u29_02",
+      "unit": 29,
+      "level": 5,
       "title": "Se echó atrás",
       "text": "Se echó atrás a último momento, después de haber prometido tanto durante semanas. Ese comentario cayó muy mal a todos en la reunión, y nadie supo cómo reaccionar. Él siempre trata de causar una buena impresión, pero esta vez falló completamente.",
       "questions": [
-        { "q": "¿Cuándo se echó atrás la persona?", "options": ["Al principio", "A último momento", "Nunca lo hizo", "Después de meses"], "answer": "A último momento" },
-        { "q": "¿Cómo cayó el comentario en la reunión?", "options": ["Muy bien", "Muy mal", "Nadie lo notó", "Fue gracioso"], "answer": "Muy mal" },
-        { "q": "¿Qué trata siempre de hacer él?", "options": ["Evitar a la gente", "Causar una buena impresión", "Quedarse callado", "Irse temprano"], "answer": "Causar una buena impresión" }
+        {
+          "q": "¿Cuándo se echó atrás la persona?",
+          "options": [
+            "Al principio",
+            "A último momento",
+            "Nunca lo hizo",
+            "Después de meses"
+          ],
+          "answer": "A último momento"
+        },
+        {
+          "q": "¿Cómo cayó el comentario en la reunión?",
+          "options": [
+            "Muy bien",
+            "Muy mal",
+            "Nadie lo notó",
+            "Fue gracioso"
+          ],
+          "answer": "Muy mal"
+        },
+        {
+          "q": "¿Qué trata siempre de hacer él?",
+          "options": [
+            "Evitar a la gente",
+            "Causar una buena impresión",
+            "Quedarse callado",
+            "Irse temprano"
+          ],
+          "answer": "Causar una buena impresión"
+        }
       ]
     },
     {
-      "id": "rcp_u29_03", "unit": 29, "level": 5,
+      "id": "rcp_u29_03",
+      "unit": 29,
+      "level": 5,
       "title": "Me muero por saber",
       "text": "Me muero por ver el resultado final después de tanto trabajo. Esta noticia me alegró el día por completo, algo que no pasaba hace mucho tiempo. Esa idea no me cae nada bien, aunque entiendo por qué otros la apoyan con entusiasmo.",
       "questions": [
-        { "q": "¿Qué quiere ver la persona con ansias?", "options": ["Una película", "El resultado final", "A un amigo", "El clima"], "answer": "El resultado final" },
-        { "q": "¿Qué le alegró el día?", "options": ["Una llamada", "Esta noticia", "El desayuno", "Nada en particular"], "answer": "Esta noticia" },
-        { "q": "¿Cómo le cae la idea a la persona?", "options": ["Muy bien", "Nada bien", "Le es indiferente", "Perfecta"], "answer": "Nada bien" }
+        {
+          "q": "¿Qué quiere ver la persona con ansias?",
+          "options": [
+            "Una película",
+            "El resultado final",
+            "A un amigo",
+            "El clima"
+          ],
+          "answer": "El resultado final"
+        },
+        {
+          "q": "¿Qué le alegró el día?",
+          "options": [
+            "Una llamada",
+            "Esta noticia",
+            "El desayuno",
+            "Nada en particular"
+          ],
+          "answer": "Esta noticia"
+        },
+        {
+          "q": "¿Cómo le cae la idea a la persona?",
+          "options": [
+            "Muy bien",
+            "Nada bien",
+            "Le es indiferente",
+            "Perfecta"
+          ],
+          "answer": "Nada bien"
+        }
       ]
     },
-
     {
-      "id": "rcp_u30_01", "unit": 30, "level": 5,
+      "id": "rcp_u30_01",
+      "unit": 30,
+      "level": 5,
       "title": "Reformulando la propuesta",
       "text": "En otras palabras, el plan necesita más tiempo antes de implementarse por completo. El mediador reformuló ambas posturas para encontrar un punto en común entre las partes. Es decir, la propuesta debe reconsiderarse a la luz de la nueva información disponible.",
       "questions": [
-        { "q": "¿Qué necesita el plan según la reformulación?", "options": ["Menos tiempo", "Más tiempo", "Más dinero", "Nada más"], "answer": "Más tiempo" },
-        { "q": "¿Qué hizo el mediador?", "options": ["Ignoró a ambas partes", "Reformuló ambas posturas", "Eligió un bando", "Canceló la reunión"], "answer": "Reformuló ambas posturas" },
-        { "q": "¿Qué debe hacerse con la propuesta?", "options": ["Aprobarla de inmediato", "Reconsiderarla", "Rechazarla sin más", "Olvidarla"], "answer": "Reconsiderarla" }
+        {
+          "q": "¿Qué necesita el plan según la reformulación?",
+          "options": [
+            "Menos tiempo",
+            "Más tiempo",
+            "Más dinero",
+            "Nada más"
+          ],
+          "answer": "Más tiempo"
+        },
+        {
+          "q": "¿Qué hizo el mediador?",
+          "options": [
+            "Ignoró a ambas partes",
+            "Reformuló ambas posturas",
+            "Eligió un bando",
+            "Canceló la reunión"
+          ],
+          "answer": "Reformuló ambas posturas"
+        },
+        {
+          "q": "¿Qué debe hacerse con la propuesta?",
+          "options": [
+            "Aprobarla de inmediato",
+            "Reconsiderarla",
+            "Rechazarla sin más",
+            "Olvidarla"
+          ],
+          "answer": "Reconsiderarla"
+        }
       ]
     },
     {
-      "id": "rcp_u30_02", "unit": 30, "level": 5,
+      "id": "rcp_u30_02",
+      "unit": 30,
+      "level": 5,
       "title": "Dicho de otro modo",
       "text": "Dicho de otro modo, nadie está realmente satisfecho con el resultado de la negociación. El intérprete transmitió el mensaje sin perder su tono original, algo muy difícil de lograr. Bien mirado, el resultado podría haber sido mucho peor de lo que fue.",
       "questions": [
-        { "q": "¿Cómo está la gente con el resultado?", "options": ["Muy satisfecha", "No realmente satisfecha", "Indiferente", "Encantada"], "answer": "No realmente satisfecha" },
-        { "q": "¿Qué logró el intérprete?", "options": ["Cambiar el mensaje", "Transmitirlo sin perder el tono", "Traducir mal", "Nada especial"], "answer": "Transmitirlo sin perder el tono" },
-        { "q": "¿Qué se concluye sobre el resultado, bien mirado?", "options": ["Que fue el peor posible", "Que podría haber sido peor", "Que fue perfecto", "Que no importa"], "answer": "Que podría haber sido peor" }
+        {
+          "q": "¿Cómo está la gente con el resultado?",
+          "options": [
+            "Muy satisfecha",
+            "No realmente satisfecha",
+            "Indiferente",
+            "Encantada"
+          ],
+          "answer": "No realmente satisfecha"
+        },
+        {
+          "q": "¿Qué logró el intérprete?",
+          "options": [
+            "Cambiar el mensaje",
+            "Transmitirlo sin perder el tono",
+            "Traducir mal",
+            "Nada especial"
+          ],
+          "answer": "Transmitirlo sin perder el tono"
+        },
+        {
+          "q": "¿Qué se concluye sobre el resultado, bien mirado?",
+          "options": [
+            "Que fue el peor posible",
+            "Que podría haber sido peor",
+            "Que fue perfecto",
+            "Que no importa"
+          ],
+          "answer": "Que podría haber sido peor"
+        }
       ]
     },
     {
-      "id": "rcp_u30_03", "unit": 30, "level": 5,
+      "id": "rcp_u30_03",
+      "unit": 30,
+      "level": 5,
       "title": "Un camino de toda la vida",
       "text": "En síntesis, dominar un idioma es un camino de toda la vida, sin un punto final definitivo. Pase lo que pase, debemos mantener la comunicación abierta entre culturas diferentes. En resumen, la mediación exitosa requiere paciencia, empatía y un dominio profundo de ambas lenguas.",
       "questions": [
-        { "q": "¿Cómo se describe dominar un idioma?", "options": ["Como una meta rápida", "Como un camino de toda la vida", "Como algo imposible", "Como innecesario"], "answer": "Como un camino de toda la vida" },
-        { "q": "¿Qué debe mantenerse pase lo que pase?", "options": ["El silencio", "La comunicación abierta", "La distancia", "La formalidad"], "answer": "La comunicación abierta" },
-        { "q": "¿Qué requiere una mediación exitosa?", "options": ["Solo velocidad", "Paciencia, empatía y dominio de ambas lenguas", "Dinero", "Nada especial"], "answer": "Paciencia, empatía y dominio de ambas lenguas" }
+        {
+          "q": "¿Cómo se describe dominar un idioma?",
+          "options": [
+            "Como una meta rápida",
+            "Como un camino de toda la vida",
+            "Como algo imposible",
+            "Como innecesario"
+          ],
+          "answer": "Como un camino de toda la vida"
+        },
+        {
+          "q": "¿Qué debe mantenerse pase lo que pase?",
+          "options": [
+            "El silencio",
+            "La comunicación abierta",
+            "La distancia",
+            "La formalidad"
+          ],
+          "answer": "La comunicación abierta"
+        },
+        {
+          "q": "¿Qué requiere una mediación exitosa?",
+          "options": [
+            "Solo velocidad",
+            "Paciencia, empatía y dominio de ambas lenguas",
+            "Dinero",
+            "Nada especial"
+          ],
+          "answer": "Paciencia, empatía y dominio de ambas lenguas"
+        }
       ]
     }
   ]

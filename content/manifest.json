@@ -4,7 +4,7 @@
   "pairs": [
     {
       "id": "en-es",
-      "version": 1,
+      "version": 2,
       "l1": "en",
       "l2": "es",
       "l1_name": "English",
@@ -17,7 +17,7 @@
     },
     {
       "id": "es-en",
-      "version": 6,
+      "version": 7,
       "l1": "es",
       "l2": "en",
       "l1_name": "Español",

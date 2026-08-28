@@ -12,15 +12,21 @@
       "examples": [
         {
           "target": "¿Cómo se escribe tu apellido?",
-          "native": "How do you spell your surname?"
+          "native": "How do you spell your surname?",
+          "en": "¿Cómo se escribe tu apellido?",
+          "es": "How do you spell your surname?"
         },
         {
           "target": "García: ge, a, erre, ce, i con tilde, a.",
-          "native": "García: G, A, R, C, I with an accent, A."
+          "native": "García: G, A, R, C, I with an accent, A.",
+          "en": "García: ge, a, erre, ce, i con tilde, a.",
+          "es": "García: G, A, R, C, I with an accent, A."
         },
         {
           "target": "Con be de burro, no con uve.",
-          "native": "With a B, not a V."
+          "native": "With a B, not a V.",
+          "en": "Con be de burro, no con uve.",
+          "es": "With a B, not a V."
         }
       ],
       "watch_out": "H is never pronounced. 'Hola' starts with the O sound, and 'hola'/'ola' sound identical."
@@ -35,15 +41,21 @@
       "examples": [
         {
           "target": "Nos vemos el jueves.",
-          "native": "See you on Thursday."
+          "native": "See you on Thursday.",
+          "en": "Nos vemos el jueves.",
+          "es": "See you on Thursday."
         },
         {
           "target": "Los sábados no trabajo.",
-          "native": "I don't work on Saturdays."
+          "native": "I don't work on Saturdays.",
+          "en": "Los sábados no trabajo.",
+          "es": "I don't work on Saturdays."
         },
         {
           "target": "Mi cumpleaños es el 12 de octubre.",
-          "native": "My birthday is October 12th."
+          "native": "My birthday is October 12th.",
+          "en": "Mi cumpleaños es el 12 de octubre.",
+          "es": "My birthday is October 12th."
         }
       ],
       "watch_out": "No preposition with days: 'el lunes', never 'en lunes'. And never capitalise them."
@@ -58,15 +70,21 @@
       "examples": [
         {
           "target": "Buenos días, ¿qué tal?",
-          "native": "Good morning, how are you?"
+          "native": "Good morning, how are you?",
+          "en": "Buenos días, ¿qué tal?",
+          "es": "Good morning, how are you?"
         },
         {
           "target": "Buenas noches, hasta mañana.",
-          "native": "Good night, see you tomorrow."
+          "native": "Good night, see you tomorrow.",
+          "en": "Buenas noches, hasta mañana.",
+          "es": "Good night, see you tomorrow."
         },
         {
           "target": "Chau, nos vemos el lunes.",
-          "native": "Bye, see you on Monday."
+          "native": "Bye, see you on Monday.",
+          "en": "Chau, nos vemos el lunes.",
+          "es": "Bye, see you on Monday."
         }
       ],
       "watch_out": "Saying 'adiós' to a colleague you will see in an hour sounds oddly final. Use 'hasta luego'."
@@ -81,15 +99,21 @@
       "examples": [
         {
           "target": "Tengo veintiún años.",
-          "native": "I am twenty-one years old."
+          "native": "I am twenty-one years old.",
+          "en": "Tengo veintiún años.",
+          "es": "I am twenty-one years old."
         },
         {
           "target": "Son treinta y cinco euros.",
-          "native": "That's thirty-five euros."
+          "native": "That's thirty-five euros.",
+          "en": "Son treinta y cinco euros.",
+          "es": "That's thirty-five euros."
         },
         {
           "target": "Hay dieciséis personas en la clase.",
-          "native": "There are sixteen people in the class."
+          "native": "There are sixteen people in the class.",
+          "en": "Hay dieciséis personas en la clase.",
+          "es": "There are sixteen people in the class."
         }
       ],
       "watch_out": "16-29 are one word; 31 and up are three. 'Dieciséis' but 'treinta y seis'."
@@ -104,15 +128,21 @@
       "examples": [
         {
           "target": "Soy profesor y soy de Irlanda.",
-          "native": "I'm a teacher and I'm from Ireland."
+          "native": "I'm a teacher and I'm from Ireland.",
+          "en": "Soy profesor y soy de Irlanda.",
+          "es": "I'm a teacher and I'm from Ireland."
         },
         {
           "target": "Estoy en casa y estoy cansado.",
-          "native": "I'm at home and I'm tired."
+          "native": "I'm at home and I'm tired.",
+          "en": "Estoy en casa y estoy cansado.",
+          "es": "I'm at home and I'm tired."
         },
         {
           "target": "La sopa es buena, pero está fría.",
-          "native": "The soup is good, but it's cold."
+          "native": "The soup is good, but it's cold.",
+          "en": "La sopa es buena, pero está fría.",
+          "es": "The soup is good, but it's cold."
         }
       ],
       "watch_out": "Location of a thing always takes 'estar' — 'Madrid está en España' — even though a city's position is permanent."
@@ -127,15 +157,21 @@
       "examples": [
         {
           "target": "Tengo dos hermanos: un chico y una chica.",
-          "native": "I have two siblings: a boy and a girl."
+          "native": "I have two siblings: a boy and a girl.",
+          "en": "Tengo dos hermanos: un chico y una chica.",
+          "es": "I have two siblings: a boy and a girl."
         },
         {
           "target": "Mis padres viven en Sevilla.",
-          "native": "My parents live in Seville."
+          "native": "My parents live in Seville.",
+          "en": "Mis padres viven en Sevilla.",
+          "es": "My parents live in Seville."
         },
         {
           "target": "Vienen todos mis parientes.",
-          "native": "All my relatives are coming."
+          "native": "All my relatives are coming.",
+          "en": "Vienen todos mis parientes.",
+          "es": "All my relatives are coming."
         }
       ],
       "watch_out": "'Parientes' means relatives, not parents. 'Mis parientes' is not 'my parents'."
@@ -150,15 +186,21 @@
       "examples": [
         {
           "target": "Soy irlandés y ella es irlandesa.",
-          "native": "I'm Irish and she's Irish."
+          "native": "I'm Irish and she's Irish.",
+          "en": "Soy irlandés y ella es irlandesa.",
+          "es": "I'm Irish and she's Irish."
         },
         {
           "target": "Somos estadounidenses, de Chicago.",
-          "native": "We're American, from Chicago."
+          "native": "We're American, from Chicago.",
+          "en": "Somos estadounidenses, de Chicago.",
+          "es": "We're American, from Chicago."
         },
         {
           "target": "En Brasil se habla portugués.",
-          "native": "In Brazil they speak Portuguese."
+          "native": "In Brazil they speak Portuguese.",
+          "en": "En Brasil se habla portugués.",
+          "es": "In Brazil they speak Portuguese."
         }
       ],
       "watch_out": "Lowercase always: 'soy americano', not 'soy Americano'. The country keeps its capital."
@@ -173,15 +215,21 @@
       "examples": [
         {
           "target": "Mis padres y nuestra casa.",
-          "native": "My parents and our house."
+          "native": "My parents and our house.",
+          "en": "Mis padres y nuestra casa.",
+          "es": "My parents and our house."
         },
         {
           "target": "Su hermana vive en Lima.",
-          "native": "His (or her, or their) sister lives in Lima."
+          "native": "His (or her, or their) sister lives in Lima.",
+          "en": "Su hermana vive en Lima.",
+          "es": "His (or her, or their) sister lives in Lima."
         },
         {
           "target": "Me lavo las manos.",
-          "native": "I wash my hands."
+          "native": "I wash my hands.",
+          "en": "Me lavo las manos.",
+          "es": "I wash my hands."
         }
       ],
       "watch_out": "'Mis' is plural because of the books, not because of you. 'Mi libros' is wrong."
@@ -196,15 +244,21 @@
       "examples": [
         {
           "target": "Soy ingeniera.",
-          "native": "I'm an engineer."
+          "native": "I'm an engineer.",
+          "en": "Soy ingeniera.",
+          "es": "I'm an engineer."
         },
         {
           "target": "¿A qué te dedicas?",
-          "native": "What do you do for a living?"
+          "native": "What do you do for a living?",
+          "en": "¿A qué te dedicas?",
+          "es": "What do you do for a living?"
         },
         {
           "target": "Es un profesor buenísimo.",
-          "native": "He's a really good teacher."
+          "native": "He's a really good teacher.",
+          "en": "Es un profesor buenísimo.",
+          "es": "He's a really good teacher."
         }
       ],
       "watch_out": "No 'un/una' before a plain profession. 'Soy un profesor' sounds like 'I am one of the teachers'."
@@ -219,15 +273,21 @@
       "examples": [
         {
           "target": "¿Eres de aquí?",
-          "native": "Are you from here?"
+          "native": "Are you from here?",
+          "en": "¿Eres de aquí?",
+          "es": "Are you from here?"
         },
         {
           "target": "¿Dónde trabaja tu hermana?",
-          "native": "Where does your sister work?"
+          "native": "Where does your sister work?",
+          "en": "¿Dónde trabaja tu hermana?",
+          "es": "Where does your sister work?"
         },
         {
           "target": "Hablas francés, ¿verdad?",
-          "native": "You speak French, right?"
+          "native": "You speak French, right?",
+          "en": "Hablas francés, ¿verdad?",
+          "es": "You speak French, right?"
         }
       ],
       "watch_out": "Never translate 'do' — '¿Haces tú trabajar?' is not Spanish. The verb alone carries the question."
@@ -242,15 +302,21 @@
       "examples": [
         {
           "target": "Me levanto a las siete y media.",
-          "native": "I get up at half past seven."
+          "native": "I get up at half past seven.",
+          "en": "Me levanto a las siete y media.",
+          "es": "I get up at half past seven."
         },
         {
           "target": "Se ducha antes de desayunar.",
-          "native": "He showers before having breakfast."
+          "native": "He showers before having breakfast.",
+          "en": "Se ducha antes de desayunar.",
+          "es": "He showers before having breakfast."
         },
         {
           "target": "Nos acostamos muy tarde.",
-          "native": "We go to bed very late."
+          "native": "We go to bed very late.",
+          "en": "Nos acostamos muy tarde.",
+          "es": "We go to bed very late."
         }
       ],
       "watch_out": "Dropping the pronoun changes the meaning, it doesn't just sound off: 'lavo' is 'I wash something', 'me lavo' is 'I wash myself'."
@@ -265,15 +331,21 @@
       "examples": [
         {
           "target": "El libro está encima de la mesa.",
-          "native": "The book is on the table."
+          "native": "The book is on the table.",
+          "en": "El libro está encima de la mesa.",
+          "es": "The book is on the table."
         },
         {
           "target": "Vivo cerca del centro.",
-          "native": "I live near the centre."
+          "native": "I live near the centre.",
+          "en": "Vivo cerca del centro.",
+          "es": "I live near the centre."
         },
         {
           "target": "La farmacia está enfrente del banco.",
-          "native": "The pharmacy is opposite the bank."
+          "native": "The pharmacy is opposite the bank.",
+          "en": "La farmacia está enfrente del banco.",
+          "es": "The pharmacy is opposite the bank."
         }
       ],
       "watch_out": "'De' + 'el' always contracts to 'del'. 'Cerca de el banco' is wrong; it is 'cerca del banco'."
@@ -288,15 +360,21 @@
       "examples": [
         {
           "target": "Hablo español y estudio francés.",
-          "native": "I speak Spanish and I'm studying French."
+          "native": "I speak Spanish and I'm studying French.",
+          "en": "Hablo español y estudio francés.",
+          "es": "I speak Spanish and I'm studying French."
         },
         {
           "target": "¿Dónde vives?",
-          "native": "Where do you live?"
+          "native": "Where do you live?",
+          "en": "¿Dónde vives?",
+          "es": "Where do you live?"
         },
         {
           "target": "Comemos a las dos.",
-          "native": "We eat at two."
+          "native": "We eat at two.",
+          "en": "Comemos a las dos.",
+          "es": "We eat at two."
         }
       ],
       "watch_out": "Leave out 'yo' unless you mean to stress it. Repeating it sounds like you're arguing with someone."
@@ -311,15 +389,21 @@
       "examples": [
         {
           "target": "Hay dos supermercados en mi barrio.",
-          "native": "There are two supermarkets in my neighbourhood."
+          "native": "There are two supermarkets in my neighbourhood.",
+          "en": "Hay dos supermercados en mi barrio.",
+          "es": "There are two supermarkets in my neighbourhood."
         },
         {
           "target": "¿Hay una farmacia por aquí?",
-          "native": "Is there a pharmacy around here?"
+          "native": "Is there a pharmacy around here?",
+          "en": "¿Hay una farmacia por aquí?",
+          "es": "Is there a pharmacy around here?"
         },
         {
           "target": "La farmacia está en la calle Mayor.",
-          "native": "The pharmacy is on Mayor Street."
+          "native": "The pharmacy is on Mayor Street.",
+          "en": "La farmacia está en la calle Mayor.",
+          "es": "The pharmacy is on Mayor Street."
         }
       ],
       "watch_out": "'Hay' never takes a definite article. 'Hay el problema' is wrong — it's 'hay un problema'."
@@ -334,15 +418,21 @@
       "examples": [
         {
           "target": "Son las cinco y veinte.",
-          "native": "It's twenty past five."
+          "native": "It's twenty past five.",
+          "en": "Son las cinco y veinte.",
+          "es": "It's twenty past five."
         },
         {
           "target": "Es la una menos cuarto.",
-          "native": "It's a quarter to one."
+          "native": "It's a quarter to one.",
+          "en": "Es la una menos cuarto.",
+          "es": "It's a quarter to one."
         },
         {
           "target": "Trabajo a las ocho de la mañana.",
-          "native": "I work at eight in the morning."
+          "native": "I work at eight in the morning.",
+          "en": "Trabajo a las ocho de la mañana.",
+          "es": "I work at eight in the morning."
         }
       ],
       "watch_out": "'Son las' for telling the time, 'a las' for scheduling. 'La reunión son las tres' is wrong."
@@ -357,15 +447,21 @@
       "examples": [
         {
           "target": "Este libro es mío.",
-          "native": "This book is mine."
+          "native": "This book is mine.",
+          "en": "Este libro es mío.",
+          "es": "This book is mine."
         },
         {
           "target": "¿Me pasas esa silla?",
-          "native": "Can you pass me that chair?"
+          "native": "Can you pass me that chair?",
+          "en": "¿Me pasas esa silla?",
+          "es": "Can you pass me that chair?"
         },
         {
           "target": "¿Qué es eso?",
-          "native": "What's that?"
+          "native": "What's that?",
+          "en": "¿Qué es eso?",
+          "es": "What's that?"
         }
       ],
       "watch_out": "Use 'eso/esto' when you don't know what the thing is. Once you name it, it needs gender: 'esa mesa'."
@@ -380,15 +476,21 @@
       "examples": [
         {
           "target": "Perdone, ¿cómo se llega a la estación?",
-          "native": "Excuse me, how do I get to the station?"
+          "native": "Excuse me, how do I get to the station?",
+          "en": "Perdone, ¿cómo se llega a la estación?",
+          "es": "Excuse me, how do I get to the station?"
         },
         {
           "target": "Siga todo recto y gire a la derecha.",
-          "native": "Go straight on and turn right."
+          "native": "Go straight on and turn right.",
+          "en": "Siga todo recto y gire a la derecha.",
+          "es": "Go straight on and turn right."
         },
         {
           "target": "Está a dos manzanas de aquí.",
-          "native": "It's two blocks from here."
+          "native": "It's two blocks from here.",
+          "en": "Está a dos manzanas de aquí.",
+          "es": "It's two blocks from here."
         }
       ],
       "watch_out": "'A la derecha' is right; 'todo derecho' is straight ahead. Mixing them sends you the wrong way."
@@ -403,15 +505,21 @@
       "examples": [
         {
           "target": "¿Puedes ayudarme, por favor?",
-          "native": "Can you help me, please?"
+          "native": "Can you help me, please?",
+          "en": "¿Puedes ayudarme, por favor?",
+          "es": "Can you help me, please?"
         },
         {
           "target": "No puedo ir mañana.",
-          "native": "I can't go tomorrow."
+          "native": "I can't go tomorrow.",
+          "en": "No puedo ir mañana.",
+          "es": "I can't go tomorrow."
         },
         {
           "target": "Sé tocar la guitarra.",
-          "native": "I can play the guitar."
+          "native": "I can play the guitar.",
+          "en": "Sé tocar la guitarra.",
+          "es": "I can play the guitar."
         }
       ],
       "watch_out": "For a skill you learned, use 'saber': 'sé conducir'. 'Puedo conducir' means nothing is stopping you right now."
@@ -426,15 +534,21 @@
       "examples": [
         {
           "target": "¿Cuánto cuestan estos zapatos?",
-          "native": "How much are these shoes?"
+          "native": "How much are these shoes?",
+          "en": "¿Cuánto cuestan estos zapatos?",
+          "es": "How much are these shoes?"
         },
         {
           "target": "Son cuarenta y cinco euros.",
-          "native": "That's forty-five euros."
+          "native": "That's forty-five euros.",
+          "en": "Son cuarenta y cinco euros.",
+          "es": "That's forty-five euros."
         },
         {
           "target": "¿Puedo pagar con tarjeta?",
-          "native": "Can I pay by card?"
+          "native": "Can I pay by card?",
+          "en": "¿Puedo pagar con tarjeta?",
+          "es": "Can I pay by card?"
         }
       ],
       "watch_out": "The decimal separator is a comma: '2,50 euros'. A price written '2.50' reads as two hundred and fifty."
@@ -449,15 +563,21 @@
       "examples": [
         {
           "target": "Tengo veintiocho años.",
-          "native": "I'm twenty-eight."
+          "native": "I'm twenty-eight.",
+          "en": "Tengo veintiocho años.",
+          "es": "I'm twenty-eight."
         },
         {
           "target": "Tenemos mucha hambre.",
-          "native": "We're very hungry."
+          "native": "We're very hungry.",
+          "en": "Tenemos mucha hambre.",
+          "es": "We're very hungry."
         },
         {
           "target": "Tienes razón.",
-          "native": "You're right."
+          "native": "You're right.",
+          "en": "Tienes razón.",
+          "es": "You're right."
         }
       ],
       "watch_out": "'Muy hambre' is wrong. Hunger is a noun here, so it takes 'mucha': 'mucha hambre'."
@@ -472,15 +592,21 @@
       "examples": [
         {
           "target": "Me gustan las películas de terror.",
-          "native": "I like horror films."
+          "native": "I like horror films.",
+          "en": "Me gustan las películas de terror.",
+          "es": "I like horror films."
         },
         {
           "target": "A mis padres les gusta el cine.",
-          "native": "My parents like the cinema."
+          "native": "My parents like the cinema.",
+          "en": "A mis padres les gusta el cine.",
+          "es": "My parents like the cinema."
         },
         {
           "target": "¿Te gustan los gatos?",
-          "native": "Do you like cats?"
+          "native": "Do you like cats?",
+          "en": "¿Te gustan los gatos?",
+          "es": "Do you like cats?"
         }
       ],
       "watch_out": "'Me gustan leer y escribir' is wrong. Infinitives never make the verb plural."
@@ -495,15 +621,21 @@
       "examples": [
         {
           "target": "Me gusta el chocolate.",
-          "native": "I like chocolate."
+          "native": "I like chocolate.",
+          "en": "Me gusta el chocolate.",
+          "es": "I like chocolate."
         },
         {
           "target": "A ella le gusta cocinar.",
-          "native": "She likes cooking."
+          "native": "She likes cooking.",
+          "en": "A ella le gusta cocinar.",
+          "es": "She likes cooking."
         },
         {
           "target": "No nos gusta este restaurante.",
-          "native": "We don't like this restaurant."
+          "native": "We don't like this restaurant.",
+          "en": "No nos gusta este restaurante.",
+          "es": "We don't like this restaurant."
         }
       ],
       "watch_out": "'Yo gusto' means 'people find me attractive'. It is not how you say 'I like'."
@@ -518,15 +650,21 @@
       "examples": [
         {
           "target": "Me encanta la música clásica.",
-          "native": "I love classical music."
+          "native": "I love classical music.",
+          "en": "Me encanta la música clásica.",
+          "es": "I love classical music."
         },
         {
           "target": "Me duelen los pies.",
-          "native": "My feet hurt."
+          "native": "My feet hurt.",
+          "en": "Me duelen los pies.",
+          "es": "My feet hurt."
         },
         {
           "target": "¿Te apetece salir esta noche?",
-          "native": "Do you fancy going out tonight?"
+          "native": "Do you fancy going out tonight?",
+          "en": "¿Te apetece salir esta noche?",
+          "es": "Do you fancy going out tonight?"
         }
       ],
       "watch_out": "'Me encanta mucho' is redundant. 'Encantar' already means the most."
@@ -541,15 +679,21 @@
       "examples": [
         {
           "target": "¿Cuál es tu número de teléfono?",
-          "native": "What's your phone number?"
+          "native": "What's your phone number?",
+          "en": "¿Cuál es tu número de teléfono?",
+          "es": "What's your phone number?"
         },
         {
           "target": "¿Qué película quieres ver?",
-          "native": "Which film do you want to see?"
+          "native": "Which film do you want to see?",
+          "en": "¿Qué película quieres ver?",
+          "es": "Which film do you want to see?"
         },
         {
           "target": "¿Cuántos hermanos tienes?",
-          "native": "How many siblings do you have?"
+          "native": "How many siblings do you have?",
+          "en": "¿Cuántos hermanos tienes?",
+          "es": "How many siblings do you have?"
         }
       ],
       "watch_out": "'¿Qué es tu nombre?' asks what a name IS, philosophically. Use '¿cuál es tu nombre?'"
@@ -564,15 +708,21 @@
       "examples": [
         {
           "target": "Tengo mucho frío y no puedo dormir.",
-          "native": "I'm very cold and I can't sleep."
+          "native": "I'm very cold and I can't sleep.",
+          "en": "Tengo mucho frío y no puedo dormir.",
+          "es": "I'm very cold and I can't sleep."
         },
         {
           "target": "¿Te gusta bailar? Yo sé bailar salsa.",
-          "native": "Do you like dancing? I can dance salsa."
+          "native": "Do you like dancing? I can dance salsa.",
+          "en": "¿Te gusta bailar? Yo sé bailar salsa.",
+          "es": "Do you like dancing? I can dance salsa."
         },
         {
           "target": "No tienen tiempo, tienen mucha prisa.",
-          "native": "They don't have time, they're in a big hurry."
+          "native": "They don't have time, they're in a big hurry.",
+          "en": "No tienen tiempo, tienen mucha prisa.",
+          "es": "They don't have time, they're in a big hurry."
         }
       ],
       "watch_out": "The three classic slips: 'soy 20 años', 'puedo nadar' for a skill, and 'yo gusto'."
@@ -587,15 +737,21 @@
       "examples": [
         {
           "target": "Es una casa muy bonita.",
-          "native": "It's a very pretty house."
+          "native": "It's a very pretty house.",
+          "en": "Es una casa muy bonita.",
+          "es": "It's a very pretty house."
         },
         {
           "target": "Mi hermana es alta y trabajadora.",
-          "native": "My sister is tall and hard-working."
+          "native": "My sister is tall and hard-working.",
+          "en": "Mi hermana es alta y trabajadora.",
+          "es": "My sister is tall and hard-working."
         },
         {
           "target": "Un problema difícil y una solución difícil.",
-          "native": "A hard problem and a hard solution."
+          "native": "A hard problem and a hard solution.",
+          "en": "Un problema difícil y una solución difícil.",
+          "es": "A hard problem and a hard solution."
         }
       ],
       "watch_out": "'Problema' ends in -a but is masculine: 'un problema difícil'. The -ma words from Greek all behave this way."
@@ -610,15 +766,21 @@
       "examples": [
         {
           "target": "Son unos zapatos muy caros.",
-          "native": "They're very expensive shoes."
+          "native": "They're very expensive shoes.",
+          "en": "Son unos zapatos muy caros.",
+          "es": "They're very expensive shoes."
         },
         {
           "target": "Los niños están felices.",
-          "native": "The children are happy."
+          "native": "The children are happy.",
+          "en": "Los niños están felices.",
+          "es": "The children are happy."
         },
         {
           "target": "La mesa y el sofá son nuevos.",
-          "native": "The table and the sofa are new."
+          "native": "The table and the sofa are new.",
+          "en": "La mesa y el sofá son nuevos.",
+          "es": "The table and the sofa are new."
         }
       ],
       "watch_out": "'Feliz' pluralises to 'felices', not 'felizes'. Z becomes c before e."
@@ -633,15 +795,21 @@
       "examples": [
         {
           "target": "Es un buen amigo.",
-          "native": "He's a good friend."
+          "native": "He's a good friend.",
+          "en": "Es un buen amigo.",
+          "es": "He's a good friend."
         },
         {
           "target": "Vivo en una casa grande.",
-          "native": "I live in a big house."
+          "native": "I live in a big house.",
+          "en": "Vivo en una casa grande.",
+          "es": "I live in a big house."
         },
         {
           "target": "Fue un gran día.",
-          "native": "It was a great day."
+          "native": "It was a great day.",
+          "en": "Fue un gran día.",
+          "es": "It was a great day."
         }
       ],
       "watch_out": "'Una gran mujer' is a great woman; 'una mujer grande' is a large one. The position is the whole difference."
@@ -656,15 +824,21 @@
       "examples": [
         {
           "target": "Madrid es más grande que Sevilla.",
-          "native": "Madrid is bigger than Seville."
+          "native": "Madrid is bigger than Seville.",
+          "en": "Madrid es más grande que Sevilla.",
+          "es": "Madrid is bigger than Seville."
         },
         {
           "target": "Este libro es tan bueno como el otro.",
-          "native": "This book is as good as the other one."
+          "native": "This book is as good as the other one.",
+          "en": "Este libro es tan bueno como el otro.",
+          "es": "This book is as good as the other one."
         },
         {
           "target": "Hay más de cien personas.",
-          "native": "There are more than a hundred people."
+          "native": "There are more than a hundred people.",
+          "en": "Hay más de cien personas.",
+          "es": "There are more than a hundred people."
         }
       ],
       "watch_out": "Before a number it's 'más de', not 'más que'. 'Más que cien' means 'more than [merely] a hundred'."
@@ -679,15 +853,21 @@
       "examples": [
         {
           "target": "Siempre desayuno a las ocho.",
-          "native": "I always have breakfast at eight."
+          "native": "I always have breakfast at eight.",
+          "en": "Siempre desayuno a las ocho.",
+          "es": "I always have breakfast at eight."
         },
         {
           "target": "No voy nunca al gimnasio.",
-          "native": "I never go to the gym."
+          "native": "I never go to the gym.",
+          "en": "No voy nunca al gimnasio.",
+          "es": "I never go to the gym."
         },
         {
           "target": "A veces salgo con mis amigos.",
-          "native": "Sometimes I go out with my friends."
+          "native": "Sometimes I go out with my friends.",
+          "en": "A veces salgo con mis amigos.",
+          "es": "Sometimes I go out with my friends."
         }
       ],
       "watch_out": "'No veo nada' is correct Spanish, not a mistake. Two negatives reinforce, they don't cancel."
@@ -702,15 +882,21 @@
       "examples": [
         {
           "target": "¿El libro? Lo compré ayer.",
-          "native": "The book? I bought it yesterday."
+          "native": "The book? I bought it yesterday.",
+          "en": "¿El libro? Lo compré ayer.",
+          "es": "The book? I bought it yesterday."
         },
         {
           "target": "Te llamo mañana.",
-          "native": "I'll call you tomorrow."
+          "native": "I'll call you tomorrow.",
+          "en": "Te llamo mañana.",
+          "es": "I'll call you tomorrow."
         },
         {
           "target": "Voy a hacerlo esta tarde.",
-          "native": "I'm going to do it this afternoon."
+          "native": "I'm going to do it this afternoon.",
+          "en": "Voy a hacerlo esta tarde.",
+          "es": "I'm going to do it this afternoon."
         }
       ],
       "watch_out": "Never after a conjugated verb: 'veo lo' is wrong. It's 'lo veo'."
@@ -725,15 +911,21 @@
       "examples": [
         {
           "target": "Llegué hace veinte minutos.",
-          "native": "I arrived twenty minutes ago."
+          "native": "I arrived twenty minutes ago.",
+          "en": "Llegué hace veinte minutos.",
+          "es": "I arrived twenty minutes ago."
         },
         {
           "target": "Hace tres años que vivo en Madrid.",
-          "native": "I've been living in Madrid for three years."
+          "native": "I've been living in Madrid for three years.",
+          "en": "Hace tres años que vivo en Madrid.",
+          "es": "I've been living in Madrid for three years."
         },
         {
           "target": "¿Cuánto hace que estudias español?",
-          "native": "How long have you been studying Spanish?"
+          "native": "How long have you been studying Spanish?",
+          "en": "¿Cuánto hace que estudias español?",
+          "es": "How long have you been studying Spanish?"
         }
       ],
       "watch_out": "For something still happening, use the present: 'hace dos años que trabajo aquí', not 'trabajé'."
@@ -748,15 +940,21 @@
       "examples": [
         {
           "target": "Voy a llamarte esta noche.",
-          "native": "I'm going to call you tonight."
+          "native": "I'm going to call you tonight.",
+          "en": "Voy a llamarte esta noche.",
+          "es": "I'm going to call you tonight."
         },
         {
           "target": "¿Qué vas a hacer el fin de semana?",
-          "native": "What are you going to do at the weekend?"
+          "native": "What are you going to do at the weekend?",
+          "en": "¿Qué vas a hacer el fin de semana?",
+          "es": "What are you going to do at the weekend?"
         },
         {
           "target": "Vamos a comer al restaurante nuevo.",
-          "native": "We're going to eat at the new restaurant."
+          "native": "We're going to eat at the new restaurant.",
+          "en": "Vamos a comer al restaurante nuevo.",
+          "es": "We're going to eat at the new restaurant."
         }
       ],
       "watch_out": "The 'a' is not optional. 'Voy comer' is wrong; it's 'voy a comer'."
@@ -771,15 +969,21 @@
       "examples": [
         {
           "target": "Tuve que trabajar el sábado.",
-          "native": "I had to work on Saturday."
+          "native": "I had to work on Saturday.",
+          "en": "Tuve que trabajar el sábado.",
+          "es": "I had to work on Saturday."
         },
         {
           "target": "Fuimos a Barcelona en tren.",
-          "native": "We went to Barcelona by train."
+          "native": "We went to Barcelona by train.",
+          "en": "Fuimos a Barcelona en tren.",
+          "es": "We went to Barcelona by train."
         },
         {
           "target": "No pude venir porque estuve enfermo.",
-          "native": "I couldn't come because I was ill."
+          "native": "I couldn't come because I was ill.",
+          "en": "No pude venir porque estuve enfermo.",
+          "es": "I couldn't come because I was ill."
         }
       ],
       "watch_out": "These endings carry no accent: it's 'tuve' and 'tuvo', never 'tuvé' or 'tuvó'."
@@ -794,15 +998,21 @@
       "examples": [
         {
           "target": "Ayer hablé con mi jefe.",
-          "native": "Yesterday I spoke to my boss."
+          "native": "Yesterday I spoke to my boss.",
+          "en": "Ayer hablé con mi jefe.",
+          "es": "Yesterday I spoke to my boss."
         },
         {
           "target": "Comimos en un restaurante muy bueno.",
-          "native": "We ate at a very good restaurant."
+          "native": "We ate at a very good restaurant.",
+          "en": "Comimos en un restaurante muy bueno.",
+          "es": "We ate at a very good restaurant."
         },
         {
           "target": "¿A qué hora saliste de casa?",
-          "native": "What time did you leave the house?"
+          "native": "What time did you leave the house?",
+          "en": "¿A qué hora saliste de casa?",
+          "es": "What time did you leave the house?"
         }
       ],
       "watch_out": "'Hablo' and 'habló' are different tenses AND different people. The accent is doing real work."
@@ -817,15 +1027,21 @@
       "examples": [
         {
           "target": "Tengo que terminar esto hoy.",
-          "native": "I have to finish this today."
+          "native": "I have to finish this today.",
+          "en": "Tengo que terminar esto hoy.",
+          "es": "I have to finish this today."
         },
         {
           "target": "Hay que reservar con antelación.",
-          "native": "You have to book in advance."
+          "native": "You have to book in advance.",
+          "en": "Hay que reservar con antelación.",
+          "es": "You have to book in advance."
         },
         {
           "target": "Deberías hablar con ella.",
-          "native": "You should talk to her."
+          "native": "You should talk to her.",
+          "en": "Deberías hablar con ella.",
+          "es": "You should talk to her."
         }
       ],
       "watch_out": "'Hay que' has no subject. You cannot say 'yo hay que' — use 'tengo que'."
@@ -840,15 +1056,21 @@
       "examples": [
         {
           "target": "Cuando era pequeño, iba al colegio en bici.",
-          "native": "When I was little, I used to cycle to school."
+          "native": "When I was little, I used to cycle to school.",
+          "en": "Cuando era pequeño, iba al colegio en bici.",
+          "es": "When I was little, I used to cycle to school."
         },
         {
           "target": "Éramos cinco en casa.",
-          "native": "There were five of us at home."
+          "native": "There were five of us at home.",
+          "en": "Éramos cinco en casa.",
+          "es": "There were five of us at home."
         },
         {
           "target": "Iba a llamarte, pero se me olvidó.",
-          "native": "I was going to call you, but I forgot."
+          "native": "I was going to call you, but I forgot.",
+          "en": "Iba a llamarte, pero se me olvidó.",
+          "es": "I was going to call you, but I forgot."
         }
       ],
       "watch_out": "Only ser, ir and ver are irregular. If you're tempted to invent another one, you're wrong."
@@ -863,15 +1085,21 @@
       "examples": [
         {
           "target": "De niño jugaba al fútbol todos los días.",
-          "native": "As a child I used to play football every day."
+          "native": "As a child I used to play football every day.",
+          "en": "De niño jugaba al fútbol todos los días.",
+          "es": "As a child I used to play football every day."
         },
         {
           "target": "Hacía frío y no había nadie en la calle.",
-          "native": "It was cold and there was nobody in the street."
+          "native": "It was cold and there was nobody in the street.",
+          "en": "Hacía frío y no había nadie en la calle.",
+          "es": "It was cold and there was nobody in the street."
         },
         {
           "target": "Cuando vivíamos en Lima, comíamos pescado.",
-          "native": "When we lived in Lima, we used to eat fish."
+          "native": "When we lived in Lima, we used to eat fish.",
+          "en": "Cuando vivíamos en Lima, comíamos pescado.",
+          "es": "When we lived in Lima, we used to eat fish."
         }
       ],
       "watch_out": "Age in the past is always imperfect: 'tenía veinte años', never 'tuve veinte años'."
@@ -886,15 +1114,21 @@
       "examples": [
         {
           "target": "Le di el regalo a mi madre.",
-          "native": "I gave the present to my mother."
+          "native": "I gave the present to my mother.",
+          "en": "Le di el regalo a mi madre.",
+          "es": "I gave the present to my mother."
         },
         {
           "target": "¿Me lo puedes explicar?",
-          "native": "Can you explain it to me?"
+          "native": "Can you explain it to me?",
+          "en": "¿Me lo puedes explicar?",
+          "es": "Can you explain it to me?"
         },
         {
           "target": "Se lo dije ayer.",
-          "native": "I told him (or her, or them) yesterday."
+          "native": "I told him (or her, or them) yesterday.",
+          "en": "Se lo dije ayer.",
+          "es": "I told him (or her, or them) yesterday."
         }
       ],
       "watch_out": "'Le lo' never exists. It becomes 'se lo'."
@@ -909,15 +1143,21 @@
       "examples": [
         {
           "target": "Leía tranquilamente cuando sonó el teléfono.",
-          "native": "I was reading quietly when the phone rang."
+          "native": "I was reading quietly when the phone rang.",
+          "en": "Leía tranquilamente cuando sonó el teléfono.",
+          "es": "I was reading quietly when the phone rang."
         },
         {
           "target": "Conocí a Ana en 2015; ya conocía a su hermano.",
-          "native": "I met Ana in 2015; I already knew her brother."
+          "native": "I met Ana in 2015; I already knew her brother.",
+          "en": "Conocí a Ana en 2015; ya conocía a su hermano.",
+          "es": "I met Ana in 2015; I already knew her brother."
         },
         {
           "target": "Viví diez años en Madrid.",
-          "native": "I lived in Madrid for ten years."
+          "native": "I lived in Madrid for ten years.",
+          "en": "Viví diez años en Madrid.",
+          "es": "I lived in Madrid for ten years."
         }
       ],
       "watch_out": "Length of time decides nothing. 'Viví diez años' is preterite; 'eran las tres' is imperfect."
@@ -932,15 +1172,21 @@
       "examples": [
         {
           "target": "Me duele mucho la garganta.",
-          "native": "My throat really hurts."
+          "native": "My throat really hurts.",
+          "en": "Me duele mucho la garganta.",
+          "es": "My throat really hurts."
         },
         {
           "target": "¿Te duelen las piernas?",
-          "native": "Do your legs hurt?"
+          "native": "Do your legs hurt?",
+          "en": "¿Te duelen las piernas?",
+          "es": "Do your legs hurt?"
         },
         {
           "target": "Le duele la espalda desde ayer.",
-          "native": "His back has been hurting since yesterday."
+          "native": "His back has been hurting since yesterday.",
+          "en": "Le duele la espalda desde ayer.",
+          "es": "His back has been hurting since yesterday."
         }
       ],
       "watch_out": "'Me duele mi cabeza' is redundant. The 'me' already says it's yours: 'me duele la cabeza'."
@@ -955,15 +1201,21 @@
       "examples": [
         {
           "target": "Habla más despacio, por favor.",
-          "native": "Speak more slowly, please."
+          "native": "Speak more slowly, please.",
+          "en": "Habla más despacio, por favor.",
+          "es": "Speak more slowly, please."
         },
         {
           "target": "Ven aquí y dime qué pasó.",
-          "native": "Come here and tell me what happened."
+          "native": "Come here and tell me what happened.",
+          "en": "Ven aquí y dime qué pasó.",
+          "es": "Come here and tell me what happened."
         },
         {
           "target": "Levántate, que es tarde.",
-          "native": "Get up, it's late."
+          "native": "Get up, it's late.",
+          "en": "Levántate, que es tarde.",
+          "es": "Get up, it's late."
         }
       ],
       "watch_out": "Pronouns attach to the end here: 'dímelo', not 'me lo di'."
@@ -978,15 +1230,21 @@
       "examples": [
         {
           "target": "No hables tan rápido.",
-          "native": "Don't speak so fast."
+          "native": "Don't speak so fast.",
+          "en": "No hables tan rápido.",
+          "es": "Don't speak so fast."
         },
         {
           "target": "No te preocupes, no pasa nada.",
-          "native": "Don't worry, it's fine."
+          "native": "Don't worry, it's fine.",
+          "en": "No te preocupes, no pasa nada.",
+          "es": "Don't worry, it's fine."
         },
         {
           "target": "No me lo digas ahora.",
-          "native": "Don't tell me now."
+          "native": "Don't tell me now.",
+          "en": "No me lo digas ahora.",
+          "es": "Don't tell me now."
         }
       ],
       "watch_out": "The pronoun jumps sides: 'dímelo' but 'no me lo digas'."
@@ -1001,15 +1259,21 @@
       "examples": [
         {
           "target": "Este regalo es para ti.",
-          "native": "This present is for you."
+          "native": "This present is for you.",
+          "en": "Este regalo es para ti.",
+          "es": "This present is for you."
         },
         {
           "target": "Gracias por tu ayuda.",
-          "native": "Thanks for your help."
+          "native": "Thanks for your help.",
+          "en": "Gracias por tu ayuda.",
+          "es": "Thanks for your help."
         },
         {
           "target": "Estudio español para trabajar en Chile.",
-          "native": "I'm studying Spanish in order to work in Chile."
+          "native": "I'm studying Spanish in order to work in Chile.",
+          "en": "Estudio español para trabajar en Chile.",
+          "es": "I'm studying Spanish in order to work in Chile."
         }
       ],
       "watch_out": "Before an infinitive of purpose, it's always 'para': 'para aprender', never 'por aprender'."
@@ -1024,15 +1288,21 @@
       "examples": [
         {
           "target": "Aquí se habla inglés.",
-          "native": "English is spoken here."
+          "native": "English is spoken here.",
+          "en": "Aquí se habla inglés.",
+          "es": "English is spoken here."
         },
         {
           "target": "¿Cómo se dice 'window' en español?",
-          "native": "How do you say 'window' in Spanish?"
+          "native": "How do you say 'window' in Spanish?",
+          "en": "¿Cómo se dice 'window' en español?",
+          "es": "How do you say 'window' in Spanish?"
         },
         {
           "target": "Se me olvidó el paraguas.",
-          "native": "I forgot my umbrella."
+          "native": "I forgot my umbrella.",
+          "en": "Se me olvidó el paraguas.",
+          "es": "I forgot my umbrella."
         }
       ],
       "watch_out": "The verb agrees with the thing: 'se venden pisos', not 'se vende pisos'."
@@ -1047,15 +1317,21 @@
       "examples": [
         {
           "target": "¿Podría hablar con el gerente?",
-          "native": "Could I speak to the manager?"
+          "native": "Could I speak to the manager?",
+          "en": "¿Podría hablar con el gerente?",
+          "es": "Could I speak to the manager?"
         },
         {
           "target": "Yo que tú, no iría.",
-          "native": "If I were you, I wouldn't go."
+          "native": "If I were you, I wouldn't go.",
+          "en": "Yo que tú, no iría.",
+          "es": "If I were you, I wouldn't go."
         },
         {
           "target": "Dijo que llegaría a las ocho.",
-          "native": "He said he'd arrive at eight."
+          "native": "He said he'd arrive at eight.",
+          "en": "Dijo que llegaría a las ocho.",
+          "es": "He said he'd arrive at eight."
         }
       ],
       "watch_out": "English 'would' for a past habit is the imperfect in Spanish: 'de niño iba', not 'iría'."
@@ -1070,15 +1346,21 @@
       "examples": [
         {
           "target": "Tendremos que salir temprano.",
-          "native": "We'll have to leave early."
+          "native": "We'll have to leave early.",
+          "en": "Tendremos que salir temprano.",
+          "es": "We'll have to leave early."
         },
         {
           "target": "¿Qué harás el domingo?",
-          "native": "What will you do on Sunday?"
+          "native": "What will you do on Sunday?",
+          "en": "¿Qué harás el domingo?",
+          "es": "What will you do on Sunday?"
         },
         {
           "target": "Habrá mucha gente en la fiesta.",
-          "native": "There'll be a lot of people at the party."
+          "native": "There'll be a lot of people at the party.",
+          "en": "Habrá mucha gente en la fiesta.",
+          "es": "There'll be a lot of people at the party."
         }
       ],
       "watch_out": "'Habrá' covers 'there will be' singular and plural alike. 'Habrán muchas personas' is a common error."
@@ -1093,15 +1375,21 @@
       "examples": [
         {
           "target": "Mañana hablaré con el director.",
-          "native": "Tomorrow I'll speak with the director."
+          "native": "Tomorrow I'll speak with the director.",
+          "en": "Mañana hablaré con el director.",
+          "es": "Tomorrow I'll speak with the director."
         },
         {
           "target": "¿Dónde estará mi teléfono?",
-          "native": "Where can my phone be?"
+          "native": "Where can my phone be?",
+          "en": "¿Dónde estará mi teléfono?",
+          "es": "Where can my phone be?"
         },
         {
           "target": "El año que viene viviremos en Chile.",
-          "native": "Next year we'll be living in Chile."
+          "native": "Next year we'll be living in Chile.",
+          "en": "El año que viene viviremos en Chile.",
+          "es": "Next year we'll be living in Chile."
         }
       ],
       "watch_out": "The endings go on the whole infinitive: 'comeré', not 'comré'."
@@ -1116,15 +1404,21 @@
       "examples": [
         {
           "target": "El libro que me prestaste es buenísimo.",
-          "native": "The book you lent me is excellent."
+          "native": "The book you lent me is excellent.",
+          "en": "El libro que me prestaste es buenísimo.",
+          "es": "The book you lent me is excellent."
         },
         {
           "target": "Esa es la ciudad donde nací.",
-          "native": "That's the city where I was born."
+          "native": "That's the city where I was born.",
+          "en": "Esa es la ciudad donde nací.",
+          "es": "That's the city where I was born."
         },
         {
           "target": "No entiendo lo que dices.",
-          "native": "I don't understand what you're saying."
+          "native": "I don't understand what you're saying.",
+          "en": "No entiendo lo que dices.",
+          "es": "I don't understand what you're saying."
         }
       ],
       "watch_out": "You cannot drop 'que'. 'El libro compré' is not a sentence."
@@ -1139,15 +1433,21 @@
       "examples": [
         {
           "target": "Se venden coches usados.",
-          "native": "Used cars are sold here."
+          "native": "Used cars are sold here.",
+          "en": "Se venden coches usados.",
+          "es": "Used cars are sold here."
         },
         {
           "target": "Se publicó el año pasado.",
-          "native": "It was published last year."
+          "native": "It was published last year.",
+          "en": "Se publicó el año pasado.",
+          "es": "It was published last year."
         },
         {
           "target": "Dicen que va a llover.",
-          "native": "They say it's going to rain."
+          "native": "They say it's going to rain.",
+          "en": "Dicen que va a llover.",
+          "es": "They say it's going to rain."
         }
       ],
       "watch_out": "If you name who did it, 'se' no longer works. 'Se vendió por Juan' is wrong — use 'Juan lo vendió'."
@@ -1162,15 +1462,21 @@
       "examples": [
         {
           "target": "He escrito tres cartas hoy.",
-          "native": "I've written three letters today."
+          "native": "I've written three letters today.",
+          "en": "He escrito tres cartas hoy.",
+          "es": "I've written three letters today."
         },
         {
           "target": "La ventana está abierta.",
-          "native": "The window is open."
+          "native": "The window is open.",
+          "en": "La ventana está abierta.",
+          "es": "The window is open."
         },
         {
           "target": "No he visto esa película.",
-          "native": "I haven't seen that film."
+          "native": "I haven't seen that film.",
+          "en": "No he visto esa película.",
+          "es": "I haven't seen that film."
         }
       ],
       "watch_out": "After 'haber' it never agrees; after 'estar' it always does. 'Han abierto' but 'están abiertas'."
@@ -1185,15 +1491,21 @@
       "examples": [
         {
           "target": "¿Has estado alguna vez en México?",
-          "native": "Have you ever been to Mexico?"
+          "native": "Have you ever been to Mexico?",
+          "en": "¿Has estado alguna vez en México?",
+          "es": "Have you ever been to Mexico?"
         },
         {
           "target": "Todavía no he terminado el informe.",
-          "native": "I haven't finished the report yet."
+          "native": "I haven't finished the report yet.",
+          "en": "Todavía no he terminado el informe.",
+          "es": "I haven't finished the report yet."
         },
         {
           "target": "Esta semana hemos trabajado mucho.",
-          "native": "We've worked a lot this week."
+          "native": "We've worked a lot this week.",
+          "en": "Esta semana hemos trabajado mucho.",
+          "es": "We've worked a lot this week."
         }
       ],
       "watch_out": "Nothing goes between 'haber' and the participle: 'lo he visto', never 'he lo visto'."
@@ -1208,15 +1520,21 @@
       "examples": [
         {
           "target": "Ahora mismo estoy trabajando.",
-          "native": "Right now I'm working."
+          "native": "Right now I'm working.",
+          "en": "Ahora mismo estoy trabajando.",
+          "es": "Right now I'm working."
         },
         {
           "target": "Llevo dos horas esperando.",
-          "native": "I've been waiting for two hours."
+          "native": "I've been waiting for two hours.",
+          "en": "Llevo dos horas esperando.",
+          "es": "I've been waiting for two hours."
         },
         {
           "target": "Mañana voy a Sevilla.",
-          "native": "I'm going to Seville tomorrow."
+          "native": "I'm going to Seville tomorrow.",
+          "en": "Mañana voy a Sevilla.",
+          "es": "I'm going to Seville tomorrow."
         }
       ],
       "watch_out": "Never for future plans. 'Estoy yendo mañana' is wrong — say 'voy mañana'."
@@ -1231,15 +1549,21 @@
       "examples": [
         {
           "target": "Dijo que estaba muy cansado.",
-          "native": "He said he was very tired."
+          "native": "He said he was very tired.",
+          "en": "Dijo que estaba muy cansado.",
+          "es": "He said he was very tired."
         },
         {
           "target": "Me preguntó si quería café.",
-          "native": "She asked me if I wanted coffee."
+          "native": "She asked me if I wanted coffee.",
+          "en": "Me preguntó si quería café.",
+          "es": "She asked me if I wanted coffee."
         },
         {
           "target": "Nos dijo que llegaría tarde.",
-          "native": "He told us he'd arrive late."
+          "native": "He told us he'd arrive late.",
+          "en": "Nos dijo que llegaría tarde.",
+          "es": "He told us he'd arrive late."
         }
       ],
       "watch_out": "'Que' is compulsory: 'dijo que estaba', never 'dijo estaba'."
@@ -1254,15 +1578,21 @@
       "examples": [
         {
           "target": "Espero que tengas un buen día.",
-          "native": "I hope you have a good day."
+          "native": "I hope you have a good day.",
+          "en": "Espero que tengas un buen día.",
+          "es": "I hope you have a good day."
         },
         {
           "target": "Quiero que vengas a la fiesta.",
-          "native": "I want you to come to the party."
+          "native": "I want you to come to the party.",
+          "en": "Quiero que vengas a la fiesta.",
+          "es": "I want you to come to the party."
         },
         {
           "target": "Sé que viene mañana.",
-          "native": "I know he's coming tomorrow."
+          "native": "I know he's coming tomorrow.",
+          "en": "Sé que viene mañana.",
+          "es": "I know he's coming tomorrow."
         }
       ],
       "watch_out": "It normally needs two different subjects. Same subject takes an infinitive: 'quiero ir', not 'quiero que yo vaya'."
@@ -1277,15 +1607,21 @@
       "examples": [
         {
           "target": "Yo que tú, hablaría con ella.",
-          "native": "If I were you, I'd talk to her."
+          "native": "If I were you, I'd talk to her.",
+          "en": "Yo que tú, hablaría con ella.",
+          "es": "If I were you, I'd talk to her."
         },
         {
           "target": "¿Y si vamos al cine esta noche?",
-          "native": "What if we go to the cinema tonight?"
+          "native": "What if we go to the cinema tonight?",
+          "en": "¿Y si vamos al cine esta noche?",
+          "es": "What if we go to the cinema tonight?"
         },
         {
           "target": "Te recomiendo que llegues temprano.",
-          "native": "I recommend you arrive early."
+          "native": "I recommend you arrive early.",
+          "en": "Te recomiendo que llegues temprano.",
+          "es": "I recommend you arrive early."
         }
       ],
       "watch_out": "'Yo que tú' is followed by the conditional, not the subjunctive: 'yo que tú iría'."
@@ -1300,15 +1636,21 @@
       "examples": [
         {
           "target": "Pienso estudiar medicina.",
-          "native": "I'm planning to study medicine."
+          "native": "I'm planning to study medicine.",
+          "en": "Pienso estudiar medicina.",
+          "es": "I'm planning to study medicine."
         },
         {
           "target": "Acabo de hablar con ella.",
-          "native": "I've just spoken to her."
+          "native": "I've just spoken to her.",
+          "en": "Acabo de hablar con ella.",
+          "es": "I've just spoken to her."
         },
         {
           "target": "Quedamos en vernos el viernes.",
-          "native": "We agreed to meet on Friday."
+          "native": "We agreed to meet on Friday.",
+          "en": "Quedamos en vernos el viernes.",
+          "es": "We agreed to meet on Friday."
         }
       ],
       "watch_out": "'Pienso ir' is I plan to go. 'Pienso en ir' is I'm mulling it over. The 'en' changes the meaning."
@@ -1323,15 +1665,21 @@
       "examples": [
         {
           "target": "Cuando llegué, ya habían cenado.",
-          "native": "When I arrived, they had already had dinner."
+          "native": "When I arrived, they had already had dinner.",
+          "en": "Cuando llegué, ya habían cenado.",
+          "es": "When I arrived, they had already had dinner."
         },
         {
           "target": "Llovía cuando salimos de casa.",
-          "native": "It was raining when we left the house."
+          "native": "It was raining when we left the house.",
+          "en": "Llovía cuando salimos de casa.",
+          "es": "It was raining when we left the house."
         },
         {
           "target": "Esta mañana he hablado con el médico.",
-          "native": "This morning I spoke to the doctor."
+          "native": "This morning I spoke to the doctor.",
+          "en": "Esta mañana he hablado con el médico.",
+          "es": "This morning I spoke to the doctor."
         }
       ],
       "watch_out": "Not distance in time but viewpoint. 'Viví allí veinte años' is preterite; 'eran las tres' is imperfect."
@@ -1346,15 +1694,21 @@
       "examples": [
         {
           "target": "Cuando llegue, te aviso.",
-          "native": "When I arrive, I'll let you know."
+          "native": "When I arrive, I'll let you know.",
+          "en": "Cuando llegue, te aviso.",
+          "es": "When I arrive, I'll let you know."
         },
         {
           "target": "Cuando llego tarde, ceno solo.",
-          "native": "When I get home late, I eat alone."
+          "native": "When I get home late, I eat alone.",
+          "en": "Cuando llego tarde, ceno solo.",
+          "es": "When I get home late, I eat alone."
         },
         {
           "target": "Antes de que te vayas, firma esto.",
-          "native": "Before you go, sign this."
+          "native": "Before you go, sign this.",
+          "en": "Antes de que te vayas, firma esto.",
+          "es": "Before you go, sign this."
         }
       ],
       "watch_out": "'Cuando llego' is a habit; 'cuando llegue' is a plan. Same word, different mood, different meaning."
@@ -1369,15 +1723,21 @@
       "examples": [
         {
           "target": "Quiero que me llames mañana.",
-          "native": "I want you to call me tomorrow."
+          "native": "I want you to call me tomorrow.",
+          "en": "Quiero que me llames mañana.",
+          "es": "I want you to call me tomorrow."
         },
         {
           "target": "Ojalá haga buen tiempo.",
-          "native": "Hopefully the weather will be good."
+          "native": "Hopefully the weather will be good.",
+          "en": "Ojalá haga buen tiempo.",
+          "es": "Hopefully the weather will be good."
         },
         {
           "target": "¡Que tengas un buen viaje!",
-          "native": "Have a good trip!"
+          "native": "Have a good trip!",
+          "en": "¡Que tengas un buen viaje!",
+          "es": "Have a good trip!"
         }
       ],
       "watch_out": "One subject means infinitive: 'espero llegar'. Two subjects means subjunctive: 'espero que llegues'."
@@ -1392,15 +1752,21 @@
       "examples": [
         {
           "target": "No es difícil, sino aburrido.",
-          "native": "It's not difficult, but boring."
+          "native": "It's not difficult, but boring.",
+          "en": "No es difícil, sino aburrido.",
+          "es": "It's not difficult, but boring."
         },
         {
           "target": "Es caro, pero merece la pena.",
-          "native": "It's expensive, but it's worth it."
+          "native": "It's expensive, but it's worth it.",
+          "en": "Es caro, pero merece la pena.",
+          "es": "It's expensive, but it's worth it."
         },
         {
           "target": "Sin embargo, no todos están de acuerdo.",
-          "native": "However, not everyone agrees."
+          "native": "However, not everyone agrees.",
+          "en": "Sin embargo, no todos están de acuerdo.",
+          "es": "However, not everyone agrees."
         }
       ],
       "watch_out": "After a negative, correcting it takes 'sino': 'no es caro, sino barato'."
@@ -1415,15 +1781,21 @@
       "examples": [
         {
           "target": "Quisiera reservar una mesa para dos.",
-          "native": "I'd like to book a table for two."
+          "native": "I'd like to book a table for two.",
+          "en": "Quisiera reservar una mesa para dos.",
+          "es": "I'd like to book a table for two."
         },
         {
           "target": "Si fuera rico, viajaría por el mundo.",
-          "native": "If I were rich, I'd travel the world."
+          "native": "If I were rich, I'd travel the world.",
+          "en": "Si fuera rico, viajaría por el mundo.",
+          "es": "If I were rich, I'd travel the world."
         },
         {
           "target": "No creía que supieras la respuesta.",
-          "native": "I didn't think you knew the answer."
+          "native": "I didn't think you knew the answer.",
+          "en": "No creía que supieras la respuesta.",
+          "es": "I didn't think you knew the answer."
         }
       ],
       "watch_out": "If you don't know the form, recall the preterite first. 'Ellos dijeron' is what gives you 'dijera'."
@@ -1438,15 +1810,21 @@
       "examples": [
         {
           "target": "Quería que vinieras conmigo.",
-          "native": "I wanted you to come with me."
+          "native": "I wanted you to come with me.",
+          "en": "Quería que vinieras conmigo.",
+          "es": "I wanted you to come with me."
         },
         {
           "target": "Me pidió que le ayudara.",
-          "native": "He asked me to help him."
+          "native": "He asked me to help him.",
+          "en": "Me pidió que le ayudara.",
+          "es": "He asked me to help him."
         },
         {
           "target": "Si tuviera tiempo, iría.",
-          "native": "If I had time, I'd go."
+          "native": "If I had time, I'd go.",
+          "en": "Si tuviera tiempo, iría.",
+          "es": "If I had time, I'd go."
         }
       ],
       "watch_out": "Build it from the preterite, never from the infinitive: 'tener' gives 'tuviera', not 'teniera'."
@@ -1461,15 +1839,21 @@
       "examples": [
         {
           "target": "Cuando llegamos, la película ya había empezado.",
-          "native": "When we arrived, the film had already started."
+          "native": "When we arrived, the film had already started.",
+          "en": "Cuando llegamos, la película ya había empezado.",
+          "es": "When we arrived, the film had already started."
         },
         {
           "target": "No sabía que habías vivido en Perú.",
-          "native": "I didn't know you had lived in Peru."
+          "native": "I didn't know you had lived in Peru.",
+          "en": "No sabía que habías vivido en Perú.",
+          "es": "I didn't know you had lived in Peru."
         },
         {
           "target": "Nunca había probado ese plato.",
-          "native": "I had never tried that dish."
+          "native": "I had never tried that dish.",
+          "en": "Nunca había probado ese plato.",
+          "es": "I had never tried that dish."
         }
       ],
       "watch_out": "Pronouns go before 'haber': 'ya lo había visto', not 'había lo visto'."
@@ -1484,15 +1868,21 @@
       "examples": [
         {
           "target": "No creo que sea buena idea.",
-          "native": "I don't think it's a good idea."
+          "native": "I don't think it's a good idea.",
+          "en": "No creo que sea buena idea.",
+          "es": "I don't think it's a good idea."
         },
         {
           "target": "Es posible que llegue tarde.",
-          "native": "It's possible he'll arrive late."
+          "native": "It's possible he'll arrive late.",
+          "en": "Es posible que llegue tarde.",
+          "es": "It's possible he'll arrive late."
         },
         {
           "target": "No dudo que tienes razón.",
-          "native": "I don't doubt that you're right."
+          "native": "I don't doubt that you're right.",
+          "en": "No dudo que tienes razón.",
+          "es": "I don't doubt that you're right."
         }
       ],
       "watch_out": "'Creo que viene' but 'no creo que venga'. The negation alone changes the mood."
@@ -1507,15 +1897,21 @@
       "examples": [
         {
           "target": "Si hubiera sabido, te habría llamado.",
-          "native": "If I had known, I would have called you."
+          "native": "If I had known, I would have called you.",
+          "en": "Si hubiera sabido, te habría llamado.",
+          "es": "If I had known, I would have called you."
         },
         {
           "target": "Yo habría hecho lo mismo.",
-          "native": "I would have done the same."
+          "native": "I would have done the same.",
+          "en": "Yo habría hecho lo mismo.",
+          "es": "I would have done the same."
         },
         {
           "target": "Habrían salido ya cuando llegaste.",
-          "native": "They had probably already left when you arrived."
+          "native": "They had probably already left when you arrived.",
+          "en": "Habrían salido ya cuando llegaste.",
+          "es": "They had probably already left when you arrived."
         }
       ],
       "watch_out": "'Si habría sabido' is wrong. The 'si' half takes 'hubiera'."
@@ -1530,15 +1926,21 @@
       "examples": [
         {
           "target": "Fumar es malo para la salud.",
-          "native": "Smoking is bad for your health."
+          "native": "Smoking is bad for your health.",
+          "en": "Fumar es malo para la salud.",
+          "es": "Smoking is bad for your health."
         },
         {
           "target": "Entró corriendo en la sala.",
-          "native": "He ran into the room."
+          "native": "He ran into the room.",
+          "en": "Entró corriendo en la sala.",
+          "es": "He ran into the room."
         },
         {
           "target": "Aprendo español practicando todos los días.",
-          "native": "I learn Spanish by practising every day."
+          "native": "I learn Spanish by practising every day.",
+          "en": "Aprendo español practicando todos los días.",
+          "es": "I learn Spanish by practising every day."
         }
       ],
       "watch_out": "As a subject, use the infinitive: 'nadar es divertido', never 'nadando es divertido'."
@@ -1553,15 +1955,21 @@
       "examples": [
         {
           "target": "Lo importante es participar.",
-          "native": "The important thing is to take part."
+          "native": "The important thing is to take part.",
+          "en": "Lo importante es participar.",
+          "es": "The important thing is to take part."
         },
         {
           "target": "¿Prefieres el rojo o el azul?",
-          "native": "Do you prefer the red one or the blue one?"
+          "native": "Do you prefer the red one or the blue one?",
+          "en": "¿Prefieres el rojo o el azul?",
+          "es": "Do you prefer the red one or the blue one?"
         },
         {
           "target": "No sabes lo difícil que fue.",
-          "native": "You have no idea how hard it was."
+          "native": "You have no idea how hard it was.",
+          "en": "No sabes lo difícil que fue.",
+          "es": "You have no idea how hard it was."
         }
       ],
       "watch_out": "'Lo' never goes with a noun. It's 'lo bueno' but 'el libro bueno'."
@@ -1576,15 +1984,21 @@
       "examples": [
         {
           "target": "Ese es el hombre con el que hablé.",
-          "native": "That's the man I spoke to."
+          "native": "That's the man I spoke to.",
+          "en": "Ese es el hombre con el que hablé.",
+          "es": "That's the man I spoke to."
         },
         {
           "target": "La razón por la que vine es simple.",
-          "native": "The reason I came is simple."
+          "native": "The reason I came is simple.",
+          "en": "La razón por la que vine es simple.",
+          "es": "The reason I came is simple."
         },
         {
           "target": "Es un autor cuyas novelas me encantan.",
-          "native": "He's an author whose novels I love."
+          "native": "He's an author whose novels I love.",
+          "en": "Es un autor cuyas novelas me encantan.",
+          "es": "He's an author whose novels I love."
         }
       ],
       "watch_out": "You cannot leave the preposition at the end. 'El hombre que hablé con' is not Spanish."
@@ -1599,15 +2013,21 @@
       "examples": [
         {
           "target": "Me dijo que viniera a las ocho.",
-          "native": "He told me to come at eight."
+          "native": "He told me to come at eight.",
+          "en": "Me dijo que viniera a las ocho.",
+          "es": "He told me to come at eight."
         },
         {
           "target": "Comentó que ya lo había visto.",
-          "native": "He mentioned he had already seen it."
+          "native": "He mentioned he had already seen it.",
+          "en": "Comentó que ya lo había visto.",
+          "es": "He mentioned he had already seen it."
         },
         {
           "target": "Dijo que se llama Ana.",
-          "native": "She said her name is Ana."
+          "native": "She said her name is Ana.",
+          "en": "Dijo que se llama Ana.",
+          "es": "She said her name is Ana."
         }
       ],
       "watch_out": "The imperfect and the conditional don't shift. 'Dijo que estaba' stays 'estaba'."
@@ -1622,15 +2042,21 @@
       "examples": [
         {
           "target": "La comida estaba buenísima.",
-          "native": "The food was absolutely delicious."
+          "native": "The food was absolutely delicious.",
+          "en": "La comida estaba buenísima.",
+          "es": "The food was absolutely delicious."
         },
         {
           "target": "Es un libro larguísimo.",
-          "native": "It's an extremely long book."
+          "native": "It's an extremely long book.",
+          "en": "Es un libro larguísimo.",
+          "es": "It's an extremely long book."
         },
         {
           "target": "Te lo agradezco muchísimo.",
-          "native": "Thank you so very much."
+          "native": "Thank you so very much.",
+          "en": "Te lo agradezco muchísimo.",
+          "es": "Thank you so very much."
         }
       ],
       "watch_out": "'Muy buenísimo' is wrong. The -ísimo already means 'very'."
@@ -1645,15 +2071,21 @@
       "examples": [
         {
           "target": "Mi hermana mayor vive en Bogotá.",
-          "native": "My older sister lives in Bogotá."
+          "native": "My older sister lives in Bogotá.",
+          "en": "Mi hermana mayor vive en Bogotá.",
+          "es": "My older sister lives in Bogotá."
         },
         {
           "target": "Es el mejor restaurante de la ciudad.",
-          "native": "It's the best restaurant in the city."
+          "native": "It's the best restaurant in the city.",
+          "en": "Es el mejor restaurante de la ciudad.",
+          "es": "It's the best restaurant in the city."
         },
         {
           "target": "Hoy me siento peor que ayer.",
-          "native": "Today I feel worse than yesterday."
+          "native": "Today I feel worse than yesterday.",
+          "en": "Hoy me siento peor que ayer.",
+          "es": "Today I feel worse than yesterday."
         }
       ],
       "watch_out": "The superlative takes 'de', not 'en': 'el mejor de la clase'."
@@ -1668,15 +2100,21 @@
       "examples": [
         {
           "target": "Si hubiera estudiado más, habría aprobado.",
-          "native": "If I had studied more, I would have passed."
+          "native": "If I had studied more, I would have passed.",
+          "en": "Si hubiera estudiado más, habría aprobado.",
+          "es": "If I had studied more, I would have passed."
         },
         {
           "target": "Ojalá hubiera ido a esa fiesta.",
-          "native": "I wish I had gone to that party."
+          "native": "I wish I had gone to that party.",
+          "en": "Ojalá hubiera ido a esa fiesta.",
+          "es": "I wish I had gone to that party."
         },
         {
           "target": "No creía que hubieras terminado.",
-          "native": "I didn't think you had finished."
+          "native": "I didn't think you had finished.",
+          "en": "No creía que hubieras terminado.",
+          "es": "I didn't think you had finished."
         }
       ],
       "watch_out": "After 'si', always 'hubiera'. 'Si habría sabido' is a well-known error."
@@ -1691,15 +2129,21 @@
       "examples": [
         {
           "target": "Me alegro de que estés mejor.",
-          "native": "I'm glad you're better."
+          "native": "I'm glad you're better.",
+          "en": "Me alegro de que estés mejor.",
+          "es": "I'm glad you're better."
         },
         {
           "target": "Es una pena que no puedas venir.",
-          "native": "It's a shame you can't come."
+          "native": "It's a shame you can't come.",
+          "en": "Es una pena que no puedas venir.",
+          "es": "It's a shame you can't come."
         },
         {
           "target": "Me sorprende que no lo sepas.",
-          "native": "I'm surprised you don't know."
+          "native": "I'm surprised you don't know.",
+          "en": "Me sorprende que no lo sepas.",
+          "es": "I'm surprised you don't know."
         }
       ],
       "watch_out": "The fact being true doesn't matter here. Reacting to it is what triggers the subjunctive."
@@ -1714,15 +2158,21 @@
       "examples": [
         {
           "target": "Llámame en cuanto llegues.",
-          "native": "Call me as soon as you arrive."
+          "native": "Call me as soon as you arrive.",
+          "en": "Llámame en cuanto llegues.",
+          "es": "Call me as soon as you arrive."
         },
         {
           "target": "Antes de que te vayas, dame tu número.",
-          "native": "Before you leave, give me your number."
+          "native": "Before you leave, give me your number.",
+          "en": "Antes de que te vayas, dame tu número.",
+          "es": "Before you leave, give me your number."
         },
         {
           "target": "Después de comer, salimos a pasear.",
-          "native": "After eating, we go out for a walk."
+          "native": "After eating, we go out for a walk.",
+          "en": "Después de comer, salimos a pasear.",
+          "es": "After eating, we go out for a walk."
         }
       ],
       "watch_out": "One subject means no 'que': 'antes de salir', not 'antes de que yo salga'."
@@ -1737,15 +2187,21 @@
       "examples": [
         {
           "target": "Como llovía, nos quedamos en casa.",
-          "native": "As it was raining, we stayed at home."
+          "native": "As it was raining, we stayed at home.",
+          "en": "Como llovía, nos quedamos en casa.",
+          "es": "As it was raining, we stayed at home."
         },
         {
           "target": "No voy porque tengo que estudiar.",
-          "native": "I'm not going because I have to study."
+          "native": "I'm not going because I have to study.",
+          "en": "No voy porque tengo que estudiar.",
+          "es": "I'm not going because I have to study."
         },
         {
           "target": "Ya que estás aquí, échame una mano.",
-          "native": "Since you're here, give me a hand."
+          "native": "Since you're here, give me a hand.",
+          "en": "Ya que estás aquí, échame una mano.",
+          "es": "Since you're here, give me a hand."
         }
       ],
       "watch_out": "'Porque' can never open a sentence. Use 'como' there."
@@ -1760,15 +2216,21 @@
       "examples": [
         {
           "target": "Si tuviera más tiempo, aprendería a tocar el piano.",
-          "native": "If I had more time, I'd learn to play the piano."
+          "native": "If I had more time, I'd learn to play the piano.",
+          "en": "Si tuviera más tiempo, aprendería a tocar el piano.",
+          "es": "If I had more time, I'd learn to play the piano."
         },
         {
           "target": "Si tengo tiempo, te llamo.",
-          "native": "If I have time, I'll call you."
+          "native": "If I have time, I'll call you.",
+          "en": "Si tengo tiempo, te llamo.",
+          "es": "If I have time, I'll call you."
         },
         {
           "target": "Habla como si fuera el jefe.",
-          "native": "He talks as if he were the boss."
+          "native": "He talks as if he were the boss.",
+          "en": "Habla como si fuera el jefe.",
+          "es": "He talks as if he were the boss."
         }
       ],
       "watch_out": "'Si tendría' and 'si tenga' are both wrong. After 'si' it's 'tuviera' or the plain present."
@@ -1783,15 +2245,21 @@
       "examples": [
         {
           "target": "Si hubiéramos salido antes, no habríamos perdido el tren.",
-          "native": "If we'd left earlier, we wouldn't have missed the train."
+          "native": "If we'd left earlier, we wouldn't have missed the train.",
+          "en": "Si hubiéramos salido antes, no habríamos perdido el tren.",
+          "es": "If we'd left earlier, we wouldn't have missed the train."
         },
         {
           "target": "Si hubiera estudiado medicina, ahora sería médico.",
-          "native": "If I'd studied medicine, I'd be a doctor now."
+          "native": "If I'd studied medicine, I'd be a doctor now.",
+          "en": "Si hubiera estudiado medicina, ahora sería médico.",
+          "es": "If I'd studied medicine, I'd be a doctor now."
         },
         {
           "target": "De haberlo sabido, no habría venido.",
-          "native": "Had I known, I wouldn't have come."
+          "native": "Had I known, I wouldn't have come.",
+          "en": "De haberlo sabido, no habría venido.",
+          "es": "Had I known, I wouldn't have come."
         }
       ],
       "watch_out": "In the result half both 'habría' and 'hubiera' work. In the 'si' half only 'hubiera' does."
@@ -1806,15 +2274,21 @@
       "examples": [
         {
           "target": "Llevo tres años estudiando español.",
-          "native": "I've been studying Spanish for three years."
+          "native": "I've been studying Spanish for three years.",
+          "en": "Llevo tres años estudiando español.",
+          "es": "I've been studying Spanish for three years."
         },
         {
           "target": "Sigue lloviendo desde ayer.",
-          "native": "It's still raining since yesterday."
+          "native": "It's still raining since yesterday.",
+          "en": "Sigue lloviendo desde ayer.",
+          "es": "It's still raining since yesterday."
         },
         {
           "target": "Se gana la vida enseñando música.",
-          "native": "He makes a living teaching music."
+          "native": "He makes a living teaching music.",
+          "en": "Se gana la vida enseñando música.",
+          "es": "He makes a living teaching music."
         }
       ],
       "watch_out": "The actions must overlap. If one caused the other, use two verbs joined by 'y'."
@@ -1829,15 +2303,21 @@
       "examples": [
         {
           "target": "Busco un piso que tenga terraza.",
-          "native": "I'm looking for a flat with a terrace."
+          "native": "I'm looking for a flat with a terrace.",
+          "en": "Busco un piso que tenga terraza.",
+          "es": "I'm looking for a flat with a terrace."
         },
         {
           "target": "No hay nadie que sepa la respuesta.",
-          "native": "There's nobody who knows the answer."
+          "native": "There's nobody who knows the answer.",
+          "en": "No hay nadie que sepa la respuesta.",
+          "es": "There's nobody who knows the answer."
         },
         {
           "target": "Conozco a una chica que habla cinco idiomas.",
-          "native": "I know a girl who speaks five languages."
+          "native": "I know a girl who speaks five languages.",
+          "en": "Conozco a una chica que habla cinco idiomas.",
+          "es": "I know a girl who speaks five languages."
         }
       ],
       "watch_out": "'Que tiene' means it exists; 'que tenga' means you're still looking. The mood is the whole message."
@@ -1852,15 +2332,21 @@
       "examples": [
         {
           "target": "Es importante que llegues a tiempo.",
-          "native": "It's important that you arrive on time."
+          "native": "It's important that you arrive on time.",
+          "en": "Es importante que llegues a tiempo.",
+          "es": "It's important that you arrive on time."
         },
         {
           "target": "Es evidente que tiene razón.",
-          "native": "It's obvious he's right."
+          "native": "It's obvious he's right.",
+          "en": "Es evidente que tiene razón.",
+          "es": "It's obvious he's right."
         },
         {
           "target": "No es cierto que sea imposible.",
-          "native": "It's not true that it's impossible."
+          "native": "It's not true that it's impossible.",
+          "en": "No es cierto que sea imposible.",
+          "es": "It's not true that it's impossible."
         }
       ],
       "watch_out": "'Es verdad que es' but 'no es verdad que sea'. Asserting takes indicative; denying doesn't."
@@ -1875,15 +2361,21 @@
       "examples": [
         {
           "target": "No sé dónde está el hotel.",
-          "native": "I don't know where the hotel is."
+          "native": "I don't know where the hotel is.",
+          "en": "No sé dónde está el hotel.",
+          "es": "I don't know where the hotel is."
         },
         {
           "target": "Me preguntó si hablaba francés.",
-          "native": "He asked me whether I spoke French."
+          "native": "He asked me whether I spoke French.",
+          "en": "Me preguntó si hablaba francés.",
+          "es": "He asked me whether I spoke French."
         },
         {
           "target": "¿Me puedes decir cuánto cuesta?",
-          "native": "Can you tell me how much it costs?"
+          "native": "Can you tell me how much it costs?",
+          "en": "¿Me puedes decir cuánto cuesta?",
+          "es": "Can you tell me how much it costs?"
         }
       ],
       "watch_out": "For yes/no questions it's 'si', not 'que': 'preguntó si venías'."
@@ -1898,15 +2390,21 @@
       "examples": [
         {
           "target": "Es caro. Sin embargo, merece la pena.",
-          "native": "It's expensive. However, it's worth it."
+          "native": "It's expensive. However, it's worth it.",
+          "en": "Es caro. Sin embargo, merece la pena.",
+          "es": "It's expensive. However, it's worth it."
         },
         {
           "target": "Él es tranquilo; en cambio, ella es muy nerviosa.",
-          "native": "He's calm; she, on the other hand, is very edgy."
+          "native": "He's calm; she, on the other hand, is very edgy.",
+          "en": "Él es tranquilo; en cambio, ella es muy nerviosa.",
+          "es": "He's calm; she, on the other hand, is very edgy."
         },
         {
           "target": "Aun así, prefiero intentarlo.",
-          "native": "Even so, I'd rather try."
+          "native": "Even so, I'd rather try.",
+          "en": "Aun así, prefiero intentarlo.",
+          "es": "Even so, I'd rather try."
         }
       ],
       "watch_out": "'Aun así' (even so) has no accent; 'aún' (still, yet) does. Different words."
@@ -1921,15 +2419,21 @@
       "examples": [
         {
           "target": "La novela fue escrita por Cervantes.",
-          "native": "The novel was written by Cervantes."
+          "native": "The novel was written by Cervantes.",
+          "en": "La novela fue escrita por Cervantes.",
+          "es": "The novel was written by Cervantes."
         },
         {
           "target": "Me robaron el móvil en el metro.",
-          "native": "My phone was stolen on the underground."
+          "native": "My phone was stolen on the underground.",
+          "en": "Me robaron el móvil en el metro.",
+          "es": "My phone was stolen on the underground."
         },
         {
           "target": "La puerta está cerrada.",
-          "native": "The door is closed."
+          "native": "The door is closed.",
+          "en": "La puerta está cerrada.",
+          "es": "The door is closed."
         }
       ],
       "watch_out": "For everyday events prefer the active: 'me robaron el móvil', not 'mi móvil fue robado'."
@@ -1944,15 +2448,21 @@
       "examples": [
         {
           "target": "En primer lugar, hay que definir el problema.",
-          "native": "First of all, we need to define the problem."
+          "native": "First of all, we need to define the problem.",
+          "en": "En primer lugar, hay que definir el problema.",
+          "es": "First of all, we need to define the problem."
         },
         {
           "target": "Es decir, no tenemos suficiente tiempo.",
-          "native": "That is to say, we don't have enough time."
+          "native": "That is to say, we don't have enough time.",
+          "en": "Es decir, no tenemos suficiente tiempo.",
+          "es": "That is to say, we don't have enough time."
         },
         {
           "target": "Al final decidimos no ir.",
-          "native": "In the end we decided not to go."
+          "native": "In the end we decided not to go.",
+          "en": "Al final decidimos no ir.",
+          "es": "In the end we decided not to go."
         }
       ],
       "watch_out": "'Por último' closes a list; 'al final' says how things turned out. They are not interchangeable."
@@ -1967,15 +2477,21 @@
       "examples": [
         {
           "target": "Sé que viene, pero no creo que llegue a tiempo.",
-          "native": "I know he's coming, but I don't think he'll make it on time."
+          "native": "I know he's coming, but I don't think he'll make it on time.",
+          "en": "Sé que viene, pero no creo que llegue a tiempo.",
+          "es": "I know he's coming, but I don't think he'll make it on time."
         },
         {
           "target": "Quería que vinieras conmigo.",
-          "native": "I wanted you to come with me."
+          "native": "I wanted you to come with me.",
+          "en": "Quería que vinieras conmigo.",
+          "es": "I wanted you to come with me."
         },
         {
           "target": "Busco a alguien que sepa alemán.",
-          "native": "I'm looking for someone who knows German."
+          "native": "I'm looking for someone who knows German.",
+          "en": "Busco a alguien que sepa alemán.",
+          "es": "I'm looking for someone who knows German."
         }
       ],
       "watch_out": "A past main verb pulls the subjunctive back too: 'quería que vinieras', not 'quería que vengas'."
@@ -1990,15 +2506,21 @@
       "examples": [
         {
           "target": "Para junio habré terminado la carrera.",
-          "native": "By June I'll have finished my degree."
+          "native": "By June I'll have finished my degree.",
+          "en": "Para junio habré terminado la carrera.",
+          "es": "By June I'll have finished my degree."
         },
         {
           "target": "No contesta; se habrá dormido.",
-          "native": "He's not answering; he must have fallen asleep."
+          "native": "He's not answering; he must have fallen asleep.",
+          "en": "No contesta; se habrá dormido.",
+          "es": "He's not answering; he must have fallen asleep."
         },
         {
           "target": "Cuando llegues, ya habremos cenado.",
-          "native": "By the time you arrive, we'll have had dinner."
+          "native": "By the time you arrive, we'll have had dinner.",
+          "en": "Cuando llegues, ya habremos cenado.",
+          "es": "By the time you arrive, we'll have had dinner."
         }
       ],
       "watch_out": "'Habrá salido' usually means 'he must have left', not 'he will have left'."
@@ -2013,15 +2535,21 @@
       "examples": [
         {
           "target": "Aseguró que no sabía nada del asunto.",
-          "native": "He insisted he knew nothing about the matter."
+          "native": "He insisted he knew nothing about the matter.",
+          "en": "Aseguró que no sabía nada del asunto.",
+          "es": "He insisted he knew nothing about the matter."
         },
         {
           "target": "Negó que hubiera hablado con ella.",
-          "native": "He denied having spoken to her."
+          "native": "He denied having spoken to her.",
+          "en": "Negó que hubiera hablado con ella.",
+          "es": "He denied having spoken to her."
         },
         {
           "target": "Reconoció que se había equivocado.",
-          "native": "He admitted he had been wrong."
+          "native": "He admitted he had been wrong.",
+          "en": "Reconoció que se había equivocado.",
+          "es": "He admitted he had been wrong."
         }
       ],
       "watch_out": "'Negar que' takes the subjunctive; 'reconocer que' takes the indicative. Denying and conceding behave oppositely."
@@ -2036,15 +2564,21 @@
       "examples": [
         {
           "target": "Se dice que va a dimitir.",
-          "native": "It's said he's going to resign."
+          "native": "It's said he's going to resign.",
+          "en": "Se dice que va a dimitir.",
+          "es": "It's said he's going to resign."
         },
         {
           "target": "Al parecer, no había nadie en casa.",
-          "native": "Apparently, there was nobody at home."
+          "native": "Apparently, there was nobody at home.",
+          "en": "Al parecer, no había nadie en casa.",
+          "es": "Apparently, there was nobody at home."
         },
         {
           "target": "Según el informe, las cifras han bajado.",
-          "native": "According to the report, the figures have fallen."
+          "native": "According to the report, the figures have fallen.",
+          "en": "Según el informe, las cifras han bajado.",
+          "es": "According to the report, the figures have fallen."
         }
       ],
       "watch_out": "In the press, a conditional means 'reportedly'. 'Habría dimitido' is not confirmed."
@@ -2059,15 +2593,21 @@
       "examples": [
         {
           "target": "Te pido que me escuches.",
-          "native": "I'm asking you to listen to me."
+          "native": "I'm asking you to listen to me.",
+          "en": "Te pido que me escuches.",
+          "es": "I'm asking you to listen to me."
         },
         {
           "target": "Me dijo que viniera a las ocho.",
-          "native": "He told me to come at eight."
+          "native": "He told me to come at eight.",
+          "en": "Me dijo que viniera a las ocho.",
+          "es": "He told me to come at eight."
         },
         {
           "target": "No me dejaron entrar.",
-          "native": "They didn't let me in."
+          "native": "They didn't let me in.",
+          "en": "No me dejaron entrar.",
+          "es": "They didn't let me in."
         }
       ],
       "watch_out": "'Dijo que venía' reports; 'dijo que viniera' orders. Same verb, different mood, different message."
@@ -2082,15 +2622,21 @@
       "examples": [
         {
           "target": "Aunque llueve, voy a salir.",
-          "native": "Even though it's raining, I'm going out."
+          "native": "Even though it's raining, I'm going out.",
+          "en": "Aunque llueve, voy a salir.",
+          "es": "Even though it's raining, I'm going out."
         },
         {
           "target": "Aunque estudió mucho, suspendió el examen.",
-          "native": "Although he studied a lot, he failed the exam."
+          "native": "Although he studied a lot, he failed the exam.",
+          "en": "Aunque estudió mucho, suspendió el examen.",
+          "es": "Although he studied a lot, he failed the exam."
         },
         {
           "target": "No vino, y eso que se lo pedí.",
-          "native": "He didn't come, and that's despite my asking him."
+          "native": "He didn't come, and that's despite my asking him.",
+          "en": "No vino, y eso que se lo pedí.",
+          "es": "He didn't come, and that's despite my asking him."
         }
       ],
       "watch_out": "Indicative means you know it's true. 'Aunque llueve' means it IS raining right now."
@@ -2105,15 +2651,21 @@
       "examples": [
         {
           "target": "Aunque llueva, iremos a la playa.",
-          "native": "Even if it rains, we'll go to the beach."
+          "native": "Even if it rains, we'll go to the beach.",
+          "en": "Aunque llueva, iremos a la playa.",
+          "es": "Even if it rains, we'll go to the beach."
         },
         {
           "target": "Aunque fuera millonario, no compraría eso.",
-          "native": "Even if I were a millionaire, I wouldn't buy that."
+          "native": "Even if I were a millionaire, I wouldn't buy that.",
+          "en": "Aunque fuera millonario, no compraría eso.",
+          "es": "Even if I were a millionaire, I wouldn't buy that."
         },
         {
           "target": "Aunque sea difícil, hay que intentarlo.",
-          "native": "Even if it's hard, we have to try."
+          "native": "Even if it's hard, we have to try.",
+          "en": "Aunque sea difícil, hay que intentarlo.",
+          "es": "Even if it's hard, we have to try."
         }
       ],
       "watch_out": "'Aunque llueve' = it is raining. 'Aunque llueva' = if it should rain. One letter, different situation."
@@ -2128,15 +2680,21 @@
       "examples": [
         {
           "target": "El hecho de que llegara tarde me molestó.",
-          "native": "The fact that he arrived late annoyed me."
+          "native": "The fact that he arrived late annoyed me.",
+          "en": "El hecho de que llegara tarde me molestó.",
+          "es": "The fact that he arrived late annoyed me."
         },
         {
           "target": "Que no me avisaras fue un error.",
-          "native": "Your not telling me was a mistake."
+          "native": "Your not telling me was a mistake.",
+          "en": "Que no me avisaras fue un error.",
+          "es": "Your not telling me was a mistake."
         },
         {
           "target": "Me alegro de que estés aquí.",
-          "native": "I'm glad you're here."
+          "native": "I'm glad you're here.",
+          "en": "Me alegro de que estés aquí.",
+          "es": "I'm glad you're here."
         }
       ],
       "watch_out": "'Pienso de que' is wrong; 'me alegro que' is also wrong. One adds a 'de' it shouldn't, the other drops one it needs."
@@ -2151,15 +2709,21 @@
       "examples": [
         {
           "target": "Lo que quiero es que me escuches.",
-          "native": "What I want is for you to listen to me."
+          "native": "What I want is for you to listen to me.",
+          "en": "Lo que quiero es que me escuches.",
+          "es": "What I want is for you to listen to me."
         },
         {
           "target": "Lo que pasa es que no tengo tiempo.",
-          "native": "The thing is, I don't have time."
+          "native": "The thing is, I don't have time.",
+          "en": "Lo que pasa es que no tengo tiempo.",
+          "es": "The thing is, I don't have time."
         },
         {
           "target": "Sí que lo sabía.",
-          "native": "I did know."
+          "native": "I did know.",
+          "en": "Sí que lo sabía.",
+          "es": "I did know."
         }
       ],
       "watch_out": "Spanish stresses by restructuring, not by raising the voice. 'Lo que quiero es café' is the natural form."
@@ -2174,15 +2738,21 @@
       "examples": [
         {
           "target": "Por más que lo intento, no lo entiendo.",
-          "native": "No matter how hard I try, I don't understand it."
+          "native": "No matter how hard I try, I don't understand it.",
+          "en": "Por más que lo intento, no lo entiendo.",
+          "es": "No matter how hard I try, I don't understand it."
         },
         {
           "target": "Por muy caro que sea, lo voy a comprar.",
-          "native": "However expensive it is, I'm going to buy it."
+          "native": "However expensive it is, I'm going to buy it.",
+          "en": "Por muy caro que sea, lo voy a comprar.",
+          "es": "However expensive it is, I'm going to buy it."
         },
         {
           "target": "Pase lo que pase, te apoyaré.",
-          "native": "Whatever happens, I'll support you."
+          "native": "Whatever happens, I'll support you.",
+          "en": "Pase lo que pase, te apoyaré.",
+          "es": "Whatever happens, I'll support you."
         }
       ],
       "watch_out": "'Por muy' needs the 'muy': 'por muy difícil que sea', not 'por difícil que sea'."
@@ -2197,15 +2767,21 @@
       "examples": [
         {
           "target": "Estaba a punto de salir cuando me llamaste.",
-          "native": "I was about to leave when you called me."
+          "native": "I was about to leave when you called me.",
+          "en": "Estaba a punto de salir cuando me llamaste.",
+          "es": "I was about to leave when you called me."
         },
         {
           "target": "Por poco pierdo el vuelo.",
-          "native": "I nearly missed the flight."
+          "native": "I nearly missed the flight.",
+          "en": "Por poco pierdo el vuelo.",
+          "es": "I nearly missed the flight."
         },
         {
           "target": "Falta poco para que empiece la película.",
-          "native": "The film is about to start."
+          "native": "The film is about to start.",
+          "en": "Falta poco para que empiece la película.",
+          "es": "The film is about to start."
         }
       ],
       "watch_out": "'Por poco' takes the present even about the past: 'por poco me caigo', not 'me caí'."
@@ -2220,15 +2796,21 @@
       "examples": [
         {
           "target": "Me temo que no va a ser posible.",
-          "native": "I'm afraid it won't be possible."
+          "native": "I'm afraid it won't be possible.",
+          "en": "Me temo que no va a ser posible.",
+          "es": "I'm afraid it won't be possible."
         },
         {
           "target": "Quería pedirte un favor.",
-          "native": "I wanted to ask you a favour."
+          "native": "I wanted to ask you a favour.",
+          "en": "Quería pedirte un favor.",
+          "es": "I wanted to ask you a favour."
         },
         {
           "target": "No estoy del todo de acuerdo.",
-          "native": "I don't entirely agree."
+          "native": "I don't entirely agree.",
+          "en": "No estoy del todo de acuerdo.",
+          "es": "I don't entirely agree."
         }
       ],
       "watch_out": "The imperfect softens a request: 'quería preguntarte' is politer than 'quiero preguntarte'."
@@ -2243,15 +2825,21 @@
       "examples": [
         {
           "target": "Quiero ir contigo.",
-          "native": "I want to go with you."
+          "native": "I want to go with you.",
+          "en": "Quiero ir contigo.",
+          "es": "I want to go with you."
         },
         {
           "target": "Quiero que vengas conmigo.",
-          "native": "I want you to come with me."
+          "native": "I want you to come with me.",
+          "en": "Quiero que vengas conmigo.",
+          "es": "I want you to come with me."
         },
         {
           "target": "Es importante llegar temprano.",
-          "native": "It's important to arrive early."
+          "native": "It's important to arrive early.",
+          "en": "Es importante llegar temprano.",
+          "es": "It's important to arrive early."
         }
       ],
       "watch_out": "Count the subjects before choosing. 'Quiero que yo vaya' is never right."
@@ -2266,15 +2854,21 @@
       "examples": [
         {
           "target": "Acabo de hablar con ella.",
-          "native": "I've just spoken to her."
+          "native": "I've just spoken to her.",
+          "en": "Acabo de hablar con ella.",
+          "es": "I've just spoken to her."
         },
         {
           "target": "Volvió a llamar por la tarde.",
-          "native": "He called again in the afternoon."
+          "native": "He called again in the afternoon.",
+          "en": "Volvió a llamar por la tarde.",
+          "es": "He called again in the afternoon."
         },
         {
           "target": "Dejé de fumar hace dos años.",
-          "native": "I stopped smoking two years ago."
+          "native": "I stopped smoking two years ago.",
+          "en": "Dejé de fumar hace dos años.",
+          "es": "I stopped smoking two years ago."
         }
       ],
       "watch_out": "'Dejar de fumar' is to quit; 'dejar fumar' is to let someone smoke. The 'de' is the whole difference."
@@ -2289,15 +2883,21 @@
       "examples": [
         {
           "target": "Puede que llueva esta tarde.",
-          "native": "It might rain this afternoon."
+          "native": "It might rain this afternoon.",
+          "en": "Puede que llueva esta tarde.",
+          "es": "It might rain this afternoon."
         },
         {
           "target": "A lo mejor viene mañana.",
-          "native": "Maybe he'll come tomorrow."
+          "native": "Maybe he'll come tomorrow.",
+          "en": "A lo mejor viene mañana.",
+          "es": "Maybe he'll come tomorrow."
         },
         {
           "target": "Debe de estar enfermo.",
-          "native": "He must be ill."
+          "native": "He must be ill.",
+          "en": "Debe de estar enfermo.",
+          "es": "He must be ill."
         }
       ],
       "watch_out": "'A lo mejor' takes the indicative; 'puede que' takes the subjunctive. Same meaning, opposite grammar."
@@ -2312,15 +2912,21 @@
       "examples": [
         {
           "target": "Cabe señalar que los datos son preliminares.",
-          "native": "It is worth noting that the data are preliminary."
+          "native": "It is worth noting that the data are preliminary.",
+          "en": "Cabe señalar que los datos son preliminares.",
+          "es": "It is worth noting that the data are preliminary."
         },
         {
           "target": "De ahí que resulte tan difícil de medir.",
-          "native": "Hence its being so difficult to measure."
+          "native": "Hence its being so difficult to measure.",
+          "en": "De ahí que resulte tan difícil de medir.",
+          "es": "Hence its being so difficult to measure."
         },
         {
           "target": "Si bien el método es válido, la muestra es reducida.",
-          "native": "While the method is valid, the sample is small."
+          "native": "While the method is valid, the sample is small.",
+          "en": "Si bien el método es válido, la muestra es reducida.",
+          "es": "While the method is valid, the sample is small."
         }
       ],
       "watch_out": "'De ahí que' always takes the subjunctive: 'de ahí que sea', never 'de ahí que es'."
@@ -2335,15 +2941,21 @@
       "examples": [
         {
           "target": "Según el autor, los resultados son concluyentes.",
-          "native": "According to the author, the results are conclusive."
+          "native": "According to the author, the results are conclusive.",
+          "en": "Según el autor, los resultados son concluyentes.",
+          "es": "According to the author, the results are conclusive."
         },
         {
           "target": "El estudio pone de manifiesto una relación clara.",
-          "native": "The study reveals a clear relationship."
+          "native": "The study reveals a clear relationship.",
+          "en": "El estudio pone de manifiesto una relación clara.",
+          "es": "The study reveals a clear relationship."
         },
         {
           "target": "El informe niega que exista tal vínculo.",
-          "native": "The report denies that such a link exists."
+          "native": "The report denies that such a link exists.",
+          "en": "El informe niega que exista tal vínculo.",
+          "es": "The report denies that such a link exists."
         }
       ],
       "watch_out": "'Pretender' means to claim or intend, not to pretend. 'Fingir' is to pretend."
@@ -2358,15 +2970,21 @@
       "examples": [
         {
           "target": "Le escribo en relación con su solicitud.",
-          "native": "I am writing regarding your application."
+          "native": "I am writing regarding your application.",
+          "en": "Le escribo en relación con su solicitud.",
+          "es": "I am writing regarding your application."
         },
         {
           "target": "Agradecería que me facilitara los datos.",
-          "native": "I would be grateful if you could provide me with the data."
+          "native": "I would be grateful if you could provide me with the data.",
+          "en": "Agradecería que me facilitara los datos.",
+          "es": "I would be grateful if you could provide me with the data."
         },
         {
           "target": "Quedo a la espera de su respuesta.",
-          "native": "I look forward to your reply."
+          "native": "I look forward to your reply.",
+          "en": "Quedo a la espera de su respuesta.",
+          "es": "I look forward to your reply."
         }
       ],
       "watch_out": "'Agradecería que' takes the imperfect subjunctive: 'que me enviara', not 'que me envía'."
@@ -2381,15 +2999,21 @@
       "examples": [
         {
           "target": "El análisis de los datos revela un patrón.",
-          "native": "Analysis of the data reveals a pattern."
+          "native": "Analysis of the data reveals a pattern.",
+          "en": "El análisis de los datos revela un patrón.",
+          "es": "Analysis of the data reveals a pattern."
         },
         {
           "target": "Se llevó a cabo una revisión completa.",
-          "native": "A full review was carried out."
+          "native": "A full review was carried out.",
+          "en": "Se llevó a cabo una revisión completa.",
+          "es": "A full review was carried out."
         },
         {
           "target": "Ante la falta de pruebas, se archivó el caso.",
-          "native": "Given the lack of evidence, the case was closed."
+          "native": "Given the lack of evidence, the case was closed.",
+          "en": "Ante la falta de pruebas, se archivó el caso.",
+          "es": "Given the lack of evidence, the case was closed."
         }
       ],
       "watch_out": "The verb must match the noun. It's 'tomar una decisión', never 'hacer una decisión'."
@@ -2404,15 +3028,21 @@
       "examples": [
         {
           "target": "Se observa una tendencia al alza.",
-          "native": "An upward trend is observed."
+          "native": "An upward trend is observed.",
+          "en": "Se observa una tendencia al alza.",
+          "es": "An upward trend is observed."
         },
         {
           "target": "Conviene que se revisen los datos.",
-          "native": "The data should be reviewed."
+          "native": "The data should be reviewed.",
+          "en": "Conviene que se revisen los datos.",
+          "es": "The data should be reviewed."
         },
         {
           "target": "No se ha demostrado que exista relación.",
-          "native": "No relationship has been shown to exist."
+          "native": "No relationship has been shown to exist.",
+          "en": "No se ha demostrado que exista relación.",
+          "es": "No relationship has been shown to exist."
         }
       ],
       "watch_out": "'Se ha demostrado que existe' but 'no se ha demostrado que exista'. Negation flips it here too."
@@ -2427,15 +3057,21 @@
       "examples": [
         {
           "target": "Fue ella quien me lo dijo.",
-          "native": "It was she who told me."
+          "native": "It was she who told me.",
+          "en": "Fue ella quien me lo dijo.",
+          "es": "It was she who told me."
         },
         {
           "target": "Fue en Sevilla donde nos conocimos.",
-          "native": "It was in Seville that we met."
+          "native": "It was in Seville that we met.",
+          "en": "Fue en Sevilla donde nos conocimos.",
+          "es": "It was in Seville that we met."
         },
         {
           "target": "Fue con él con quien hablé.",
-          "native": "It was him I spoke to."
+          "native": "It was him I spoke to.",
+          "en": "Fue con él con quien hablé.",
+          "es": "It was him I spoke to."
         }
       ],
       "watch_out": "'Ser' matches the tense of the main verb: 'fue él quien lo hizo', not 'es él quien lo hizo'."
@@ -2450,15 +3086,21 @@
       "examples": [
         {
           "target": "Si bien el proyecto es ambicioso, es realista.",
-          "native": "While the project is ambitious, it is realistic."
+          "native": "While the project is ambitious, it is realistic.",
+          "en": "Si bien el proyecto es ambicioso, es realista.",
+          "es": "While the project is ambitious, it is realistic."
         },
         {
           "target": "Aun sabiéndolo, no dijo nada.",
-          "native": "Even knowing it, he said nothing."
+          "native": "Even knowing it, he said nothing.",
+          "en": "Aun sabiéndolo, no dijo nada.",
+          "es": "Even knowing it, he said nothing."
         },
         {
           "target": "Pese a que llovía, salimos a caminar.",
-          "native": "Despite the rain, we went out walking."
+          "native": "Despite the rain, we went out walking.",
+          "en": "Pese a que llovía, salimos a caminar.",
+          "es": "Despite the rain, we went out walking."
         }
       ],
       "watch_out": "'Si bien' is written register and takes the indicative. It is not a spoken option."
@@ -2473,15 +3115,21 @@
       "examples": [
         {
           "target": "Desde mi punto de vista, el plan es viable.",
-          "native": "From my point of view, the plan is workable."
+          "native": "From my point of view, the plan is workable.",
+          "en": "Desde mi punto de vista, el plan es viable.",
+          "es": "From my point of view, the plan is workable."
         },
         {
           "target": "No me parece que sea la mejor opción.",
-          "native": "It doesn't seem to me the best option."
+          "native": "It doesn't seem to me the best option.",
+          "en": "No me parece que sea la mejor opción.",
+          "es": "It doesn't seem to me the best option."
         },
         {
           "target": "No me cabe duda de que funcionará.",
-          "native": "I have no doubt it will work."
+          "native": "I have no doubt it will work.",
+          "en": "No me cabe duda de que funcionará.",
+          "es": "I have no doubt it will work."
         }
       ],
       "watch_out": "'Me parece que es' but 'no me parece que sea'. Negating the opinion flips the mood."
@@ -2496,15 +3144,21 @@
       "examples": [
         {
           "target": "Lo que me molesta es su actitud.",
-          "native": "What bothers me is his attitude."
+          "native": "What bothers me is his attitude.",
+          "en": "Lo que me molesta es su actitud.",
+          "es": "What bothers me is his attitude."
         },
         {
           "target": "Lo que hizo fue irse sin avisar.",
-          "native": "What he did was leave without saying anything."
+          "native": "What he did was leave without saying anything.",
+          "en": "Lo que hizo fue irse sin avisar.",
+          "es": "What he did was leave without saying anything."
         },
         {
           "target": "No sabes lo cansado que estoy.",
-          "native": "You've no idea how tired I am."
+          "native": "You've no idea how tired I am.",
+          "en": "No sabes lo cansado que estoy.",
+          "es": "You've no idea how tired I am."
         }
       ],
       "watch_out": "'Lo' + adjective still agrees with the person: 'lo cansada que estoy' if you're female."
@@ -2519,15 +3173,21 @@
       "examples": [
         {
           "target": "El ministro habría presentado su dimisión.",
-          "native": "The minister has reportedly tendered his resignation."
+          "native": "The minister has reportedly tendered his resignation.",
+          "en": "El ministro habría presentado su dimisión.",
+          "es": "The minister has reportedly tendered his resignation."
         },
         {
           "target": "El presunto autor fue detenido ayer.",
-          "native": "The alleged perpetrator was arrested yesterday."
+          "native": "The alleged perpetrator was arrested yesterday.",
+          "en": "El presunto autor fue detenido ayer.",
+          "es": "The alleged perpetrator was arrested yesterday."
         },
         {
           "target": "Negó que hubiera recibido el dinero.",
-          "native": "He denied having received the money."
+          "native": "He denied having received the money.",
+          "en": "Negó que hubiera recibido el dinero.",
+          "es": "He denied having received the money."
         }
       ],
       "watch_out": "A conditional in a news report means 'reportedly'. It is not a claim the paper is standing behind."
@@ -2542,15 +3202,21 @@
       "examples": [
         {
           "target": "Cuanto más lo pienso, menos lo entiendo.",
-          "native": "The more I think about it, the less I understand."
+          "native": "The more I think about it, the less I understand.",
+          "en": "Cuanto más lo pienso, menos lo entiendo.",
+          "es": "The more I think about it, the less I understand."
         },
         {
           "target": "Cuanto antes lo hagas, mejor.",
-          "native": "The sooner you do it, the better."
+          "native": "The sooner you do it, the better.",
+          "en": "Cuanto antes lo hagas, mejor.",
+          "es": "The sooner you do it, the better."
         },
         {
           "target": "Cuantas más personas vengan, más divertido será.",
-          "native": "The more people come, the more fun it will be."
+          "native": "The more people come, the more fun it will be.",
+          "en": "Cuantas más personas vengan, más divertido será.",
+          "es": "The more people come, the more fun it will be."
         }
       ],
       "watch_out": "Referring to the future, it takes the subjunctive: 'cuanto más practiques', not 'practicas'."
@@ -2565,15 +3231,21 @@
       "examples": [
         {
           "target": "Se me olvidaron las llaves.",
-          "native": "I forgot the keys."
+          "native": "I forgot the keys.",
+          "en": "Se me olvidaron las llaves.",
+          "es": "I forgot the keys."
         },
         {
           "target": "Se querían mucho.",
-          "native": "They loved each other very much."
+          "native": "They loved each other very much.",
+          "en": "Se querían mucho.",
+          "es": "They loved each other very much."
         },
         {
           "target": "Me comí toda la tarta.",
-          "native": "I ate the whole cake."
+          "native": "I ate the whole cake.",
+          "en": "Me comí toda la tarta.",
+          "es": "I ate the whole cake."
         }
       ],
       "watch_out": "'Se me cayó' is the normal way to report an accident. 'Dejé caer' sounds like you meant to."
@@ -2588,15 +3260,21 @@
       "examples": [
         {
           "target": "No tengo ningún problema con eso.",
-          "native": "I have no problem with that."
+          "native": "I have no problem with that.",
+          "en": "No tengo ningún problema con eso.",
+          "es": "I have no problem with that."
         },
         {
           "target": "Cualquier persona puede participar.",
-          "native": "Anyone can take part."
+          "native": "Anyone can take part.",
+          "en": "Cualquier persona puede participar.",
+          "es": "Anyone can take part."
         },
         {
           "target": "Cada día aprendo algo nuevo.",
-          "native": "Every day I learn something new."
+          "native": "Every day I learn something new.",
+          "en": "Cada día aprendo algo nuevo.",
+          "es": "Every day I learn something new."
         }
       ],
       "watch_out": "'Ninguno' is singular: 'no tengo ningún amigo allí', not 'ningunos amigos'."
@@ -2611,15 +3289,21 @@
       "examples": [
         {
           "target": "Un amigo mío trabaja allí.",
-          "native": "A friend of mine works there."
+          "native": "A friend of mine works there.",
+          "en": "Un amigo mío trabaja allí.",
+          "es": "A friend of mine works there."
         },
         {
           "target": "Este abrigo no es el mío.",
-          "native": "This coat isn't mine."
+          "native": "This coat isn't mine.",
+          "en": "Este abrigo no es el mío.",
+          "es": "This coat isn't mine."
         },
         {
           "target": "Las matemáticas no son lo mío.",
-          "native": "Maths isn't my thing."
+          "native": "Maths isn't my thing.",
+          "en": "Las matemáticas no son lo mío.",
+          "es": "Maths isn't my thing."
         }
       ],
       "watch_out": "'Mi amigo' is a specific friend; 'un amigo mío' is one of several. The position carries the meaning."
@@ -2634,15 +3318,21 @@
       "examples": [
         {
           "target": "Pase lo que pase, cuenta conmigo.",
-          "native": "Whatever happens, you can count on me."
+          "native": "Whatever happens, you can count on me.",
+          "en": "Pase lo que pase, cuenta conmigo.",
+          "es": "Whatever happens, you can count on me."
         },
         {
           "target": "Digas lo que digas, no voy a cambiar de opinión.",
-          "native": "Whatever you say, I'm not changing my mind."
+          "native": "Whatever you say, I'm not changing my mind.",
+          "en": "Digas lo que digas, no voy a cambiar de opinión.",
+          "es": "Whatever you say, I'm not changing my mind."
         },
         {
           "target": "Lo terminaré, cueste lo que cueste.",
-          "native": "I'll finish it, whatever it takes."
+          "native": "I'll finish it, whatever it takes.",
+          "en": "Lo terminaré, cueste lo que cueste.",
+          "es": "I'll finish it, whatever it takes."
         }
       ],
       "watch_out": "Both verbs go in the subjunctive: 'diga lo que diga', not 'dice lo que diga'."
@@ -2657,15 +3347,21 @@
       "examples": [
         {
           "target": "Cabe señalar que el planteamiento resulta discutible.",
-          "native": "It should be noted that the approach is debatable."
+          "native": "It should be noted that the approach is debatable.",
+          "en": "Cabe señalar que el planteamiento resulta discutible.",
+          "es": "It should be noted that the approach is debatable."
         },
         {
           "target": "Me alegro de que hayas venido.",
-          "native": "I'm glad you came."
+          "native": "I'm glad you came.",
+          "en": "Me alegro de que hayas venido.",
+          "es": "I'm glad you came."
         },
         {
           "target": "No es que no quiera, es que no puedo.",
-          "native": "It's not that I don't want to, it's that I can't."
+          "native": "It's not that I don't want to, it's that I can't.",
+          "en": "No es que no quiera, es que no puedo.",
+          "es": "It's not that I don't want to, it's that I can't."
         }
       ],
       "watch_out": "'No es que' always takes the subjunctive: 'no es que no quiera', never 'no quiero'."
@@ -2680,15 +3376,21 @@
       "examples": [
         {
           "target": "La tienda está cerrada los domingos.",
-          "native": "The shop is closed on Sundays."
+          "native": "The shop is closed on Sundays.",
+          "en": "La tienda está cerrada los domingos.",
+          "es": "The shop is closed on Sundays."
         },
         {
           "target": "Tengo escritas tres páginas.",
-          "native": "I've got three pages written."
+          "native": "I've got three pages written.",
+          "en": "Tengo escritas tres páginas.",
+          "es": "I've got three pages written."
         },
         {
           "target": "Queda aprobada la propuesta.",
-          "native": "The proposal is hereby approved."
+          "native": "The proposal is hereby approved.",
+          "en": "Queda aprobada la propuesta.",
+          "es": "The proposal is hereby approved."
         }
       ],
       "watch_out": "A state takes no agent. 'Está cerrada por el portero' should be 'fue cerrada por el portero'."
@@ -2703,15 +3405,21 @@
       "examples": [
         {
           "target": "Te lo explico para que lo entiendas.",
-          "native": "I'm explaining it so that you understand."
+          "native": "I'm explaining it so that you understand.",
+          "en": "Te lo explico para que lo entiendas.",
+          "es": "I'm explaining it so that you understand."
         },
         {
           "target": "Salió sin que nadie lo viera.",
-          "native": "He left without anyone seeing him."
+          "native": "He left without anyone seeing him.",
+          "en": "Salió sin que nadie lo viera.",
+          "es": "He left without anyone seeing him."
         },
         {
           "target": "Lo hice para llegar a tiempo.",
-          "native": "I did it in order to arrive on time."
+          "native": "I did it in order to arrive on time.",
+          "en": "Lo hice para llegar a tiempo.",
+          "es": "I did it in order to arrive on time."
         }
       ],
       "watch_out": "'Sin que' always takes the subjunctive; with one subject it becomes 'sin' + infinitive."
@@ -2726,15 +3434,21 @@
       "examples": [
         {
           "target": "El solicitante deberá presentar la documentación.",
-          "native": "The applicant must submit the documentation."
+          "native": "The applicant must submit the documentation.",
+          "en": "El solicitante deberá presentar la documentación.",
+          "es": "The applicant must submit the documentation."
         },
         {
           "target": "Queda prohibido el acceso a personal no autorizado.",
-          "native": "Access is prohibited to unauthorised personnel."
+          "native": "Access is prohibited to unauthorised personnel.",
+          "en": "Queda prohibido el acceso a personal no autorizado.",
+          "es": "Access is prohibited to unauthorised personnel."
         },
         {
           "target": "Debe de haber un error.",
-          "native": "There must be a mistake."
+          "native": "There must be a mistake.",
+          "en": "Debe de haber un error.",
+          "es": "There must be a mistake."
         }
       ],
       "watch_out": "'Debe estar' is an obligation; 'debe de estar' is a guess. In legal text the 'de' matters."
@@ -2749,15 +3463,21 @@
       "examples": [
         {
           "target": "Te lo presto siempre que me lo devuelvas.",
-          "native": "I'll lend it to you provided you give it back."
+          "native": "I'll lend it to you provided you give it back.",
+          "en": "Te lo presto siempre que me lo devuelvas.",
+          "es": "I'll lend it to you provided you give it back."
         },
         {
           "target": "No iré a menos que me inviten.",
-          "native": "I won't go unless they invite me."
+          "native": "I won't go unless they invite me.",
+          "en": "No iré a menos que me inviten.",
+          "es": "I won't go unless they invite me."
         },
         {
           "target": "En caso de que llueva, lo aplazamos.",
-          "native": "In case it rains, we'll postpone it."
+          "native": "In case it rains, we'll postpone it.",
+          "en": "En caso de que llueva, lo aplazamos.",
+          "es": "In case it rains, we'll postpone it."
         }
       ],
       "watch_out": "'Siempre que vengo' means whenever; 'siempre que vengas' means provided that. The mood is the conjunction."
@@ -2772,15 +3492,21 @@
       "examples": [
         {
           "target": "El libro lo compré ayer.",
-          "native": "The book, I bought yesterday."
+          "native": "The book, I bought yesterday.",
+          "en": "El libro lo compré ayer.",
+          "es": "The book, I bought yesterday."
         },
         {
           "target": "A ella no le dije nada.",
-          "native": "To her I said nothing."
+          "native": "To her I said nothing.",
+          "en": "A ella no le dije nada.",
+          "es": "To her I said nothing."
         },
         {
           "target": "Ni una palabra dijo en toda la tarde.",
-          "native": "He didn't say a single word all afternoon."
+          "native": "He didn't say a single word all afternoon.",
+          "en": "Ni una palabra dijo en toda la tarde.",
+          "es": "He didn't say a single word all afternoon."
         }
       ],
       "watch_out": "A fronted object needs its pronoun repeated: 'el libro LO compré', not 'el libro compré'."
@@ -2795,15 +3521,21 @@
       "examples": [
         {
           "target": "Cabría preguntarse si es realmente necesario.",
-          "native": "One might ask whether it is really necessary."
+          "native": "One might ask whether it is really necessary.",
+          "en": "Cabría preguntarse si es realmente necesario.",
+          "es": "One might ask whether it is really necessary."
         },
         {
           "target": "Sería conveniente revisar el presupuesto.",
-          "native": "It would be advisable to review the budget."
+          "native": "It would be advisable to review the budget.",
+          "en": "Sería conveniente revisar el presupuesto.",
+          "es": "It would be advisable to review the budget."
         },
         {
           "target": "No deja de ser un argumento válido.",
-          "native": "It is, after all, a valid argument."
+          "native": "It is, after all, a valid argument.",
+          "en": "No deja de ser un argumento válido.",
+          "es": "It is, after all, a valid argument."
         }
       ],
       "watch_out": "'Cabría preguntarse si' takes the indicative after 'si'. The hedge is in 'cabría', not the mood."
@@ -2818,15 +3550,21 @@
       "examples": [
         {
           "target": "No solo escribió el libro, sino que también lo ilustró.",
-          "native": "He not only wrote the book, he illustrated it too."
+          "native": "He not only wrote the book, he illustrated it too.",
+          "en": "No solo escribió el libro, sino que también lo ilustró.",
+          "es": "He not only wrote the book, he illustrated it too."
         },
         {
           "target": "Tanto los alumnos como los profesores asistieron.",
-          "native": "Both the students and the teachers attended."
+          "native": "Both the students and the teachers attended.",
+          "en": "Tanto los alumnos como los profesores asistieron.",
+          "es": "Both the students and the teachers attended."
         },
         {
           "target": "Ni me llamó ni me escribió.",
-          "native": "He neither called nor wrote to me."
+          "native": "He neither called nor wrote to me.",
+          "en": "Ni me llamó ni me escribió.",
+          "es": "He neither called nor wrote to me."
         }
       ],
       "watch_out": "Before a conjugated verb it's 'sino que', not 'sino': 'sino que también lo ilustró'."
@@ -2841,15 +3579,21 @@
       "examples": [
         {
           "target": "¿Acaso no lo sabíamos ya?",
-          "native": "Did we not already know this?"
+          "native": "Did we not already know this?",
+          "en": "¿Acaso no lo sabíamos ya?",
+          "es": "Did we not already know this?"
         },
         {
           "target": "¿Qué sentido tiene discutirlo ahora?",
-          "native": "What's the point of arguing about it now?"
+          "native": "What's the point of arguing about it now?",
+          "en": "¿Qué sentido tiene discutirlo ahora?",
+          "es": "What's the point of arguing about it now?"
         },
         {
           "target": "¿No será que no quieres venir?",
-          "native": "Could it be that you don't want to come?"
+          "native": "Could it be that you don't want to come?",
+          "en": "¿No será que no quieres venir?",
+          "es": "Could it be that you don't want to come?"
         }
       ],
       "watch_out": "To '¿no vienes?', 'sí' means you ARE coming. Spanish answers the verb, not the negative."
@@ -2864,15 +3608,21 @@
       "examples": [
         {
           "target": "Es cierto que es caro; ahora bien, dura años.",
-          "native": "It's true that it's expensive; that said, it lasts for years."
+          "native": "It's true that it's expensive; that said, it lasts for years.",
+          "en": "Es cierto que es caro; ahora bien, dura años.",
+          "es": "It's true that it's expensive; that said, it lasts for years."
         },
         {
           "target": "No es que no me guste, sino que no lo necesito.",
-          "native": "It's not that I don't like it, it's that I don't need it."
+          "native": "It's not that I don't like it, it's that I don't need it.",
+          "en": "No es que no me guste, sino que no lo necesito.",
+          "es": "It's not that I don't like it, it's that I don't need it."
         },
         {
           "target": "Aun cuando fuera cierto, no cambiaría nada.",
-          "native": "Even if it were true, it would change nothing."
+          "native": "Even if it were true, it would change nothing.",
+          "en": "Aun cuando fuera cierto, no cambiaría nada.",
+          "es": "Even if it were true, it would change nothing."
         }
       ],
       "watch_out": "'Es cierto que es' but 'no es que sea'. Asserting and denying take opposite moods."
@@ -2887,15 +3637,21 @@
       "examples": [
         {
           "target": "Fue un simple malentendido.",
-          "native": "It was just a misunderstanding."
+          "native": "It was just a misunderstanding.",
+          "en": "Fue un simple malentendido.",
+          "es": "It was just a misunderstanding."
         },
         {
           "target": "Es un problema simple de resolver.",
-          "native": "It's a simple problem to solve."
+          "native": "It's a simple problem to solve.",
+          "en": "Es un problema simple de resolver.",
+          "es": "It's a simple problem to solve."
         },
         {
           "target": "La vieja casa abandonada seguía en pie.",
-          "native": "The old abandoned house was still standing."
+          "native": "The old abandoned house was still standing.",
+          "en": "La vieja casa abandonada seguía en pie.",
+          "es": "The old abandoned house was still standing."
         }
       ],
       "watch_out": "'Un simple error' means merely an error; 'un error simple' means an uncomplicated one."
@@ -2910,15 +3666,21 @@
       "examples": [
         {
           "target": "Espera un momentito, por favor.",
-          "native": "Wait just a moment, please."
+          "native": "Wait just a moment, please.",
+          "en": "Espera un momentito, por favor.",
+          "es": "Wait just a moment, please."
         },
         {
           "target": "Nos tomamos un cafecito y charlamos.",
-          "native": "We had a nice little coffee and chatted."
+          "native": "We had a nice little coffee and chatted.",
+          "en": "Nos tomamos un cafecito y charlamos.",
+          "es": "We had a nice little coffee and chatted."
         },
         {
           "target": "Le dieron un golpazo tremendo.",
-          "native": "They gave him an almighty blow."
+          "native": "They gave him an almighty blow.",
+          "en": "Le dieron un golpazo tremendo.",
+          "es": "They gave him an almighty blow."
         }
       ],
       "watch_out": "'Un momentito' is politeness, not size. Never using diminutives is what marks you as foreign."
@@ -2933,15 +3695,21 @@
       "examples": [
         {
           "target": "Miró el reloj. ¿Es que nadie iba a venir?",
-          "native": "She looked at the clock. Was nobody going to come?"
+          "native": "She looked at the clock. Was nobody going to come?",
+          "en": "Miró el reloj. ¿Es que nadie iba a venir?",
+          "es": "She looked at the clock. Was nobody going to come?"
         },
         {
           "target": "Cerró la puerta. Ahora sí que estaba solo.",
-          "native": "He shut the door. Now he really was alone."
+          "native": "He shut the door. Now he really was alone.",
+          "en": "Cerró la puerta. Ahora sí que estaba solo.",
+          "es": "He shut the door. Now he really was alone."
         },
         {
           "target": "¡Qué frío hacía aquella mañana!",
-          "native": "How cold it was that morning!"
+          "native": "How cold it was that morning!",
+          "en": "¡Qué frío hacía aquella mañana!",
+          "es": "How cold it was that morning!"
         }
       ],
       "watch_out": "'Ahora' with a past tense is the giveaway: the deixis belongs to the character, not the narrator."
@@ -2956,15 +3724,21 @@
       "examples": [
         {
           "target": "Llegó el invierno antes de tiempo.",
-          "native": "Winter came early."
+          "native": "Winter came early.",
+          "en": "Llegó el invierno antes de tiempo.",
+          "es": "Winter came early."
         },
         {
           "target": "De eso no quiero hablar.",
-          "native": "That I don't want to talk about."
+          "native": "That I don't want to talk about.",
+          "en": "De eso no quiero hablar.",
+          "es": "That I don't want to talk about."
         },
         {
           "target": "Muy caro me salió aquel error.",
-          "native": "That mistake cost me dearly."
+          "native": "That mistake cost me dearly.",
+          "en": "Muy caro me salió aquel error.",
+          "es": "That mistake cost me dearly."
         }
       ],
       "watch_out": "'Sonó el teléfono' is neutral; 'el teléfono sonó' is emphatic. The order is not free of meaning."
@@ -2979,15 +3753,21 @@
       "examples": [
         {
           "target": "Llovía y la calle estaba desierta.",
-          "native": "It was raining and the street was deserted."
+          "native": "It was raining and the street was deserted.",
+          "en": "Llovía y la calle estaba desierta.",
+          "es": "It was raining and the street was deserted."
         },
         {
           "target": "En 1605 Cervantes publica el Quijote.",
-          "native": "In 1605 Cervantes publishes Don Quixote."
+          "native": "In 1605 Cervantes publishes Don Quixote.",
+          "en": "En 1605 Cervantes publica el Quijote.",
+          "es": "In 1605 Cervantes publishes Don Quixote."
         },
         {
           "target": "No lo sabía, pero aquel día cambiaría su vida.",
-          "native": "He didn't know it, but that day would change his life."
+          "native": "He didn't know it, but that day would change his life.",
+          "en": "No lo sabía, pero aquel día cambiaría su vida.",
+          "es": "He didn't know it, but that day would change his life."
         }
       ],
       "watch_out": "The imperfect paints the scene, the preterite moves the plot. Only preterites reads as a police report."
@@ -3002,15 +3782,21 @@
       "examples": [
         {
           "target": "Tengo un problemita: perdí el pasaporte.",
-          "native": "I've got a tiny problem: I lost my passport."
+          "native": "I've got a tiny problem: I lost my passport.",
+          "en": "Tengo un problemita: perdí el pasaporte.",
+          "es": "I've got a tiny problem: I lost my passport."
         },
         {
           "target": "Te pido un favorcito, ¿me prestas el coche?",
-          "native": "Just a little favour: can I borrow your car?"
+          "native": "Just a little favour: can I borrow your car?",
+          "en": "Te pido un favorcito, ¿me prestas el coche?",
+          "es": "Just a little favour: can I borrow your car?"
         },
         {
           "target": "Nos metieron un golazo increíble.",
-          "native": "They scored an absolutely stunning goal against us."
+          "native": "They scored an absolutely stunning goal against us.",
+          "en": "Nos metieron un golazo increíble.",
+          "es": "They scored an absolutely stunning goal against us."
         }
       ],
       "watch_out": "'Un problemita' usually announces a big problem. The suffix is the joke, not the size."
@@ -3025,15 +3811,21 @@
       "examples": [
         {
           "target": "Hace un siglo que no te veo.",
-          "native": "I haven't seen you in ages."
+          "native": "I haven't seen you in ages.",
+          "en": "Hace un siglo que no te veo.",
+          "es": "I haven't seen you in ages."
         },
         {
           "target": "Estoy muerto de hambre.",
-          "native": "I'm starving."
+          "native": "I'm starving.",
+          "en": "Estoy muerto de hambre.",
+          "es": "I'm starving."
         },
         {
           "target": "No pienso ir, ni de broma.",
-          "native": "There's no way I'm going."
+          "native": "There's no way I'm going.",
+          "en": "No pienso ir, ni de broma.",
+          "es": "There's no way I'm going."
         }
       ],
       "watch_out": "'Me muero de hambre' means he's hungry. Answering it literally is the giveaway."
@@ -3048,15 +3840,21 @@
       "examples": [
         {
           "target": "Y encima llegó tarde. ¡Qué bien!",
-          "native": "And on top of that he arrived late. Wonderful!"
+          "native": "And on top of that he arrived late. Wonderful!",
+          "en": "Y encima llegó tarde. ¡Qué bien!",
+          "es": "And on top of that he arrived late. Wonderful!"
         },
         {
           "target": "Vaya ayuda me has dado.",
-          "native": "Some help you've been."
+          "native": "Some help you've been.",
+          "en": "Vaya ayuda me has dado.",
+          "es": "Some help you've been."
         },
         {
           "target": "Será muy listo, pero no lo demuestra.",
-          "native": "He may be very clever, but he doesn't show it."
+          "native": "He may be very clever, but he doesn't show it.",
+          "en": "Será muy listo, pero no lo demuestra.",
+          "es": "He may be very clever, but he doesn't show it."
         }
       ],
       "watch_out": "'Será muy listo, pero…' concedes only to demolish. It is not agreement."
@@ -3071,15 +3869,21 @@
       "examples": [
         {
           "target": "¿Cómo que no vienes?",
-          "native": "What do you mean you're not coming?"
+          "native": "What do you mean you're not coming?",
+          "en": "¿Cómo que no vienes?",
+          "es": "What do you mean you're not coming?"
         },
         {
           "target": "¿Desde cuándo sabes tú de fútbol?",
-          "native": "Since when do you know anything about football?"
+          "native": "Since when do you know anything about football?",
+          "en": "¿Desde cuándo sabes tú de fútbol?",
+          "es": "Since when do you know anything about football?"
         },
         {
           "target": "¿Y a mí qué me cuentas?",
-          "native": "And what's that got to do with me?"
+          "native": "And what's that got to do with me?",
+          "en": "¿Y a mí qué me cuentas?",
+          "es": "And what's that got to do with me?"
         }
       ],
       "watch_out": "'¿Cómo que…?' repeats what was just said in disbelief. It is not asking how."
@@ -3094,15 +3898,21 @@
       "examples": [
         {
           "target": "No está nada mal tu propuesta.",
-          "native": "Your proposal is really rather good."
+          "native": "Your proposal is really rather good.",
+          "en": "No está nada mal tu propuesta.",
+          "es": "Your proposal is really rather good."
         },
         {
           "target": "No es precisamente barato.",
-          "native": "It's not exactly cheap."
+          "native": "It's not exactly cheap.",
+          "en": "No es precisamente barato.",
+          "es": "It's not exactly cheap."
         },
         {
           "target": "Digamos que no fue su mejor día.",
-          "native": "Let's say it wasn't his finest day."
+          "native": "Let's say it wasn't his finest day.",
+          "en": "Digamos que no fue su mejor día.",
+          "es": "Let's say it wasn't his finest day."
         }
       ],
       "watch_out": "'No está nada mal' is genuine praise in Spanish, warmer than English 'not bad'."
@@ -3117,15 +3927,21 @@
       "examples": [
         {
           "target": "Los datos sugieren una correlación moderada.",
-          "native": "The data suggest a moderate correlation."
+          "native": "The data suggest a moderate correlation.",
+          "en": "Los datos sugieren una correlación moderada.",
+          "es": "The data suggest a moderate correlation."
         },
         {
           "target": "No cabe descartar que existan otros factores.",
-          "native": "Other factors cannot be ruled out."
+          "native": "Other factors cannot be ruled out.",
+          "en": "No cabe descartar que existan otros factores.",
+          "es": "Other factors cannot be ruled out."
         },
         {
           "target": "Actualmente se investigan otras vías.",
-          "native": "Other avenues are currently being investigated."
+          "native": "Other avenues are currently being investigated.",
+          "en": "Actualmente se investigan otras vías.",
+          "es": "Other avenues are currently being investigated."
         }
       ],
       "watch_out": "'Actualmente' is currently, not actually. 'Eventualmente' is possibly, not eventually."
@@ -3140,15 +3956,21 @@
       "examples": [
         {
           "target": "Es que no me dio tiempo, en serio.",
-          "native": "The thing is I didn't have time, honestly."
+          "native": "The thing is I didn't have time, honestly.",
+          "en": "Es que no me dio tiempo, en serio.",
+          "es": "The thing is I didn't have time, honestly."
         },
         {
           "target": "Total, que al final no fuimos.",
-          "native": "Anyway, in the end we didn't go."
+          "native": "Anyway, in the end we didn't go.",
+          "en": "Total, que al final no fuimos.",
+          "es": "Anyway, in the end we didn't go."
         },
         {
           "target": "Hombre, tampoco es para tanto.",
-          "native": "Come on, it's not that big a deal."
+          "native": "Come on, it's not that big a deal.",
+          "en": "Hombre, tampoco es para tanto.",
+          "es": "Come on, it's not that big a deal."
         }
       ],
       "watch_out": "'Hombre' as a softener is said to women too. It isn't addressing anyone as a man."
@@ -3163,15 +3985,21 @@
       "examples": [
         {
           "target": "Agradecería que revisaran el expediente.",
-          "native": "I would be grateful if you could review the file."
+          "native": "I would be grateful if you could review the file.",
+          "en": "Agradecería que revisaran el expediente.",
+          "es": "I would be grateful if you could review the file."
         },
         {
           "target": "Me temo que no va a ser posible en esta ocasión.",
-          "native": "I'm afraid it won't be possible on this occasion."
+          "native": "I'm afraid it won't be possible on this occasion.",
+          "en": "Me temo que no va a ser posible en esta ocasión.",
+          "es": "I'm afraid it won't be possible on this occasion."
         },
         {
           "target": "Parece que ha habido un malentendido.",
-          "native": "It seems there has been a misunderstanding."
+          "native": "It seems there has been a misunderstanding.",
+          "en": "Parece que ha habido un malentendido.",
+          "es": "It seems there has been a misunderstanding."
         }
       ],
       "watch_out": "'Se ha producido un retraso' blames nobody; 'usted se retrasó' blames someone. Pick deliberately."
@@ -3186,15 +4014,21 @@
       "examples": [
         {
           "target": "El interesado deberá aportar la documentación requerida.",
-          "native": "The applicant must provide the required documentation."
+          "native": "The applicant must provide the required documentation.",
+          "en": "El interesado deberá aportar la documentación requerida.",
+          "es": "The applicant must provide the required documentation."
         },
         {
           "target": "Sin perjuicio de lo anterior, se mantendrá el plazo.",
-          "native": "Notwithstanding the above, the deadline will remain."
+          "native": "Notwithstanding the above, the deadline will remain.",
+          "en": "Sin perjuicio de lo anterior, se mantendrá el plazo.",
+          "es": "Notwithstanding the above, the deadline will remain."
         },
         {
           "target": "Se adjuntará, en su caso, el justificante de pago.",
-          "native": "Proof of payment shall be attached where applicable."
+          "native": "Proof of payment shall be attached where applicable.",
+          "en": "Se adjuntará, en su caso, el justificante de pago.",
+          "es": "Proof of payment shall be attached where applicable."
         }
       ],
       "watch_out": "'En su caso' means 'where applicable', not 'in his case'. It changes the whole clause."
@@ -3209,15 +4043,21 @@
       "examples": [
         {
           "target": "Le comunico que no podré asistir a la reunión.",
-          "native": "I am writing to inform you that I will be unable to attend."
+          "native": "I am writing to inform you that I will be unable to attend.",
+          "en": "Le comunico que no podré asistir a la reunión.",
+          "es": "I am writing to inform you that I will be unable to attend."
         },
         {
           "target": "Oye, que al final no puedo ir.",
-          "native": "Listen, I can't make it after all."
+          "native": "Listen, I can't make it after all.",
+          "en": "Oye, que al final no puedo ir.",
+          "es": "Listen, I can't make it after all."
         },
         {
           "target": "Se ruega no fumar en las instalaciones.",
-          "native": "Smoking is not permitted on the premises."
+          "native": "Smoking is not permitted on the premises.",
+          "en": "Se ruega no fumar en las instalaciones.",
+          "es": "Smoking is not permitted on the premises."
         }
       ],
       "watch_out": "Change the syntax too, not just the words. Formal structure with casual vocabulary reads as translated."
@@ -3232,15 +4072,21 @@
       "examples": [
         {
           "target": "Tenemos que tomar una decisión hoy.",
-          "native": "We have to make a decision today."
+          "native": "We have to make a decision today.",
+          "en": "Tenemos que tomar una decisión hoy.",
+          "es": "We have to make a decision today."
         },
         {
           "target": "Cometí un error garrafal.",
-          "native": "I made a terrible mistake."
+          "native": "I made a terrible mistake.",
+          "en": "Cometí un error garrafal.",
+          "es": "I made a terrible mistake."
         },
         {
           "target": "Presta atención a los detalles.",
-          "native": "Pay attention to the details."
+          "native": "Pay attention to the details.",
+          "en": "Presta atención a los detalles.",
+          "es": "Pay attention to the details."
         }
       ],
       "watch_out": "'Hacer una decisión' and 'pagar atención' are direct from English. It's 'tomar' and 'prestar'."
@@ -3255,15 +4101,21 @@
       "examples": [
         {
           "target": "Es un señor mayor muy amable.",
-          "native": "He's a very kind elderly gentleman."
+          "native": "He's a very kind elderly gentleman.",
+          "en": "Es un señor mayor muy amable.",
+          "es": "He's a very kind elderly gentleman."
         },
         {
           "target": "Buscamos una opción más asequible.",
-          "native": "We're looking for a more affordable option."
+          "native": "We're looking for a more affordable option.",
+          "en": "Buscamos una opción más asequible.",
+          "es": "We're looking for a more affordable option."
         },
         {
           "target": "Soltó la noticia sin avisar.",
-          "native": "He blurted out the news without warning."
+          "native": "He blurted out the news without warning.",
+          "en": "Soltó la noticia sin avisar.",
+          "es": "He blurted out the news without warning."
         }
       ],
       "watch_out": "For people use 'mayor', not 'viejo'. 'Un hombre viejo' can land as an insult."
@@ -3278,15 +4130,21 @@
       "examples": [
         {
           "target": "Has dado en el clavo con esa observación.",
-          "native": "You've hit the nail on the head with that remark."
+          "native": "You've hit the nail on the head with that remark.",
+          "en": "Has dado en el clavo con esa observación.",
+          "es": "You've hit the nail on the head with that remark."
         },
         {
           "target": "No te vayas por las ramas, ve al grano.",
-          "native": "Don't beat about the bush, get to the point."
+          "native": "Don't beat about the bush, get to the point.",
+          "en": "No te vayas por las ramas, ve al grano.",
+          "es": "Don't beat about the bush, get to the point."
         },
         {
           "target": "Ese coche cuesta un ojo de la cara.",
-          "native": "That car costs an arm and a leg."
+          "native": "That car costs an arm and a leg.",
+          "en": "Ese coche cuesta un ojo de la cara.",
+          "es": "That car costs an arm and a leg."
         }
       ],
       "watch_out": "Only use an idiom you've heard in that setting. A colloquial one in a report reads worse than plain words."
@@ -3301,15 +4159,21 @@
       "examples": [
         {
           "target": "Me di cuenta de que llegaba tarde.",
-          "native": "I realised I was running late."
+          "native": "I realised I was running late.",
+          "en": "Me di cuenta de que llegaba tarde.",
+          "es": "I realised I was running late."
         },
         {
           "target": "¿Me echas una mano con esto?",
-          "native": "Can you give me a hand with this?"
+          "native": "Can you give me a hand with this?",
+          "en": "¿Me echas una mano con esto?",
+          "es": "Can you give me a hand with this?"
         },
         {
           "target": "Nos llevamos muy bien desde el principio.",
-          "native": "We got on very well from the start."
+          "native": "We got on very well from the start.",
+          "en": "Nos llevamos muy bien desde el principio.",
+          "es": "We got on very well from the start."
         }
       ],
       "watch_out": "'Darse cuenta' needs 'de': 'me di cuenta de que'. Without it, it's the classic queísmo error."
@@ -3324,15 +4188,21 @@
       "examples": [
         {
           "target": "No me acuerdo de su nombre.",
-          "native": "I can't remember his name."
+          "native": "I can't remember his name.",
+          "en": "No me acuerdo de su nombre.",
+          "es": "I can't remember his name."
         },
         {
           "target": "Todo depende de lo que decidan.",
-          "native": "It all depends on what they decide."
+          "native": "It all depends on what they decide.",
+          "en": "Todo depende de lo que decidan.",
+          "es": "It all depends on what they decide."
         },
         {
           "target": "Puedes contar conmigo.",
-          "native": "You can count on me."
+          "native": "You can count on me.",
+          "en": "Puedes contar conmigo.",
+          "es": "You can count on me."
         }
       ],
       "watch_out": "'Depender de', 'soñar con', 'consistir en'. Translating the English preposition gets all three wrong."
@@ -3347,15 +4217,21 @@
       "examples": [
         {
           "target": "Me di cuenta de que no era el momento.",
-          "native": "I realised it wasn't the moment."
+          "native": "I realised it wasn't the moment.",
+          "en": "Me di cuenta de que no era el momento.",
+          "es": "I realised it wasn't the moment."
         },
         {
           "target": "No es que no esté de acuerdo, sino que lo veo distinto.",
-          "native": "It's not that I disagree, it's that I see it differently."
+          "native": "It's not that I disagree, it's that I see it differently.",
+          "en": "No es que no esté de acuerdo, sino que lo veo distinto.",
+          "es": "It's not that I disagree, it's that I see it differently."
         },
         {
           "target": "Esa decisión la tomamos entre todos.",
-          "native": "That decision we made together."
+          "native": "That decision we made together.",
+          "en": "Esa decisión la tomamos entre todos.",
+          "es": "That decision we made together."
         }
       ],
       "watch_out": "At this level the errors are register, not grammar. One colloquial sentence ruins a formal text."
@@ -3370,15 +4246,21 @@
       "examples": [
         {
           "target": "Permítame matizar esa afirmación.",
-          "native": "Allow me to qualify that statement."
+          "native": "Allow me to qualify that statement.",
+          "en": "Permítame matizar esa afirmación.",
+          "es": "Allow me to qualify that statement."
         },
         {
           "target": "Quisiera trasladarle nuestra preocupación.",
-          "native": "I would like to convey our concern to you."
+          "native": "I would like to convey our concern to you.",
+          "en": "Quisiera trasladarle nuestra preocupación.",
+          "es": "I would like to convey our concern to you."
         },
         {
           "target": "Voy a resumirte lo que dice el informe.",
-          "native": "I'll summarise for you what the report says."
+          "native": "I'll summarise for you what the report says.",
+          "en": "Voy a resumirte lo que dice el informe.",
+          "es": "I'll summarise for you what the report says."
         }
       ],
       "watch_out": "Explaining stays inside the text; interpreting adds your reading. Passing one off as the other is distortion."
@@ -3393,15 +4275,21 @@
       "examples": [
         {
           "target": "Es decir, el proyecto no es viable a corto plazo.",
-          "native": "That is, the project isn't viable in the short term."
+          "native": "That is, the project isn't viable in the short term.",
+          "en": "Es decir, el proyecto no es viable a corto plazo.",
+          "es": "That is, the project isn't viable in the short term."
         },
         {
           "target": "Dicho de otro modo, faltan recursos.",
-          "native": "In other words, resources are lacking."
+          "native": "In other words, resources are lacking.",
+          "en": "Dicho de otro modo, faltan recursos.",
+          "es": "In other words, resources are lacking."
         },
         {
           "target": "Lo que quiere decir es que necesitamos más tiempo.",
-          "native": "What he means is that we need more time."
+          "native": "What he means is that we need more time.",
+          "en": "Lo que quiere decir es que necesitamos más tiempo.",
+          "es": "What he means is that we need more time."
         }
       ],
       "watch_out": "Keep the strength of the claim. If the source 'sugiere', your paraphrase cannot 'demuestra'."
@@ -3416,15 +4304,21 @@
       "examples": [
         {
           "target": "Tenés diez días hábiles, o sea sin contar sábados ni domingos.",
-          "native": "You have ten working days, meaning weekends don't count."
+          "native": "You have ten working days, meaning weekends don't count.",
+          "en": "Tenés diez días hábiles, o sea sin contar sábados ni domingos.",
+          "es": "You have ten working days, meaning weekends don't count."
         },
         {
           "target": "Lo que pide el papel es que demuestres dónde vivís.",
-          "native": "What the form is asking for is proof of where you live."
+          "native": "What the form is asking for is proof of where you live.",
+          "en": "Lo que pide el papel es que demuestres dónde vivís.",
+          "es": "What the form is asking for is proof of where you live."
         },
         {
           "target": "En resumen: llevá el DNI y una factura reciente.",
-          "native": "In short: bring your ID and a recent bill."
+          "native": "In short: bring your ID and a recent bill.",
+          "en": "En resumen: llevá el DNI y una factura reciente.",
+          "es": "In short: bring your ID and a recent bill."
         }
       ],
       "watch_out": "Simplify the language, never the content. A dropped deadline is a mediation failure, not a simplification."
@@ -3439,15 +4333,21 @@
       "examples": [
         {
           "target": "Ambos autores coinciden en que el método es válido.",
-          "native": "Both authors agree that the method is valid."
+          "native": "Both authors agree that the method is valid.",
+          "en": "Ambos autores coinciden en que el método es válido.",
+          "es": "Both authors agree that the method is valid."
         },
         {
           "target": "Frente a Pérez, López niega que exista tal relación.",
-          "native": "In contrast to Pérez, López denies such a relationship exists."
+          "native": "In contrast to Pérez, López denies such a relationship exists.",
+          "en": "Frente a Pérez, López niega que exista tal relación.",
+          "es": "In contrast to Pérez, López denies such a relationship exists."
         },
         {
           "target": "Queda por determinar si el efecto se mantiene.",
-          "native": "It remains to be determined whether the effect persists."
+          "native": "It remains to be determined whether the effect persists.",
+          "en": "Queda por determinar si el efecto se mantiene.",
+          "es": "It remains to be determined whether the effect persists."
         }
       ],
       "watch_out": "Organise by idea, not by author. 'X dice, Y dice, Z dice' is a list, not a synthesis."
