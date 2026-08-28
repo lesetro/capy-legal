@@ -1,0 +1,35 @@
+{
+  "pair": "en-es",
+  "version": 1,
+  "l1": "en",
+  "l2": "es",
+  "title": "English → Español",
+  "units": 30,
+  "generated": "2026-07-21",
+  "updated": "2026-08-05",
+  "modules": {
+    "grammar": "grammar.json",
+    "reading": "reading.json",
+    "vocabulary": "vocabulary.json",
+    "writing": "writing.json",
+    "reading_comprehension": "reading_comprehension.json",
+    "listening": "listening.json",
+    "phrases": "phrases.json"
+  },
+  "pending_modules": [
+    "conversation"
+  ],
+  "notes": "CONTENIDO COMPLETO (2026-08-05) salvo conversation.json — ver docs/en-es/PENDING.md para el detalle de cada etapa. vocabulary.json: generado automáticamente invirtiendo target/native de content-packs/es-en/vocabulary.json (mismos pares de palabras, unit/category intactos) — 1344 palabras, units 1-30. grammar.json/reading.json: 1500+1500, gramática española real diseñada por nivel CEFR (no traducción de la gramática inglesa). writing.json: 900 ejercicios; el campo 'explanation' de los ejercicios 'correction' está en inglés (idioma nativo del usuario) — ver el bug encontrado y corregido el 2026-08-05 en PENDING.md. reading_comprehension.json: 90 pasajes + 270 preguntas. listening.json: 95 audios (formato simplificado a solo {\"audios\":[...]}, sin el bloque 'levels' de es-en que ningún código lee); el audio es TTS en runtime, no hay archivos de audio reales. phrases.json: 180 frases con español rioplatense (voseo/che/slang) en el registro informal. conversation.json NO se puede reusar: ConversationScript.java (campos titleEs/botMessageEs/hintEs, Example.en/es) tiene el idioma hardcodeado en el nombre del campo, no es generico target/native — bloqueado hasta que se genericen esos campos (fuera de scope de contenido, es trabajo de código). Falta cablear el pair en-es en ContentStore/UI para que sea seleccionable end-to-end.",
+  "asset_filenames": {
+    "vocabulary": "vocabulary.json",
+    "grammar": "grammar_exercises.json",
+    "theory": "grammar_theory.json",
+    "teacher": "class_scripts.json",
+    "reading": "reading_data.json",
+    "reading_comprehension": "reading_comprehension_data.json",
+    "listening": "listening_data.json",
+    "writing": "writing_exam_data.json",
+    "phrases": "email_phrases.json",
+    "conversation": "conversation_scripts.json"
+  }
+}

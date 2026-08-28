@@ -1,0 +1,6195 @@
+{
+  "_comment": "Guiones de clase (docs/16). Cada dia es una secuencia de movimientos de profesor. 'en' es lo que dice en ingles, 'es' el andamiaje en castellano -- Scaffold decide si se dice segun el nivel, aca vienen siempre los dos. La curva de semanas esta en docs/16 §3.",
+  "scripts": [
+    {
+      "unit": 1,
+      "day": 1,
+      "role": "PRESENT",
+      "focus": "Presentarse y deletrear",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Hello! Welcome to your first class.",
+          "native": "¡Hola! Bienvenido a tu primera clase."
+        },
+        {
+          "kind": "SAY",
+          "target": "Today we are going to say hello, and say your name.",
+          "native": "Hoy vamos a saludar y a decir tu nombre."
+        },
+        {
+          "kind": "SAY",
+          "target": "Listen first. Don't worry if you don't understand everything.",
+          "native": "Primero escuchá. No importa si no entendés todo."
+        },
+        {
+          "kind": "SHOW",
+          "item": "hello",
+          "phonetic": "je-LOU",
+          "target": "This is hello.",
+          "native": "Esto es «hello»: hola."
+        },
+        {
+          "kind": "MODEL",
+          "item": "hello",
+          "phonetic": "je-LOU"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "hello",
+          "phonetic": "je-LOU",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "Hello.",
+          "native": "Fijate que la primera parte es floja: «he-LOU», con la fuerza en el final."
+        },
+        {
+          "kind": "SHOW",
+          "item": "hi",
+          "phonetic": "JAI",
+          "target": "And this is hi. Shorter.",
+          "native": "Y esto es «hi»: más corto, más informal."
+        },
+        {
+          "kind": "MODEL",
+          "item": "hi",
+          "phonetic": "JAI"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "hi",
+          "phonetic": "JAI",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "good morning",
+          "phonetic": "GUD-MOR-ning",
+          "target": "Good morning. Before twelve.",
+          "native": "«Good morning»: buenos días, antes del mediodía."
+        },
+        {
+          "kind": "MODEL",
+          "item": "good morning",
+          "phonetic": "GUD-MOR-ning"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "good morning",
+          "phonetic": "GUD-MOR-ning",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "my name is",
+          "phonetic": "MAI-NEIM-IS",
+          "target": "My name is. Then your name.",
+          "native": "«My name is»: me llamo. Después va tu nombre."
+        },
+        {
+          "kind": "MODEL",
+          "item": "my name is",
+          "phonetic": "MAI-NEIM-IS"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "my name is",
+          "phonetic": "MAI-NEIM-IS",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "Hello, my name is Capy.",
+          "native": "Escuchá la frase entera: «Hello, my name is Capy»."
+        },
+        {
+          "kind": "SHOW",
+          "item": "nice to meet you",
+          "phonetic": "NAIS-to-MIIT-IU",
+          "target": "Nice to meet you.",
+          "native": "«Nice to meet you»: mucho gusto."
+        },
+        {
+          "kind": "MODEL",
+          "item": "nice to meet you",
+          "phonetic": "NAIS-to-MIIT-IU"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "nice to meet you",
+          "phonetic": "NAIS-to-MIIT-IU",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "Now, let's talk about other people.",
+          "native": "Ahora vamos a hablar de otras personas."
+        },
+        {
+          "kind": "SHOW",
+          "item": "her name is",
+          "phonetic": "JER-NEIM-IS",
+          "target": "For a woman: her name is.",
+          "native": "Para una mujer: «her name is» — «ella se llama»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "her name is",
+          "phonetic": "JER-NEIM-IS"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "her name is",
+          "phonetic": "JER-NEIM-IS",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "his name is",
+          "phonetic": "JIS-NEIM-IS",
+          "target": "For a man: his name is.",
+          "native": "Para un hombre: «his name is» — «él se llama»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "his name is",
+          "phonetic": "JIS-NEIM-IS"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "his name is",
+          "phonetic": "JIS-NEIM-IS",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "That's it for today. Hello, my name is, nice to meet you.",
+          "native": "Eso es todo por hoy: saludar, decir tu nombre y responder al saludo. Mañana lo practicamos."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "hello",
+            "target": "Say hello to me.",
+            "native": "Saludame a mí, en inglés."
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "my name is",
+            "target": "Tell me your name.",
+            "native": "Decime tu nombre: «my name is» y tu nombre."
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "good morning",
+            "target": "Greet me in the morning.",
+            "native": "Saludame como si fuera de mañana."
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "nice to meet you",
+            "target": "We just met. What do you say?",
+            "native": "Recién nos conocemos. ¿Qué se dice?"
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "her name is",
+            "target": "Now introduce your mum.",
+            "native": "Presentá a tu mamá: «her name is» y su nombre."
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "his name is",
+            "target": "And your dad?",
+            "native": "¿Y tu papá? «his name is» y su nombre."
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "name is",
+            "target": "Do you have a pet? Introduce it.",
+            "native": "¿Tenés una mascota? Presentala: «his name is» o «her name is»."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "my name is",
+            "target": "Introduce yourself to me.",
+            "native": "Presentate entero: saludá y decí tu nombre."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "day": 3,
+      "role": "PRACTISE",
+      "focus": "Presentarse y deletrear",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Welcome back. Today we practise.",
+          "native": "Bienvenido de vuelta. Hoy practicamos lo de ayer."
+        },
+        {
+          "kind": "SAY",
+          "target": "I will say less in Spanish today. Listen.",
+          "native": "Hoy te voy a ayudar un poco menos. Escuchá."
+        },
+        {
+          "kind": "SHOW",
+          "item": "hello",
+          "phonetic": "je-LOU",
+          "target": "Hello.",
+          "native": "Hola."
+        },
+        {
+          "kind": "MODEL",
+          "item": "hello",
+          "phonetic": "je-LOU"
+        },
+        {
+          "kind": "SHOW",
+          "item": "my name is",
+          "phonetic": "MAI-NEIM-IS",
+          "target": "My name is.",
+          "native": "Me llamo."
+        },
+        {
+          "kind": "MODEL",
+          "item": "my name is",
+          "phonetic": "MAI-NEIM-IS"
+        },
+        {
+          "kind": "SAY",
+          "target": "Now something new: how are you?",
+          "native": "Ahora algo nuevo: preguntar cómo está."
+        },
+        {
+          "kind": "SHOW",
+          "item": "how are you?",
+          "phonetic": "JAU-AR-IU",
+          "target": "How are you?",
+          "native": "«How are you?»: ¿cómo estás?"
+        },
+        {
+          "kind": "MODEL",
+          "item": "how are you?",
+          "phonetic": "JAU-AR-IU"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "how are you?",
+          "phonetic": "JAU-AR-IU",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I'm fine, thank you",
+          "phonetic": "AIM-FAIN-ZANK-IU",
+          "target": "I'm fine, thank you.",
+          "native": "«I'm fine, thank you»: estoy bien, gracias."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I'm fine, thank you",
+          "phonetic": "AIM-FAIN-ZANK-IU"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "I'm fine, thank you",
+          "phonetic": "AIM-FAIN-ZANK-IU",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "and you?",
+          "phonetic": "and-IU",
+          "target": "And you? Ask back.",
+          "native": "«And you?»: ¿y vos? Se devuelve la pregunta."
+        },
+        {
+          "kind": "MODEL",
+          "item": "and you?",
+          "phonetic": "and-IU"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "and you?",
+          "phonetic": "and-IU",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "Hello. How are you? I'm fine, thank you. And you?",
+          "native": "Esa es una conversación entera. Cuatro frases y ya podés saludar a alguien."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Good. Tomorrow we put it all together.",
+          "native": "Muy bien. Mañana lo juntamos todo en una conversación."
+        }
+      ]
+    },
+    {
+      "unit": 1,
+      "day": 6,
+      "role": "COMBINE",
+      "focus": "Presentarse y deletrear",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Last day of the week. Today we put it together.",
+          "native": "Último día de la semana. Hoy juntamos todo."
+        },
+        {
+          "kind": "SAY",
+          "target": "Imagine you meet someone. Listen to the whole thing.",
+          "native": "Imaginate que conocés a alguien. Escuchá la conversación entera."
+        },
+        {
+          "kind": "SHOW",
+          "item": "Hello! My name is Capy.",
+          "target": "Hello! My name is Capy.",
+          "native": "Hola, me llamo Capy.",
+          "phonetic": "je-LOU, mai NEIM is KEI-pi"
+        },
+        {
+          "kind": "MODEL",
+          "item": "Hello! My name is Capy.",
+          "phonetic": "je-LOU, mai NEIM is KEI-pi"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "Hello! My name is Capy.",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "Nice to meet you. How are you?",
+          "phonetic": "NAIS-to-MIIT-IU-JAU-AR-IU",
+          "target": "Nice to meet you. How are you?",
+          "native": "Mucho gusto. ¿Cómo estás?"
+        },
+        {
+          "kind": "MODEL",
+          "item": "Nice to meet you. How are you?",
+          "phonetic": "NAIS-to-MIIT-IU-JAU-AR-IU"
+        },
+        {
+          "kind": "SHOW",
+          "item": "I'm fine, thank you. And you?",
+          "phonetic": "AIM-FAIN-ZANK-IU-and-IU",
+          "target": "I'm fine, thank you. And you?",
+          "native": "Estoy bien, gracias. ¿Y vos?"
+        },
+        {
+          "kind": "MODEL",
+          "item": "I'm fine, thank you. And you?",
+          "phonetic": "AIM-FAIN-ZANK-IU-and-IU"
+        },
+        {
+          "kind": "SAY",
+          "target": "One more: goodbye.",
+          "native": "Falta una: despedirse."
+        },
+        {
+          "kind": "SHOW",
+          "item": "goodbye",
+          "phonetic": "gud-BAI",
+          "target": "Goodbye. Or just bye.",
+          "native": "«Goodbye», o simplemente «bye»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "goodbye",
+          "phonetic": "gud-BAI"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "goodbye",
+          "phonetic": "gud-BAI",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "see you tomorrow",
+          "phonetic": "SII-IU-to-MO-rou",
+          "target": "See you tomorrow.",
+          "native": "«See you tomorrow»: hasta mañana."
+        },
+        {
+          "kind": "MODEL",
+          "item": "see you tomorrow",
+          "phonetic": "SII-IU-to-MO-rou"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "see you tomorrow",
+          "phonetic": "SII-IU-to-MO-rou",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can meet a person in English now. Next week: numbers.",
+          "native": "Con esto ya podés conocer a alguien en inglés de principio a fin. La semana que viene: los números."
+        }
+      ]
+    },
+    {
+      "unit": 1,
+      "day": 8,
+      "role": "PRESENT",
+      "focus": "Presentarse y deletrear",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "New week. Today, the alphabet.",
+          "native": "Semana nueva. Hoy, el alfabeto: las letras con nombre en inglés."
+        },
+        {
+          "kind": "SAY",
+          "target": "The letters have their own names. They are not the Spanish ones.",
+          "native": "Las letras se llaman distinto que en castellano. Eso es lo que hay que aprender."
+        },
+        {
+          "kind": "SHOW",
+          "item": "A B C D",
+          "phonetic": "a-BII-SII-DII",
+          "target": "A, B, C, D.",
+          "native": "Las primeras cuatro: «ei», «bi», «si», «di»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "A B C D",
+          "phonetic": "a-BII-SII-DII"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "A B C D",
+          "phonetic": "a-BII-SII-DII",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "E F G",
+          "phonetic": "II-EF-YII",
+          "target": "E, F, G.",
+          "native": "«i», «ef», «yi». Ojo con la E: suena «i»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "E F G",
+          "phonetic": "II-EF-YII"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "E F G",
+          "phonetic": "II-EF-YII",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "H I J",
+          "phonetic": "EICH-AI-YEI",
+          "target": "H, I, J.",
+          "native": "«eich», «ai», «yei». La I suena «ai»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "H I J",
+          "phonetic": "EICH-AI-YEI"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "H I J",
+          "phonetic": "EICH-AI-YEI",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "K L M N",
+          "phonetic": "KEI-EL-EM-EN",
+          "target": "K, L, M, N.",
+          "native": "«kei», «el», «em», «en»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "K L M N",
+          "phonetic": "KEI-EL-EM-EN"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "K L M N",
+          "phonetic": "KEI-EL-EM-EN",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K",
+            "L",
+            "M",
+            "N"
+          ],
+          "target": "Let's say them together, A to N.",
+          "native": "Digámoslas juntos, de la A a la N."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Half the alphabet. Tomorrow, the rest.",
+          "native": "Medio alfabeto. Mañana, el resto — y ahí ya podés deletrear tu nombre."
+        }
+      ]
+    },
+    {
+      "unit": 1,
+      "day": 11,
+      "role": "PRACTISE",
+      "focus": "Presentarse y deletrear",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today we finish the alphabet.",
+          "native": "Hoy terminamos el alfabeto."
+        },
+        {
+          "kind": "SHOW",
+          "item": "O P Q R",
+          "phonetic": "OU-PII-KIU-AR",
+          "target": "O, P, Q, R.",
+          "native": "«ou», «pi», «kiu», «ar»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "O P Q R",
+          "phonetic": "OU-PII-KIU-AR"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "O P Q R",
+          "phonetic": "OU-PII-KIU-AR",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "S T U V",
+          "phonetic": "ES-TII-IU-VII",
+          "target": "S, T, U, V.",
+          "native": "«es», «ti», «iu», «vi»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "S T U V",
+          "phonetic": "ES-TII-IU-VII"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "S T U V",
+          "phonetic": "ES-TII-IU-VII",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "W X Y Z",
+          "phonetic": "DA-bal-iu-EKS-UAI-ZII",
+          "target": "W, X, Y, Z.",
+          "native": "«dábliu», «eks», «uai», «zed». La W es la más larga de todas."
+        },
+        {
+          "kind": "MODEL",
+          "item": "W X Y Z",
+          "phonetic": "DA-bal-iu-EKS-UAI-ZII"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "W X Y Z",
+          "phonetic": "DA-bal-iu-EKS-UAI-ZII",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "O",
+            "P",
+            "Q",
+            "R",
+            "S",
+            "T",
+            "U",
+            "V",
+            "W",
+            "X",
+            "Y",
+            "Z"
+          ],
+          "target": "Together, O to Z.",
+          "native": "Juntos, de la O a la Z."
+        },
+        {
+          "kind": "SHOW",
+          "item": "to spell",
+          "phonetic": "to-SPEL",
+          "target": "To spell. Say the letters one by one.",
+          "native": "«To spell» es deletrear: decir las letras de a una."
+        },
+        {
+          "kind": "MODEL",
+          "item": "to spell",
+          "phonetic": "to-SPEL"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "to spell",
+          "phonetic": "to-SPEL",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You know the alphabet now. Tomorrow we use it.",
+          "native": "Ya sabés el alfabeto. Mañana lo usamos para algo real."
+        }
+      ]
+    },
+    {
+      "unit": 1,
+      "day": 13,
+      "role": "COMBINE",
+      "focus": "Presentarse y deletrear",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today we spell, and we go back to week one.",
+          "native": "Hoy deletreamos, y volvemos a lo de la primera semana."
+        },
+        {
+          "kind": "SHOW",
+          "item": "How do you spell it?",
+          "phonetic": "JAU-DUU-IU-SPEL-IT",
+          "target": "How do you spell it?",
+          "native": "«How do you spell it?»: ¿cómo se escribe? Es la pregunta más útil del idioma."
+        },
+        {
+          "kind": "MODEL",
+          "item": "How do you spell it?",
+          "phonetic": "JAU-DUU-IU-SPEL-IT"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "How do you spell it?",
+          "phonetic": "JAU-DUU-IU-SPEL-IT",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "My name is Ana. A-N-A.",
+          "phonetic": "MAI-NEIM-IS-O-na-O-na",
+          "target": "My name is Ana. A, N, A.",
+          "native": "Escuchá: se dice el nombre y después se deletrea, letra por letra."
+        },
+        {
+          "kind": "MODEL",
+          "item": "My name is Ana. A-N-A.",
+          "phonetic": "MAI-NEIM-IS-O-na-O-na"
+        },
+        {
+          "kind": "SHOW",
+          "item": "letter",
+          "phonetic": "LE-ter",
+          "target": "Letter.",
+          "native": "«Letter»: letra."
+        },
+        {
+          "kind": "MODEL",
+          "item": "letter",
+          "phonetic": "LE-ter"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "letter",
+          "phonetic": "LE-ter",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "capital letter",
+          "phonetic": "KA-pi-tal-LE-ter",
+          "target": "Capital letter. Big.",
+          "native": "«Capital letter»: mayúscula. Los nombres siempre empiezan con una."
+        },
+        {
+          "kind": "MODEL",
+          "item": "capital letter",
+          "phonetic": "KA-pi-tal-LE-ter"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "capital letter",
+          "phonetic": "KA-pi-tal-LE-ter",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "Hello. My name is Capy. How do you spell it? C-A-P-Y.",
+          "native": "Todo junto: saludo, nombre y deletreo. Eso es presentarse completo."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Three weeks. You can meet someone and spell your name.",
+          "native": "Tres semanas y ya podés presentarte y deletrear tu nombre. La semana que viene: los números grandes."
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "day": 1,
+      "role": "PRESENT",
+      "focus": "Los números",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "New week. Today we are going to count together.",
+          "native": "Semana nueva. Hoy vamos a contar juntos."
+        },
+        {
+          "kind": "SAY",
+          "target": "From one to ten. Listen and look.",
+          "native": "Del uno al diez. Escuchá y mirá."
+        },
+        {
+          "kind": "SHOW",
+          "item": "one",
+          "phonetic": "UON",
+          "target": "One.",
+          "native": "Uno. Se dice «uan», no «on»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "one",
+          "phonetic": "UON"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "one",
+          "phonetic": "UON",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "two",
+          "phonetic": "TUU",
+          "target": "Two.",
+          "native": "Dos."
+        },
+        {
+          "kind": "MODEL",
+          "item": "two",
+          "phonetic": "TUU"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "two",
+          "phonetic": "TUU",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "three",
+          "phonetic": "ZRII",
+          "target": "Three.",
+          "native": "Tres. La lengua va entre los dientes: «zri»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "three",
+          "phonetic": "ZRII"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "three",
+          "phonetic": "ZRII",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "four",
+          "phonetic": "FOR",
+          "target": "Four.",
+          "native": "Cuatro."
+        },
+        {
+          "kind": "MODEL",
+          "item": "four",
+          "phonetic": "FOR"
+        },
+        {
+          "kind": "SHOW",
+          "item": "five",
+          "phonetic": "FAIV",
+          "target": "Five.",
+          "native": "Cinco."
+        },
+        {
+          "kind": "MODEL",
+          "item": "five",
+          "phonetic": "FAIV"
+        },
+        {
+          "kind": "SHOW",
+          "item": "six",
+          "phonetic": "SIKS",
+          "target": "Six.",
+          "native": "Seis."
+        },
+        {
+          "kind": "MODEL",
+          "item": "six",
+          "phonetic": "SIKS"
+        },
+        {
+          "kind": "SHOW",
+          "item": "seven",
+          "phonetic": "SE-ven",
+          "target": "Seven.",
+          "native": "Siete."
+        },
+        {
+          "kind": "MODEL",
+          "item": "seven",
+          "phonetic": "SE-ven"
+        },
+        {
+          "kind": "SHOW",
+          "item": "eight",
+          "phonetic": "EIT",
+          "target": "Eight.",
+          "native": "Ocho. Se dice «eit»: la g y la h no suenan."
+        },
+        {
+          "kind": "MODEL",
+          "item": "eight",
+          "phonetic": "EIT"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "eight",
+          "phonetic": "EIT",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "nine",
+          "phonetic": "NAIN",
+          "target": "Nine.",
+          "native": "Nueve."
+        },
+        {
+          "kind": "MODEL",
+          "item": "nine",
+          "phonetic": "NAIN"
+        },
+        {
+          "kind": "SHOW",
+          "item": "ten",
+          "phonetic": "TEN",
+          "target": "Ten.",
+          "native": "Diez."
+        },
+        {
+          "kind": "MODEL",
+          "item": "ten",
+          "phonetic": "TEN"
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "one",
+            "two",
+            "three",
+            "four",
+            "five",
+            "six",
+            "seven",
+            "eight",
+            "nine",
+            "ten"
+          ],
+          "target": "Now let's count together. One… two… three…",
+          "native": "Ahora contemos juntos. Yo digo el número y vos lo decís conmigo."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can count to ten. Tomorrow, up to twenty.",
+          "native": "Ya contás hasta diez. Mañana llegamos hasta veinte."
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "day": 3,
+      "role": "PRACTISE",
+      "focus": "Los números",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today: from eleven to twenty.",
+          "native": "Hoy: del once al veinte."
+        },
+        {
+          "kind": "SAY",
+          "target": "Eleven and twelve are strange. The rest are easy.",
+          "native": "El once y el doce son raros. Los demás siguen un patrón y son fáciles."
+        },
+        {
+          "kind": "SHOW",
+          "item": "eleven",
+          "phonetic": "e-LE-ven",
+          "target": "Eleven.",
+          "native": "Once."
+        },
+        {
+          "kind": "MODEL",
+          "item": "eleven",
+          "phonetic": "e-LE-ven"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "eleven",
+          "phonetic": "e-LE-ven",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "twelve",
+          "phonetic": "TUELV",
+          "target": "Twelve.",
+          "native": "Doce."
+        },
+        {
+          "kind": "MODEL",
+          "item": "twelve",
+          "phonetic": "TUELV"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "twelve",
+          "phonetic": "TUELV",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "Now the pattern. Three, thirteen. Four, fourteen.",
+          "native": "Acá empieza el patrón: se le agrega «-teen» al número. Three, thirteen. Four, fourteen."
+        },
+        {
+          "kind": "SHOW",
+          "item": "thirteen",
+          "phonetic": "zer-TIIN",
+          "target": "Thirteen.",
+          "native": "Trece."
+        },
+        {
+          "kind": "MODEL",
+          "item": "thirteen",
+          "phonetic": "zer-TIIN"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "thirteen",
+          "phonetic": "zer-TIIN",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "fourteen",
+          "phonetic": "for-TIIN",
+          "target": "Fourteen.",
+          "native": "Catorce."
+        },
+        {
+          "kind": "MODEL",
+          "item": "fourteen",
+          "phonetic": "for-TIIN"
+        },
+        {
+          "kind": "SHOW",
+          "item": "fifteen",
+          "phonetic": "fif-TIIN",
+          "target": "Fifteen.",
+          "native": "Quince. Ojo: no es «fiveteen»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "fifteen",
+          "phonetic": "fif-TIIN"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "fifteen",
+          "phonetic": "fif-TIIN",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "sixteen",
+          "phonetic": "siks-TIIN",
+          "target": "Sixteen.",
+          "native": "Dieciséis."
+        },
+        {
+          "kind": "MODEL",
+          "item": "sixteen",
+          "phonetic": "siks-TIIN"
+        },
+        {
+          "kind": "SHOW",
+          "item": "seventeen",
+          "phonetic": "se-ven-TIIN",
+          "target": "Seventeen.",
+          "native": "Diecisiete."
+        },
+        {
+          "kind": "MODEL",
+          "item": "seventeen",
+          "phonetic": "se-ven-TIIN"
+        },
+        {
+          "kind": "SHOW",
+          "item": "eighteen",
+          "phonetic": "ei-TIIN",
+          "target": "Eighteen.",
+          "native": "Dieciocho."
+        },
+        {
+          "kind": "MODEL",
+          "item": "eighteen",
+          "phonetic": "ei-TIIN"
+        },
+        {
+          "kind": "SHOW",
+          "item": "nineteen",
+          "phonetic": "nain-TIIN",
+          "target": "Nineteen.",
+          "native": "Diecinueve."
+        },
+        {
+          "kind": "MODEL",
+          "item": "nineteen",
+          "phonetic": "nain-TIIN"
+        },
+        {
+          "kind": "SHOW",
+          "item": "twenty",
+          "phonetic": "TUEN-ti",
+          "target": "Twenty.",
+          "native": "Veinte. Este rompe el patrón otra vez."
+        },
+        {
+          "kind": "MODEL",
+          "item": "twenty",
+          "phonetic": "TUEN-ti"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "twenty",
+          "phonetic": "TUEN-ti",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "eleven",
+            "twelve",
+            "thirteen",
+            "fourteen",
+            "fifteen",
+            "sixteen",
+            "seventeen",
+            "eighteen",
+            "nineteen",
+            "twenty"
+          ],
+          "target": "Let's count together, eleven to twenty.",
+          "native": "Contemos juntos del once al veinte."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Eleven to twenty. Tomorrow we use them.",
+          "native": "Del once al veinte. Mañana los usamos para algo de verdad."
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "day": 6,
+      "role": "COMBINE",
+      "focus": "Los números",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today we mix the numbers with last week.",
+          "native": "Hoy mezclamos los números con lo de la semana pasada."
+        },
+        {
+          "kind": "SAY",
+          "target": "Numbers are for saying your age and your phone number.",
+          "native": "Los números sirven para decir tu edad y tu teléfono. Eso vamos a armar."
+        },
+        {
+          "kind": "SHOW",
+          "item": "how old are you?",
+          "phonetic": "JAU-OULD-AR-IU",
+          "target": "How old are you?",
+          "native": "«How old are you?»: ¿cuántos años tenés?"
+        },
+        {
+          "kind": "MODEL",
+          "item": "how old are you?",
+          "phonetic": "JAU-OULD-AR-IU"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "how old are you?",
+          "phonetic": "JAU-OULD-AR-IU",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I am twelve years old",
+          "phonetic": "AI-AM-TUELV-IIRS-OULD",
+          "target": "I am twelve years old.",
+          "native": "«I am twelve years old»: tengo doce años. Fijate que en inglés se «es» la edad, no se «tiene»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I am twelve years old",
+          "phonetic": "AI-AM-TUELV-IIRS-OULD"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "I am twelve years old",
+          "phonetic": "AI-AM-TUELV-IIRS-OULD",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "Now everything together. Listen.",
+          "native": "Ahora todo junto, con los saludos de la semana pasada. Escuchá."
+        },
+        {
+          "kind": "SHOW",
+          "item": "Hello! My name is Capy. I am seven years old.",
+          "target": "Hello! My name is Capy. I am seven years old.",
+          "native": "Hola, me llamo Capy. Tengo siete años.",
+          "phonetic": "je-LOU, mai NEIM is KEI-pi. ai am SE-ven YIRS ould"
+        },
+        {
+          "kind": "MODEL",
+          "item": "Hello! My name is Capy. I am seven years old.",
+          "phonetic": "je-LOU, mai NEIM is KEI-pi. ai am SE-ven YIRS ould"
+        },
+        {
+          "kind": "SHOW",
+          "item": "Nice to meet you. How old are you?",
+          "phonetic": "NAIS-to-MIIT-IU-JAU-OULD-AR-IU",
+          "target": "Nice to meet you. How old are you?",
+          "native": "Mucho gusto. ¿Cuántos años tenés?"
+        },
+        {
+          "kind": "MODEL",
+          "item": "Nice to meet you. How old are you?",
+          "phonetic": "NAIS-to-MIIT-IU-JAU-OULD-AR-IU"
+        },
+        {
+          "kind": "SAY",
+          "target": "Phone numbers: you say the digits one by one.",
+          "native": "Para el teléfono no se dicen los miles: se dice dígito por dígito."
+        },
+        {
+          "kind": "SHOW",
+          "item": "four two one five",
+          "phonetic": "FOR-TUU-UON-FAIV",
+          "target": "Four, two, one, five.",
+          "native": "El 4215 se dice «four two one five»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "four two one five",
+          "phonetic": "FOR-TUU-UON-FAIV"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "four two one five",
+          "phonetic": "FOR-TUU-UON-FAIV",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Two weeks, and you can meet a person and say your age. Next week: the alphabet.",
+          "native": "Dos semanas y ya podés presentarte y decir tu edad. La semana que viene: el alfabeto, para deletrear tu nombre."
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "day": 8,
+      "role": "PRESENT",
+      "focus": "Los números",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "This week, big numbers.",
+          "native": "Esta semana, los números grandes."
+        },
+        {
+          "kind": "SAY",
+          "target": "The tens are easy: they all end the same way.",
+          "native": "Las decenas son fáciles: todas terminan igual, en «-ti»."
+        },
+        {
+          "kind": "SHOW",
+          "item": "thirty",
+          "phonetic": "ZER-dii",
+          "target": "Thirty.",
+          "native": "Treinta."
+        },
+        {
+          "kind": "MODEL",
+          "item": "thirty",
+          "phonetic": "ZER-dii"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "thirty",
+          "phonetic": "ZER-dii",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "forty",
+          "phonetic": "FOR-ti",
+          "target": "Forty. No U.",
+          "native": "Cuarenta. Ojo: se escribe sin la U de «four»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "forty",
+          "phonetic": "FOR-ti"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "forty",
+          "phonetic": "FOR-ti",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "fifty",
+          "phonetic": "FIF-ti",
+          "target": "Fifty.",
+          "native": "Cincuenta."
+        },
+        {
+          "kind": "MODEL",
+          "item": "fifty",
+          "phonetic": "FIF-ti"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "fifty",
+          "phonetic": "FIF-ti",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "sixty",
+          "phonetic": "SIKS-ti",
+          "target": "Sixty.",
+          "native": "Sesenta."
+        },
+        {
+          "kind": "MODEL",
+          "item": "sixty",
+          "phonetic": "SIKS-ti"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "sixty",
+          "phonetic": "SIKS-ti",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "seventy",
+          "phonetic": "SE-ven-ti",
+          "target": "Seventy.",
+          "native": "Setenta."
+        },
+        {
+          "kind": "MODEL",
+          "item": "seventy",
+          "phonetic": "SE-ven-ti"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "seventy",
+          "phonetic": "SE-ven-ti",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "eighty",
+          "phonetic": "EI-ti",
+          "target": "Eighty.",
+          "native": "Ochenta."
+        },
+        {
+          "kind": "MODEL",
+          "item": "eighty",
+          "phonetic": "EI-ti"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "eighty",
+          "phonetic": "EI-ti",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "ninety",
+          "phonetic": "NAIN-ti",
+          "target": "Ninety.",
+          "native": "Noventa."
+        },
+        {
+          "kind": "MODEL",
+          "item": "ninety",
+          "phonetic": "NAIN-ti"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "ninety",
+          "phonetic": "NAIN-ti",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "twenty",
+            "thirty",
+            "forty",
+            "fifty",
+            "sixty",
+            "seventy",
+            "eighty",
+            "ninety"
+          ],
+          "target": "The tens, together.",
+          "native": "Las decenas, juntos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "The tens are done. Tomorrow, hundreds.",
+          "native": "Listas las decenas. Mañana, los cientos y los miles."
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "day": 11,
+      "role": "PRACTISE",
+      "focus": "Los números",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today: hundreds and thousands.",
+          "native": "Hoy: cientos y miles."
+        },
+        {
+          "kind": "SHOW",
+          "item": "a hundred",
+          "phonetic": "a-JAN-dred",
+          "target": "A hundred.",
+          "native": "Cien. En inglés se dice «un cien»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "a hundred",
+          "phonetic": "a-JAN-dred"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "a hundred",
+          "phonetic": "a-JAN-dred",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "a thousand",
+          "phonetic": "a-ZAU-sand",
+          "target": "A thousand.",
+          "native": "Mil. Otra vez con el «un» adelante."
+        },
+        {
+          "kind": "MODEL",
+          "item": "a thousand",
+          "phonetic": "a-ZAU-sand"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "a thousand",
+          "phonetic": "a-ZAU-sand",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "twenty-five",
+          "phonetic": "TUEN-ti-faiv",
+          "target": "Twenty-five. Twenty, and five.",
+          "native": "Los del medio se arman pegando: veinte y cinco, «twenty-five»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "twenty-five",
+          "phonetic": "TUEN-ti-faiv"
+        },
+        {
+          "kind": "SHOW",
+          "item": "sixty-three",
+          "target": "Sixty-three.",
+          "native": "Sesenta y tres. Siempre la decena primero, igual que en castellano.",
+          "phonetic": "SIKS-ti-ZRII"
+        },
+        {
+          "kind": "MODEL",
+          "item": "sixty-three",
+          "phonetic": "SIKS-ti-ZRII"
+        },
+        {
+          "kind": "SHOW",
+          "item": "two hundred and fifty",
+          "phonetic": "TUU-JAN-dred-and-FIF-ti",
+          "target": "Two hundred and fifty.",
+          "native": "Doscientos cincuenta. Fijate el «and» en el medio: en inglés británico va."
+        },
+        {
+          "kind": "MODEL",
+          "item": "two hundred and fifty",
+          "phonetic": "TUU-JAN-dred-and-FIF-ti"
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can say any number now. Tomorrow, prices and years.",
+          "native": "Ya podés decir cualquier número. Mañana los usamos para precios y años."
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "day": 13,
+      "role": "COMBINE",
+      "focus": "Los números",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today we use the numbers for real things.",
+          "native": "Hoy usamos los números para cosas de verdad: precios y años."
+        },
+        {
+          "kind": "SHOW",
+          "item": "How much is it?",
+          "phonetic": "JAU-MACH-IS-IT",
+          "target": "How much is it?",
+          "native": "«How much is it?»: ¿cuánto cuesta? La vas a usar en cada viaje."
+        },
+        {
+          "kind": "MODEL",
+          "item": "How much is it?",
+          "phonetic": "JAU-MACH-IS-IT"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "How much is it?",
+          "phonetic": "JAU-MACH-IS-IT",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "It's fifteen dollars.",
+          "phonetic": "ITS-fif-TIIN-DO-lars",
+          "target": "It's fifteen dollars.",
+          "native": "«Cuesta quince dólares»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "It's fifteen dollars.",
+          "phonetic": "ITS-fif-TIIN-DO-lars"
+        },
+        {
+          "kind": "SHOW",
+          "item": "nineteen ninety-nine",
+          "target": "Nineteen ninety-nine.",
+          "native": "Los años se dicen de a dos: 1999 es «nineteen ninety-nine», no «mil novecientos».",
+          "phonetic": "nain-TIIN NAIN-ti-NAIN"
+        },
+        {
+          "kind": "MODEL",
+          "item": "nineteen ninety-nine",
+          "phonetic": "nain-TIIN NAIN-ti-NAIN"
+        },
+        {
+          "kind": "SHOW",
+          "item": "two thousand and five",
+          "phonetic": "TUU-ZAU-sand-and-FAIV",
+          "target": "Two thousand and five.",
+          "native": "Pero el 2005 sí: «two thousand and five»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "two thousand and five",
+          "phonetic": "TUU-ZAU-sand-and-FAIV"
+        },
+        {
+          "kind": "SAY",
+          "target": "How old are you? I am thirty years old.",
+          "native": "Y volvemos a la semana dos: ahora podés decir cualquier edad, no solo hasta veinte."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Numbers are done. Next week: days, months and the time.",
+          "native": "Los números están. La semana que viene: días, meses y la hora."
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "day": 1,
+      "role": "PRESENT",
+      "focus": "Días, meses y la hora",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "This week: days, months and time.",
+          "native": "Esta semana: días, meses y la hora."
+        },
+        {
+          "kind": "SAY",
+          "target": "Careful: in English the days start with a capital letter.",
+          "native": "Ojo con algo: en inglés los días van con mayúscula. En castellano no."
+        },
+        {
+          "kind": "SHOW",
+          "item": "Monday",
+          "phonetic": "MON-di",
+          "target": "Monday.",
+          "native": "Lunes."
+        },
+        {
+          "kind": "MODEL",
+          "item": "Monday",
+          "phonetic": "MON-di"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "Monday",
+          "phonetic": "MON-di",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "Tuesday",
+          "phonetic": "TUUS-di",
+          "target": "Tuesday.",
+          "native": "Martes."
+        },
+        {
+          "kind": "MODEL",
+          "item": "Tuesday",
+          "phonetic": "TUUS-di"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "Tuesday",
+          "phonetic": "TUUS-di",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "Wednesday",
+          "phonetic": "UENS-di",
+          "target": "Wednesday. The D is silent.",
+          "native": "Miércoles. Se escribe con una D que no suena: «uensdei»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "Wednesday",
+          "phonetic": "UENS-di"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "Wednesday",
+          "phonetic": "UENS-di",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "Thursday",
+          "phonetic": "ZERS-dei",
+          "target": "Thursday.",
+          "native": "Jueves."
+        },
+        {
+          "kind": "MODEL",
+          "item": "Thursday",
+          "phonetic": "ZERS-dei"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "Thursday",
+          "phonetic": "ZERS-dei",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "Friday",
+          "phonetic": "FRAI-di",
+          "target": "Friday.",
+          "native": "Viernes."
+        },
+        {
+          "kind": "MODEL",
+          "item": "Friday",
+          "phonetic": "FRAI-di"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "Friday",
+          "phonetic": "FRAI-di",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "Saturday",
+          "phonetic": "SA-tur-di",
+          "target": "Saturday.",
+          "native": "Sábado."
+        },
+        {
+          "kind": "MODEL",
+          "item": "Saturday",
+          "phonetic": "SA-tur-di"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "Saturday",
+          "phonetic": "SA-tur-di",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "Sunday",
+          "phonetic": "SAN-dei",
+          "target": "Sunday.",
+          "native": "Domingo."
+        },
+        {
+          "kind": "MODEL",
+          "item": "Sunday",
+          "phonetic": "SAN-dei"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "Sunday",
+          "phonetic": "SAN-dei",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "target": "The week, together.",
+          "native": "La semana entera, juntos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Seven days. Tomorrow, the months.",
+          "native": "Los siete días. Mañana, los meses."
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "day": 7,
+      "role": "PRACTISE",
+      "focus": "Días, meses y la hora",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today: months, and how to say the time.",
+          "native": "Hoy: los meses y cómo decir la hora."
+        },
+        {
+          "kind": "SHOW",
+          "item": "January",
+          "phonetic": "YAN-iu-e-ri",
+          "target": "January.",
+          "native": "Enero. También con mayúscula."
+        },
+        {
+          "kind": "MODEL",
+          "item": "January",
+          "phonetic": "YAN-iu-e-ri"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "January",
+          "phonetic": "YAN-iu-e-ri",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "February",
+          "phonetic": "FEB-iu-ue-ri",
+          "target": "February.",
+          "native": "Febrero."
+        },
+        {
+          "kind": "MODEL",
+          "item": "February",
+          "phonetic": "FEB-iu-ue-ri"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "February",
+          "phonetic": "FEB-iu-ue-ri",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "July",
+          "phonetic": "yuu-LAI",
+          "target": "July.",
+          "native": "Julio. La fuerza va al final: «yu-LAI»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "July",
+          "phonetic": "yuu-LAI"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "July",
+          "phonetic": "yuu-LAI",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "December",
+          "phonetic": "de-SEM-ber",
+          "target": "December.",
+          "native": "Diciembre."
+        },
+        {
+          "kind": "MODEL",
+          "item": "December",
+          "phonetic": "de-SEM-ber"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "December",
+          "phonetic": "de-SEM-ber",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+          ],
+          "target": "All twelve, together.",
+          "native": "Los doce, juntos. Seguime."
+        },
+        {
+          "kind": "SHOW",
+          "item": "o'clock",
+          "phonetic": "o-KLOK",
+          "target": "O'clock. On the hour.",
+          "native": "«O'clock» es «en punto». Solo se usa cuando no hay minutos."
+        },
+        {
+          "kind": "MODEL",
+          "item": "o'clock",
+          "phonetic": "o-KLOK"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "o'clock",
+          "phonetic": "o-KLOK",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "half past",
+          "phonetic": "JAF-PAST",
+          "target": "Half past. Thirty minutes.",
+          "native": "«Half past» es «y media»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "half past",
+          "phonetic": "JAF-PAST"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "half past",
+          "phonetic": "JAF-PAST",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "It's ten o'clock.",
+          "phonetic": "ITS-TEN-o-KLOK",
+          "target": "It's ten o'clock.",
+          "native": "Son las diez en punto."
+        },
+        {
+          "kind": "MODEL",
+          "item": "It's ten o'clock.",
+          "phonetic": "ITS-TEN-o-KLOK"
+        },
+        {
+          "kind": "RECAP",
+          "target": "Days, months and the hour. Tomorrow we put them together.",
+          "native": "Días, meses y la hora. Mañana los juntamos con todo lo anterior."
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "day": 13,
+      "role": "COMBINE",
+      "focus": "Días, meses y la hora",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today, everything together: your class, your birthday.",
+          "native": "Hoy juntamos todo: tu clase y tu cumpleaños."
+        },
+        {
+          "kind": "SHOW",
+          "item": "today",
+          "phonetic": "to-DEI",
+          "target": "Today.",
+          "native": "Hoy."
+        },
+        {
+          "kind": "MODEL",
+          "item": "today",
+          "phonetic": "to-DEI"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "today",
+          "phonetic": "to-DEI",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "tomorrow",
+          "phonetic": "to-MO-rou",
+          "target": "Tomorrow.",
+          "native": "Mañana."
+        },
+        {
+          "kind": "MODEL",
+          "item": "tomorrow",
+          "phonetic": "to-MO-rou"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "tomorrow",
+          "phonetic": "to-MO-rou",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "My class is on Monday at ten o'clock.",
+          "phonetic": "MAI-KLAS-IS-on-MON-di-at-TEN-o-KLOK",
+          "target": "My class is on Monday at ten o'clock.",
+          "native": "«Mi clase es el lunes a las diez». Fijate: «on» para el día, «at» para la hora."
+        },
+        {
+          "kind": "MODEL",
+          "item": "My class is on Monday at ten o'clock.",
+          "phonetic": "MAI-KLAS-IS-on-MON-di-at-TEN-o-KLOK"
+        },
+        {
+          "kind": "SHOW",
+          "item": "My birthday is in July.",
+          "phonetic": "MAI-BERZ-dei-IS-in-yuu-LAI",
+          "target": "My birthday is in July.",
+          "native": "«Mi cumpleaños es en julio». Para el mes va «in»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "My birthday is in July.",
+          "phonetic": "MAI-BERZ-dei-IS-in-yuu-LAI"
+        },
+        {
+          "kind": "SAY",
+          "target": "On Monday. At ten. In July. Three little words, three different jobs.",
+          "native": "Tres preposiciones distintas: «on» el día, «at» la hora, «in» el mes. Es de lo primero que se corrige solo con el uso."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Five weeks. Next week, the verb to be.",
+          "native": "Cinco semanas. La que viene: el verbo «to be», que es el que sostiene todo lo demás."
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "day": 1,
+      "role": "PRESENT",
+      "focus": "El verbo to be",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "This week, the most important verb: to be.",
+          "native": "Esta semana, el verbo más importante del inglés: «to be», que es ser y estar a la vez."
+        },
+        {
+          "kind": "SAY",
+          "target": "You already used it. I am fine. I am twelve years old.",
+          "native": "Ya lo venís usando sin saberlo: «I am fine», «I am twelve years old»."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I am",
+          "phonetic": "AI-AM",
+          "target": "I am.",
+          "native": "Yo soy, o yo estoy. Las dos cosas."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I am",
+          "phonetic": "AI-AM"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "I am",
+          "phonetic": "AI-AM",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "you are",
+          "phonetic": "IU-AR",
+          "target": "You are.",
+          "native": "Vos sos, vos estás."
+        },
+        {
+          "kind": "MODEL",
+          "item": "you are",
+          "phonetic": "IU-AR"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "you are",
+          "phonetic": "IU-AR",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "he is",
+          "phonetic": "JII-IS",
+          "target": "He is.",
+          "native": "Él es."
+        },
+        {
+          "kind": "MODEL",
+          "item": "he is",
+          "phonetic": "JII-IS"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "he is",
+          "phonetic": "JII-IS",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "she is",
+          "phonetic": "SHII-IS",
+          "target": "She is.",
+          "native": "Ella es."
+        },
+        {
+          "kind": "MODEL",
+          "item": "she is",
+          "phonetic": "SHII-IS"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "she is",
+          "phonetic": "SHII-IS",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "we are",
+          "phonetic": "UII-AR",
+          "target": "We are.",
+          "native": "Nosotros somos."
+        },
+        {
+          "kind": "MODEL",
+          "item": "we are",
+          "phonetic": "UII-AR"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "we are",
+          "phonetic": "UII-AR",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "they are",
+          "phonetic": "DEI-AR",
+          "target": "They are.",
+          "native": "Ellos son."
+        },
+        {
+          "kind": "MODEL",
+          "item": "they are",
+          "phonetic": "DEI-AR"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "they are",
+          "phonetic": "DEI-AR",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Am, is, are. That's the whole verb.",
+          "native": "«Am», «is», «are». Todo el verbo son esas tres palabras — por eso conviene aprenderlo bien de una."
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "day": 7,
+      "role": "PRACTISE",
+      "focus": "El verbo to be",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today we use to be with nationalities and jobs.",
+          "native": "Hoy usamos «to be» para decir de dónde sos y a qué te dedicás."
+        },
+        {
+          "kind": "SHOW",
+          "item": "American",
+          "phonetic": "a-ME-ri-kan",
+          "target": "American.",
+          "native": "Estadounidense. También con mayúscula."
+        },
+        {
+          "kind": "MODEL",
+          "item": "American",
+          "phonetic": "a-ME-ri-kan"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "American",
+          "phonetic": "a-ME-ri-kan",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "Italian",
+          "phonetic": "i-TAL-iin",
+          "target": "Italian.",
+          "native": "Italiano."
+        },
+        {
+          "kind": "MODEL",
+          "item": "Italian",
+          "phonetic": "i-TAL-iin"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "Italian",
+          "phonetic": "i-TAL-iin",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "doctor",
+          "phonetic": "DOK-tor",
+          "target": "Doctor.",
+          "native": "Médico."
+        },
+        {
+          "kind": "MODEL",
+          "item": "doctor",
+          "phonetic": "DOK-tor"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "doctor",
+          "phonetic": "DOK-tor",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "teacher",
+          "phonetic": "TII-cher",
+          "target": "Teacher.",
+          "native": "Maestro o profesor."
+        },
+        {
+          "kind": "MODEL",
+          "item": "teacher",
+          "phonetic": "TII-cher"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "teacher",
+          "phonetic": "TII-cher",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I am a teacher.",
+          "phonetic": "AI-AM-a-TII-cher",
+          "target": "I am a teacher.",
+          "native": "«Soy profesor». Ojo con el «a»: en inglés la profesión lleva artículo y en castellano no."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I am a teacher.",
+          "phonetic": "AI-AM-a-TII-cher"
+        },
+        {
+          "kind": "SHOW",
+          "item": "She is Italian.",
+          "phonetic": "SHII-IS-i-TAL-iin",
+          "target": "She is Italian.",
+          "native": "«Ella es italiana». Acá no va «a», porque la nacionalidad no lo lleva."
+        },
+        {
+          "kind": "MODEL",
+          "item": "She is Italian.",
+          "phonetic": "SHII-IS-i-TAL-iin"
+        },
+        {
+          "kind": "RECAP",
+          "target": "A teacher, but Italian. One takes 'a', the other doesn't.",
+          "native": "«A teacher» pero «Italian». La profesión lleva artículo, la nacionalidad no. Es el error más común y ya lo tenés visto."
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "day": 13,
+      "role": "COMBINE",
+      "focus": "El verbo to be",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today: to be with everything from before.",
+          "native": "Hoy combinamos «to be» con todo lo anterior."
+        },
+        {
+          "kind": "SHOW",
+          "item": "Where are you from?",
+          "phonetic": "UER-AR-IU-from",
+          "target": "Where are you from?",
+          "native": "«Where are you from?»: ¿de dónde sos?"
+        },
+        {
+          "kind": "MODEL",
+          "item": "Where are you from?",
+          "phonetic": "UER-AR-IU-from"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "Where are you from?",
+          "phonetic": "UER-AR-IU-from",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I am from Argentina",
+          "phonetic": "AI-AM-from-ar-yen-TII-na",
+          "target": "I am from Argentina.",
+          "native": "«Soy de Argentina»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I am from Argentina",
+          "phonetic": "AI-AM-from-ar-yen-TII-na"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "I am from Argentina",
+          "phonetic": "AI-AM-from-ar-yen-TII-na",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "Hello. My name is Ana. I am from Mexico. I am a doctor.",
+          "phonetic": "je-LOU-MAI-NEIM-IS-O-na-AI-AM-from-MEK-si-kou-AI-AM-a-DOK-tor",
+          "target": "Hello. My name is Ana. I am from Mexico. I am a doctor.",
+          "native": "Una presentación entera: saludo, nombre, de dónde, y a qué se dedica."
+        },
+        {
+          "kind": "MODEL",
+          "item": "Hello. My name is Ana. I am from Mexico. I am a doctor.",
+          "phonetic": "je-LOU-MAI-NEIM-IS-O-na-AI-AM-from-MEK-si-kou-AI-AM-a-DOK-tor"
+        },
+        {
+          "kind": "SAY",
+          "target": "Six weeks ago you could not say hello. Now you can do that.",
+          "native": "Hace seis semanas no sabías decir «hola». Eso que acabás de escuchar ya lo podés decir vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Next week: your family.",
+          "native": "La semana que viene: tu familia, para hablar de otros y no solo de vos."
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "day": 1,
+      "role": "PRESENT",
+      "focus": "Familia y oraciones propias",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "This week, your family.",
+          "native": "Esta semana, la familia."
+        },
+        {
+          "kind": "SHOW",
+          "item": "family",
+          "phonetic": "FA-mi-li",
+          "target": "Family.",
+          "native": "Familia."
+        },
+        {
+          "kind": "MODEL",
+          "item": "family",
+          "phonetic": "FA-mi-li"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "family",
+          "phonetic": "FA-mi-li",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "mother",
+          "phonetic": "MO-der",
+          "target": "Mother. Mum.",
+          "native": "Madre. En el día a día se dice «mum»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "mother",
+          "phonetic": "MO-der"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "mother",
+          "phonetic": "MO-der",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "father",
+          "phonetic": "FO-der",
+          "target": "Father. Dad.",
+          "native": "Padre. En el día a día, «dad»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "father",
+          "phonetic": "FO-der"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "father",
+          "phonetic": "FO-der",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "sister",
+          "phonetic": "SIS-ter",
+          "target": "Sister.",
+          "native": "Hermana."
+        },
+        {
+          "kind": "MODEL",
+          "item": "sister",
+          "phonetic": "SIS-ter"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "sister",
+          "phonetic": "SIS-ter",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "brother",
+          "phonetic": "BRO-der",
+          "target": "Brother.",
+          "native": "Hermano."
+        },
+        {
+          "kind": "MODEL",
+          "item": "brother",
+          "phonetic": "BRO-der"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "brother",
+          "phonetic": "BRO-der",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "grandmother",
+          "phonetic": "GRAND-mo-der",
+          "target": "Grandmother.",
+          "native": "Abuela."
+        },
+        {
+          "kind": "MODEL",
+          "item": "grandmother",
+          "phonetic": "GRAND-mo-der"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "grandmother",
+          "phonetic": "GRAND-mo-der",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "mother",
+            "father",
+            "sister",
+            "brother",
+            "grandmother",
+            "grandfather"
+          ],
+          "target": "Together.",
+          "native": "Juntos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Your family. Tomorrow: how to say they are yours.",
+          "native": "La familia. Mañana, cómo decir que son tuyos."
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "day": 3,
+      "role": "PRACTISE",
+      "focus": "Familia y oraciones propias",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today: my, your, his, her.",
+          "native": "Hoy: mi, tu, su. Los posesivos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "my",
+          "phonetic": "MAI",
+          "target": "My.",
+          "native": "Mi. Ya lo usaste en «my name is»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "my",
+          "phonetic": "MAI"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "my",
+          "phonetic": "MAI",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "your",
+          "phonetic": "IOR",
+          "target": "Your.",
+          "native": "Tu."
+        },
+        {
+          "kind": "MODEL",
+          "item": "your",
+          "phonetic": "IOR"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "your",
+          "phonetic": "IOR",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "his",
+          "phonetic": "JIS",
+          "target": "His. Of a man.",
+          "native": "Su, de él."
+        },
+        {
+          "kind": "MODEL",
+          "item": "his",
+          "phonetic": "JIS"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "his",
+          "phonetic": "JIS",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "her",
+          "phonetic": "JER",
+          "target": "Her. Of a woman.",
+          "native": "Su, de ella."
+        },
+        {
+          "kind": "MODEL",
+          "item": "her",
+          "phonetic": "JER"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "her",
+          "phonetic": "JER",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "This is my sister.",
+          "phonetic": "DIS-IS-MAI-SIS-ter",
+          "target": "This is my sister.",
+          "native": "«Esta es mi hermana»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "This is my sister.",
+          "phonetic": "DIS-IS-MAI-SIS-ter"
+        },
+        {
+          "kind": "SHOW",
+          "item": "Her name is Ana.",
+          "phonetic": "JER-NEIM-IS-O-na",
+          "target": "Her name is Ana.",
+          "native": "«Ella se llama Ana». En inglés el posesivo va por quien posee, no por lo poseído: «her name» aunque «name» sea masculino en castellano."
+        },
+        {
+          "kind": "MODEL",
+          "item": "Her name is Ana.",
+          "phonetic": "JER-NEIM-IS-O-na"
+        },
+        {
+          "kind": "RECAP",
+          "target": "My, your, his, her. Tomorrow we present a person.",
+          "native": "Mañana presentamos a alguien de tu familia, entera."
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "day": 6,
+      "role": "COMBINE",
+      "focus": "Familia y oraciones propias",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today you present a person.",
+          "native": "Hoy presentás a una persona, no a vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "This is",
+          "phonetic": "DIS-IS",
+          "target": "This is.",
+          "native": "«This is»: este o esta es."
+        },
+        {
+          "kind": "MODEL",
+          "item": "This is",
+          "phonetic": "DIS-IS"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "This is",
+          "phonetic": "DIS-IS",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "This is my sister. Her name is Ana. She is a doctor.",
+          "phonetic": "DIS-IS-MAI-SIS-ter-JER-NEIM-IS-O-na-SHII-IS-a-DOK-tor",
+          "target": "This is my sister. Her name is Ana. She is a doctor.",
+          "native": "Tres frases y presentaste a alguien: quién es, cómo se llama, a qué se dedica."
+        },
+        {
+          "kind": "MODEL",
+          "item": "This is my sister. Her name is Ana. She is a doctor.",
+          "phonetic": "DIS-IS-MAI-SIS-ter-JER-NEIM-IS-O-na-SHII-IS-a-DOK-tor"
+        },
+        {
+          "kind": "SHOW",
+          "item": "This is my brother. His name is Luis. He is a student.",
+          "phonetic": "DIS-IS-MAI-BRO-der-JIS-NEIM-IS-luu-IIS-JII-IS-a-STUU-dent",
+          "target": "This is my brother. His name is Luis. He is a student.",
+          "native": "Lo mismo en masculino: «his» y «he»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "This is my brother. His name is Luis. He is a student.",
+          "phonetic": "DIS-IS-MAI-BRO-der-JIS-NEIM-IS-luu-IIS-JII-IS-a-STUU-dent"
+        },
+        {
+          "kind": "SAY",
+          "target": "Her for a woman. His for a man. That is the only thing to watch.",
+          "native": "Lo único que hay que mirar es «her» para mujer y «his» para varón. El resto ya lo sabés."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Seven weeks. Next week we put it all in your own sentences.",
+          "native": "Siete semanas. La última: armar tus propias oraciones con todo esto."
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "day": 8,
+      "role": "PRESENT",
+      "focus": "Familia y oraciones propias",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Last week. Now you make your own sentences.",
+          "native": "Última semana. Ahora armás tus propias oraciones."
+        },
+        {
+          "kind": "SAY",
+          "target": "English order: who, then the verb, then the rest. Always.",
+          "native": "El orden en inglés es fijo: quién, el verbo, y después el resto. Siempre, sin excepción."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I live in",
+          "phonetic": "AI-LAIV-in",
+          "target": "I live in.",
+          "native": "«I live in»: yo vivo en."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I live in",
+          "phonetic": "AI-LAIV-in"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "I live in",
+          "phonetic": "AI-LAIV-in",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I have",
+          "phonetic": "AI-JAV",
+          "target": "I have.",
+          "native": "«I have»: yo tengo."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I have",
+          "phonetic": "AI-JAV"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "I have",
+          "phonetic": "AI-JAV",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I like",
+          "phonetic": "AI-LAIK",
+          "target": "I like.",
+          "native": "«I like»: me gusta."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I like",
+          "phonetic": "AI-LAIK"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "I like",
+          "phonetic": "AI-LAIK",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I live in Buenos Aires.",
+          "phonetic": "AI-LAIV-in-BUEI-nous-E-ris",
+          "target": "I live in Buenos Aires.",
+          "native": "Quién, verbo, resto. Siempre igual."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I live in Buenos Aires.",
+          "phonetic": "AI-LAIV-in-BUEI-nous-E-ris"
+        },
+        {
+          "kind": "RECAP",
+          "target": "Three verbs and you can say a lot. Tomorrow, more.",
+          "native": "Con tres verbos ya podés decir bastante. Mañana, un poco más."
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "day": 11,
+      "role": "PRACTISE",
+      "focus": "Familia y oraciones propias",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today: how to say no.",
+          "native": "Hoy: cómo decir que no."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I am not",
+          "phonetic": "AI-AM-NOT",
+          "target": "I am not.",
+          "native": "«No soy», «no estoy»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I am not",
+          "phonetic": "AI-AM-NOT"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "I am not",
+          "phonetic": "AI-AM-NOT",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I don't like",
+          "phonetic": "AI-DOUNT-LAIK",
+          "target": "I don't like.",
+          "native": "«No me gusta»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I don't like",
+          "phonetic": "AI-DOUNT-LAIK"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "I don't like",
+          "phonetic": "AI-DOUNT-LAIK",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I am not a teacher. I am a student.",
+          "phonetic": "AI-AM-NOT-a-TII-cher-AI-AM-a-STUU-dent",
+          "target": "I am not a teacher. I am a student.",
+          "native": "Negar y después corregir: así se aclara algo en cualquier conversación."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I am not a teacher. I am a student.",
+          "phonetic": "AI-AM-NOT-a-TII-cher-AI-AM-a-STUU-dent"
+        },
+        {
+          "kind": "SHOW",
+          "item": "I don't like coffee.",
+          "phonetic": "AI-DOUNT-LAIK-KO-fi",
+          "target": "I don't like coffee.",
+          "native": "«No me gusta el café»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I don't like coffee.",
+          "phonetic": "AI-DOUNT-LAIK-KO-fi"
+        },
+        {
+          "kind": "SAY",
+          "target": "With to be you add not. With other verbs you need don't.",
+          "native": "Con «to be» alcanza con agregar «not». Con los demás verbos hace falta «don't». Es la diferencia que más cuesta al principio."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can say yes and no now. Tomorrow, the last day.",
+          "native": "Ya podés afirmar y negar. Mañana, el último día de A1."
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "day": 13,
+      "role": "COMBINE",
+      "focus": "Familia y oraciones propias",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Last day of A1. Everything, together.",
+          "native": "Último día de A1. Hoy va todo junto."
+        },
+        {
+          "kind": "SHOW",
+          "item": "Hello! My name is Ana. Nice to meet you.",
+          "phonetic": "je-LOU-MAI-NEIM-IS-O-na-NAIS-to-MIIT-IU",
+          "target": "Hello! My name is Ana. Nice to meet you.",
+          "native": "Semana uno: saludar y presentarte."
+        },
+        {
+          "kind": "MODEL",
+          "item": "Hello! My name is Ana. Nice to meet you.",
+          "phonetic": "je-LOU-MAI-NEIM-IS-O-na-NAIS-to-MIIT-IU"
+        },
+        {
+          "kind": "SHOW",
+          "item": "I am twenty-five years old. My birthday is in July.",
+          "phonetic": "AI-AM-TUEN-ti-faiv-IIRS-OULD-MAI-BERZ-dei-IS-in-yuu-LAI",
+          "target": "I am twenty-five years old. My birthday is in July.",
+          "native": "Semanas dos, cuatro y cinco: números, edad y meses."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I am twenty-five years old. My birthday is in July.",
+          "phonetic": "AI-AM-TUEN-ti-faiv-IIRS-OULD-MAI-BERZ-dei-IS-in-yuu-LAI"
+        },
+        {
+          "kind": "SHOW",
+          "item": "I am from Mexico. I am a teacher.",
+          "phonetic": "AI-AM-from-MEK-si-kou-AI-AM-a-TII-cher",
+          "target": "I am from Mexico. I am a teacher.",
+          "native": "Semana seis: el verbo «to be», de dónde sos y a qué te dedicás."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I am from Mexico. I am a teacher.",
+          "phonetic": "AI-AM-from-MEK-si-kou-AI-AM-a-TII-cher"
+        },
+        {
+          "kind": "SHOW",
+          "item": "This is my brother. His name is Luis.",
+          "phonetic": "DIS-IS-MAI-BRO-der-JIS-NEIM-IS-luu-IIS",
+          "target": "This is my brother. His name is Luis.",
+          "native": "Semana siete: la familia y los posesivos."
+        },
+        {
+          "kind": "MODEL",
+          "item": "This is my brother. His name is Luis.",
+          "phonetic": "DIS-IS-MAI-BRO-der-JIS-NEIM-IS-luu-IIS"
+        },
+        {
+          "kind": "SAY",
+          "target": "That is a whole conversation. Eight weeks ago you had none of it.",
+          "native": "Eso es una conversación entera. Hace ocho semanas no tenías nada de esto."
+        },
+        {
+          "kind": "SAY",
+          "target": "Say it with me. Your turn at the end.",
+          "native": "Decilo conmigo. Cambiá el nombre por el tuyo — es tu presentación, no la mía."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "Hello",
+            "My name is",
+            "Nice to meet you",
+            "I am from",
+            "I am a student"
+          ],
+          "target": "Together, one last time.",
+          "native": "Juntos, la última vez de A1."
+        },
+        {
+          "kind": "SHOW",
+          "item": "Nice to meet you",
+          "phonetic": "NAIS-to-MIIT-IU",
+          "target": "Nice to meet you.",
+          "native": "La primera frase que aprendiste, ocho semanas atrás."
+        },
+        {
+          "kind": "MODEL",
+          "item": "Nice to meet you",
+          "phonetic": "NAIS-to-MIIT-IU"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "Nice to meet you",
+          "phonetic": "NAIS-to-MIIT-IU",
+          "target": "Now you, alone.",
+          "native": "Ahora vos solo. Sin mí."
+        },
+        {
+          "kind": "RECAP",
+          "target": "This is the end of A1. You can introduce yourself, your family, your day.",
+          "native": "Acá termina A1. Ya podés presentarte, hablar de tu familia y de tu día. Lo que sigue es hacerlo más largo y más suelto."
+        }
+      ]
+    },
+    {
+      "unit": 6,
+      "day": 1,
+      "role": "PRESENT",
+      "focus": "Comida, gustos y tiempo libre",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Welcome to unit six. Today: food.",
+          "native": "Arrancamos la unidad seis. Hoy: la comida."
+        },
+        {
+          "kind": "SAY",
+          "target": "You already know how to introduce yourself. Now you can talk about your day.",
+          "native": "Ya sabes presentarte. Ahora vas a poder contar tu dia."
+        },
+        {
+          "kind": "SHOW",
+          "item": "breakfast",
+          "phonetic": "BREK-fast",
+          "target": "The first meal of the day.",
+          "native": "La primera comida del dia."
+        },
+        {
+          "kind": "MODEL",
+          "item": "breakfast",
+          "phonetic": "BREK-fast"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "breakfast",
+          "phonetic": "BREK-fast",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "lunch",
+          "phonetic": "LANCH",
+          "target": "The meal in the middle of the day.",
+          "native": "La comida del mediodia."
+        },
+        {
+          "kind": "MODEL",
+          "item": "lunch",
+          "phonetic": "LANCH"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "lunch",
+          "phonetic": "LANCH",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "dinner",
+          "phonetic": "DI-ner",
+          "target": "The evening meal.",
+          "native": "La cena."
+        },
+        {
+          "kind": "MODEL",
+          "item": "dinner",
+          "phonetic": "DI-ner"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "dinner",
+          "phonetic": "DI-ner",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "Three meals: breakfast, lunch, dinner.",
+          "native": "Tres comidas: breakfast, lunch, dinner."
+        },
+        {
+          "kind": "SHOW",
+          "item": "bread",
+          "phonetic": "BRED",
+          "target": "Bread.",
+          "native": "Pan."
+        },
+        {
+          "kind": "MODEL",
+          "item": "bread",
+          "phonetic": "BRED"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "bread",
+          "phonetic": "BRED",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "cheese",
+          "phonetic": "CHIIS",
+          "target": "Cheese.",
+          "native": "Queso."
+        },
+        {
+          "kind": "MODEL",
+          "item": "cheese",
+          "phonetic": "CHIIS"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "cheese",
+          "phonetic": "CHIIS",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "chicken",
+          "phonetic": "CHI-ken",
+          "target": "Chicken.",
+          "native": "Pollo."
+        },
+        {
+          "kind": "MODEL",
+          "item": "chicken",
+          "phonetic": "CHI-ken"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "chicken",
+          "phonetic": "CHI-ken",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "rice",
+          "phonetic": "RAIS",
+          "target": "Rice.",
+          "native": "Arroz."
+        },
+        {
+          "kind": "MODEL",
+          "item": "rice",
+          "phonetic": "RAIS"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "rice",
+          "phonetic": "RAIS",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Now you can name your meals.",
+          "native": "Ya podes nombrar lo que comes. En los proximos dias lo vas a describir."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "for breakfast",
+            "target": "What do you have for breakfast?",
+            "native": "Que desayunas? Decilo con «for breakfast»."
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "for lunch",
+            "target": "And for lunch?",
+            "native": "Y al mediodia? Usa «for lunch»."
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "for dinner",
+            "target": "And for dinner?",
+            "native": "Y de noche? Usa «for dinner»."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "breakfast",
+            "target": "Tell me about your day of food.",
+            "native": "Contame que comes en un dia entero."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "day": 3,
+      "role": "PRACTISE",
+      "focus": "Comida, gustos y tiempo libre",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "You named your food. Today you describe it.",
+          "native": "Ya nombraste la comida. Hoy vas a decir como es."
+        },
+        {
+          "kind": "SHOW",
+          "item": "delicious",
+          "phonetic": "de-LI-shis",
+          "target": "Very good.",
+          "native": "Delicioso."
+        },
+        {
+          "kind": "MODEL",
+          "item": "delicious",
+          "phonetic": "de-LI-shis"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "delicious",
+          "phonetic": "de-LI-shis",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "spicy",
+          "phonetic": "SPAI-si",
+          "target": "Hot, with pepper.",
+          "native": "Picante."
+        },
+        {
+          "kind": "MODEL",
+          "item": "spicy",
+          "phonetic": "SPAI-si"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "spicy",
+          "phonetic": "SPAI-si",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "sweet",
+          "phonetic": "SUIIT",
+          "target": "Like sugar.",
+          "native": "Dulce."
+        },
+        {
+          "kind": "MODEL",
+          "item": "sweet",
+          "phonetic": "SUIIT"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "sweet",
+          "phonetic": "SUIIT",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "salty",
+          "phonetic": "SOL-ti",
+          "target": "With a lot of salt.",
+          "native": "Salado."
+        },
+        {
+          "kind": "MODEL",
+          "item": "salty",
+          "phonetic": "SOL-ti"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "salty",
+          "phonetic": "SOL-ti",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "healthy",
+          "phonetic": "JEL-zi",
+          "target": "Good for you.",
+          "native": "Saludable."
+        },
+        {
+          "kind": "MODEL",
+          "item": "healthy",
+          "phonetic": "JEL-zi"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "healthy",
+          "phonetic": "JEL-zi",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "Say it with is: the soup is spicy.",
+          "native": "Se arma con «is»: «the soup is spicy», la sopa es picante."
+        },
+        {
+          "kind": "SHOW",
+          "item": "fresh",
+          "phonetic": "FRESH",
+          "target": "Not old.",
+          "native": "Fresco."
+        },
+        {
+          "kind": "MODEL",
+          "item": "fresh",
+          "phonetic": "FRESH"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "fresh",
+          "phonetic": "FRESH",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Good. Food has a taste now.",
+          "native": "Muy bien. Ahora la comida tiene sabor, no es solo una palabra."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "is",
+            "target": "Describe your favourite food.",
+            "native": "Describi tu comida favorita usando «is»."
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "is",
+            "target": "Is your food spicy or sweet?",
+            "native": "Tu comida es picante o dulce? Contesta entero."
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "is healthy",
+            "target": "Name something healthy.",
+            "native": "Nombra algo saludable: «... is healthy»."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "is",
+            "target": "What did you eat today? How was it?",
+            "native": "Que comiste hoy y como estaba?"
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "day": 6,
+      "role": "COMBINE",
+      "focus": "Comida, gustos y tiempo libre",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today we put it together with unit one.",
+          "native": "Hoy juntamos la comida con lo que aprendiste en la unidad uno."
+        },
+        {
+          "kind": "SHOW",
+          "item": "meal",
+          "phonetic": "MIIL",
+          "target": "Breakfast, lunch or dinner.",
+          "native": "Una comida."
+        },
+        {
+          "kind": "MODEL",
+          "item": "meal",
+          "phonetic": "MIIL"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "meal",
+          "phonetic": "MIIL",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "water",
+          "phonetic": "UO-ter",
+          "target": "Water.",
+          "native": "Agua."
+        },
+        {
+          "kind": "MODEL",
+          "item": "water",
+          "phonetic": "UO-ter"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "water",
+          "phonetic": "UO-ter",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "fruit",
+          "phonetic": "FRUUT",
+          "target": "Fruit.",
+          "native": "Fruta."
+        },
+        {
+          "kind": "MODEL",
+          "item": "fruit",
+          "phonetic": "FRUUT"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "fruit",
+          "phonetic": "FRUUT",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "My name is Capy and I have fruit for breakfast.",
+          "native": "Escucha: «My name is Capy and I have fruit for breakfast». Te presentas y contas."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can introduce yourself and talk about your food.",
+          "native": "Ya podes presentarte y contar que comes. Eso ya es una conversacion."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "my name is",
+            "target": "Introduce yourself and say what you eat.",
+            "native": "Presentate y conta que comes: «My name is... and I have...»."
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "she has",
+            "target": "Say what your mother has for breakfast.",
+            "native": "Conta que desayuna tu mama: «She has...»."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "has",
+            "target": "Introduce a friend and say what they eat.",
+            "native": "Presenta a un amigo y conta que come."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "day": 8,
+      "role": "PRESENT",
+      "focus": "Comida, gustos y tiempo libre",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "New idea today: saying what you like.",
+          "native": "Idea nueva: decir lo que te gusta."
+        },
+        {
+          "kind": "SHOW",
+          "item": "swimming",
+          "phonetic": "SUI-ming",
+          "target": "I like swimming.",
+          "native": "Natacion, nadar."
+        },
+        {
+          "kind": "MODEL",
+          "item": "swimming",
+          "phonetic": "SUI-ming"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "swimming",
+          "phonetic": "SUI-ming",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "running",
+          "phonetic": "RA-ning",
+          "target": "I like running.",
+          "native": "Correr."
+        },
+        {
+          "kind": "MODEL",
+          "item": "running",
+          "phonetic": "RA-ning"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "running",
+          "phonetic": "RA-ning",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "cycling",
+          "phonetic": "SAI-ka-ling",
+          "target": "I like cycling.",
+          "native": "Ciclismo."
+        },
+        {
+          "kind": "MODEL",
+          "item": "cycling",
+          "phonetic": "SAI-ka-ling"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "cycling",
+          "phonetic": "SAI-ka-ling",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "Careful: after like, the verb takes -ing. I like swimming, not I like swim.",
+          "native": "Ojo con esto: despues de «like» el verbo lleva -ing. Se dice «I like swimming», nunca «I like swim»."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I like",
+          "phonetic": "AI-LAIK",
+          "target": "I like.",
+          "native": "Me gusta."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I like",
+          "phonetic": "AI-LAIK"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "I like",
+          "phonetic": "AI-LAIK",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I love",
+          "phonetic": "AI-LOV",
+          "target": "More than like.",
+          "native": "Me encanta."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I love",
+          "phonetic": "AI-LOV"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "I love",
+          "phonetic": "AI-LOV",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I don't like",
+          "phonetic": "AI-DOUNT-LAIK",
+          "target": "The opposite.",
+          "native": "No me gusta."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I don't like",
+          "phonetic": "AI-DOUNT-LAIK"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "I don't like",
+          "phonetic": "AI-DOUNT-LAIK",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Like, love, don't like. Always with -ing after.",
+          "native": "Like, love, don't like, y siempre el verbo con -ing atras."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "like",
+            "target": "Do you like swimming?",
+            "native": "Te gusta nadar? Contesta con «I like» o «I don't like»."
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "i love",
+            "target": "Say something you love.",
+            "native": "Deci algo que te encanta: «I love ...ing»."
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "like",
+            "target": "Say something you don't like.",
+            "native": "Deci algo que no te gusta."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "like",
+            "target": "Tell me three things you like doing.",
+            "native": "Contame tres cosas que te gusta hacer."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "day": 11,
+      "role": "PRACTISE",
+      "focus": "Comida, gustos y tiempo libre",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "More things to like: your free time.",
+          "native": "Mas cosas para que te gusten: el tiempo libre."
+        },
+        {
+          "kind": "SHOW",
+          "item": "reading",
+          "phonetic": "RII-ding",
+          "target": "Reading books.",
+          "native": "Leer."
+        },
+        {
+          "kind": "MODEL",
+          "item": "reading",
+          "phonetic": "RII-ding"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "reading",
+          "phonetic": "RII-ding",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "gaming",
+          "phonetic": "GEI-ming",
+          "target": "Video games.",
+          "native": "Los videojuegos."
+        },
+        {
+          "kind": "MODEL",
+          "item": "gaming",
+          "phonetic": "GEI-ming"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "gaming",
+          "phonetic": "GEI-ming",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "photography",
+          "phonetic": "fo-TO-gra-fi",
+          "target": "Taking photos.",
+          "native": "La fotografia."
+        },
+        {
+          "kind": "MODEL",
+          "item": "photography",
+          "phonetic": "fo-TO-gra-fi"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "photography",
+          "phonetic": "fo-TO-gra-fi",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "hiking",
+          "phonetic": "JAI-king",
+          "target": "Walking in the mountains.",
+          "native": "El senderismo."
+        },
+        {
+          "kind": "MODEL",
+          "item": "hiking",
+          "phonetic": "JAI-king"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "hiking",
+          "phonetic": "JAI-king",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "cooking",
+          "phonetic": "KU-king",
+          "target": "Making food.",
+          "native": "Cocinar."
+        },
+        {
+          "kind": "MODEL",
+          "item": "cooking",
+          "phonetic": "KU-king"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "cooking",
+          "phonetic": "KU-king",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "Now ask me: do you like cooking?",
+          "native": "Ahora preguntame vos: «Do you like cooking?». Para preguntar, «do» va adelante."
+        },
+        {
+          "kind": "SHOW",
+          "item": "Do you like",
+          "phonetic": "DUU-IU-LAIK",
+          "target": "Do you like...?",
+          "native": "Te gusta...?"
+        },
+        {
+          "kind": "MODEL",
+          "item": "Do you like",
+          "phonetic": "DUU-IU-LAIK"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "Do you like",
+          "phonetic": "DUU-IU-LAIK",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can ask, not only answer.",
+          "native": "Ya podes preguntar, no solo contestar. Una conversacion va para los dos lados."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "do you like",
+            "target": "Ask me if I like reading.",
+            "native": "Preguntame si me gusta leer."
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "do you like",
+            "target": "Ask about a friend's hobby.",
+            "native": "Pregunta por el pasatiempo de un amigo."
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "like",
+            "target": "What is your hobby?",
+            "native": "Cual es tu pasatiempo? Contesta con -ing."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "do you like",
+            "target": "Ask me three questions about my free time.",
+            "native": "Haceme tres preguntas sobre mi tiempo libre."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "day": 13,
+      "role": "COMBINE",
+      "focus": "Comida, gustos y tiempo libre",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Last new day of the unit. Everything together.",
+          "native": "Ultimo dia con material nuevo de la unidad. Ahora va todo junto."
+        },
+        {
+          "kind": "SHOW",
+          "item": "weekend",
+          "phonetic": "UII-kend",
+          "target": "Saturday and Sunday.",
+          "native": "El fin de semana."
+        },
+        {
+          "kind": "MODEL",
+          "item": "weekend",
+          "phonetic": "UII-kend"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "weekend",
+          "phonetic": "UII-kend",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "free time",
+          "phonetic": "FRII-TAIM",
+          "target": "Time for your hobbies.",
+          "native": "El tiempo libre."
+        },
+        {
+          "kind": "MODEL",
+          "item": "free time",
+          "phonetic": "FRII-TAIM"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "free time",
+          "phonetic": "FRII-TAIM",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "always",
+          "phonetic": "OL-ueis",
+          "target": "Every time.",
+          "native": "Siempre."
+        },
+        {
+          "kind": "MODEL",
+          "item": "always",
+          "phonetic": "OL-ueis"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "always",
+          "phonetic": "OL-ueis",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "On the weekend I always have a big breakfast, and I love cooking.",
+          "native": "Escucha la frase entera: «On the weekend I always have a big breakfast, and I love cooking»."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Food, likes and free time. That is unit six.",
+          "native": "Comida, gustos y tiempo libre: eso es la unidad seis. De aca en adelante, a practicarlo."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "weekend",
+            "target": "Tell me about your weekend.",
+            "native": "Contame como es tu fin de semana."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "like",
+            "target": "What do you eat and what do you like doing?",
+            "native": "Que comes y que te gusta hacer? Todo en una."
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "always",
+            "target": "Say what you always do on Sunday.",
+            "native": "Deci que haces siempre los domingos."
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "love",
+            "target": "Say what you love and what you don't like.",
+            "native": "Deci una cosa que te encanta y una que no te gusta."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "day": 1,
+      "role": "PRESENT",
+      "focus": "Viajes y transporte",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Unit seven. Today we travel.",
+          "native": "Unidad siete. Hoy nos vamos de viaje."
+        },
+        {
+          "kind": "SAY",
+          "target": "You can already talk about your day. Now you can go somewhere.",
+          "native": "Ya podes hablar de tu dia. Ahora vas a poder moverte."
+        },
+        {
+          "kind": "SHOW",
+          "item": "airport",
+          "phonetic": "ER-port",
+          "target": "The airport.",
+          "native": "El aeropuerto."
+        },
+        {
+          "kind": "MODEL",
+          "item": "airport",
+          "phonetic": "ER-port"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "airport",
+          "phonetic": "ER-port",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "ticket",
+          "phonetic": "TI-ket",
+          "target": "A ticket.",
+          "native": "Un pasaje o una entrada."
+        },
+        {
+          "kind": "MODEL",
+          "item": "ticket",
+          "phonetic": "TI-ket"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "ticket",
+          "phonetic": "TI-ket",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "luggage",
+          "phonetic": "LA-gich",
+          "target": "Your bags.",
+          "native": "El equipaje. Es incontable: nunca «luggages»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "luggage",
+          "phonetic": "LA-gich"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "luggage",
+          "phonetic": "LA-gich",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "flight",
+          "phonetic": "FLAIT",
+          "target": "A flight.",
+          "native": "Un vuelo. La gh no suena."
+        },
+        {
+          "kind": "MODEL",
+          "item": "flight",
+          "phonetic": "FLAIT"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "flight",
+          "phonetic": "FLAIT",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "to book",
+          "phonetic": "tu BUK",
+          "target": "To book: to reserve.",
+          "native": "Reservar. Ojo: «book» tambien es libro."
+        },
+        {
+          "kind": "MODEL",
+          "item": "to book",
+          "phonetic": "tu BUK"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "to book",
+          "phonetic": "tu BUK",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "airport",
+            "ticket",
+            "luggage",
+            "flight"
+          ],
+          "target": "Together.",
+          "native": "Juntos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Four words and you can start a trip.",
+          "native": "Con cuatro palabras ya arrancas un viaje. Manana las usamos."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "airport",
+            "target": "Say airport.",
+            "native": "Deci «aeropuerto» en ingles."
+          },
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "flight",
+            "target": "Say flight.",
+            "native": "Deci «vuelo»."
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "book",
+            "target": "How do you say «reservar»?",
+            "native": "Como se dice «reservar»?"
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "day": 3,
+      "role": "PRACTISE",
+      "focus": "Viajes y transporte",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today we ask for things at the airport.",
+          "native": "Hoy pedimos cosas en el aeropuerto."
+        },
+        {
+          "kind": "SHOW",
+          "item": "Where is the gate?",
+          "phonetic": "uer is de GUEIT",
+          "target": "Where is the gate?",
+          "native": "«Where is the gate?»: donde esta la puerta de embarque."
+        },
+        {
+          "kind": "MODEL",
+          "item": "Where is the gate?",
+          "phonetic": "uer is de GUEIT"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "Where is the gate?",
+          "phonetic": "uer is de GUEIT",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "delayed",
+          "phonetic": "di-LEID",
+          "target": "Delayed: late.",
+          "native": "Demorado."
+        },
+        {
+          "kind": "MODEL",
+          "item": "delayed",
+          "phonetic": "di-LEID"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "delayed",
+          "phonetic": "di-LEID",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "one way",
+          "phonetic": "uan UEI",
+          "target": "One way.",
+          "native": "Solo ida."
+        },
+        {
+          "kind": "MODEL",
+          "item": "one way",
+          "phonetic": "uan UEI"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "one way",
+          "phonetic": "uan UEI",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "return",
+          "phonetic": "ri-TERN",
+          "target": "Return: there and back.",
+          "native": "Ida y vuelta."
+        },
+        {
+          "kind": "MODEL",
+          "item": "return",
+          "phonetic": "ri-TERN"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "return",
+          "phonetic": "ri-TERN",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "A return ticket to Madrid, please.",
+          "phonetic": "a ri-TERN TI-ket tu ma-DRID pliis",
+          "target": "A return ticket to Madrid, please.",
+          "native": "Un pasaje de ida y vuelta a Madrid, por favor."
+        },
+        {
+          "kind": "MODEL",
+          "item": "A return ticket to Madrid, please.",
+          "phonetic": "a ri-TERN TI-ket tu ma-DRID pliis"
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can buy a ticket now.",
+          "native": "Ya podes comprar un pasaje. Manana lo juntamos con lo anterior."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "where is the gate",
+            "target": "Ask where the gate is.",
+            "native": "Pregunta donde esta la puerta."
+          },
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "delayed",
+            "target": "Say «demorado».",
+            "native": "Deci «demorado»."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "day": 6,
+      "role": "COMBINE",
+      "focus": "Viajes y transporte",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today: travel plus everything from before.",
+          "native": "Hoy juntamos el viaje con todo lo anterior."
+        },
+        {
+          "kind": "SHOW",
+          "item": "Hello. I have a flight at ten o'clock.",
+          "phonetic": "je-LOU ai jav a FLAIT at TEN o-CLOK",
+          "target": "Hello. I have a flight at ten o'clock.",
+          "native": "Hola. Tengo un vuelo a las diez. Fijate: la hora es de la unidad tres."
+        },
+        {
+          "kind": "MODEL",
+          "item": "Hello. I have a flight at ten o'clock.",
+          "phonetic": "je-LOU ai jav a FLAIT at TEN o-CLOK"
+        },
+        {
+          "kind": "SHOW",
+          "item": "My name is Ana. Here is my ticket.",
+          "phonetic": "mai NEIM is A-na jir is mai TI-ket",
+          "target": "My name is Ana. Here is my ticket.",
+          "native": "Me llamo Ana. Aca esta mi pasaje."
+        },
+        {
+          "kind": "MODEL",
+          "item": "My name is Ana. Here is my ticket.",
+          "phonetic": "mai NEIM is A-na jir is mai TI-ket"
+        },
+        {
+          "kind": "SHOW",
+          "item": "How much is it?",
+          "phonetic": "jau MACH is it",
+          "target": "How much is it?",
+          "native": "Cuanto cuesta?"
+        },
+        {
+          "kind": "MODEL",
+          "item": "How much is it?",
+          "phonetic": "jau MACH is it"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "How much is it?",
+          "phonetic": "jau MACH is it",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "Numbers, time, your name and now a ticket. Eso es un viaje entero.",
+          "native": "Numeros, hora, tu nombre y ahora un pasaje: eso es un viaje entero."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Unit seven is done.",
+          "native": "Terminamos la unidad siete."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "I have a flight at eight",
+            "target": "Tell me you have a flight at eight.",
+            "native": "Deci que tenes un vuelo a las ocho."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "day": 8,
+      "role": "PRESENT",
+      "focus": "Viajes y transporte",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Back to travel, with less help this time.",
+          "native": "Volvemos al viaje, esta vez con menos ayuda."
+        },
+        {
+          "kind": "SHOW",
+          "item": "platform",
+          "phonetic": "PLAT-form",
+          "target": "Platform: for trains.",
+          "native": "Anden, para los trenes."
+        },
+        {
+          "kind": "MODEL",
+          "item": "platform",
+          "phonetic": "PLAT-form"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "platform",
+          "phonetic": "PLAT-form",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "to miss",
+          "phonetic": "tu MIS",
+          "target": "To miss the train.",
+          "native": "Perder el tren. No es «to lose»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "to miss",
+          "phonetic": "tu MIS"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "to miss",
+          "phonetic": "tu MIS",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "on time",
+          "phonetic": "on TAIM",
+          "target": "On time.",
+          "native": "A horario."
+        },
+        {
+          "kind": "MODEL",
+          "item": "on time",
+          "phonetic": "on TAIM"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "on time",
+          "phonetic": "on TAIM",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "crowded",
+          "phonetic": "CRAU-ded",
+          "target": "Crowded: full of people.",
+          "native": "Lleno de gente."
+        },
+        {
+          "kind": "MODEL",
+          "item": "crowded",
+          "phonetic": "CRAU-ded"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "crowded",
+          "phonetic": "CRAU-ded",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Trains now, not just planes.",
+          "native": "Ahora los trenes, no solo los aviones."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "platform",
+            "target": "Say platform.",
+            "native": "Deci «anden»."
+          },
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "on time",
+            "target": "Say on time.",
+            "native": "Deci «a horario»."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "day": 11,
+      "role": "PRACTISE",
+      "focus": "Viajes y transporte",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today: what went wrong on the trip.",
+          "native": "Hoy: lo que salio mal en el viaje."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I missed my train.",
+          "phonetic": "ai MIST mai TREIN",
+          "target": "I missed my train.",
+          "native": "Perdi el tren. Fijate el pasado: «missed»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I missed my train.",
+          "phonetic": "ai MIST mai TREIN"
+        },
+        {
+          "kind": "SHOW",
+          "item": "The flight was delayed.",
+          "phonetic": "de FLAIT uas di-LEID",
+          "target": "The flight was delayed.",
+          "native": "El vuelo estuvo demorado."
+        },
+        {
+          "kind": "MODEL",
+          "item": "The flight was delayed.",
+          "phonetic": "de FLAIT uas di-LEID"
+        },
+        {
+          "kind": "SHOW",
+          "item": "late",
+          "phonetic": "LEIT",
+          "target": "Late.",
+          "native": "Tarde."
+        },
+        {
+          "kind": "MODEL",
+          "item": "late",
+          "phonetic": "LEIT"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "late",
+          "phonetic": "LEIT",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Things go wrong and now you can say so.",
+          "native": "Las cosas salen mal, y ahora sabes decirlo."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "the flight was delayed",
+            "target": "Tell me your flight was delayed.",
+            "native": "Deci que tu vuelo estuvo demorado."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "day": 13,
+      "role": "COMBINE",
+      "focus": "Viajes y transporte",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Last day of unit seven. All together.",
+          "native": "Ultimo dia de la unidad siete. Todo junto."
+        },
+        {
+          "kind": "SHOW",
+          "item": "Excuse me, where is platform four?",
+          "phonetic": "eks-KIUS mi uer is PLAT-form FOR",
+          "target": "Excuse me, where is platform four?",
+          "native": "Disculpe, donde esta el anden cuatro?"
+        },
+        {
+          "kind": "MODEL",
+          "item": "Excuse me, where is platform four?",
+          "phonetic": "eks-KIUS mi uer is PLAT-form FOR"
+        },
+        {
+          "kind": "SHOW",
+          "item": "My train was late and it was crowded.",
+          "phonetic": "mai TREIN uas LEIT and it uas CRAU-ded",
+          "target": "My train was late and it was crowded.",
+          "native": "Mi tren llego tarde y venia lleno."
+        },
+        {
+          "kind": "MODEL",
+          "item": "My train was late and it was crowded.",
+          "phonetic": "mai TREIN uas LEIT and it uas CRAU-ded"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "My train was late and it was crowded.",
+          "phonetic": "mai TREIN uas LEIT and it uas CRAU-ded",
+          "target": "Now you. The whole sentence.",
+          "native": "Ahora vos, la frase entera."
+        },
+        {
+          "kind": "SHOW",
+          "item": "Have a good trip",
+          "phonetic": "jav a GUD TRIP",
+          "target": "Have a good trip.",
+          "native": "Buen viaje. Es lo que se dice al despedir a alguien que viaja."
+        },
+        {
+          "kind": "MODEL",
+          "item": "Have a good trip",
+          "phonetic": "jav a GUD TRIP"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "Have a good trip",
+          "phonetic": "jav a GUD TRIP",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can travel and complain about it. Next: work.",
+          "native": "Ya podes viajar y quejarte del viaje. Lo que sigue: el trabajo."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "where is platform two",
+            "target": "Ask where platform two is.",
+            "native": "Pregunta donde esta el anden dos."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "day": 1,
+      "role": "PRESENT",
+      "focus": "Trabajo y oficios",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Unit eight. Today: work.",
+          "native": "Unidad ocho. Hoy: el trabajo."
+        },
+        {
+          "kind": "SAY",
+          "target": "You can say what you do. Now you can say where and how.",
+          "native": "Ya sabes decir a que te dedicas. Ahora vas a decir donde y como."
+        },
+        {
+          "kind": "SHOW",
+          "item": "job",
+          "phonetic": "YOB",
+          "target": "A job.",
+          "native": "Un trabajo, un puesto concreto."
+        },
+        {
+          "kind": "MODEL",
+          "item": "job",
+          "phonetic": "YOB"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "job",
+          "phonetic": "YOB",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "work",
+          "phonetic": "UERK",
+          "target": "Work: what you do.",
+          "native": "El trabajo en general. «Work» es incontable."
+        },
+        {
+          "kind": "MODEL",
+          "item": "work",
+          "phonetic": "UERK"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "work",
+          "phonetic": "UERK",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "office",
+          "phonetic": "O-fis",
+          "target": "An office.",
+          "native": "Una oficina."
+        },
+        {
+          "kind": "MODEL",
+          "item": "office",
+          "phonetic": "O-fis"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "office",
+          "phonetic": "O-fis",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "meeting",
+          "phonetic": "MII-ting",
+          "target": "A meeting.",
+          "native": "Una reunion."
+        },
+        {
+          "kind": "MODEL",
+          "item": "meeting",
+          "phonetic": "MII-ting"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "meeting",
+          "phonetic": "MII-ting",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "boss",
+          "phonetic": "BOS",
+          "target": "Your boss.",
+          "native": "Tu jefe o jefa."
+        },
+        {
+          "kind": "MODEL",
+          "item": "boss",
+          "phonetic": "BOS"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "boss",
+          "phonetic": "BOS",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "job",
+            "work",
+            "office",
+            "meeting",
+            "boss"
+          ],
+          "target": "Together.",
+          "native": "Juntos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Five words about work.",
+          "native": "Cinco palabras del trabajo. Manana las usamos."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "office",
+            "target": "Say office.",
+            "native": "Deci «oficina»."
+          },
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "meeting",
+            "target": "Say meeting.",
+            "native": "Deci «reunion»."
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "job",
+            "target": "«Un trabajo» concreto: job or work?",
+            "native": "«Un trabajo» concreto: job o work?"
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "day": 3,
+      "role": "PRACTISE",
+      "focus": "Trabajo y oficios",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today: your working day.",
+          "native": "Hoy: tu jornada de trabajo."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I start at",
+          "phonetic": "ai START at",
+          "target": "I start at eight.",
+          "native": "Empiezo a las ocho."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I start at",
+          "phonetic": "ai START at"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "I start at",
+          "phonetic": "ai START at",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I finish at",
+          "phonetic": "ai FI-nish at",
+          "target": "I finish at five.",
+          "native": "Termino a las cinco."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I finish at",
+          "phonetic": "ai FI-nish at"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "I finish at",
+          "phonetic": "ai FI-nish at",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I work in an office.",
+          "phonetic": "ai UERK in an O-fis",
+          "target": "I work in an office.",
+          "native": "Trabajo en una oficina. Fijate: «in» para el lugar."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I work in an office.",
+          "phonetic": "ai UERK in an O-fis"
+        },
+        {
+          "kind": "SHOW",
+          "item": "I have a meeting at three.",
+          "phonetic": "ai jav a MII-ting at ZRII",
+          "target": "I have a meeting at three.",
+          "native": "Tengo una reunion a las tres."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I have a meeting at three.",
+          "phonetic": "ai jav a MII-ting at ZRII"
+        },
+        {
+          "kind": "RECAP",
+          "target": "Your whole day, in English.",
+          "native": "Tu jornada entera, en ingles."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "I start at nine",
+            "target": "Tell me you start at nine.",
+            "native": "Deci que empezas a las nueve."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "day": 6,
+      "role": "COMBINE",
+      "focus": "Trabajo y oficios",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Work plus everything you know.",
+          "native": "El trabajo, mas todo lo que ya sabes."
+        },
+        {
+          "kind": "SHOW",
+          "item": "My name is Luis and I am an engineer.",
+          "phonetic": "mai NEIM is lu-IS and ai am an en-yi-NIR",
+          "target": "My name is Luis and I am an engineer.",
+          "native": "Me llamo Luis y soy ingeniero."
+        },
+        {
+          "kind": "MODEL",
+          "item": "My name is Luis and I am an engineer.",
+          "phonetic": "mai NEIM is lu-IS and ai am an en-yi-NIR"
+        },
+        {
+          "kind": "SHOW",
+          "item": "I work in Buenos Aires. I start at nine.",
+          "phonetic": "ai UERK in BUE-nos AI-res ai START at NAIN",
+          "target": "I work in Buenos Aires. I start at nine.",
+          "native": "Trabajo en Buenos Aires. Empiezo a las nueve."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I work in Buenos Aires. I start at nine.",
+          "phonetic": "ai UERK in BUE-nos AI-res ai START at NAIN"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "I work in Buenos Aires. I start at nine.",
+          "phonetic": "ai UERK in BUE-nos AI-res ai START at NAIN",
+          "target": "Now you. The whole sentence.",
+          "native": "Ahora vos, la frase entera."
+        },
+        {
+          "kind": "SAY",
+          "target": "Name, job, city and schedule. That is a real introduction.",
+          "native": "Nombre, trabajo, ciudad y horario: esa es una presentacion de verdad."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Unit eight is done.",
+          "native": "Terminamos la unidad ocho."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "I work in",
+            "target": "Tell me where you work.",
+            "native": "Deci donde trabajas."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "day": 8,
+      "role": "PRESENT",
+      "focus": "Trabajo y oficios",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Back to work, with less help.",
+          "native": "Volvemos al trabajo, con menos ayuda."
+        },
+        {
+          "kind": "SHOW",
+          "item": "interview",
+          "phonetic": "IN-ter-viu",
+          "target": "A job interview.",
+          "native": "Una entrevista de trabajo."
+        },
+        {
+          "kind": "MODEL",
+          "item": "interview",
+          "phonetic": "IN-ter-viu"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "interview",
+          "phonetic": "IN-ter-viu",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "experience",
+          "phonetic": "eks-PI-riens",
+          "target": "Experience.",
+          "native": "Experiencia. Es incontable."
+        },
+        {
+          "kind": "MODEL",
+          "item": "experience",
+          "phonetic": "eks-PI-riens"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "experience",
+          "phonetic": "eks-PI-riens",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "skill",
+          "phonetic": "SKIL",
+          "target": "A skill.",
+          "native": "Una habilidad."
+        },
+        {
+          "kind": "MODEL",
+          "item": "skill",
+          "phonetic": "SKIL"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "skill",
+          "phonetic": "SKIL",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "to apply",
+          "phonetic": "tu a-PLAI",
+          "target": "To apply for a job.",
+          "native": "Postularse. Va con «for»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "to apply",
+          "phonetic": "tu a-PLAI"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "to apply",
+          "phonetic": "tu a-PLAI",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Now you can look for a job.",
+          "native": "Ahora podes buscar trabajo."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "interview",
+            "target": "Say interview.",
+            "native": "Deci «entrevista»."
+          },
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "skill",
+            "target": "Say skill.",
+            "native": "Deci «habilidad»."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "day": 11,
+      "role": "PRACTISE",
+      "focus": "Trabajo y oficios",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today: what you can do.",
+          "native": "Hoy: lo que sabes hacer."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I can use a computer.",
+          "phonetic": "ai KAN ius a com-PIU-ter",
+          "target": "I can use a computer.",
+          "native": "Se usar una computadora. «Can» no lleva «to» detras."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I can use a computer.",
+          "phonetic": "ai KAN ius a com-PIU-ter"
+        },
+        {
+          "kind": "SHOW",
+          "item": "I have five years of experience.",
+          "phonetic": "ai jav FAIV IIRS of eks-PI-riens",
+          "target": "I have five years of experience.",
+          "native": "Tengo cinco anos de experiencia."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I have five years of experience.",
+          "phonetic": "ai jav FAIV IIRS of eks-PI-riens"
+        },
+        {
+          "kind": "SHOW",
+          "item": "I would like to",
+          "phonetic": "ai uud LAIK tu",
+          "target": "I would like to work here.",
+          "native": "Me gustaria trabajar aca. Mas cortes que «I want»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I would like to",
+          "phonetic": "ai uud LAIK tu"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "I would like to",
+          "phonetic": "ai uud LAIK tu",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "That is half a job interview.",
+          "native": "Eso es media entrevista de trabajo."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "I can use a computer",
+            "target": "Tell me you can use a computer.",
+            "native": "Deci que sabes usar una computadora."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "day": 13,
+      "role": "COMBINE",
+      "focus": "Trabajo y oficios",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Last day. A whole interview.",
+          "native": "Ultimo dia. Una entrevista entera."
+        },
+        {
+          "kind": "SHOW",
+          "item": "Good morning. My name is Ana.",
+          "phonetic": "gud MOR-ning mai NEIM is A-na",
+          "target": "Good morning. My name is Ana.",
+          "native": "Buenos dias. Me llamo Ana."
+        },
+        {
+          "kind": "MODEL",
+          "item": "Good morning. My name is Ana.",
+          "phonetic": "gud MOR-ning mai NEIM is A-na"
+        },
+        {
+          "kind": "SHOW",
+          "item": "I have three years of experience and I can speak English.",
+          "phonetic": "ai jav ZRII IIRS of eks-PI-riens and ai KAN spiik IN-glish",
+          "target": "I have three years of experience and I can speak English.",
+          "native": "Tengo tres anos de experiencia y hablo ingles."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I have three years of experience and I can speak English.",
+          "phonetic": "ai jav ZRII IIRS of eks-PI-riens and ai KAN spiik IN-glish"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "I have three years of experience and I can speak English.",
+          "phonetic": "ai jav ZRII IIRS of eks-PI-riens and ai KAN spiik IN-glish",
+          "target": "Now you. The whole sentence.",
+          "native": "Ahora vos, la frase entera."
+        },
+        {
+          "kind": "SHOW",
+          "item": "Thank you for your time",
+          "phonetic": "ZENK iu for ior TAIM",
+          "target": "Thank you for your time.",
+          "native": "Gracias por su tiempo. Es como se cierra una entrevista."
+        },
+        {
+          "kind": "MODEL",
+          "item": "Thank you for your time",
+          "phonetic": "ZENK iu for ior TAIM"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "Thank you for your time",
+          "phonetic": "ZENK iu for ior TAIM",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Next unit: health.",
+          "native": "La unidad que sigue: la salud."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "I can",
+            "target": "Tell me what you can do.",
+            "native": "Deci algo que sepas hacer."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "day": 1,
+      "role": "PRESENT",
+      "focus": "Salud y habitos",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Unit nine. Today: your body and how you feel.",
+          "native": "Unidad nueve. Hoy: el cuerpo y como te sentis."
+        },
+        {
+          "kind": "SHOW",
+          "item": "headache",
+          "phonetic": "JED-eik",
+          "target": "A headache.",
+          "native": "Dolor de cabeza."
+        },
+        {
+          "kind": "MODEL",
+          "item": "headache",
+          "phonetic": "JED-eik"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "headache",
+          "phonetic": "JED-eik",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "sore throat",
+          "phonetic": "SOR ZROUT",
+          "target": "A sore throat.",
+          "native": "Dolor de garganta."
+        },
+        {
+          "kind": "MODEL",
+          "item": "sore throat",
+          "phonetic": "SOR ZROUT"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "sore throat",
+          "phonetic": "SOR ZROUT",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "fever",
+          "phonetic": "FII-ver",
+          "target": "A fever.",
+          "native": "Fiebre."
+        },
+        {
+          "kind": "MODEL",
+          "item": "fever",
+          "phonetic": "FII-ver"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "fever",
+          "phonetic": "FII-ver",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "cough",
+          "phonetic": "COF",
+          "target": "A cough.",
+          "native": "Tos. Se dice «cof», la gh suena f."
+        },
+        {
+          "kind": "MODEL",
+          "item": "cough",
+          "phonetic": "COF"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "cough",
+          "phonetic": "COF",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "to hurt",
+          "phonetic": "tu JERT",
+          "target": "It hurts.",
+          "native": "Doler."
+        },
+        {
+          "kind": "MODEL",
+          "item": "to hurt",
+          "phonetic": "tu JERT"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "to hurt",
+          "phonetic": "tu JERT",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "headache",
+            "sore throat",
+            "fever",
+            "cough"
+          ],
+          "target": "Together.",
+          "native": "Juntos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Now you can say what is wrong.",
+          "native": "Ahora podes decir que te pasa. Manana vamos al medico."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "headache",
+            "target": "Say headache.",
+            "native": "Deci «dolor de cabeza»."
+          },
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "fever",
+            "target": "Say fever.",
+            "native": "Deci «fiebre»."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "day": 3,
+      "role": "PRACTISE",
+      "focus": "Salud y habitos",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today: at the doctor.",
+          "native": "Hoy: en el medico."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I have a headache.",
+          "phonetic": "ai jav a JED-eik",
+          "target": "I have a headache.",
+          "native": "Me duele la cabeza. En ingles el dolor se TIENE, no duele."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I have a headache.",
+          "phonetic": "ai jav a JED-eik"
+        },
+        {
+          "kind": "SHOW",
+          "item": "I don't feel well",
+          "phonetic": "ai dount FIIL uel",
+          "target": "I don't feel well.",
+          "native": "No me siento bien."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I don't feel well",
+          "phonetic": "ai dount FIIL uel"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "I don't feel well",
+          "phonetic": "ai dount FIIL uel",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "since yesterday",
+          "phonetic": "sins IES-ter-dei",
+          "target": "Since yesterday.",
+          "native": "Desde ayer."
+        },
+        {
+          "kind": "MODEL",
+          "item": "since yesterday",
+          "phonetic": "sins IES-ter-dei"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "since yesterday",
+          "phonetic": "sins IES-ter-dei",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I have had a fever since yesterday.",
+          "phonetic": "ai jav JAD a FII-ver sins IES-ter-dei",
+          "target": "I have had a fever since yesterday.",
+          "native": "Tengo fiebre desde ayer. Ese «have had» es el present perfect de la unidad."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I have had a fever since yesterday.",
+          "phonetic": "ai jav JAD a FII-ver sins IES-ter-dei"
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can describe a symptom now.",
+          "native": "Ya podes describir un sintoma."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "I have a sore throat",
+            "target": "Tell me you have a sore throat.",
+            "native": "Deci que te duele la garganta."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "day": 6,
+      "role": "COMBINE",
+      "focus": "Salud y habitos",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Health plus what you already know.",
+          "native": "La salud, mas lo que ya sabes."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I can't go to work today. I have a fever.",
+          "phonetic": "ai KANT gou tu UERK tu-DEI ai jav a FII-ver",
+          "target": "I can't go to work today. I have a fever.",
+          "native": "Hoy no puedo ir a trabajar. Tengo fiebre."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I can't go to work today. I have a fever.",
+          "phonetic": "ai KANT gou tu UERK tu-DEI ai jav a FII-ver"
+        },
+        {
+          "kind": "SHOW",
+          "item": "I have an appointment at four o'clock.",
+          "phonetic": "ai jav an a-POINT-ment at FOR o-CLOK",
+          "target": "I have an appointment at four o'clock.",
+          "native": "Tengo turno a las cuatro."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I have an appointment at four o'clock.",
+          "phonetic": "ai jav an a-POINT-ment at FOR o-CLOK"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "I have an appointment at four o'clock.",
+          "phonetic": "ai jav an a-POINT-ment at FOR o-CLOK",
+          "target": "Now you. The whole sentence.",
+          "native": "Ahora vos, la frase entera."
+        },
+        {
+          "kind": "SHOW",
+          "item": "Get well soon",
+          "phonetic": "guet UEL SUUN",
+          "target": "Get well soon.",
+          "native": "Que te mejores. Se le dice a alguien enfermo."
+        },
+        {
+          "kind": "MODEL",
+          "item": "Get well soon",
+          "phonetic": "guet UEL SUUN"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "Get well soon",
+          "phonetic": "guet UEL SUUN",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Unit nine is done.",
+          "native": "Terminamos la unidad nueve."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "I can't go to work today",
+            "target": "Say you can't go to work today.",
+            "native": "Deci que hoy no podes ir a trabajar."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "day": 8,
+      "role": "PRESENT",
+      "focus": "Salud y habitos",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Back to health: habits this time.",
+          "native": "Volvemos a la salud, ahora los habitos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "healthy",
+          "phonetic": "JEL-zi",
+          "target": "Healthy.",
+          "native": "Saludable."
+        },
+        {
+          "kind": "MODEL",
+          "item": "healthy",
+          "phonetic": "JEL-zi"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "healthy",
+          "phonetic": "JEL-zi",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "to exercise",
+          "phonetic": "tu EK-ser-sais",
+          "target": "To exercise.",
+          "native": "Hacer ejercicio."
+        },
+        {
+          "kind": "MODEL",
+          "item": "to exercise",
+          "phonetic": "tu EK-ser-sais"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "to exercise",
+          "phonetic": "tu EK-ser-sais",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "to sleep",
+          "phonetic": "tu SLIIP",
+          "target": "To sleep.",
+          "native": "Dormir."
+        },
+        {
+          "kind": "MODEL",
+          "item": "to sleep",
+          "phonetic": "tu SLIIP"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "to sleep",
+          "phonetic": "tu SLIIP",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "enough",
+          "phonetic": "i-NAF",
+          "target": "Enough.",
+          "native": "Suficiente. Se dice «i-NAF»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "enough",
+          "phonetic": "i-NAF"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "enough",
+          "phonetic": "i-NAF",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Habits, not just symptoms.",
+          "native": "Habitos, no solo sintomas."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "healthy",
+            "target": "Say healthy.",
+            "native": "Deci «saludable»."
+          },
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "enough",
+            "target": "Say enough.",
+            "native": "Deci «suficiente»."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "day": 11,
+      "role": "PRACTISE",
+      "focus": "Salud y habitos",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today: advice.",
+          "native": "Hoy: dar consejos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "You should sleep more.",
+          "phonetic": "iu SHUD sliip MOR",
+          "target": "You should sleep more.",
+          "native": "Deberias dormir mas. «Should» va sin «to»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "You should sleep more.",
+          "phonetic": "iu SHUD sliip MOR"
+        },
+        {
+          "kind": "SHOW",
+          "item": "You shouldn't eat so late.",
+          "phonetic": "iu SHU-dent iit sou LEIT",
+          "target": "You shouldn't eat so late.",
+          "native": "No deberias comer tan tarde."
+        },
+        {
+          "kind": "MODEL",
+          "item": "You shouldn't eat so late.",
+          "phonetic": "iu SHU-dent iit sou LEIT"
+        },
+        {
+          "kind": "SHOW",
+          "item": "I don't sleep enough",
+          "phonetic": "ai dount sliip i-NAF",
+          "target": "I don't sleep enough.",
+          "native": "No duermo lo suficiente."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I don't sleep enough",
+          "phonetic": "ai dount sliip i-NAF"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "I don't sleep enough",
+          "phonetic": "ai dount sliip i-NAF",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can give advice now.",
+          "native": "Ya podes dar un consejo."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "you should sleep more",
+            "target": "Give me advice: tell me to sleep more.",
+            "native": "Aconsejame dormir mas."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "day": 13,
+      "role": "COMBINE",
+      "focus": "Salud y habitos",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Last day of unit nine.",
+          "native": "Ultimo dia de la unidad nueve."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I don't feel well. I have a headache and I didn't sleep enough.",
+          "phonetic": "ai dount FIIL uel ai jav a JED-eik and ai DI-dent sliip i-NAF",
+          "target": "I don't feel well. I have a headache and I didn't sleep enough.",
+          "native": "No me siento bien. Me duele la cabeza y no dormi lo suficiente."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I don't feel well. I have a headache and I didn't sleep enough.",
+          "phonetic": "ai dount FIIL uel ai jav a JED-eik and ai DI-dent sliip i-NAF"
+        },
+        {
+          "kind": "SHOW",
+          "item": "You should rest today.",
+          "phonetic": "iu SHUD rest tu-DEI",
+          "target": "You should rest today.",
+          "native": "Deberias descansar hoy."
+        },
+        {
+          "kind": "MODEL",
+          "item": "You should rest today.",
+          "phonetic": "iu SHUD rest tu-DEI"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "You should rest today.",
+          "phonetic": "iu SHUD rest tu-DEI",
+          "target": "Now you. The whole sentence.",
+          "native": "Ahora vos, la frase entera."
+        },
+        {
+          "kind": "SHOW",
+          "item": "Take care",
+          "phonetic": "teik KER",
+          "target": "Take care.",
+          "native": "Cuidate. Sirve para despedirse y para desear salud."
+        },
+        {
+          "kind": "MODEL",
+          "item": "Take care",
+          "phonetic": "teik KER"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "Take care",
+          "phonetic": "teik KER",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Next unit: the planet.",
+          "native": "La unidad que sigue: el planeta."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "I don't feel well",
+            "target": "Tell me you don't feel well.",
+            "native": "Deci que no te sentis bien."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "day": 1,
+      "role": "PRESENT",
+      "focus": "El medio ambiente",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Unit ten. Today: the planet.",
+          "native": "Unidad diez. Hoy: el planeta."
+        },
+        {
+          "kind": "SHOW",
+          "item": "environment",
+          "phonetic": "en-VAI-ron-ment",
+          "target": "The environment.",
+          "native": "El medio ambiente."
+        },
+        {
+          "kind": "MODEL",
+          "item": "environment",
+          "phonetic": "en-VAI-ron-ment"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "environment",
+          "phonetic": "en-VAI-ron-ment",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "rubbish",
+          "phonetic": "RA-bish",
+          "target": "Rubbish: what you throw away.",
+          "native": "La basura. En Estados Unidos se dice «trash»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "rubbish",
+          "phonetic": "RA-bish"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "rubbish",
+          "phonetic": "RA-bish",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "to recycle",
+          "phonetic": "tu ri-SAI-cal",
+          "target": "To recycle.",
+          "native": "Reciclar."
+        },
+        {
+          "kind": "MODEL",
+          "item": "to recycle",
+          "phonetic": "tu ri-SAI-cal"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "to recycle",
+          "phonetic": "tu ri-SAI-cal",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "plastic",
+          "phonetic": "PLAS-tic",
+          "target": "Plastic.",
+          "native": "Plastico."
+        },
+        {
+          "kind": "MODEL",
+          "item": "plastic",
+          "phonetic": "PLAS-tic"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "plastic",
+          "phonetic": "PLAS-tic",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "to waste",
+          "phonetic": "tu UEIST",
+          "target": "To waste.",
+          "native": "Desperdiciar."
+        },
+        {
+          "kind": "MODEL",
+          "item": "to waste",
+          "phonetic": "tu UEIST"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "to waste",
+          "phonetic": "tu UEIST",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "environment",
+            "rubbish",
+            "recycle",
+            "plastic"
+          ],
+          "target": "Together.",
+          "native": "Juntos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Five words about the planet.",
+          "native": "Cinco palabras del planeta."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "recycle",
+            "target": "Say recycle.",
+            "native": "Deci «reciclar»."
+          },
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "plastic",
+            "target": "Say plastic.",
+            "native": "Deci «plastico»."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "day": 3,
+      "role": "PRACTISE",
+      "focus": "El medio ambiente",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today: what we should do.",
+          "native": "Hoy: lo que deberiamos hacer."
+        },
+        {
+          "kind": "SHOW",
+          "item": "We should recycle more.",
+          "phonetic": "ui SHUD ri-SAI-cal MOR",
+          "target": "We should recycle more.",
+          "native": "Deberiamos reciclar mas."
+        },
+        {
+          "kind": "MODEL",
+          "item": "We should recycle more.",
+          "phonetic": "ui SHUD ri-SAI-cal MOR"
+        },
+        {
+          "kind": "SHOW",
+          "item": "We must reduce plastic.",
+          "phonetic": "ui MAST ri-DIUS PLAS-tic",
+          "target": "We must reduce plastic.",
+          "native": "Tenemos que reducir el plastico. «Must» es mas fuerte que «should»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "We must reduce plastic.",
+          "phonetic": "ui MAST ri-DIUS PLAS-tic"
+        },
+        {
+          "kind": "SHOW",
+          "item": "You mustn't",
+          "phonetic": "iu MA-sent",
+          "target": "You mustn't throw that away.",
+          "native": "No debes: eso es prohibicion, no falta de obligacion."
+        },
+        {
+          "kind": "MODEL",
+          "item": "You mustn't",
+          "phonetic": "iu MA-sent"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "You mustn't",
+          "phonetic": "iu MA-sent",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Should recommends. Must obliges.",
+          "native": "«Should» recomienda, «must» obliga. Esa diferencia es toda la unidad."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "we should recycle more",
+            "target": "Say we should recycle more.",
+            "native": "Deci que deberiamos reciclar mas."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "day": 6,
+      "role": "COMBINE",
+      "focus": "El medio ambiente",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "The planet plus everything else.",
+          "native": "El planeta, mas todo lo demas."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I go to work by bike. It's better for the environment.",
+          "phonetic": "ai GOU tu UERK bai BAIK its BE-ter for de en-VAI-ron-ment",
+          "target": "I go to work by bike. It's better for the environment.",
+          "native": "Voy a trabajar en bici. Es mejor para el medio ambiente."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I go to work by bike. It's better for the environment.",
+          "phonetic": "ai GOU tu UERK bai BAIK its BE-ter for de en-VAI-ron-ment"
+        },
+        {
+          "kind": "SHOW",
+          "item": "Plastic is recycled in this city.",
+          "phonetic": "PLAS-tic is ri-SAI-cald in dis SI-ti",
+          "target": "Plastic is recycled in this city.",
+          "native": "El plastico se recicla en esta ciudad. Esa es la pasiva de la unidad."
+        },
+        {
+          "kind": "MODEL",
+          "item": "Plastic is recycled in this city.",
+          "phonetic": "PLAS-tic is ri-SAI-cald in dis SI-ti"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "Plastic is recycled in this city.",
+          "phonetic": "PLAS-tic is ri-SAI-cald in dis SI-ti",
+          "target": "Now you. The whole sentence.",
+          "native": "Ahora vos, la frase entera."
+        },
+        {
+          "kind": "SHOW",
+          "item": "It's worth it",
+          "phonetic": "its UERZ it",
+          "target": "It's worth it.",
+          "native": "Vale la pena. Util para cerrar cualquier argumento."
+        },
+        {
+          "kind": "MODEL",
+          "item": "It's worth it",
+          "phonetic": "its UERZ it"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "It's worth it",
+          "phonetic": "its UERZ it",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Unit ten is done.",
+          "native": "Terminamos la unidad diez."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "I go to work by",
+            "target": "Tell me how you go to work.",
+            "native": "Deci como vas a trabajar."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "day": 8,
+      "role": "PRESENT",
+      "focus": "El medio ambiente",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Back to the planet, with less help.",
+          "native": "Volvemos al planeta, con menos ayuda."
+        },
+        {
+          "kind": "SHOW",
+          "item": "climate change",
+          "phonetic": "CLAI-mat CHEINCH",
+          "target": "Climate change.",
+          "native": "El cambio climatico."
+        },
+        {
+          "kind": "MODEL",
+          "item": "climate change",
+          "phonetic": "CLAI-mat CHEINCH"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "climate change",
+          "phonetic": "CLAI-mat CHEINCH",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "pollution",
+          "phonetic": "po-LU-shon",
+          "target": "Pollution.",
+          "native": "La contaminacion."
+        },
+        {
+          "kind": "MODEL",
+          "item": "pollution",
+          "phonetic": "po-LU-shon"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "pollution",
+          "phonetic": "po-LU-shon",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "energy",
+          "phonetic": "E-ner-yi",
+          "target": "Energy.",
+          "native": "La energia."
+        },
+        {
+          "kind": "MODEL",
+          "item": "energy",
+          "phonetic": "E-ner-yi"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "energy",
+          "phonetic": "E-ner-yi",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "to save",
+          "phonetic": "tu SEIV",
+          "target": "To save water.",
+          "native": "Ahorrar. Tambien es «salvar»."
+        },
+        {
+          "kind": "MODEL",
+          "item": "to save",
+          "phonetic": "tu SEIV"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "to save",
+          "phonetic": "tu SEIV",
+          "target": "Now you.",
+          "native": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "The big words now.",
+          "native": "Ahora las palabras grandes."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "pollution",
+            "target": "Say pollution.",
+            "native": "Deci «contaminacion»."
+          },
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "energy",
+            "target": "Say energy.",
+            "native": "Deci «energia»."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "day": 11,
+      "role": "PRACTISE",
+      "focus": "El medio ambiente",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today: if we did things differently.",
+          "native": "Hoy: que pasaria si hicieramos las cosas distinto."
+        },
+        {
+          "kind": "SHOW",
+          "item": "If we recycled more, we would produce less rubbish.",
+          "phonetic": "if ui ri-SAI-cald MOR ui uud pro-DIUS LES RA-bish",
+          "target": "If we recycled more, we would produce less rubbish.",
+          "native": "Si reciclaramos mas, produciriamos menos basura."
+        },
+        {
+          "kind": "MODEL",
+          "item": "If we recycled more, we would produce less rubbish.",
+          "phonetic": "if ui ri-SAI-cald MOR ui uud pro-DIUS LES RA-bish"
+        },
+        {
+          "kind": "SHOW",
+          "item": "The air would be cleaner.",
+          "phonetic": "de ER uud bi CLII-ner",
+          "target": "The air would be cleaner.",
+          "native": "El aire seria mas limpio."
+        },
+        {
+          "kind": "MODEL",
+          "item": "The air would be cleaner.",
+          "phonetic": "de ER uud bi CLII-ner"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "The air would be cleaner.",
+          "phonetic": "de ER uud bi CLII-ner",
+          "target": "Now you. The whole sentence.",
+          "native": "Ahora vos, la frase entera."
+        },
+        {
+          "kind": "SAY",
+          "target": "That past is not the past: it marks something imaginary.",
+          "native": "Ese pasado no habla del pasado: marca que es imaginario. Es el segundo condicional."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can argue now.",
+          "native": "Ya podes argumentar."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "the air would be cleaner",
+            "target": "Say the air would be cleaner.",
+            "native": "Deci que el aire seria mas limpio."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "day": 13,
+      "role": "COMBINE",
+      "focus": "El medio ambiente",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Last day of A2. Everything together.",
+          "native": "Ultimo dia de A2. Todo junto."
+        },
+        {
+          "kind": "SHOW",
+          "item": "I recycle at home and I go to work by bike.",
+          "phonetic": "ai ri-SAI-cal at JOUM and ai GOU tu UERK bai BAIK",
+          "target": "I recycle at home and I go to work by bike.",
+          "native": "Reciclo en casa y voy a trabajar en bici."
+        },
+        {
+          "kind": "MODEL",
+          "item": "I recycle at home and I go to work by bike.",
+          "phonetic": "ai ri-SAI-cal at JOUM and ai GOU tu UERK bai BAIK"
+        },
+        {
+          "kind": "SHOW",
+          "item": "If everyone did that, there would be less pollution.",
+          "phonetic": "if EV-ri-uan DID dat der uud bi LES po-LU-shon",
+          "target": "If everyone did that, there would be less pollution.",
+          "native": "Si todos hicieran eso, habria menos contaminacion."
+        },
+        {
+          "kind": "MODEL",
+          "item": "If everyone did that, there would be less pollution.",
+          "phonetic": "if EV-ri-uan DID dat der uud bi LES po-LU-shon"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "If everyone did that, there would be less pollution.",
+          "phonetic": "if EV-ri-uan DID dat der uud bi LES po-LU-shon",
+          "target": "Now you. The whole sentence.",
+          "native": "Ahora vos, la frase entera."
+        },
+        {
+          "kind": "SAY",
+          "target": "Ten units ago you could not say hello. Now you can hold an opinion.",
+          "native": "Hace diez unidades no sabias decir «hola». Ahora podes sostener una opinion."
+        },
+        {
+          "kind": "RECAP",
+          "target": "This is the end of A2.",
+          "native": "Aca termina A2. Lo que sigue son frases mas largas y mas sueltas."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "I recycle",
+            "target": "Tell me one thing you do for the planet.",
+            "native": "Deci una cosa que hagas por el planeta."
+          }
+        ]
+      ]
+    }
+  ]
+}

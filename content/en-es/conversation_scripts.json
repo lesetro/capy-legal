@@ -1,0 +1,3130 @@
+{
+  "pair": "en-es",
+  "format_version": 2,
+  "_comment": "Conversaciones de en-es. El bot habla español -el idioma que se aprende- y titulo, descripcion y pista van en ingles. Las keywords son españolas: son lo que se busca en la respuesta del alumno.",
+  "scripts": [
+    {
+      "id": "first_meeting",
+      "unit": 1,
+      "title": "Meeting someone new",
+      "description": "Say hello, give your name and ask for theirs",
+      "bot_role": "Someone you've just met",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "¡Hola! Buenos días.",
+          "bot_native": "Hello! Good morning.",
+          "example_responses": [
+            {
+              "target": "¡Hola! Buenos días.",
+              "native": "Hello! Good morning."
+            },
+            {
+              "target": "Buenos días, ¿qué tal?",
+              "native": "Good morning, how are you?"
+            }
+          ],
+          "keywords": [
+            "hola",
+            "buenos",
+            "días",
+            "buenas",
+            "qué tal"
+          ],
+          "min_length": 3,
+          "hint": "Greet them back. Try hola or buenos días.",
+          "redirect": "Perdón, no te escuché. ¿Me saludás otra vez?"
+        },
+        {
+          "bot": "Me llamo Ana. ¿Y vos, cómo te llamás?",
+          "bot_native": "My name is Ana. And you, what's your name?",
+          "example_responses": [
+            {
+              "target": "Me llamo Peter.",
+              "native": "My name is Peter."
+            },
+            {
+              "target": "Yo me llamo Sarah, mucho gusto.",
+              "native": "My name is Sarah, nice to meet you."
+            }
+          ],
+          "keywords": [
+            "me llamo",
+            "soy",
+            "nombre"
+          ],
+          "min_length": 3,
+          "hint": "Give your name: me llamo and then your name.",
+          "redirect": "¿Cómo te llamás?"
+        },
+        {
+          "bot": "Mucho gusto. ¿De dónde sos?",
+          "bot_native": "Nice to meet you. Where are you from?",
+          "example_responses": [
+            {
+              "target": "Soy de Irlanda.",
+              "native": "I'm from Ireland."
+            },
+            {
+              "target": "Soy de Estados Unidos, de Chicago.",
+              "native": "I'm from the United States, from Chicago."
+            }
+          ],
+          "keywords": [
+            "soy de",
+            "vengo de",
+            "de"
+          ],
+          "min_length": 3,
+          "hint": "Say where you're from: soy de and the country.",
+          "redirect": "¿De qué país sos?"
+        },
+        {
+          "bot": "¡Qué bien! ¿Y hablás español?",
+          "bot_native": "How nice! And do you speak Spanish?",
+          "example_responses": [
+            {
+              "target": "Hablo un poco de español.",
+              "native": "I speak a little Spanish."
+            },
+            {
+              "target": "Sí, hablo un poco. Estoy aprendiendo.",
+              "native": "Yes, a little. I'm learning."
+            }
+          ],
+          "keywords": [
+            "hablo",
+            "un poco",
+            "sí",
+            "aprendiendo"
+          ],
+          "min_length": 3,
+          "hint": "Say you speak a little: hablo un poco.",
+          "redirect": "¿Hablás español?"
+        }
+      ]
+    },
+    {
+      "id": "family_chat",
+      "unit": 2,
+      "title": "Talking about family",
+      "description": "Say who is in your family and how old they are",
+      "bot_role": "A new colleague",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "Contame, ¿tenés hermanos?",
+          "bot_native": "Tell me, do you have any siblings?",
+          "example_responses": [
+            {
+              "target": "Tengo dos hermanos.",
+              "native": "I have two siblings."
+            },
+            {
+              "target": "No tengo hermanos, soy hijo único.",
+              "native": "I don't have any, I'm an only child."
+            }
+          ],
+          "keywords": [
+            "tengo",
+            "no tengo",
+            "hermano",
+            "hermana"
+          ],
+          "min_length": 3,
+          "hint": "Use tengo or no tengo, plus the number.",
+          "redirect": "¿Tenés hermanos o hermanas?"
+        },
+        {
+          "bot": "¿Y cuántos años tienen?",
+          "bot_native": "And how old are they?",
+          "example_responses": [
+            {
+              "target": "Mi hermana tiene treinta años.",
+              "native": "My sister is thirty."
+            },
+            {
+              "target": "Tienen veinte y veinticinco años.",
+              "native": "They're twenty and twenty-five."
+            }
+          ],
+          "keywords": [
+            "tiene",
+            "tienen",
+            "años"
+          ],
+          "min_length": 3,
+          "hint": "Remember: in Spanish you HAVE years. Tiene treinta años.",
+          "redirect": "¿Qué edad tienen?"
+        },
+        {
+          "bot": "¿Y tus padres, dónde viven?",
+          "bot_native": "And your parents, where do they live?",
+          "example_responses": [
+            {
+              "target": "Mis padres viven en Londres.",
+              "native": "My parents live in London."
+            },
+            {
+              "target": "Viven cerca de mí.",
+              "native": "They live near me."
+            }
+          ],
+          "keywords": [
+            "viven",
+            "padres",
+            "en",
+            "cerca"
+          ],
+          "min_length": 3,
+          "hint": "Mis padres viven en, and the place.",
+          "redirect": "¿Dónde viven tus padres?"
+        },
+        {
+          "bot": "¿A qué se dedican?",
+          "bot_native": "What do they do for a living?",
+          "example_responses": [
+            {
+              "target": "Mi padre es profesor.",
+              "native": "My father is a teacher."
+            },
+            {
+              "target": "Mi madre es médica y mi padre está jubilado.",
+              "native": "My mother is a doctor and my father is retired."
+            }
+          ],
+          "keywords": [
+            "es",
+            "son",
+            "trabaja",
+            "profesor",
+            "médic",
+            "jubilad"
+          ],
+          "min_length": 3,
+          "hint": "No article: es profesor, never es un profesor.",
+          "redirect": "¿En qué trabajan?"
+        }
+      ]
+    },
+    {
+      "id": "daily_routine",
+      "unit": 3,
+      "title": "Your daily routine",
+      "description": "Describe your day and say what time you do things",
+      "bot_role": "A friend",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "¿A qué hora te levantás normalmente?",
+          "bot_native": "What time do you usually get up?",
+          "example_responses": [
+            {
+              "target": "Me levanto a las siete.",
+              "native": "I get up at seven."
+            },
+            {
+              "target": "Me levanto muy temprano, a las seis.",
+              "native": "I get up very early, at six."
+            }
+          ],
+          "keywords": [
+            "me levanto",
+            "a las",
+            "temprano",
+            "tarde"
+          ],
+          "min_length": 3,
+          "hint": "Don't drop the me: me levanto a las siete.",
+          "redirect": "¿A qué hora te levantás?"
+        },
+        {
+          "bot": "¿Y qué hacés después?",
+          "bot_native": "And what do you do after that?",
+          "example_responses": [
+            {
+              "target": "Desayuno y voy a trabajar.",
+              "native": "I have breakfast and go to work."
+            },
+            {
+              "target": "Me ducho y desayuno rápido.",
+              "native": "I shower and have a quick breakfast."
+            }
+          ],
+          "keywords": [
+            "desayuno",
+            "ducho",
+            "trabajo",
+            "voy"
+          ],
+          "min_length": 3,
+          "hint": "Two or three verbs joined with y is plenty.",
+          "redirect": "¿Qué hacés después de levantarte?"
+        },
+        {
+          "bot": "¿Dónde trabajás?",
+          "bot_native": "Where do you work?",
+          "example_responses": [
+            {
+              "target": "Trabajo en una oficina en el centro.",
+              "native": "I work in an office in the centre."
+            },
+            {
+              "target": "Trabajo en casa.",
+              "native": "I work from home."
+            }
+          ],
+          "keywords": [
+            "trabajo",
+            "en",
+            "oficina",
+            "casa"
+          ],
+          "min_length": 3,
+          "hint": "Trabajo en, and the place. En covers in, on and at.",
+          "redirect": "¿En qué lugar trabajás?"
+        },
+        {
+          "bot": "¿Hay un café cerca de tu trabajo?",
+          "bot_native": "Is there a café near your work?",
+          "example_responses": [
+            {
+              "target": "Sí, hay dos cafés muy cerca.",
+              "native": "Yes, there are two cafés very close by."
+            },
+            {
+              "target": "No hay ninguno cerca.",
+              "native": "There aren't any nearby."
+            }
+          ],
+          "keywords": [
+            "hay",
+            "no hay",
+            "cerca",
+            "café"
+          ],
+          "min_length": 3,
+          "hint": "Hay covers both there is and there are.",
+          "redirect": "¿Hay algún café cerca?"
+        }
+      ]
+    },
+    {
+      "id": "asking_the_way",
+      "unit": 4,
+      "title": "Asking for directions",
+      "description": "Stop someone in the street and find the station",
+      "bot_role": "A passer-by",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "¿Sí? ¿En qué te puedo ayudar?",
+          "bot_native": "Yes? How can I help you?",
+          "example_responses": [
+            {
+              "target": "Perdone, ¿dónde está la estación?",
+              "native": "Excuse me, where is the station?"
+            },
+            {
+              "target": "Perdone, busco la estación de tren.",
+              "native": "Excuse me, I'm looking for the train station."
+            }
+          ],
+          "keywords": [
+            "perdone",
+            "dónde está",
+            "busco",
+            "estación"
+          ],
+          "min_length": 3,
+          "hint": "Start with perdone, then ¿dónde está…?",
+          "redirect": "¿Qué estás buscando?"
+        },
+        {
+          "bot": "Seguí todo recto y girá a la derecha en el semáforo.",
+          "bot_native": "Go straight on and turn right at the traffic light.",
+          "example_responses": [
+            {
+              "target": "¿A la derecha en el semáforo?",
+              "native": "Right at the traffic light?"
+            },
+            {
+              "target": "Perdón, ¿podés repetir más despacio?",
+              "native": "Sorry, can you repeat that more slowly?"
+            }
+          ],
+          "keywords": [
+            "derecha",
+            "izquierda",
+            "recto",
+            "repetir",
+            "despacio"
+          ],
+          "min_length": 3,
+          "hint": "Repeat it back, or ask them to slow down.",
+          "redirect": "¿Entendiste o te lo repito?"
+        },
+        {
+          "bot": "Sí, en el semáforo. Está a dos cuadras.",
+          "bot_native": "Yes, at the light. It's two blocks away.",
+          "example_responses": [
+            {
+              "target": "¿Está lejos?",
+              "native": "Is it far?"
+            },
+            {
+              "target": "¿Puedo ir caminando?",
+              "native": "Can I walk there?"
+            }
+          ],
+          "keywords": [
+            "lejos",
+            "cerca",
+            "caminando",
+            "puedo",
+            "cuánto"
+          ],
+          "min_length": 3,
+          "hint": "Ask if it's far, or whether you can walk.",
+          "redirect": "¿Querés saber algo más?"
+        },
+        {
+          "bot": "No, está muy cerca. Cinco minutos caminando.",
+          "bot_native": "No, it's very close. Five minutes on foot.",
+          "example_responses": [
+            {
+              "target": "Muchas gracias, muy amable.",
+              "native": "Thank you very much, that's very kind."
+            },
+            {
+              "target": "Gracias, hasta luego.",
+              "native": "Thanks, goodbye."
+            }
+          ],
+          "keywords": [
+            "gracias",
+            "amable",
+            "hasta luego",
+            "adiós"
+          ],
+          "min_length": 3,
+          "hint": "Thank them and say goodbye.",
+          "redirect": "¿Necesitás algo más?"
+        }
+      ]
+    },
+    {
+      "id": "free_time",
+      "unit": 5,
+      "title": "What you like doing",
+      "description": "Talk about your free time and what you enjoy",
+      "bot_role": "A friend",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "¿Qué te gusta hacer en tu tiempo libre?",
+          "bot_native": "What do you like doing in your free time?",
+          "example_responses": [
+            {
+              "target": "Me gusta leer y caminar.",
+              "native": "I like reading and walking."
+            },
+            {
+              "target": "Me gusta mucho cocinar.",
+              "native": "I really like cooking."
+            }
+          ],
+          "keywords": [
+            "me gusta",
+            "me encanta",
+            "leer",
+            "cocinar",
+            "caminar"
+          ],
+          "min_length": 3,
+          "hint": "Me gusta plus an infinitive stays singular, even for two things.",
+          "redirect": "¿Qué hacés cuando no trabajás?"
+        },
+        {
+          "bot": "¿Te gustan las películas?",
+          "bot_native": "Do you like films?",
+          "example_responses": [
+            {
+              "target": "Sí, me gustan mucho las películas.",
+              "native": "Yes, I like films a lot."
+            },
+            {
+              "target": "No me gustan, prefiero las series.",
+              "native": "I don't like them, I prefer series."
+            }
+          ],
+          "keywords": [
+            "me gustan",
+            "no me gustan",
+            "prefiero"
+          ],
+          "min_length": 3,
+          "hint": "Plural thing, plural verb: me gustan.",
+          "redirect": "¿Te gustan las películas o no?"
+        },
+        {
+          "bot": "¿Y qué tipo de música te gusta?",
+          "bot_native": "And what kind of music do you like?",
+          "example_responses": [
+            {
+              "target": "Me encanta la música clásica.",
+              "native": "I love classical music."
+            },
+            {
+              "target": "Me gusta el rock, sobre todo el antiguo.",
+              "native": "I like rock, especially the old stuff."
+            }
+          ],
+          "keywords": [
+            "me gusta",
+            "me encanta",
+            "música",
+            "rock",
+            "clásica"
+          ],
+          "min_length": 3,
+          "hint": "Try me encanta — but never me encanta mucho.",
+          "redirect": "¿Qué música escuchás?"
+        },
+        {
+          "bot": "¿Cuándo salís normalmente, entre semana o los fines?",
+          "bot_native": "When do you usually go out, weekdays or weekends?",
+          "example_responses": [
+            {
+              "target": "Salgo los fines de semana.",
+              "native": "I go out at weekends."
+            },
+            {
+              "target": "Casi siempre los sábados.",
+              "native": "Almost always on Saturdays."
+            }
+          ],
+          "keywords": [
+            "salgo",
+            "fin de semana",
+            "sábado",
+            "siempre",
+            "a veces"
+          ],
+          "min_length": 3,
+          "hint": "Los sábados means on Saturdays — no preposition needed.",
+          "redirect": "¿Qué días salís?"
+        }
+      ]
+    },
+    {
+      "id": "describing_a_place",
+      "unit": 6,
+      "title": "Describing your city",
+      "description": "Describe where you live and compare it with somewhere else",
+      "bot_role": "Someone curious about your city",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "¿Cómo es la ciudad donde vivís?",
+          "bot_native": "What's the city where you live like?",
+          "example_responses": [
+            {
+              "target": "Es una ciudad grande y muy bonita.",
+              "native": "It's a big and very pretty city."
+            },
+            {
+              "target": "Es pequeña pero tranquila.",
+              "native": "It's small but quiet."
+            }
+          ],
+          "keywords": [
+            "es",
+            "grande",
+            "pequeña",
+            "bonita",
+            "tranquila"
+          ],
+          "min_length": 3,
+          "hint": "The adjective goes AFTER the noun: una ciudad grande.",
+          "redirect": "Describime tu ciudad."
+        },
+        {
+          "bot": "¿Es más grande que Madrid?",
+          "bot_native": "Is it bigger than Madrid?",
+          "example_responses": [
+            {
+              "target": "No, es más pequeña que Madrid.",
+              "native": "No, it's smaller than Madrid."
+            },
+            {
+              "target": "Sí, es más grande.",
+              "native": "Yes, it's bigger."
+            }
+          ],
+          "keywords": [
+            "más",
+            "menos",
+            "que",
+            "grande",
+            "pequeña"
+          ],
+          "min_length": 3,
+          "hint": "Spanish has no -er ending: más grande que.",
+          "redirect": "¿Cuál es más grande?"
+        },
+        {
+          "bot": "¿Y qué es lo mejor de vivir ahí?",
+          "bot_native": "And what's the best thing about living there?",
+          "example_responses": [
+            {
+              "target": "Lo mejor es la gente.",
+              "native": "The best thing is the people."
+            },
+            {
+              "target": "Lo mejor son los parques.",
+              "native": "The best thing is the parks."
+            }
+          ],
+          "keywords": [
+            "lo mejor",
+            "la gente",
+            "el mejor",
+            "es"
+          ],
+          "min_length": 3,
+          "hint": "Lo mejor turns an adjective into a thing — English can't do this.",
+          "redirect": "¿Qué es lo que más te gusta de ahí?"
+        },
+        {
+          "bot": "¿Vas seguido al centro?",
+          "bot_native": "Do you go to the centre often?",
+          "example_responses": [
+            {
+              "target": "Voy a veces, los fines de semana.",
+              "native": "I go sometimes, at weekends."
+            },
+            {
+              "target": "Nunca voy, vivo lejos.",
+              "native": "I never go, I live far away."
+            }
+          ],
+          "keywords": [
+            "siempre",
+            "a veces",
+            "nunca",
+            "voy"
+          ],
+          "min_length": 3,
+          "hint": "Nunca voy needs no extra no — but no voy nunca does.",
+          "redirect": "¿Cada cuánto vas al centro?"
+        }
+      ]
+    },
+    {
+      "id": "last_weekend",
+      "unit": 7,
+      "title": "Last weekend",
+      "description": "Say what you did and what you're going to do next",
+      "bot_role": "A colleague on Monday morning",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "¿Qué hiciste el fin de semana?",
+          "bot_native": "What did you do at the weekend?",
+          "example_responses": [
+            {
+              "target": "Fui al cine con unos amigos.",
+              "native": "I went to the cinema with some friends."
+            },
+            {
+              "target": "No hice nada, me quedé en casa.",
+              "native": "I did nothing, I stayed at home."
+            }
+          ],
+          "keywords": [
+            "fui",
+            "hice",
+            "comí",
+            "salí",
+            "quedé"
+          ],
+          "min_length": 3,
+          "hint": "Use the preterite: fui, hice, comí. Something finished.",
+          "redirect": "¿Qué hiciste el sábado?"
+        },
+        {
+          "bot": "¿Y comiste afuera?",
+          "bot_native": "And did you eat out?",
+          "example_responses": [
+            {
+              "target": "Sí, comí en un restaurante italiano.",
+              "native": "Yes, I ate at an Italian restaurant."
+            },
+            {
+              "target": "No, cociné en casa.",
+              "native": "No, I cooked at home."
+            }
+          ],
+          "keywords": [
+            "comí",
+            "cociné",
+            "restaurante",
+            "casa"
+          ],
+          "min_length": 3,
+          "hint": "Comí, cociné — the -í ending marks the past.",
+          "redirect": "¿Dónde comiste?"
+        },
+        {
+          "bot": "¿Hace cuánto que no salís un sábado?",
+          "bot_native": "How long has it been since you went out on a Saturday?",
+          "example_responses": [
+            {
+              "target": "Hace dos semanas que no salgo.",
+              "native": "I haven't been out for two weeks."
+            },
+            {
+              "target": "Hace mucho tiempo.",
+              "native": "It's been a long time."
+            }
+          ],
+          "keywords": [
+            "hace",
+            "semanas",
+            "meses",
+            "tiempo"
+          ],
+          "min_length": 3,
+          "hint": "Hace goes FIRST: hace dos semanas.",
+          "redirect": "¿Hace cuánto tiempo?"
+        },
+        {
+          "bot": "¿Y qué vas a hacer el próximo fin de semana?",
+          "bot_native": "And what are you going to do next weekend?",
+          "example_responses": [
+            {
+              "target": "Voy a visitar a mi familia.",
+              "native": "I'm going to visit my family."
+            },
+            {
+              "target": "Voy a descansar, nada más.",
+              "native": "I'm going to rest, nothing else."
+            }
+          ],
+          "keywords": [
+            "voy a",
+            "vamos a",
+            "visitar",
+            "descansar"
+          ],
+          "min_length": 3,
+          "hint": "The a is not optional: voy a visitar.",
+          "redirect": "¿Qué planes tenés?"
+        }
+      ]
+    },
+    {
+      "id": "childhood",
+      "unit": 8,
+      "title": "When you were a child",
+      "description": "Describe how things used to be",
+      "bot_role": "A friend reminiscing",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "¿Dónde vivías cuando eras chico?",
+          "bot_native": "Where did you live when you were a child?",
+          "example_responses": [
+            {
+              "target": "Vivía en un pueblo pequeño.",
+              "native": "I lived in a small village."
+            },
+            {
+              "target": "Vivíamos en el campo.",
+              "native": "We lived in the countryside."
+            }
+          ],
+          "keywords": [
+            "vivía",
+            "vivíamos",
+            "era",
+            "pueblo",
+            "campo"
+          ],
+          "min_length": 3,
+          "hint": "The imperfect: vivía, era. No edges, just how things were.",
+          "redirect": "¿Dónde vivías de chico?"
+        },
+        {
+          "bot": "¿Y cómo era tu colegio?",
+          "bot_native": "And what was your school like?",
+          "example_responses": [
+            {
+              "target": "Era muy grande y tenía un patio enorme.",
+              "native": "It was very big and had a huge playground."
+            },
+            {
+              "target": "Era pequeño, éramos veinte alumnos.",
+              "native": "It was small, we were twenty pupils."
+            }
+          ],
+          "keywords": [
+            "era",
+            "tenía",
+            "éramos",
+            "había"
+          ],
+          "min_length": 3,
+          "hint": "Era, tenía, había — description always takes this tense.",
+          "redirect": "Describime tu colegio."
+        },
+        {
+          "bot": "¿Qué hacías los domingos?",
+          "bot_native": "What did you use to do on Sundays?",
+          "example_responses": [
+            {
+              "target": "Iba a casa de mis abuelos.",
+              "native": "I used to go to my grandparents' house."
+            },
+            {
+              "target": "Jugaba al fútbol todo el día.",
+              "native": "I played football all day."
+            }
+          ],
+          "keywords": [
+            "iba",
+            "jugaba",
+            "comía",
+            "domingos"
+          ],
+          "min_length": 3,
+          "hint": "Iba is one of only three irregular verbs in this tense.",
+          "redirect": "¿Qué hacías los fines de semana de chico?"
+        },
+        {
+          "bot": "¿Tenías que ayudar en casa?",
+          "bot_native": "Did you have to help at home?",
+          "example_responses": [
+            {
+              "target": "Sí, tenía que lavar los platos.",
+              "native": "Yes, I had to wash the dishes."
+            },
+            {
+              "target": "No, no tenía que hacer nada.",
+              "native": "No, I didn't have to do anything."
+            }
+          ],
+          "keywords": [
+            "tenía que",
+            "debía",
+            "ayudar",
+            "lavar"
+          ],
+          "min_length": 3,
+          "hint": "Tenía que plus infinitive: the everyday obligation.",
+          "redirect": "¿Te hacían ayudar en casa?"
+        }
+      ]
+    },
+    {
+      "id": "at_the_doctor",
+      "unit": 9,
+      "title": "At the doctor's",
+      "description": "Explain what hurts and follow instructions",
+      "bot_role": "A doctor",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "Buenos días, pase y siéntese. ¿Qué le pasa?",
+          "bot_native": "Good morning, come in and sit down. What's wrong?",
+          "example_responses": [
+            {
+              "target": "Me duele la cabeza desde ayer.",
+              "native": "My head has been hurting since yesterday."
+            },
+            {
+              "target": "Me duele mucho la garganta.",
+              "native": "My throat hurts a lot."
+            }
+          ],
+          "keywords": [
+            "me duele",
+            "me duelen",
+            "cabeza",
+            "garganta",
+            "estómago"
+          ],
+          "min_length": 3,
+          "hint": "Me duele la cabeza — the article, not mi.",
+          "redirect": "¿Dónde le duele?"
+        },
+        {
+          "bot": "¿Y le duelen también los músculos?",
+          "bot_native": "And do your muscles hurt as well?",
+          "example_responses": [
+            {
+              "target": "Sí, me duelen las piernas.",
+              "native": "Yes, my legs hurt."
+            },
+            {
+              "target": "No, sólo la cabeza.",
+              "native": "No, just my head."
+            }
+          ],
+          "keywords": [
+            "me duelen",
+            "no",
+            "piernas",
+            "brazos",
+            "sólo"
+          ],
+          "min_length": 3,
+          "hint": "Plural body part, plural verb: me duelen.",
+          "redirect": "¿Le duele algo más?"
+        },
+        {
+          "bot": "Tome esta pastilla dos veces al día y descanse.",
+          "bot_native": "Take this tablet twice a day and rest.",
+          "example_responses": [
+            {
+              "target": "¿Cuántos días tengo que tomarla?",
+              "native": "How many days do I have to take it for?"
+            },
+            {
+              "target": "¿Puedo trabajar mañana?",
+              "native": "Can I work tomorrow?"
+            }
+          ],
+          "keywords": [
+            "cuántos",
+            "días",
+            "puedo",
+            "tengo que",
+            "trabajar"
+          ],
+          "min_length": 3,
+          "hint": "Ask a question back — cuántos días or puedo…?",
+          "redirect": "¿Tiene alguna duda?"
+        },
+        {
+          "bot": "Tres días. Y no tome café, que no ayuda.",
+          "bot_native": "Three days. And don't drink coffee, it doesn't help.",
+          "example_responses": [
+            {
+              "target": "Está bien, muchas gracias.",
+              "native": "All right, thank you very much."
+            },
+            {
+              "target": "De acuerdo, no voy a tomar café.",
+              "native": "Fine, I won't drink coffee."
+            }
+          ],
+          "keywords": [
+            "gracias",
+            "de acuerdo",
+            "está bien",
+            "no voy"
+          ],
+          "min_length": 3,
+          "hint": "Note no tome — the negative command has different endings.",
+          "redirect": "¿Quedó claro?"
+        }
+      ]
+    },
+    {
+      "id": "future_plans",
+      "unit": 10,
+      "title": "Plans for the year",
+      "description": "Talk about what you will do and what you would like to do",
+      "bot_role": "A friend",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "¿Qué harás el año que viene?",
+          "bot_native": "What will you do next year?",
+          "example_responses": [
+            {
+              "target": "Cambiaré de trabajo.",
+              "native": "I'll change jobs."
+            },
+            {
+              "target": "Viviré en España seis meses.",
+              "native": "I'll live in Spain for six months."
+            }
+          ],
+          "keywords": [
+            "haré",
+            "cambiaré",
+            "viviré",
+            "iré",
+            "tendré"
+          ],
+          "min_length": 3,
+          "hint": "The future ending goes on the whole infinitive: viviré.",
+          "redirect": "¿Qué planes tenés para el año que viene?"
+        },
+        {
+          "bot": "¿Y tendrás tiempo para estudiar español?",
+          "bot_native": "And will you have time to study Spanish?",
+          "example_responses": [
+            {
+              "target": "Sí, tendré más tiempo.",
+              "native": "Yes, I'll have more time."
+            },
+            {
+              "target": "Creo que no tendré mucho tiempo.",
+              "native": "I don't think I'll have much time."
+            }
+          ],
+          "keywords": [
+            "tendré",
+            "tiempo",
+            "creo",
+            "no"
+          ],
+          "min_length": 3,
+          "hint": "Tendré is irregular — but the same stem serves the conditional.",
+          "redirect": "¿Vas a tener tiempo?"
+        },
+        {
+          "bot": "Si pudieras vivir en cualquier país, ¿cuál elegirías?",
+          "bot_native": "If you could live in any country, which would you choose?",
+          "example_responses": [
+            {
+              "target": "Elegiría Argentina.",
+              "native": "I'd choose Argentina."
+            },
+            {
+              "target": "Me gustaría vivir en México.",
+              "native": "I'd like to live in Mexico."
+            }
+          ],
+          "keywords": [
+            "elegiría",
+            "me gustaría",
+            "iría",
+            "viviría"
+          ],
+          "min_length": 3,
+          "hint": "The conditional: elegiría, me gustaría.",
+          "redirect": "¿Qué país elegirías?"
+        },
+        {
+          "bot": "¿Y qué es lo que más te gustaría hacer allí?",
+          "bot_native": "And what would you most like to do there?",
+          "example_responses": [
+            {
+              "target": "Lo que más me gustaría es conocer gente.",
+              "native": "What I'd most like is to meet people."
+            },
+            {
+              "target": "Me gustaría trabajar y viajar.",
+              "native": "I'd like to work and travel."
+            }
+          ],
+          "keywords": [
+            "me gustaría",
+            "lo que",
+            "conocer",
+            "viajar"
+          ],
+          "min_length": 3,
+          "hint": "Lo que más me gustaría es — a very common frame.",
+          "redirect": "¿Qué te gustaría hacer?"
+        }
+      ]
+    },
+    {
+      "id": "experiences",
+      "unit": 11,
+      "title": "Things you've done",
+      "description": "Talk about your experiences using the present perfect",
+      "bot_role": "Someone at a party",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "¿Has estado alguna vez en Sudamérica?",
+          "bot_native": "Have you ever been to South America?",
+          "example_responses": [
+            {
+              "target": "Sí, he estado en Perú.",
+              "native": "Yes, I've been to Peru."
+            },
+            {
+              "target": "No, nunca he estado.",
+              "native": "No, I've never been."
+            }
+          ],
+          "keywords": [
+            "he estado",
+            "he ido",
+            "nunca",
+            "sí",
+            "no"
+          ],
+          "min_length": 3,
+          "hint": "He plus participle — and nothing goes between them.",
+          "redirect": "¿Conocés Sudamérica?"
+        },
+        {
+          "bot": "¿Y has probado la comida peruana?",
+          "bot_native": "And have you tried Peruvian food?",
+          "example_responses": [
+            {
+              "target": "Sí, he probado el ceviche.",
+              "native": "Yes, I've tried ceviche."
+            },
+            {
+              "target": "Todavía no la he probado.",
+              "native": "I haven't tried it yet."
+            }
+          ],
+          "keywords": [
+            "he probado",
+            "todavía no",
+            "ceviche",
+            "sí"
+          ],
+          "min_length": 3,
+          "hint": "Pronouns go before haber: la he probado.",
+          "redirect": "¿Probaste la comida de allá?"
+        },
+        {
+          "bot": "¿Qué es lo más interesante que has hecho este año?",
+          "bot_native": "What's the most interesting thing you've done this year?",
+          "example_responses": [
+            {
+              "target": "He empezado a estudiar español.",
+              "native": "I've started learning Spanish."
+            },
+            {
+              "target": "He cambiado de trabajo.",
+              "native": "I've changed jobs."
+            }
+          ],
+          "keywords": [
+            "he",
+            "empezado",
+            "cambiado",
+            "hecho",
+            "visto"
+          ],
+          "min_length": 3,
+          "hint": "Watch the irregular participles: hecho, visto, escrito.",
+          "redirect": "¿Qué hiciste este año que valga la pena contar?"
+        },
+        {
+          "bot": "¡Qué bien! Espero que sigas con el español.",
+          "bot_native": "How good! I hope you keep going with your Spanish.",
+          "example_responses": [
+            {
+              "target": "Gracias, espero que sí.",
+              "native": "Thanks, I hope so."
+            },
+            {
+              "target": "Sí, quiero seguir aprendiendo.",
+              "native": "Yes, I want to keep learning."
+            }
+          ],
+          "keywords": [
+            "espero",
+            "gracias",
+            "quiero",
+            "seguir"
+          ],
+          "min_length": 3,
+          "hint": "Notice espero que sigas — that's the subjunctive arriving.",
+          "redirect": "¿Vas a seguir estudiando?"
+        }
+      ]
+    },
+    {
+      "id": "making_plans",
+      "unit": 12,
+      "title": "Arranging to meet",
+      "description": "Make plans and say what you want the other person to do",
+      "bot_role": "A friend organising something",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "Quiero que vengas a cenar el viernes. ¿Podés?",
+          "bot_native": "I want you to come to dinner on Friday. Can you?",
+          "example_responses": [
+            {
+              "target": "Sí, puedo ir el viernes.",
+              "native": "Yes, I can come on Friday."
+            },
+            {
+              "target": "Me encantaría, pero trabajo hasta tarde.",
+              "native": "I'd love to, but I'm working late."
+            }
+          ],
+          "keywords": [
+            "puedo",
+            "sí",
+            "no",
+            "encantaría",
+            "trabajo"
+          ],
+          "min_length": 3,
+          "hint": "Two subjects, so quiero QUE vengas — the subjunctive.",
+          "redirect": "¿Podés venir el viernes?"
+        },
+        {
+          "bot": "Perfecto. Cuando llegues, llamame desde abajo.",
+          "bot_native": "Perfect. When you arrive, call me from downstairs.",
+          "example_responses": [
+            {
+              "target": "Está bien, te llamo cuando llegue.",
+              "native": "Fine, I'll call you when I get there."
+            },
+            {
+              "target": "De acuerdo, te aviso.",
+              "native": "All right, I'll let you know."
+            }
+          ],
+          "keywords": [
+            "cuando",
+            "llegue",
+            "llamo",
+            "aviso",
+            "de acuerdo"
+          ],
+          "min_length": 3,
+          "hint": "Cuando llegue, not cuando llego — it hasn't happened yet.",
+          "redirect": "¿Me avisás cuando llegues?"
+        },
+        {
+          "bot": "¿Querés que prepare algo en especial?",
+          "bot_native": "Do you want me to make anything in particular?",
+          "example_responses": [
+            {
+              "target": "No, lo que quieras.",
+              "native": "No, whatever you like."
+            },
+            {
+              "target": "Espero que hagas esa pasta que hacés.",
+              "native": "I hope you make that pasta you make."
+            }
+          ],
+          "keywords": [
+            "quieras",
+            "espero",
+            "hagas",
+            "no",
+            "lo que"
+          ],
+          "min_length": 3,
+          "hint": "Lo que quieras — the subjunctive for something undecided.",
+          "redirect": "¿Preferís algo?"
+        },
+        {
+          "bot": "Ojalá no llueva ese día.",
+          "bot_native": "Hopefully it won't rain that day.",
+          "example_responses": [
+            {
+              "target": "Ojalá, así vamos a la terraza.",
+              "native": "Hopefully, then we can sit outside."
+            },
+            {
+              "target": "Espero que haga buen tiempo.",
+              "native": "I hope the weather is good."
+            }
+          ],
+          "keywords": [
+            "ojalá",
+            "espero",
+            "haga",
+            "llueva",
+            "tiempo"
+          ],
+          "min_length": 3,
+          "hint": "Ojalá always takes the subjunctive — it comes from Arabic.",
+          "redirect": "¿Qué tiempo esperás que haga?"
+        }
+      ]
+    },
+    {
+      "id": "giving_opinions",
+      "unit": 13,
+      "title": "Giving an opinion",
+      "description": "Agree, disagree and express doubt",
+      "bot_role": "A colleague in a discussion",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "Creo que trabajar desde casa es mejor. ¿Vos qué pensás?",
+          "bot_native": "I think working from home is better. What do you think?",
+          "example_responses": [
+            {
+              "target": "No creo que sea mejor para todos.",
+              "native": "I don't think it's better for everyone."
+            },
+            {
+              "target": "Creo que tenés razón.",
+              "native": "I think you're right."
+            }
+          ],
+          "keywords": [
+            "creo",
+            "no creo",
+            "sea",
+            "pienso",
+            "razón"
+          ],
+          "min_length": 3,
+          "hint": "Creo que ES, but no creo que SEA. The negative flips the mood.",
+          "redirect": "¿Estás de acuerdo o no?"
+        },
+        {
+          "bot": "¿Y por qué no estás del todo de acuerdo?",
+          "bot_native": "And why don't you entirely agree?",
+          "example_responses": [
+            {
+              "target": "Porque dudo que funcione en todos los trabajos.",
+              "native": "Because I doubt it works in every job."
+            },
+            {
+              "target": "Es posible que sea peor para los que empiezan.",
+              "native": "It's possible it's worse for people starting out."
+            }
+          ],
+          "keywords": [
+            "porque",
+            "dudo",
+            "posible",
+            "funcione",
+            "sea"
+          ],
+          "min_length": 3,
+          "hint": "Dudar and es posible que both take the subjunctive.",
+          "redirect": "¿Cuál es tu razón?"
+        },
+        {
+          "bot": "Antes yo también dudaba que funcionara.",
+          "bot_native": "I used to doubt it worked as well.",
+          "example_responses": [
+            {
+              "target": "¿Y qué te hizo cambiar de opinión?",
+              "native": "What made you change your mind?"
+            },
+            {
+              "target": "¿Qué pasó para que cambiaras?",
+              "native": "What happened to make you change?"
+            }
+          ],
+          "keywords": [
+            "qué",
+            "cambiar",
+            "opinión",
+            "pasó",
+            "por qué"
+          ],
+          "min_length": 3,
+          "hint": "Ask what changed their mind.",
+          "redirect": "¿Preguntame algo?"
+        },
+        {
+          "bot": "Que lo probé dos años y no se cayó nada.",
+          "bot_native": "The fact that I tried it for two years and nothing fell apart.",
+          "example_responses": [
+            {
+              "target": "Es cierto que eso pesa.",
+              "native": "It's true that carries weight."
+            },
+            {
+              "target": "Sin embargo, no todos los equipos son iguales.",
+              "native": "However, not all teams are the same."
+            }
+          ],
+          "keywords": [
+            "cierto",
+            "sin embargo",
+            "pero",
+            "aunque",
+            "verdad"
+          ],
+          "min_length": 3,
+          "hint": "Concede first, then object: es cierto que… sin embargo…",
+          "redirect": "¿Te convence?"
+        }
+      ]
+    },
+    {
+      "id": "reporting_a_chat",
+      "unit": 14,
+      "title": "Reporting a conversation",
+      "description": "Tell someone what a third person said",
+      "bot_role": "A friend who missed the meeting",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "No pude ir a la reunión. ¿Qué dijo Marta?",
+          "bot_native": "I couldn't make the meeting. What did Marta say?",
+          "example_responses": [
+            {
+              "target": "Dijo que el proyecto estaba retrasado.",
+              "native": "She said the project was behind schedule."
+            },
+            {
+              "target": "Dijo que teníamos más tiempo.",
+              "native": "She said we had more time."
+            }
+          ],
+          "keywords": [
+            "dijo que",
+            "comentó",
+            "estaba",
+            "tenía"
+          ],
+          "min_length": 3,
+          "hint": "Present becomes imperfect: está becomes dijo que estaba.",
+          "redirect": "¿Qué comentó Marta?"
+        },
+        {
+          "bot": "¿Y dijo cuándo lo van a entregar?",
+          "bot_native": "And did she say when they'll deliver it?",
+          "example_responses": [
+            {
+              "target": "Dijo que lo entregarían en junio.",
+              "native": "She said they'd deliver it in June."
+            },
+            {
+              "target": "No dijo nada de fechas.",
+              "native": "She didn't say anything about dates."
+            }
+          ],
+          "keywords": [
+            "dijo",
+            "entregarían",
+            "junio",
+            "nada",
+            "fecha"
+          ],
+          "min_length": 3,
+          "hint": "Future becomes conditional: entregarán becomes entregarían.",
+          "redirect": "¿Dio alguna fecha?"
+        },
+        {
+          "bot": "¿Y a vos te pidió algo?",
+          "bot_native": "And did she ask you for anything?",
+          "example_responses": [
+            {
+              "target": "Me pidió que revisara el informe.",
+              "native": "She asked me to review the report."
+            },
+            {
+              "target": "Me dijo que hablara con vos.",
+              "native": "She told me to talk to you."
+            }
+          ],
+          "keywords": [
+            "pidió que",
+            "dijo que",
+            "revisara",
+            "hablara"
+          ],
+          "min_length": 3,
+          "hint": "An order becomes the imperfect subjunctive: que revisara.",
+          "redirect": "¿Te pidió que hicieras algo?"
+        },
+        {
+          "bot": "Uy. ¿Y ya lo habías leído?",
+          "bot_native": "Oh. And had you already read it?",
+          "example_responses": [
+            {
+              "target": "No, todavía no lo había leído.",
+              "native": "No, I hadn't read it yet."
+            },
+            {
+              "target": "Sí, ya lo había leído entero.",
+              "native": "Yes, I'd already read the whole thing."
+            }
+          ],
+          "keywords": [
+            "había",
+            "leído",
+            "todavía",
+            "ya"
+          ],
+          "min_length": 3,
+          "hint": "The pluperfect works just like English had read.",
+          "redirect": "¿Lo habías leído o no?"
+        }
+      ]
+    },
+    {
+      "id": "reacting_to_news",
+      "unit": 15,
+      "title": "Reacting to news",
+      "description": "Respond to good and bad news",
+      "bot_role": "A friend with news",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "Te cuento: me dieron el trabajo que quería.",
+          "bot_native": "Guess what: I got the job I wanted.",
+          "example_responses": [
+            {
+              "target": "¡Me alegro mucho de que te lo hayan dado!",
+              "native": "I'm so glad they gave it to you!"
+            },
+            {
+              "target": "Qué bueno, me alegro por vos.",
+              "native": "That's great, I'm happy for you."
+            }
+          ],
+          "keywords": [
+            "me alegro",
+            "qué bueno",
+            "felicidades",
+            "genial"
+          ],
+          "min_length": 3,
+          "hint": "Me alegro de que takes the subjunctive, even though it's true.",
+          "redirect": "¿Qué te parece la noticia?"
+        },
+        {
+          "bot": "Gracias. Aunque me da pena dejar el equipo de acá.",
+          "bot_native": "Thanks. Although I'm sad to leave the team here.",
+          "example_responses": [
+            {
+              "target": "Es una pena que te vayas.",
+              "native": "It's a shame you're leaving."
+            },
+            {
+              "target": "Es normal que te dé pena.",
+              "native": "It's normal that you feel that way."
+            }
+          ],
+          "keywords": [
+            "pena",
+            "lástima",
+            "normal",
+            "vayas",
+            "dé"
+          ],
+          "min_length": 3,
+          "hint": "Es una pena que and es normal que — both subjunctive.",
+          "redirect": "¿Qué le decís?"
+        },
+        {
+          "bot": "Sí. Fue la decisión más difícil que tomé este año.",
+          "bot_native": "Yes. It was the hardest decision I've made this year.",
+          "example_responses": [
+            {
+              "target": "Me imagino que fue dificilísimo.",
+              "native": "I imagine it was extremely hard."
+            },
+            {
+              "target": "Seguro que lo pensaste muchísimo.",
+              "native": "I'm sure you thought about it a lot."
+            }
+          ],
+          "keywords": [
+            "dificilísimo",
+            "muchísimo",
+            "imagino",
+            "seguro"
+          ],
+          "min_length": 3,
+          "hint": "Try the -ísimo ending: dificilísimo, muchísimo.",
+          "redirect": "¿Cómo lo ves?"
+        },
+        {
+          "bot": "¿Y si nos juntamos a festejar el sábado?",
+          "bot_native": "How about we get together to celebrate on Saturday?",
+          "example_responses": [
+            {
+              "target": "Ojalá pudiera, pero estoy fuera.",
+              "native": "I wish I could, but I'm away."
+            },
+            {
+              "target": "Dale, me encantaría.",
+              "native": "Sure, I'd love to."
+            }
+          ],
+          "keywords": [
+            "ojalá",
+            "encantaría",
+            "dale",
+            "pudiera",
+            "sí"
+          ],
+          "min_length": 3,
+          "hint": "Ojalá pudiera — a wish about now takes the imperfect subjunctive.",
+          "redirect": "¿Te va el sábado?"
+        }
+      ]
+    },
+    {
+      "id": "hypotheticals",
+      "unit": 16,
+      "title": "What would you do?",
+      "description": "Talk about imaginary situations",
+      "bot_role": "A friend playing a game",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "Si te tocara la lotería, ¿qué harías?",
+          "bot_native": "If you won the lottery, what would you do?",
+          "example_responses": [
+            {
+              "target": "Si me tocara, dejaría de trabajar.",
+              "native": "If I won, I'd stop working."
+            },
+            {
+              "target": "Compraría una casa y viajaría.",
+              "native": "I'd buy a house and travel."
+            }
+          ],
+          "keywords": [
+            "si",
+            "tocara",
+            "haría",
+            "dejaría",
+            "compraría"
+          ],
+          "min_length": 3,
+          "hint": "Si + imperfect subjunctive, then the conditional. Never si tendría.",
+          "redirect": "¿Qué harías con ese dinero?"
+        },
+        {
+          "bot": "¿Y si hubieras nacido en otro país? ¿Cuál elegirías?",
+          "bot_native": "And if you'd been born in another country? Which would you pick?",
+          "example_responses": [
+            {
+              "target": "Si hubiera nacido en otro país, elegiría Italia.",
+              "native": "If I'd been born elsewhere, I'd pick Italy."
+            },
+            {
+              "target": "Me habría gustado nacer en España.",
+              "native": "I'd have liked to be born in Spain."
+            }
+          ],
+          "keywords": [
+            "hubiera",
+            "habría",
+            "elegiría",
+            "gustado"
+          ],
+          "min_length": 3,
+          "hint": "Unreal past: si hubiera… habría… Never si habría.",
+          "redirect": "¿Qué país elegirías?"
+        },
+        {
+          "bot": "Yo, si hubiera estudiado otra cosa, ahora sería arquitecto.",
+          "bot_native": "If I'd studied something else, I'd be an architect now.",
+          "example_responses": [
+            {
+              "target": "¿Y por qué no lo estudiaste?",
+              "native": "And why didn't you study it?"
+            },
+            {
+              "target": "Todavía estás a tiempo.",
+              "native": "You're still in time."
+            }
+          ],
+          "keywords": [
+            "por qué",
+            "estudiaste",
+            "todavía",
+            "tiempo"
+          ],
+          "min_length": 3,
+          "hint": "Notice the mixed conditional: past cause, present result.",
+          "redirect": "¿Qué le dirías?"
+        },
+        {
+          "bot": "Ya es tarde para eso, aunque nunca se sabe.",
+          "bot_native": "It's too late for that, although you never know.",
+          "example_responses": [
+            {
+              "target": "Aunque sea tarde, podrías intentarlo.",
+              "native": "Even if it's late, you could try."
+            },
+            {
+              "target": "Nunca es tarde, aunque cueste.",
+              "native": "It's never too late, even if it's hard."
+            }
+          ],
+          "keywords": [
+            "aunque",
+            "sea",
+            "podrías",
+            "nunca",
+            "tarde"
+          ],
+          "min_length": 3,
+          "hint": "Aunque sea dismisses the objection; aunque es would concede it.",
+          "redirect": "¿Le insistís o no?"
+        }
+      ]
+    },
+    {
+      "id": "job_interview",
+      "unit": 17,
+      "title": "A job interview",
+      "description": "Answer formally and ask indirect questions",
+      "bot_role": "An interviewer",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "Buenos días. Cuénteme, ¿por qué le interesa este puesto?",
+          "bot_native": "Good morning. Tell me, why does this position interest you?",
+          "example_responses": [
+            {
+              "target": "Me interesa porque busco un equipo más grande.",
+              "native": "It interests me because I'm looking for a bigger team."
+            },
+            {
+              "target": "Me atrae el proyecto y el tipo de trabajo.",
+              "native": "The project and the kind of work appeal to me."
+            }
+          ],
+          "keywords": [
+            "me interesa",
+            "porque",
+            "busco",
+            "atrae",
+            "proyecto"
+          ],
+          "min_length": 3,
+          "hint": "Note usted: cuénteme, le interesa. Keep the formal register.",
+          "redirect": "¿Qué le atrae del puesto?"
+        },
+        {
+          "bot": "¿Y sabe cuántas personas hay en el equipo?",
+          "bot_native": "And do you know how many people are on the team?",
+          "example_responses": [
+            {
+              "target": "No sé cuántas personas son exactamente.",
+              "native": "I don't know exactly how many people there are."
+            },
+            {
+              "target": "Me gustaría saber cuántos son.",
+              "native": "I'd like to know how many there are."
+            }
+          ],
+          "keywords": [
+            "no sé",
+            "cuántas",
+            "cuántos",
+            "saber",
+            "gustaría"
+          ],
+          "min_length": 3,
+          "hint": "The question word keeps its accent inside the sentence: cuántas.",
+          "redirect": "¿Sabe el tamaño del equipo?"
+        },
+        {
+          "bot": "Somos doce. ¿Quiere preguntarme algo?",
+          "bot_native": "There are twelve of us. Would you like to ask me anything?",
+          "example_responses": [
+            {
+              "target": "Sí, ¿podría decirme si hay trabajo remoto?",
+              "native": "Yes, could you tell me whether there's remote work?"
+            },
+            {
+              "target": "Me gustaría saber cómo se organiza el equipo.",
+              "native": "I'd like to know how the team is organised."
+            }
+          ],
+          "keywords": [
+            "podría",
+            "decirme",
+            "si",
+            "cómo",
+            "saber"
+          ],
+          "min_length": 3,
+          "hint": "For a yes/no indirect question use si, not que.",
+          "redirect": "¿Tiene alguna pregunta?"
+        },
+        {
+          "bot": "Se trabaja tres días desde casa. La decisión se tomará el viernes.",
+          "bot_native": "Three days are worked from home. The decision will be made on Friday.",
+          "example_responses": [
+            {
+              "target": "Perfecto, quedo a la espera.",
+              "native": "Perfect, I look forward to hearing from you."
+            },
+            {
+              "target": "Muchas gracias por su tiempo.",
+              "native": "Thank you very much for your time."
+            }
+          ],
+          "keywords": [
+            "gracias",
+            "espera",
+            "quedo",
+            "tiempo"
+          ],
+          "min_length": 3,
+          "hint": "Notice se trabaja and se tomará — the impersonal, very common formally.",
+          "redirect": "¿Cómo cierra la entrevista?"
+        }
+      ]
+    },
+    {
+      "id": "work_meeting",
+      "unit": 18,
+      "title": "A project meeting",
+      "description": "Report progress and commit to a deadline",
+      "bot_role": "Your manager",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "¿Cómo vamos con el informe? ¿Lo habrás terminado para el viernes?",
+          "bot_native": "How's the report going? Will you have finished it by Friday?",
+          "example_responses": [
+            {
+              "target": "Sí, para el viernes lo habré terminado.",
+              "native": "Yes, I'll have finished it by Friday."
+            },
+            {
+              "target": "Creo que sí, aunque falta la última parte.",
+              "native": "I think so, though the last part is missing."
+            }
+          ],
+          "keywords": [
+            "habré",
+            "terminado",
+            "viernes",
+            "falta",
+            "creo"
+          ],
+          "min_length": 3,
+          "hint": "Future perfect with para: para el viernes lo habré terminado.",
+          "redirect": "¿Estará listo para el viernes?"
+        },
+        {
+          "bot": "Necesito que me avises si se complica.",
+          "bot_native": "I need you to tell me if it gets complicated.",
+          "example_responses": [
+            {
+              "target": "Por supuesto, te aviso en cuanto lo sepa.",
+              "native": "Of course, I'll tell you as soon as I know."
+            },
+            {
+              "target": "Claro, te escribo si veo problemas.",
+              "native": "Sure, I'll write if I see problems."
+            }
+          ],
+          "keywords": [
+            "aviso",
+            "en cuanto",
+            "sepa",
+            "escribo",
+            "claro"
+          ],
+          "min_length": 3,
+          "hint": "En cuanto lo sepa — future, so subjunctive.",
+          "redirect": "¿Me vas a avisar?"
+        },
+        {
+          "bot": "Ana me dijo que ya había revisado los datos. ¿Los viste?",
+          "bot_native": "Ana told me she'd already checked the data. Did you see it?",
+          "example_responses": [
+            {
+              "target": "Sí, me los mandó ayer.",
+              "native": "Yes, she sent it to me yesterday."
+            },
+            {
+              "target": "Todavía no me los ha mandado.",
+              "native": "She hasn't sent it to me yet."
+            }
+          ],
+          "keywords": [
+            "mandó",
+            "mandado",
+            "los",
+            "me",
+            "todavía"
+          ],
+          "min_length": 3,
+          "hint": "Two pronouns: me los mandó. Indirect first.",
+          "redirect": "¿Te llegaron los datos?"
+        },
+        {
+          "bot": "Bien. Se ha decidido adelantar la entrega una semana.",
+          "bot_native": "Good. It's been decided to bring delivery forward a week.",
+          "example_responses": [
+            {
+              "target": "Entiendo, aunque será difícil.",
+              "native": "I understand, though it will be hard."
+            },
+            {
+              "target": "Me temo que no llegaremos con esos plazos.",
+              "native": "I'm afraid we won't make those deadlines."
+            }
+          ],
+          "keywords": [
+            "entiendo",
+            "difícil",
+            "me temo",
+            "plazos",
+            "aunque"
+          ],
+          "min_length": 3,
+          "hint": "Me temo que — how you disagree without confronting.",
+          "redirect": "¿Qué opinás del cambio?"
+        }
+      ]
+    },
+    {
+      "id": "disagreeing",
+      "unit": 19,
+      "title": "A friendly disagreement",
+      "description": "Concede a point and hold your own",
+      "bot_role": "A colleague with a strong view",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "Aunque digas lo que digas, la reunión fue una pérdida de tiempo.",
+          "bot_native": "Whatever you say, that meeting was a waste of time.",
+          "example_responses": [
+            {
+              "target": "Aunque fue larga, se decidieron dos cosas.",
+              "native": "Although it was long, two things were decided."
+            },
+            {
+              "target": "Es cierto que fue larga, pero sirvió.",
+              "native": "It's true it was long, but it was useful."
+            }
+          ],
+          "keywords": [
+            "aunque",
+            "cierto",
+            "pero",
+            "sirvió",
+            "decidieron"
+          ],
+          "min_length": 3,
+          "hint": "Aunque fue — indicative, because you're conceding a fact.",
+          "redirect": "¿Estás de acuerdo con eso?"
+        },
+        {
+          "bot": "Por mucho que lo defiendas, no se resolvió nada.",
+          "bot_native": "However much you defend it, nothing was resolved.",
+          "example_responses": [
+            {
+              "target": "No es que no se resolviera nada, sino que llevó tiempo.",
+              "native": "It's not that nothing was resolved, it's that it took time."
+            },
+            {
+              "target": "Se resolvió el presupuesto, que no es poco.",
+              "native": "The budget was settled, which is no small thing."
+            }
+          ],
+          "keywords": [
+            "no es que",
+            "sino",
+            "resolvió",
+            "presupuesto"
+          ],
+          "min_length": 3,
+          "hint": "No es que… sino que… corrects a reading rather than denying a fact.",
+          "redirect": "¿Qué le respondés?"
+        },
+        {
+          "bot": "Bueno, eso sí. El presupuesto quedó cerrado.",
+          "bot_native": "All right, that's fair. The budget was settled.",
+          "example_responses": [
+            {
+              "target": "Y eso que costó llegar ahí.",
+              "native": "And that's despite how hard it was to get there."
+            },
+            {
+              "target": "Sí, aunque haya llevado dos horas.",
+              "native": "Yes, even if it took two hours."
+            }
+          ],
+          "keywords": [
+            "y eso que",
+            "aunque",
+            "haya",
+            "costó"
+          ],
+          "min_length": 3,
+          "hint": "Y eso que is spoken and always takes the indicative.",
+          "redirect": "¿Agregás algo?"
+        },
+        {
+          "bot": "Pase lo que pase, la próxima la hacemos en media hora.",
+          "bot_native": "Whatever happens, next time we do it in half an hour.",
+          "example_responses": [
+            {
+              "target": "Sea como sea, hay que acortarlas.",
+              "native": "One way or another, they need shortening."
+            },
+            {
+              "target": "De acuerdo, cueste lo que cueste.",
+              "native": "Agreed, whatever it takes."
+            }
+          ],
+          "keywords": [
+            "sea como sea",
+            "cueste",
+            "acortar",
+            "de acuerdo"
+          ],
+          "min_length": 3,
+          "hint": "The doubled-verb structures: pase lo que pase, sea como sea.",
+          "redirect": "¿Cerrás el tema?"
+        }
+      ]
+    },
+    {
+      "id": "negotiating",
+      "unit": 20,
+      "title": "Asking for a change",
+      "description": "Request something without pressing too hard",
+      "bot_role": "Your manager",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "Me dijiste que querías hablar. ¿De qué se trata?",
+          "bot_native": "You said you wanted to talk. What's it about?",
+          "example_responses": [
+            {
+              "target": "Quería preguntarte por el horario.",
+              "native": "I wanted to ask you about my hours."
+            },
+            {
+              "target": "Venía a plantearte un cambio de horario.",
+              "native": "I came to raise a change of hours with you."
+            }
+          ],
+          "keywords": [
+            "quería",
+            "venía",
+            "preguntarte",
+            "horario",
+            "plantear"
+          ],
+          "min_length": 3,
+          "hint": "The imperfect softens: quería preguntarte, not quiero.",
+          "redirect": "¿Qué querías comentarme?"
+        },
+        {
+          "bot": "Contame. ¿Qué necesitarías?",
+          "bot_native": "Go on. What would you need?",
+          "example_responses": [
+            {
+              "target": "Me gustaría empezar una hora más tarde.",
+              "native": "I'd like to start an hour later."
+            },
+            {
+              "target": "Sería posible entrar a las diez?",
+              "native": "Would it be possible to start at ten?"
+            }
+          ],
+          "keywords": [
+            "me gustaría",
+            "sería",
+            "posible",
+            "más tarde"
+          ],
+          "min_length": 3,
+          "hint": "Conditional throughout: me gustaría, sería posible.",
+          "redirect": "¿Qué cambio proponés?"
+        },
+        {
+          "bot": "Puede que se pueda. Habría que ver cómo queda el equipo.",
+          "bot_native": "It might be possible. We'd have to see how it leaves the team.",
+          "example_responses": [
+            {
+              "target": "Claro, entiendo que hay que mirarlo.",
+              "native": "Of course, I understand it needs looking at."
+            },
+            {
+              "target": "Por supuesto. Cabría probarlo un mes.",
+              "native": "Of course. It might be worth trying it for a month."
+            }
+          ],
+          "keywords": [
+            "entiendo",
+            "claro",
+            "cabría",
+            "probar",
+            "mes"
+          ],
+          "min_length": 3,
+          "hint": "Cabría probarlo proposes without pushing.",
+          "redirect": "¿Qué le contestás?"
+        },
+        {
+          "bot": "Buena idea. Lo probamos un mes y lo revisamos.",
+          "bot_native": "Good idea. We try it for a month and review it.",
+          "example_responses": [
+            {
+              "target": "Te lo agradezco mucho.",
+              "native": "I really appreciate it."
+            },
+            {
+              "target": "Perfecto, gracias por escucharme.",
+              "native": "Perfect, thanks for hearing me out."
+            }
+          ],
+          "keywords": [
+            "agradezco",
+            "gracias",
+            "perfecto",
+            "escuchar"
+          ],
+          "min_length": 3,
+          "hint": "Close by thanking them.",
+          "redirect": "¿Cómo cerrás?"
+        }
+      ]
+    },
+    {
+      "id": "seminar",
+      "unit": 21,
+      "title": "Presenting at a seminar",
+      "description": "Present findings and answer a question academically",
+      "bot_role": "Someone in the audience",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "Interesante. ¿En qué se basa esa conclusión?",
+          "bot_native": "Interesting. What is that conclusion based on?",
+          "example_responses": [
+            {
+              "target": "Se basa en los datos de tres estudios previos.",
+              "native": "It's based on data from three previous studies."
+            },
+            {
+              "target": "Los datos sugieren esa relación, aunque con reservas.",
+              "native": "The data suggest that relationship, though with reservations."
+            }
+          ],
+          "keywords": [
+            "se basa",
+            "datos",
+            "sugieren",
+            "estudios",
+            "reservas"
+          ],
+          "min_length": 3,
+          "hint": "Impersonal se and hedged verbs: sugieren, not demuestran.",
+          "redirect": "¿En qué se apoya?"
+        },
+        {
+          "bot": "¿Y cabe descartar que haya otros factores?",
+          "bot_native": "And can other factors be ruled out?",
+          "example_responses": [
+            {
+              "target": "No cabe descartar que existan otros factores.",
+              "native": "Other factors cannot be ruled out."
+            },
+            {
+              "target": "Es posible que haya variables que no medimos.",
+              "native": "There may be variables we didn't measure."
+            }
+          ],
+          "keywords": [
+            "no cabe",
+            "descartar",
+            "existan",
+            "posible",
+            "haya"
+          ],
+          "min_length": 3,
+          "hint": "No cabe descartar que takes the subjunctive.",
+          "redirect": "¿Podría haber otras causas?"
+        },
+        {
+          "bot": "Cabe señalar que la muestra es pequeña.",
+          "bot_native": "It should be noted that the sample is small.",
+          "example_responses": [
+            {
+              "target": "Tiene razón, si bien es representativa.",
+              "native": "You're right, though it is representative."
+            },
+            {
+              "target": "Es cierto; ahora bien, coincide con estudios mayores.",
+              "native": "True; that said, it matches larger studies."
+            }
+          ],
+          "keywords": [
+            "si bien",
+            "ahora bien",
+            "cierto",
+            "razón",
+            "muestra"
+          ],
+          "min_length": 3,
+          "hint": "Si bien and ahora bien belong to this register.",
+          "redirect": "¿Cómo responde a la crítica?"
+        },
+        {
+          "bot": "De ahí que convenga repetirlo con más casos.",
+          "bot_native": "Hence it would be advisable to repeat it with more cases.",
+          "example_responses": [
+            {
+              "target": "Estamos de acuerdo; es el siguiente paso.",
+              "native": "We agree; that's the next step."
+            },
+            {
+              "target": "Así es. Convendría ampliar la muestra.",
+              "native": "Indeed. The sample should be enlarged."
+            }
+          ],
+          "keywords": [
+            "de acuerdo",
+            "convendría",
+            "ampliar",
+            "paso"
+          ],
+          "min_length": 3,
+          "hint": "De ahí que always takes the subjunctive.",
+          "redirect": "¿Qué propone hacer?"
+        }
+      ]
+    },
+    {
+      "id": "panel_discussion",
+      "unit": 22,
+      "title": "A panel discussion",
+      "description": "Emphasise your point and mark your opinion",
+      "bot_role": "Another panellist",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "Para mí el problema es el presupuesto. ¿Usted qué opina?",
+          "bot_native": "For me the problem is the budget. What's your view?",
+          "example_responses": [
+            {
+              "target": "Desde mi punto de vista, el problema es otro.",
+              "native": "From my point of view, the problem is a different one."
+            },
+            {
+              "target": "Lo que falla no es el presupuesto, sino la planificación.",
+              "native": "What's failing isn't the budget, it's the planning."
+            }
+          ],
+          "keywords": [
+            "desde mi punto",
+            "lo que",
+            "sino",
+            "opino",
+            "problema"
+          ],
+          "min_length": 3,
+          "hint": "Lo que falla es… — how Spanish emphasises, by restructuring.",
+          "redirect": "¿Cuál es su posición?"
+        },
+        {
+          "bot": "¿Y quién debería decidirlo entonces?",
+          "bot_native": "And who should decide it, then?",
+          "example_responses": [
+            {
+              "target": "Fue el comité quien lo decidió la última vez.",
+              "native": "It was the committee that decided last time."
+            },
+            {
+              "target": "Son los equipos quienes deberían proponerlo.",
+              "native": "It's the teams who should propose it."
+            }
+          ],
+          "keywords": [
+            "fue",
+            "quien",
+            "quienes",
+            "comité",
+            "equipos"
+          ],
+          "min_length": 3,
+          "hint": "Fue el comité quien — ser agrees in tense with the main verb.",
+          "redirect": "¿Quién tendría que decidir?"
+        },
+        {
+          "bot": "No me parece que los equipos tengan esa información.",
+          "bot_native": "I don't think the teams have that information.",
+          "example_responses": [
+            {
+              "target": "No es que no la tengan, sino que no la piden.",
+              "native": "It's not that they don't have it, it's that they don't ask."
+            },
+            {
+              "target": "Es cierto en parte, si bien la podrían pedir.",
+              "native": "Partly true, though they could ask for it."
+            }
+          ],
+          "keywords": [
+            "no es que",
+            "sino",
+            "si bien",
+            "cierto",
+            "podrían"
+          ],
+          "min_length": 3,
+          "hint": "No me parece que TENGAN — the negation brings the subjunctive.",
+          "redirect": "¿Le responde?"
+        },
+        {
+          "bot": "En eso puede que tenga razón.",
+          "bot_native": "You may be right about that.",
+          "example_responses": [
+            {
+              "target": "Sin lugar a dudas hay que revisarlo.",
+              "native": "There's no doubt it needs reviewing."
+            },
+            {
+              "target": "Convendría, al menos, plantearlo.",
+              "native": "It would be worth at least raising it."
+            }
+          ],
+          "keywords": [
+            "sin lugar a dudas",
+            "convendría",
+            "revisar",
+            "plantear"
+          ],
+          "min_length": 3,
+          "hint": "Puede que takes the subjunctive; a lo mejor wouldn't.",
+          "redirect": "¿Cómo cierra?"
+        }
+      ]
+    },
+    {
+      "id": "formal_complaint",
+      "unit": 23,
+      "title": "Making a complaint",
+      "description": "Complain formally without losing your temper",
+      "bot_role": "Customer service",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "Buenos días, ¿en qué puedo ayudarle?",
+          "bot_native": "Good morning, how can I help you?",
+          "example_responses": [
+            {
+              "target": "Quisiera trasladarle un problema con mi pedido.",
+              "native": "I'd like to raise a problem with my order with you."
+            },
+            {
+              "target": "Llamo porque no me ha llegado ningún pedido.",
+              "native": "I'm calling because no order has arrived."
+            }
+          ],
+          "keywords": [
+            "quisiera",
+            "trasladar",
+            "problema",
+            "pedido",
+            "ningún"
+          ],
+          "min_length": 3,
+          "hint": "Quisiera trasladarle — the formal way to raise a complaint.",
+          "redirect": "¿Cuál es el motivo de su llamada?"
+        },
+        {
+          "bot": "Lo lamento. ¿Cuándo hizo el pedido?",
+          "bot_native": "I'm sorry. When did you place the order?",
+          "example_responses": [
+            {
+              "target": "Hace dos semanas, y no ha llegado nada.",
+              "native": "Two weeks ago, and nothing has arrived."
+            },
+            {
+              "target": "El día tres. Nadie me ha avisado de nada.",
+              "native": "On the third. Nobody has told me anything."
+            }
+          ],
+          "keywords": [
+            "hace",
+            "semanas",
+            "nada",
+            "nadie",
+            "llegado"
+          ],
+          "min_length": 3,
+          "hint": "No ha llegado nada — the double negative is compulsory.",
+          "redirect": "¿Qué fecha fue?"
+        },
+        {
+          "bot": "Veo que hubo un error. ¿Prefiere el reembolso o un envío nuevo?",
+          "bot_native": "I see there was an error. Do you prefer a refund or a new delivery?",
+          "example_responses": [
+            {
+              "target": "Prefiero el reembolso, si es posible.",
+              "native": "I'd prefer the refund, if possible."
+            },
+            {
+              "target": "Cualquiera de las dos me sirve.",
+              "native": "Either of the two works for me."
+            }
+          ],
+          "keywords": [
+            "prefiero",
+            "reembolso",
+            "cualquiera",
+            "envío"
+          ],
+          "min_length": 3,
+          "hint": "Cualquiera as a pronoun keeps the -a.",
+          "redirect": "¿Cuál de las dos opciones prefiere?"
+        },
+        {
+          "bot": "Perfecto. Se lo tramito ahora mismo.",
+          "bot_native": "Perfect. I'll process it for you right now.",
+          "example_responses": [
+            {
+              "target": "Se lo agradezco mucho.",
+              "native": "I'm very grateful."
+            },
+            {
+              "target": "Muchas gracias por resolverlo.",
+              "native": "Thank you for sorting it out."
+            }
+          ],
+          "keywords": [
+            "agradezco",
+            "gracias",
+            "resolver",
+            "amable"
+          ],
+          "min_length": 3,
+          "hint": "Se lo agradezco — le becomes se before lo.",
+          "redirect": "¿Cómo se despide?"
+        }
+      ]
+    },
+    {
+      "id": "public_office",
+      "unit": 24,
+      "title": "At a government office",
+      "description": "Understand an official instruction and ask about it",
+      "bot_role": "A civil servant",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "Deberá aportar la documentación acreditativa en diez días hábiles.",
+          "bot_native": "You must provide supporting documentation within ten working days.",
+          "example_responses": [
+            {
+              "target": "Perdone, ¿qué documentación exactamente?",
+              "native": "Sorry, what documentation exactly?"
+            },
+            {
+              "target": "¿Podría decirme qué papeles necesito?",
+              "native": "Could you tell me which papers I need?"
+            }
+          ],
+          "keywords": [
+            "perdone",
+            "qué",
+            "documentación",
+            "papeles",
+            "podría"
+          ],
+          "min_length": 3,
+          "hint": "Deberá is the standard legal obligation. Ask what it means.",
+          "redirect": "¿Qué necesita saber?"
+        },
+        {
+          "bot": "El certificado de empadronamiento y un justificante de pago.",
+          "bot_native": "Your proof of residence and a payment receipt.",
+          "example_responses": [
+            {
+              "target": "¿Los diez días son hábiles o naturales?",
+              "native": "Are the ten days working days or calendar days?"
+            },
+            {
+              "target": "¿Cuentan los fines de semana?",
+              "native": "Do weekends count?"
+            }
+          ],
+          "keywords": [
+            "hábiles",
+            "naturales",
+            "días",
+            "fines de semana",
+            "cuentan"
+          ],
+          "min_length": 3,
+          "hint": "Días hábiles excludes weekends — worth checking.",
+          "redirect": "¿Alguna duda sobre el plazo?"
+        },
+        {
+          "bot": "Hábiles. No cuentan sábados, domingos ni festivos.",
+          "bot_native": "Working days. Saturdays, Sundays and holidays don't count.",
+          "example_responses": [
+            {
+              "target": "Entendido. ¿Y desde cuándo cuenta el plazo?",
+              "native": "Understood. And from when does the deadline run?"
+            },
+            {
+              "target": "¿Se cuenta desde hoy o desde la carta?",
+              "native": "Is it counted from today or from the letter?"
+            }
+          ],
+          "keywords": [
+            "desde",
+            "cuenta",
+            "plazo",
+            "carta",
+            "hoy"
+          ],
+          "min_length": 3,
+          "hint": "Ask what the deadline runs from — that's what catches people out.",
+          "redirect": "¿Desde cuándo quiere saber?"
+        },
+        {
+          "bot": "Desde la recepción de la notificación. Queda constancia en el expediente.",
+          "bot_native": "From receipt of the notification. It's recorded in the file.",
+          "example_responses": [
+            {
+              "target": "De acuerdo, muchas gracias.",
+              "native": "All right, thank you very much."
+            },
+            {
+              "target": "Perfecto. ¿Me da un comprobante?",
+              "native": "Perfect. May I have a receipt?"
+            }
+          ],
+          "keywords": [
+            "de acuerdo",
+            "gracias",
+            "comprobante",
+            "perfecto"
+          ],
+          "min_length": 3,
+          "hint": "Queda constancia — a fixed administrative phrase.",
+          "redirect": "¿Necesita algo más?"
+        }
+      ]
+    },
+    {
+      "id": "persuading",
+      "unit": 25,
+      "title": "Making your case",
+      "description": "Persuade a committee to back your proposal",
+      "bot_role": "A committee member",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "Su propuesta es interesante, pero cara. ¿Por qué deberíamos aprobarla?",
+          "bot_native": "Your proposal is interesting but expensive. Why should we approve it?",
+          "example_responses": [
+            {
+              "target": "Es cierto que es cara; ahora bien, se amortiza en dos años.",
+              "native": "It's true it's expensive; that said, it pays for itself in two years."
+            },
+            {
+              "target": "No es que sea cara, sino que el gasto se adelanta.",
+              "native": "It's not that it's expensive, it's that the cost comes earlier."
+            }
+          ],
+          "keywords": [
+            "es cierto",
+            "ahora bien",
+            "no es que",
+            "sino",
+            "amortiza"
+          ],
+          "min_length": 3,
+          "hint": "Concede first, then pivot: es cierto que… ahora bien…",
+          "redirect": "¿Cómo justifica el coste?"
+        },
+        {
+          "bot": "¿Y qué pasa si no funciona?",
+          "bot_native": "And what if it doesn't work?",
+          "example_responses": [
+            {
+              "target": "¿No sería más caro no hacer nada?",
+              "native": "Wouldn't doing nothing be more expensive?"
+            },
+            {
+              "target": "Cabría preguntarse cuánto cuesta no intentarlo.",
+              "native": "One might ask what not trying costs."
+            }
+          ],
+          "keywords": [
+            "no sería",
+            "cabría",
+            "preguntarse",
+            "caro",
+            "nada"
+          ],
+          "min_length": 3,
+          "hint": "A negative question invites a yes. That's the persuasive move.",
+          "redirect": "¿Y si sale mal?"
+        },
+        {
+          "bot": "Puede ser. Aun así, el comité es prudente.",
+          "bot_native": "Possibly. Even so, the committee is cautious.",
+          "example_responses": [
+            {
+              "target": "Por muy prudente que sea, hay que decidir.",
+              "native": "However cautious it may be, a decision has to be made."
+            },
+            {
+              "target": "Aun cuando fuera arriesgado, no decidir también lo es.",
+              "native": "Even if it were risky, not deciding is risky too."
+            }
+          ],
+          "keywords": [
+            "por muy",
+            "que sea",
+            "aun cuando",
+            "fuera",
+            "decidir"
+          ],
+          "min_length": 3,
+          "hint": "Por muy prudente que sea — note the obligatory muy.",
+          "redirect": "¿Insiste?"
+        },
+        {
+          "bot": "De acuerdo. Lo llevaremos a votación.",
+          "bot_native": "All right. We'll put it to a vote.",
+          "example_responses": [
+            {
+              "target": "Se lo agradezco. Quedo a su disposición.",
+              "native": "I'm grateful. I remain at your disposal."
+            },
+            {
+              "target": "Muchas gracias por considerarlo.",
+              "native": "Thank you for considering it."
+            }
+          ],
+          "keywords": [
+            "agradezco",
+            "disposición",
+            "gracias",
+            "considerar"
+          ],
+          "min_length": 3,
+          "hint": "Close formally.",
+          "redirect": "¿Cómo cierra?"
+        }
+      ]
+    },
+    {
+      "id": "about_a_book",
+      "unit": 26,
+      "title": "Talking about a book",
+      "description": "Describe a novel and how it's written",
+      "bot_role": "A friend in a book club",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "¿Qué te pareció la novela?",
+          "bot_native": "What did you make of the novel?",
+          "example_responses": [
+            {
+              "target": "Me pareció buenísima, sobre todo el principio.",
+              "native": "I thought it was excellent, especially the beginning."
+            },
+            {
+              "target": "Me costó entrar, aunque después me atrapó.",
+              "native": "I found it hard to get into, though it grabbed me later."
+            }
+          ],
+          "keywords": [
+            "me pareció",
+            "buenísima",
+            "costó",
+            "atrapó"
+          ],
+          "min_length": 3,
+          "hint": "Me pareció plus adjective — the standard way to give a verdict.",
+          "redirect": "¿Te gustó o no?"
+        },
+        {
+          "bot": "A mí lo que más me gustó fue cómo está contada.",
+          "bot_native": "What I liked most was how it's told.",
+          "example_responses": [
+            {
+              "target": "Sí, el narrador se mete en la cabeza del personaje.",
+              "native": "Yes, the narrator gets inside the character's head."
+            },
+            {
+              "target": "Es cierto, no se sabe quién está hablando.",
+              "native": "True, you can't tell who's speaking."
+            }
+          ],
+          "keywords": [
+            "narrador",
+            "personaje",
+            "cabeza",
+            "hablando",
+            "cierto"
+          ],
+          "min_length": 3,
+          "hint": "That's free indirect style — very common in Spanish fiction.",
+          "redirect": "¿Qué te pareció la voz narrativa?"
+        },
+        {
+          "bot": "Y esas descripciones largas, con el imperfecto todo el tiempo.",
+          "bot_native": "And those long descriptions, all in the imperfect.",
+          "example_responses": [
+            {
+              "target": "Claro, porque describe, no cuenta.",
+              "native": "Right, because it describes rather than narrates."
+            },
+            {
+              "target": "Sí, y cuando pasa algo cambia al pretérito.",
+              "native": "Yes, and when something happens it switches to the preterite."
+            }
+          ],
+          "keywords": [
+            "imperfecto",
+            "pretérito",
+            "describe",
+            "cuenta",
+            "cambia"
+          ],
+          "min_length": 3,
+          "hint": "The imperfect paints, the preterite moves.",
+          "redirect": "¿Por qué usa ese tiempo?"
+        },
+        {
+          "bot": "Exacto. ¿Se la recomendarías a alguien?",
+          "bot_native": "Exactly. Would you recommend it to anyone?",
+          "example_responses": [
+            {
+              "target": "Se la recomendaría a quien tenga paciencia.",
+              "native": "I'd recommend it to anyone with patience."
+            },
+            {
+              "target": "Sí, aunque no es para todo el mundo.",
+              "native": "Yes, though it's not for everyone."
+            }
+          ],
+          "keywords": [
+            "recomendaría",
+            "quien",
+            "tenga",
+            "aunque",
+            "todo el mundo"
+          ],
+          "min_length": 3,
+          "hint": "A quien tenga — the person is hypothetical, so subjunctive.",
+          "redirect": "¿La recomendás?"
+        }
+      ]
+    },
+    {
+      "id": "banter",
+      "unit": 27,
+      "title": "Winding each other up",
+      "description": "Recognise irony and answer in kind",
+      "bot_role": "A close friend",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "Llegaste sólo cuarenta minutos tarde. ¡Qué puntual!",
+          "bot_native": "You're only forty minutes late. How punctual!",
+          "example_responses": [
+            {
+              "target": "Ya, ya. Es que había un tráfico terrible.",
+              "native": "Yeah, yeah. There was terrible traffic."
+            },
+            {
+              "target": "Vaya recibimiento. Gracias, eh.",
+              "native": "What a welcome. Thanks a lot."
+            }
+          ],
+          "keywords": [
+            "ya",
+            "es que",
+            "vaya",
+            "tráfico",
+            "gracias"
+          ],
+          "min_length": 3,
+          "hint": "¡Qué puntual! after being late is irony. Answer in kind.",
+          "redirect": "¿Le seguís el chiste o te defendés?"
+        },
+        {
+          "bot": "Será verdad, pero siempre te pasa lo mismo.",
+          "bot_native": "That may be true, but it always happens to you.",
+          "example_responses": [
+            {
+              "target": "Tampoco es que llegue tarde siempre.",
+              "native": "It's not as if I'm always late."
+            },
+            {
+              "target": "Hombre, tampoco es para tanto.",
+              "native": "Come on, it's not that bad."
+            }
+          ],
+          "keywords": [
+            "tampoco",
+            "no es para tanto",
+            "hombre",
+            "siempre"
+          ],
+          "min_length": 3,
+          "hint": "Será verdad, pero… concedes only to demolish.",
+          "redirect": "¿Cómo te defendés?"
+        },
+        {
+          "bot": "Bueno, dejalo. ¿Pedimos algo? Me muero de hambre.",
+          "bot_native": "Fine, drop it. Shall we order? I'm starving.",
+          "example_responses": [
+            {
+              "target": "Yo también, no comí nada en todo el día.",
+              "native": "Me too, I haven't eaten all day."
+            },
+            {
+              "target": "Dale, pidamos ya.",
+              "native": "Sure, let's order now."
+            }
+          ],
+          "keywords": [
+            "también",
+            "hambre",
+            "dale",
+            "comí",
+            "pidamos"
+          ],
+          "min_length": 3,
+          "hint": "Me muero de hambre is hyperbole, not a medical report.",
+          "redirect": "¿Pedimos o no?"
+        },
+        {
+          "bot": "Un problemita: me olvidé la billetera.",
+          "bot_native": "Tiny problem: I forgot my wallet.",
+          "example_responses": [
+            {
+              "target": "¿Cómo que te la olvidaste?",
+              "native": "What do you mean you forgot it?"
+            },
+            {
+              "target": "Lo que faltaba. Pago yo, entonces.",
+              "native": "That's all we needed. I'll pay, then."
+            }
+          ],
+          "keywords": [
+            "cómo que",
+            "lo que faltaba",
+            "pago",
+            "olvidaste"
+          ],
+          "min_length": 3,
+          "hint": "Un problemita usually announces a big problem. ¿Cómo que…? is disbelief.",
+          "redirect": "¿Qué le decís?"
+        }
+      ]
+    },
+    {
+      "id": "changing_register",
+      "unit": 28,
+      "title": "Same message, two registers",
+      "description": "Say the same thing formally and then casually",
+      "bot_role": "A colleague",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "Necesito avisar que no voy a la reunión. ¿Cómo se lo escribo al director?",
+          "bot_native": "I need to say I'm not coming to the meeting. How do I write it to the director?",
+          "example_responses": [
+            {
+              "target": "Le comunico que no podré asistir a la reunión.",
+              "native": "I am writing to inform you that I will be unable to attend."
+            },
+            {
+              "target": "Lamento comunicarle que no podré asistir.",
+              "native": "I regret to inform you that I will be unable to attend."
+            }
+          ],
+          "keywords": [
+            "le comunico",
+            "lamento",
+            "no podré",
+            "asistir"
+          ],
+          "min_length": 3,
+          "hint": "Formal: usted, Latinate verbs, future tense.",
+          "redirect": "¿Cómo se lo escribís a él?"
+        },
+        {
+          "bot": "¿Y a mí, que somos amigos?",
+          "bot_native": "And to me, seeing as we're friends?",
+          "example_responses": [
+            {
+              "target": "Oye, que al final no puedo ir.",
+              "native": "Listen, I can't make it after all."
+            },
+            {
+              "target": "Che, no llego a la reunión.",
+              "native": "Hey, I'm not going to make the meeting."
+            }
+          ],
+          "keywords": [
+            "oye",
+            "che",
+            "no puedo",
+            "no llego",
+            "al final"
+          ],
+          "min_length": 3,
+          "hint": "Casual: tú or vos, plain verbs, ir a instead of the future.",
+          "redirect": "¿Y a un amigo?"
+        },
+        {
+          "bot": "Bien. ¿Y si tenés que pedir los papeles del proyecto?",
+          "bot_native": "Good. And if you have to ask for the project papers?",
+          "example_responses": [
+            {
+              "target": "Agradecería que me remitieran la documentación.",
+              "native": "I would be grateful if you could send me the documentation."
+            },
+            {
+              "target": "¿Me podés pasar los papeles?",
+              "native": "Can you send me the papers?"
+            }
+          ],
+          "keywords": [
+            "agradecería",
+            "remitieran",
+            "podés",
+            "pasar",
+            "papeles"
+          ],
+          "min_length": 3,
+          "hint": "Agradecería que takes the imperfect subjunctive.",
+          "redirect": "Decilo de las dos formas."
+        },
+        {
+          "bot": "Perfecto. Lo importante es no mezclar los dos registros.",
+          "bot_native": "Perfect. The main thing is not to mix the two registers.",
+          "example_responses": [
+            {
+              "target": "Claro, si no queda raro.",
+              "native": "Right, otherwise it sounds odd."
+            },
+            {
+              "target": "Sí, una frase coloquial arruina un texto formal.",
+              "native": "Yes, one colloquial sentence ruins a formal text."
+            }
+          ],
+          "keywords": [
+            "claro",
+            "raro",
+            "coloquial",
+            "formal",
+            "mezclar"
+          ],
+          "min_length": 3,
+          "hint": "One casual sentence in a formal text is the giveaway.",
+          "redirect": "¿Estás de acuerdo?"
+        }
+      ]
+    },
+    {
+      "id": "catching_up",
+      "unit": 29,
+      "title": "Catching up with a friend",
+      "description": "Use everyday idioms naturally",
+      "bot_role": "An old friend",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "¡Cuánto tiempo! ¿Cómo te va?",
+          "bot_native": "It's been ages! How are things?",
+          "example_responses": [
+            {
+              "target": "Bien, tirando. ¿Y vos?",
+              "native": "Fine, getting by. And you?"
+            },
+            {
+              "target": "Con mucho trabajo, pero bien.",
+              "native": "Very busy, but well."
+            }
+          ],
+          "keywords": [
+            "bien",
+            "tirando",
+            "trabajo",
+            "vos",
+            "tú"
+          ],
+          "min_length": 3,
+          "hint": "Tirando is the honest everyday answer.",
+          "redirect": "¿Cómo andás?"
+        },
+        {
+          "bot": "Me enteré de que cambiaste de trabajo. ¿Qué tal?",
+          "bot_native": "I heard you changed jobs. How is it?",
+          "example_responses": [
+            {
+              "target": "Al principio me costó, pero le fui agarrando la mano.",
+              "native": "It was hard at first, but I got the hang of it."
+            },
+            {
+              "target": "Está bien, aunque me costó un ojo de la cara mudarme.",
+              "native": "It's fine, though moving cost me an arm and a leg."
+            }
+          ],
+          "keywords": [
+            "costó",
+            "agarrando",
+            "ojo de la cara",
+            "mudarme"
+          ],
+          "min_length": 3,
+          "hint": "Costar un ojo de la cara — colloquial, fine among friends.",
+          "redirect": "¿Cómo te está yendo?"
+        },
+        {
+          "bot": "Me alegro. ¿Y te llevás bien con la gente?",
+          "bot_native": "Glad to hear it. And do you get on with the people?",
+          "example_responses": [
+            {
+              "target": "Sí, nos llevamos muy bien.",
+              "native": "Yes, we get on very well."
+            },
+            {
+              "target": "Con casi todos, sí. Uno se hace el sueco.",
+              "native": "With almost everyone. One of them plays dumb."
+            }
+          ],
+          "keywords": [
+            "me llevo",
+            "nos llevamos",
+            "bien",
+            "hace el sueco"
+          ],
+          "min_length": 3,
+          "hint": "Llevarse bien con — the standard collocation.",
+          "redirect": "¿Te llevás bien con ellos?"
+        },
+        {
+          "bot": "Bueno, no te vayas por las ramas. ¿Cuándo nos vemos?",
+          "bot_native": "Right, don't beat about the bush. When are we meeting?",
+          "example_responses": [
+            {
+              "target": "Cuando quieras, decime vos.",
+              "native": "Whenever you like, you tell me."
+            },
+            {
+              "target": "La semana que viene, sin falta.",
+              "native": "Next week, without fail."
+            }
+          ],
+          "keywords": [
+            "cuando quieras",
+            "semana",
+            "sin falta",
+            "decime"
+          ],
+          "min_length": 3,
+          "hint": "Cuando quieras — future, so subjunctive.",
+          "redirect": "¿Cuándo se ven?"
+        }
+      ]
+    },
+    {
+      "id": "explaining_a_letter",
+      "unit": 30,
+      "title": "Explaining an official letter",
+      "description": "Mediate: put a formal text into plain words",
+      "bot_role": "A neighbour who needs help",
+      "user_role": "You",
+      "turns": [
+        {
+          "bot": "Me llegó esta carta y no entiendo nada. ¿Me la explicás?",
+          "bot_native": "I got this letter and I don't understand any of it. Can you explain it?",
+          "example_responses": [
+            {
+              "target": "Claro. A ver qué dice.",
+              "native": "Of course. Let's see what it says."
+            },
+            {
+              "target": "Sí, dámela y te la resumo.",
+              "native": "Yes, give it here and I'll summarise it."
+            }
+          ],
+          "keywords": [
+            "claro",
+            "a ver",
+            "resumo",
+            "explico",
+            "dámela"
+          ],
+          "min_length": 3,
+          "hint": "Offer to summarise — resumir, not interpretar.",
+          "redirect": "¿La ayudás?"
+        },
+        {
+          "bot": "Dice que debo aportar documentación acreditativa. ¿Eso qué es?",
+          "bot_native": "It says I must provide supporting documentation. What's that?",
+          "example_responses": [
+            {
+              "target": "Quiere decir que tenés que llevar papeles que lo demuestren.",
+              "native": "It means you have to take papers that prove it."
+            },
+            {
+              "target": "Dicho de otro modo: papeles que prueben lo que decís.",
+              "native": "In other words: papers that prove what you're claiming."
+            }
+          ],
+          "keywords": [
+            "quiere decir",
+            "dicho de otro modo",
+            "papeles",
+            "demuestren"
+          ],
+          "min_length": 3,
+          "hint": "Explain the term, don't translate it word for word.",
+          "redirect": "¿Qué significa eso?"
+        },
+        {
+          "bot": "¿Y lo de diez días hábiles?",
+          "bot_native": "And the ten working days?",
+          "example_responses": [
+            {
+              "target": "Son diez días de semana, sin contar sábados ni domingos.",
+              "native": "Ten weekdays, not counting Saturdays or Sundays."
+            },
+            {
+              "target": "Es decir, unas dos semanas reales.",
+              "native": "That is, about two real weeks."
+            }
+          ],
+          "keywords": [
+            "hábiles",
+            "sábados",
+            "domingos",
+            "es decir",
+            "semanas"
+          ],
+          "min_length": 3,
+          "hint": "Explain días hábiles rather than repeating it.",
+          "redirect": "¿Cuánto tiempo tiene?"
+        },
+        {
+          "bot": "Ah, ahora sí. ¿Y qué hago primero?",
+          "bot_native": "Ah, now I get it. And what do I do first?",
+          "example_responses": [
+            {
+              "target": "En resumen: llevá el DNI y una factura reciente.",
+              "native": "In short: take your ID and a recent bill."
+            },
+            {
+              "target": "Primero conseguí los papeles, después vas.",
+              "native": "First get the papers, then go."
+            }
+          ],
+          "keywords": [
+            "en resumen",
+            "primero",
+            "después",
+            "llevá",
+            "papeles"
+          ],
+          "min_length": 3,
+          "hint": "Simplify the language, never the deadline or the requirement.",
+          "redirect": "¿Qué le aconsejás?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "pair": "es-en",
+  "version": 6,
+  "l1": "es",
+  "l2": "en",
+  "title": "Español → Inglés",
+  "units": 30,
+  "generated": "2026-06-13",
+  "modules": {
+    "vocabulary": "vocabulary.json",
+    "grammar": "grammar.json",
+    "reading": "reading.json",
+    "reading_comprehension": "reading_comprehension.json",
+    "listening": "listening.json",
+    "writing": "writing.json",
+    "phrases": "phrases.json",
+    "conversation": "conversation.json"
+  },
+  "asset_filenames": {
+    "vocabulary": "vocabulary.json",
+    "grammar": "grammar_exercises.json",
+    "theory": "grammar_theory.json",
+    "teacher": "class_scripts.json",
+    "reading": "reading_data.json",
+    "reading_comprehension": "reading_comprehension_data.json",
+    "listening": "listening_data.json",
+    "writing": "writing_exam_data.json",
+    "phrases": "email_phrases.json",
+    "conversation": "conversation_scripts.json"
+  },
+  "pending_modules": [],
+  "notes": "Pack de referencia. listening.json conserva audio_filename pero el audio se sintetiza con TTS (no requiere .mp3). 'conversation' extraido de ConversationScripts.java el 2026-07-19 (5 escenarios con unit y roles; base de la sesion guiada de Fase 4). asset_filenames = nombre con el que cada modulo debe instalarse via ContentStore.installModule() para que los repos lo encuentren."
+}

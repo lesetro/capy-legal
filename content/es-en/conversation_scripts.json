@@ -1,0 +1,3483 @@
+{
+  "format_version": 2,
+  "scripts": [
+    {
+      "id": "morning_work",
+      "unit": 1,
+      "title": "Mañana en el trabajo",
+      "description": "Saluda a un compañero de trabajo y charla sobre el día",
+      "bot_role": "Compañero de trabajo",
+      "user_role": "Vos",
+      "turns": [
+        {
+          "bot": "Good morning! How are you doing today?",
+          "example_responses": [
+            {
+              "target": "Good morning! I'm doing great, thanks.",
+              "native": "¡Buenos días! Estoy muy bien, gracias."
+            },
+            {
+              "target": "I'm a bit tired today.",
+              "native": "Estoy un poco cansado/a hoy."
+            }
+          ],
+          "keywords": [
+            "good",
+            "fine",
+            "well",
+            "great",
+            "tired",
+            "okay",
+            "morning"
+          ],
+          "min_length": 3,
+          "hint": "Saluda y decí cómo te sentís (good, fine, well, great...)",
+          "redirect": "Sorry, I didn't catch that! How are you feeling this morning?",
+          "bot_native": "¡Buenos días! ¿Cómo estás hoy?"
+        },
+        {
+          "bot": "That's great! Did you have a good weekend?",
+          "example_responses": [
+            {
+              "target": "Yes, it was great, thanks!",
+              "native": "Sí, estuvo genial, ¡gracias!"
+            },
+            {
+              "target": "It was pretty busy, actually.",
+              "native": "La verdad que estuvo bastante ocupado."
+            }
+          ],
+          "keywords": [
+            "yes",
+            "no",
+            "yeah",
+            "weekend",
+            "good",
+            "bad",
+            "great",
+            "relaxed",
+            "busy",
+            "tired",
+            "fun"
+          ],
+          "min_length": 3,
+          "hint": "Contá cómo estuvo tu fin de semana (yes, it was good / I was busy...)",
+          "redirect": "Tell me about your weekend — was it relaxing or busy?",
+          "bot_native": "¡Qué bueno! ¿Tuviste un buen fin de semana?"
+        },
+        {
+          "bot": "Nice! Do you have any big plans for this week?",
+          "example_responses": [
+            {
+              "target": "Yes, I have a meeting on Thursday.",
+              "native": "Sí, tengo una reunión el jueves."
+            },
+            {
+              "target": "Not really, just work as usual.",
+              "native": "La verdad que no, solo trabajo como siempre."
+            }
+          ],
+          "keywords": [
+            "yes",
+            "no",
+            "work",
+            "meeting",
+            "project",
+            "busy",
+            "plan",
+            "week",
+            "presentation",
+            "deadline"
+          ],
+          "min_length": 3,
+          "hint": "Contá tus planes de la semana (yes, I have a meeting / no, just work...)",
+          "redirect": "What's your schedule looking like? Any meetings or projects?",
+          "bot_native": "¡Bien! ¿Tenés planes importantes para esta semana?"
+        },
+        {
+          "bot": "Sounds like a busy week! Good luck with everything. Have a productive day!",
+          "example_responses": [
+            {
+              "target": "Thanks, you too!",
+              "native": "Gracias, ¡vos también!"
+            },
+            {
+              "target": "Thank you, have a great day!",
+              "native": "Gracias, ¡que tengas un gran día!"
+            }
+          ],
+          "keywords": [
+            "thanks",
+            "thank",
+            "you too",
+            "same",
+            "bye",
+            "see you"
+          ],
+          "min_length": 2,
+          "hint": "Despedite y deseale un buen día (thanks, you too!)",
+          "redirect": "Don't forget to say goodbye! Try: 'Thanks, you too!'",
+          "bot_native": "¡Suena a una semana ocupada! Buena suerte con todo. ¡Que tengas un día productivo!"
+        }
+      ]
+    },
+    {
+      "id": "cafe",
+      "unit": 6,
+      "title": "En el café",
+      "description": "Pedí algo para tomar y comer en una cafetería",
+      "bot_role": "Barista",
+      "user_role": "Cliente",
+      "turns": [
+        {
+          "bot": "Welcome! What can I get for you today?",
+          "example_responses": [
+            {
+              "target": "I'd like a coffee, please.",
+              "native": "Quiero un café, por favor."
+            },
+            {
+              "target": "Can I have a latte?",
+              "native": "¿Me das un latte?"
+            }
+          ],
+          "keywords": [
+            "coffee",
+            "tea",
+            "latte",
+            "cappuccino",
+            "espresso",
+            "juice",
+            "water",
+            "please",
+            "want",
+            "would",
+            "like"
+          ],
+          "min_length": 3,
+          "hint": "Pedí una bebida (I'd like a coffee / Can I have a latte, please?)",
+          "redirect": "What would you like to drink? We have coffee, tea, juice...",
+          "bot_native": "¡Bienvenido! ¿Qué te traigo hoy?"
+        },
+        {
+          "bot": "Great choice! Would you like anything to eat with that?",
+          "example_responses": [
+            {
+              "target": "Yes, a muffin, please.",
+              "native": "Sí, un muffin, por favor."
+            },
+            {
+              "target": "No, just the coffee, thanks.",
+              "native": "No, solo el café, gracias."
+            }
+          ],
+          "keywords": [
+            "yes",
+            "no",
+            "sandwich",
+            "cake",
+            "muffin",
+            "nothing",
+            "just",
+            "croissant",
+            "cookie",
+            "pastry",
+            "piece"
+          ],
+          "min_length": 2,
+          "hint": "Pedí algo de comer o decí que no querés nada (yes, a muffin / no, just the coffee)",
+          "redirect": "Would you like a snack? A sandwich, muffin or croissant perhaps?",
+          "bot_native": "¡Buena elección! ¿Querés algo para comer con eso?"
+        },
+        {
+          "bot": "Perfect. That'll be $8.50. How would you like to pay?",
+          "example_responses": [
+            {
+              "target": "I'll pay by card.",
+              "native": "Voy a pagar con tarjeta."
+            },
+            {
+              "target": "Here's the cash.",
+              "native": "Acá tenés el efectivo."
+            }
+          ],
+          "keywords": [
+            "card",
+            "cash",
+            "credit",
+            "debit",
+            "pay",
+            "here"
+          ],
+          "min_length": 2,
+          "hint": "Indicá cómo vas a pagar (I'll pay by card / here's the cash)",
+          "redirect": "Will you be paying by card or cash?",
+          "bot_native": "Perfecto. Son $8.50. ¿Cómo querés pagar?"
+        },
+        {
+          "bot": "Of course! Here's your receipt. Enjoy your coffee!",
+          "example_responses": [
+            {
+              "target": "Thank you so much!",
+              "native": "¡Muchas gracias!"
+            },
+            {
+              "target": "Thanks a lot, have a nice day!",
+              "native": "Muchas gracias, ¡que tengas un lindo día!"
+            }
+          ],
+          "keywords": [
+            "thank",
+            "thanks",
+            "you",
+            "great",
+            "nice",
+            "wonderful"
+          ],
+          "min_length": 2,
+          "hint": "Agradecé al barista (thank you / thanks a lot!)",
+          "redirect": "Don't forget to say thank you! 😊",
+          "bot_native": "¡Por supuesto! Acá tenés tu recibo. ¡Disfrutá tu café!"
+        }
+      ]
+    },
+    {
+      "id": "plans",
+      "unit": 12,
+      "title": "Haciendo planes",
+      "description": "Organizá una salida al cine con un amigo",
+      "bot_role": "Amigo/a",
+      "user_role": "Vos",
+      "turns": [
+        {
+          "bot": "Hey! Are you free this weekend? I was thinking we could go to the movies.",
+          "example_responses": [
+            {
+              "target": "Yes, sounds great!",
+              "native": "Sí, ¡suena genial!"
+            },
+            {
+              "target": "Sure, I'd love to!",
+              "native": "Claro, ¡me encantaría!"
+            }
+          ],
+          "keywords": [
+            "yes",
+            "sounds",
+            "sure",
+            "weekend",
+            "free",
+            "love",
+            "great",
+            "why not",
+            "maybe",
+            "definitely"
+          ],
+          "min_length": 3,
+          "hint": "Aceptá la invitación (yes, sounds great! / sure, I'd love to!)",
+          "redirect": "It'll be fun! Are you interested in going to the movies this weekend?",
+          "bot_native": "¡Hola! ¿Estás libre este fin de semana? Estaba pensando que podríamos ir al cine."
+        },
+        {
+          "bot": "Awesome! There's a new action movie playing. What time works for you?",
+          "example_responses": [
+            {
+              "target": "How about 7 in the evening?",
+              "native": "¿Qué tal a las 7 de la tarde?"
+            },
+            {
+              "target": "Around 8pm works for me.",
+              "native": "Como a las 8pm me viene bien."
+            }
+          ],
+          "keywords": [
+            "afternoon",
+            "evening",
+            "morning",
+            "o'clock",
+            "pm",
+            "am",
+            "around",
+            "about",
+            "seven",
+            "eight",
+            "six",
+            "five",
+            "four",
+            "three",
+            "two"
+          ],
+          "min_length": 3,
+          "hint": "Sugerí una hora (how about 7 in the evening? / around 8pm works for me)",
+          "redirect": "What time suits you? Morning, afternoon or evening?",
+          "bot_native": "¡Genial! Están dando una película de acción nueva. ¿Qué hora te viene bien?"
+        },
+        {
+          "bot": "Perfect! And where should we meet? At the cinema or somewhere else first?",
+          "example_responses": [
+            {
+              "target": "Let's meet outside the cinema.",
+              "native": "Encontrémonos afuera del cine."
+            },
+            {
+              "target": "How about at the entrance?",
+              "native": "¿Qué tal en la entrada?"
+            }
+          ],
+          "keywords": [
+            "cinema",
+            "theater",
+            "there",
+            "outside",
+            "front",
+            "entrance",
+            "before",
+            "restaurant",
+            "meet",
+            "inside"
+          ],
+          "min_length": 3,
+          "hint": "Acordá dónde verse (let's meet outside the cinema / at the entrance)",
+          "redirect": "Where should we meet up — outside the cinema or somewhere nearby first?",
+          "bot_native": "¡Perfecto! ¿Y dónde nos encontramos? ¿En el cine o en otro lado antes?"
+        },
+        {
+          "bot": "Great, it's a plan! See you Saturday. Can't wait!",
+          "example_responses": [
+            {
+              "target": "See you Saturday! I'm excited.",
+              "native": "¡Nos vemos el sábado! Estoy emocionado/a."
+            },
+            {
+              "target": "Can't wait either, bye!",
+              "native": "Yo tampoco puedo esperar, ¡chau!"
+            }
+          ],
+          "keywords": [
+            "see",
+            "bye",
+            "Saturday",
+            "excited",
+            "wait",
+            "neither",
+            "great",
+            "awesome",
+            "look forward",
+            "can't"
+          ],
+          "min_length": 2,
+          "hint": "Confirmá los planes y despedite (see you Saturday! / I'm excited!)",
+          "redirect": "Sounds like a plan! Say goodbye and confirm you're looking forward to it.",
+          "bot_native": "¡Genial, trato hecho! Nos vemos el sábado. ¡No puedo esperar!"
+        }
+      ]
+    },
+    {
+      "id": "interview",
+      "unit": 8,
+      "title": "Entrevista de trabajo",
+      "description": "Practicá responder preguntas en una entrevista en inglés",
+      "bot_role": "Entrevistador/a",
+      "user_role": "Candidato/a",
+      "turns": [
+        {
+          "bot": "Hello! Thank you for coming in today. Could you tell me a little about yourself?",
+          "example_responses": [
+            {
+              "target": "I'm a developer with three years of experience.",
+              "native": "Soy desarrollador/a con tres años de experiencia."
+            },
+            {
+              "target": "I studied engineering and I currently work as a designer.",
+              "native": "Estudié ingeniería y actualmente trabajo como diseñador/a."
+            }
+          ],
+          "keywords": [
+            "i am",
+            "i'm",
+            "my name",
+            "work",
+            "years",
+            "experience",
+            "studied",
+            "background",
+            "currently",
+            "developer",
+            "designer",
+            "engineer",
+            "professional"
+          ],
+          "min_length": 10,
+          "hint": "Presentate brevemente (I'm a developer with 3 years of experience...)",
+          "redirect": "Tell me a bit about your professional background — where did you study or work?",
+          "bot_native": "¡Hola! Gracias por venir hoy. ¿Podrías contarme un poco sobre vos?"
+        },
+        {
+          "bot": "Excellent! What are your main strengths that you'd bring to this role?",
+          "example_responses": [
+            {
+              "target": "I'm very organized and good at problem-solving.",
+              "native": "Soy muy organizado/a y bueno/a resolviendo problemas."
+            },
+            {
+              "target": "I'm a team player and I learn fast.",
+              "native": "Trabajo bien en equipo y aprendo rápido."
+            }
+          ],
+          "keywords": [
+            "organized",
+            "team",
+            "communication",
+            "problem",
+            "creative",
+            "fast",
+            "detail",
+            "learn",
+            "adapt",
+            "leadership",
+            "motivated",
+            "hardworking"
+          ],
+          "min_length": 8,
+          "hint": "Mencioná tus fortalezas (I'm very organized / good at problem-solving...)",
+          "redirect": "Think about what makes you stand out. Are you organized? A team player? Creative?",
+          "bot_native": "¡Excelente! ¿Cuáles son tus principales fortalezas para este puesto?"
+        },
+        {
+          "bot": "Impressive! Where do you see yourself in five years?",
+          "example_responses": [
+            {
+              "target": "I hope to be in a senior position.",
+              "native": "Espero estar en un puesto senior."
+            },
+            {
+              "target": "I want to be leading a team.",
+              "native": "Quiero estar liderando un equipo."
+            }
+          ],
+          "keywords": [
+            "see",
+            "five",
+            "years",
+            "grow",
+            "lead",
+            "senior",
+            "manager",
+            "team",
+            "company",
+            "position",
+            "hope",
+            "want",
+            "would like",
+            "career"
+          ],
+          "min_length": 8,
+          "hint": "Hablá sobre tus metas (I hope to be in a senior position / leading a team...)",
+          "redirect": "In five years, where do you hope to be in your career? Leadership? Senior role?",
+          "bot_native": "¡Impresionante! ¿Dónde te ves en cinco años?"
+        },
+        {
+          "bot": "That's a great goal. Do you have any questions for us?",
+          "example_responses": [
+            {
+              "target": "What does a typical day look like?",
+              "native": "¿Cómo es un día típico?"
+            },
+            {
+              "target": "What's the team culture like?",
+              "native": "¿Cómo es la cultura del equipo?"
+            }
+          ],
+          "keywords": [
+            "yes",
+            "question",
+            "what",
+            "when",
+            "how",
+            "team",
+            "culture",
+            "start",
+            "role",
+            "expect",
+            "typical",
+            "day",
+            "growth"
+          ],
+          "min_length": 5,
+          "hint": "Hacé una pregunta (What does a typical day look like? / What's the team culture?)",
+          "redirect": "Good candidates always ask questions! Ask about the team, role, or company culture.",
+          "bot_native": "Es un gran objetivo. ¿Tenés alguna pregunta para nosotros?"
+        },
+        {
+          "bot": "Great question! This was a wonderful interview. We'll be in touch soon. Thank you!",
+          "example_responses": [
+            {
+              "target": "Thank you for your time.",
+              "native": "Gracias por tu tiempo."
+            },
+            {
+              "target": "I look forward to hearing from you.",
+              "native": "Espero tener noticias suyas pronto."
+            }
+          ],
+          "keywords": [
+            "thank",
+            "thanks",
+            "time",
+            "opportunity",
+            "look forward",
+            "hearing",
+            "pleasure",
+            "wonderful"
+          ],
+          "min_length": 5,
+          "hint": "Agradecé la oportunidad (Thank you for your time / I look forward to hearing from you)",
+          "redirect": "Always end an interview by thanking them for their time!",
+          "bot_native": "¡Buena pregunta! Fue una entrevista maravillosa. Nos pondremos en contacto pronto. ¡Gracias!"
+        }
+      ]
+    },
+    {
+      "id": "hobbies",
+      "unit": 11,
+      "title": "Hablando de hobbies",
+      "description": "Charlá sobre tus pasatiempos favoritos",
+      "bot_role": "Nuevo amigo",
+      "user_role": "Vos",
+      "turns": [
+        {
+          "bot": "Hi! I always like getting to know people better. What do you enjoy doing in your free time?",
+          "example_responses": [
+            {
+              "target": "I love reading books.",
+              "native": "Me encanta leer libros."
+            },
+            {
+              "target": "I enjoy playing the guitar.",
+              "native": "Disfruto tocar la guitarra."
+            }
+          ],
+          "keywords": [
+            "like",
+            "enjoy",
+            "love",
+            "hobby",
+            "sport",
+            "music",
+            "read",
+            "travel",
+            "cook",
+            "draw",
+            "paint",
+            "game",
+            "watch",
+            "play",
+            "hike",
+            "dance",
+            "write"
+          ],
+          "min_length": 5,
+          "hint": "Contá tus hobbies (I love reading / I enjoy playing guitar / I like cooking...)",
+          "redirect": "What do you do when you're not working? Any sports, music or creative hobbies?",
+          "bot_native": "¡Hola! Siempre me gusta conocer mejor a la gente. ¿Qué te gusta hacer en tu tiempo libre?"
+        },
+        {
+          "bot": "That's really cool! How long have you been doing that?",
+          "example_responses": [
+            {
+              "target": "For three years.",
+              "native": "Hace tres años."
+            },
+            {
+              "target": "Since I was a kid.",
+              "native": "Desde que era chico/a."
+            }
+          ],
+          "keywords": [
+            "years",
+            "months",
+            "since",
+            "ago",
+            "time",
+            "long",
+            "started",
+            "learn",
+            "young",
+            "child",
+            "always",
+            "recently",
+            "while"
+          ],
+          "min_length": 3,
+          "hint": "Decí cuánto tiempo llevás haciéndolo (for 3 years / since I was a kid...)",
+          "redirect": "How long have you been into it — a few months, years, or since childhood?",
+          "bot_native": "¡Qué genial! ¿Hace cuánto que hacés eso?"
+        },
+        {
+          "bot": "Impressive! Is it something you do alone or with others?",
+          "example_responses": [
+            {
+              "target": "I do it alone.",
+              "native": "Lo hago solo/a."
+            },
+            {
+              "target": "I do it with friends.",
+              "native": "Lo hago con amigos."
+            }
+          ],
+          "keywords": [
+            "alone",
+            "myself",
+            "friends",
+            "family",
+            "group",
+            "team",
+            "club",
+            "together",
+            "partner",
+            "with",
+            "solo",
+            "others",
+            "people"
+          ],
+          "min_length": 3,
+          "hint": "Decí si lo hacés solo o con otras personas (I do it alone / with friends / in a group...)",
+          "redirect": "Do you enjoy this hobby by yourself or do you share it with others?",
+          "bot_native": "¡Impresionante! ¿Es algo que hacés solo/a o con otros?"
+        },
+        {
+          "bot": "Nice! Have you ever performed or shared your hobby publicly?",
+          "example_responses": [
+            {
+              "target": "Yes, at school once.",
+              "native": "Sí, una vez en la escuela."
+            },
+            {
+              "target": "No, just for fun.",
+              "native": "No, solo por diversión."
+            }
+          ],
+          "keywords": [
+            "yes",
+            "no",
+            "never",
+            "sometimes",
+            "event",
+            "show",
+            "competition",
+            "friends",
+            "family",
+            "online",
+            "stage",
+            "concert",
+            "exhibition",
+            "school",
+            "bar"
+          ],
+          "min_length": 3,
+          "hint": "Contá si alguna vez lo mostraste en público (yes, at school / no, just for fun...)",
+          "redirect": "Have you ever shared it at an event, school, or for friends?",
+          "bot_native": "¡Qué bien! ¿Alguna vez mostraste tu hobby en público?"
+        },
+        {
+          "bot": "That sounds wonderful! You should be proud. What advice would you give someone starting out?",
+          "example_responses": [
+            {
+              "target": "Just practice every day.",
+              "native": "Simplemente practicá todos los días."
+            },
+            {
+              "target": "Don't give up and enjoy the process.",
+              "native": "No te rindas y disfrutá el proceso."
+            }
+          ],
+          "keywords": [
+            "practice",
+            "enjoy",
+            "fun",
+            "patient",
+            "start",
+            "try",
+            "fear",
+            "consistent",
+            "learn",
+            "mistakes",
+            "better",
+            "keep",
+            "give up",
+            "advice"
+          ],
+          "min_length": 5,
+          "hint": "Dá un consejo (just practice every day / don't give up / enjoy the process...)",
+          "redirect": "What would you tell a beginner? Be encouraging — share your best advice!",
+          "bot_native": "¡Suena maravilloso! Deberías estar orgulloso/a. ¿Qué consejo le darías a alguien que está empezando?"
+        }
+      ]
+    },
+    {
+      "id": "holiday_plans",
+      "unit": 2,
+      "title": "Planeando las vacaciones",
+      "description": "Hablá con un amigo sobre tus próximas vacaciones: clima, transporte y lugares",
+      "bot_role": "Amigo/a",
+      "user_role": "Vos",
+      "turns": [
+        {
+          "bot": "Hey! I heard you're going on holiday. Where are you going?",
+          "example_responses": [
+            {
+              "target": "I'm going to the beach.",
+              "native": "Voy a la playa."
+            },
+            {
+              "target": "I'm going to the mountains with my family.",
+              "native": "Voy a la montaña con mi familia."
+            }
+          ],
+          "keywords": [
+            "beach",
+            "mountains",
+            "countryside",
+            "city",
+            "abroad",
+            "home",
+            "holiday",
+            "vacation",
+            "trip",
+            "going"
+          ],
+          "min_length": 3,
+          "hint": "Decí a dónde vas de vacaciones (I'm going to the beach / mountains...)",
+          "redirect": "Where are you headed for your holiday — the beach, the mountains, or somewhere else?",
+          "bot_native": "¡Hola! Escuché que te vas de vacaciones. ¿A dónde vas?"
+        },
+        {
+          "bot": "Nice! How's the weather there this time of year?",
+          "example_responses": [
+            {
+              "target": "It's usually sunny and hot.",
+              "native": "Generalmente está soleado y caluroso."
+            },
+            {
+              "target": "It's cold and it often rains.",
+              "native": "Hace frío y llueve seguido."
+            }
+          ],
+          "keywords": [
+            "sunny",
+            "hot",
+            "cold",
+            "rainy",
+            "rains",
+            "windy",
+            "cloudy",
+            "warm",
+            "cool",
+            "snow",
+            "weather"
+          ],
+          "min_length": 3,
+          "hint": "Describí el clima (it's sunny and hot / it's cold and rainy...)",
+          "redirect": "What's the weather usually like there — sunny, rainy, hot, cold?",
+          "bot_native": "¡Qué bien! ¿Cómo está el clima ahí en esta época del año?"
+        },
+        {
+          "bot": "Sounds good! How are you getting there — by car, plane, or bus?",
+          "example_responses": [
+            {
+              "target": "We're going by plane.",
+              "native": "Vamos en avión."
+            },
+            {
+              "target": "We're driving there by car.",
+              "native": "Vamos manejando en auto."
+            }
+          ],
+          "keywords": [
+            "car",
+            "plane",
+            "bus",
+            "train",
+            "boat",
+            "bike",
+            "by",
+            "flying",
+            "driving",
+            "taking"
+          ],
+          "min_length": 3,
+          "hint": "Contá cómo viajás (by plane / by car / by train...)",
+          "redirect": "What transport are you taking — plane, car, bus, or train?",
+          "bot_native": "¡Suena bien! ¿Cómo vas a llegar — en auto, avión o colectivo?"
+        },
+        {
+          "bot": "That sounds like a great trip! Have a wonderful time and safe travels!",
+          "example_responses": [
+            {
+              "target": "Thank you! See you when I'm back.",
+              "native": "¡Gracias! Nos vemos cuando vuelva."
+            },
+            {
+              "target": "Thanks a lot! I can't wait.",
+              "native": "¡Muchas gracias! No puedo esperar."
+            }
+          ],
+          "keywords": [
+            "thanks",
+            "thank you",
+            "back",
+            "return",
+            "see you",
+            "can't wait",
+            "excited"
+          ],
+          "min_length": 2,
+          "hint": "Agradecé y despedite (thank you! / thanks a lot!)",
+          "redirect": "Say thanks and let them know you're excited for the trip!",
+          "bot_native": "¡Suena como un viaje genial! ¡Que la pases increíble y buen viaje!"
+        }
+      ]
+    },
+    {
+      "id": "family_party",
+      "unit": 3,
+      "title": "En la fiesta de cumpleaños",
+      "description": "Charlá sobre tu familia en la fiesta de cumpleaños de un amigo",
+      "bot_role": "Amigo/a",
+      "user_role": "Vos",
+      "turns": [
+        {
+          "bot": "Hi! Thanks for coming to my birthday party. Did you bring anyone with you?",
+          "example_responses": [
+            {
+              "target": "Yes, I brought my sister.",
+              "native": "Sí, traje a mi hermana."
+            },
+            {
+              "target": "No, I came alone today.",
+              "native": "No, vine solo/a hoy."
+            }
+          ],
+          "keywords": [
+            "brother",
+            "sister",
+            "mother",
+            "father",
+            "parents",
+            "cousin",
+            "alone",
+            "brought",
+            "family"
+          ],
+          "min_length": 3,
+          "hint": "Decí si viniste con alguien de tu familia (I brought my sister / I came alone)",
+          "redirect": "Did you come with any family — a brother, sister, or your parents?",
+          "bot_native": "¡Hola! Gracias por venir a mi cumpleaños. ¿Trajiste a alguien?"
+        },
+        {
+          "bot": "That's nice! How many people are in your family?",
+          "example_responses": [
+            {
+              "target": "There are four of us.",
+              "native": "Somos cuatro."
+            },
+            {
+              "target": "I have two brothers and one sister.",
+              "native": "Tengo dos hermanos y una hermana."
+            }
+          ],
+          "keywords": [
+            "four",
+            "five",
+            "three",
+            "two",
+            "one",
+            "brothers",
+            "sisters",
+            "parents",
+            "family",
+            "of us"
+          ],
+          "min_length": 3,
+          "hint": "Contá cuántos son en tu familia (there are four of us / I have two brothers...)",
+          "redirect": "How big is your family — how many brothers or sisters do you have?",
+          "bot_native": "¡Qué lindo! ¿Cuántas personas hay en tu familia?"
+        },
+        {
+          "bot": "Cool! What does your family usually do to celebrate birthdays?",
+          "example_responses": [
+            {
+              "target": "We usually have a big dinner.",
+              "native": "Normalmente hacemos una cena grande."
+            },
+            {
+              "target": "We have a cake and sing songs.",
+              "native": "Tenemos una torta y cantamos canciones."
+            }
+          ],
+          "keywords": [
+            "dinner",
+            "cake",
+            "party",
+            "sing",
+            "songs",
+            "presents",
+            "gifts",
+            "celebrate",
+            "together"
+          ],
+          "min_length": 3,
+          "hint": "Contá cómo celebran los cumpleaños (we have a cake / a big dinner...)",
+          "redirect": "How does your family celebrate — a big dinner, a cake, presents?",
+          "bot_native": "¡Genial! ¿Qué hace tu familia normalmente para festejar cumpleaños?"
+        },
+        {
+          "bot": "That sounds lovely! Well, thanks again for celebrating with me today!",
+          "example_responses": [
+            {
+              "target": "Happy birthday! I'm so happy to be here.",
+              "native": "¡Feliz cumpleaños! Estoy muy feliz de estar acá."
+            },
+            {
+              "target": "Thank you for inviting me!",
+              "native": "¡Gracias por invitarme!"
+            }
+          ],
+          "keywords": [
+            "happy birthday",
+            "thank you",
+            "invited",
+            "happy",
+            "glad",
+            "here"
+          ],
+          "min_length": 2,
+          "hint": "Deseale feliz cumpleaños y agradecé la invitación (happy birthday! / thank you for inviting me!)",
+          "redirect": "Wish them a happy birthday and thank them for inviting you!",
+          "bot_native": "¡Qué lindo! Bueno, ¡gracias de nuevo por festejar conmigo hoy!"
+        }
+      ]
+    },
+    {
+      "id": "asking_directions",
+      "unit": 4,
+      "title": "Pidiendo direcciones",
+      "description": "Preguntá cómo llegar a distintos lugares de la ciudad",
+      "bot_role": "Persona en la calle",
+      "user_role": "Turista",
+      "turns": [
+        {
+          "bot": "Hi there, can I help you? You look a little lost.",
+          "example_responses": [
+            {
+              "target": "Yes, I'm looking for the museum.",
+              "native": "Sí, estoy buscando el museo."
+            },
+            {
+              "target": "Yes, where is the nearest bank?",
+              "native": "Sí, ¿dónde queda el banco más cercano?"
+            }
+          ],
+          "keywords": [
+            "museum",
+            "bank",
+            "hospital",
+            "park",
+            "supermarket",
+            "station",
+            "looking for",
+            "where is",
+            "nearest"
+          ],
+          "min_length": 3,
+          "hint": "Decí qué lugar estás buscando (I'm looking for the museum / where is the bank?)",
+          "redirect": "What place are you trying to find — a museum, a bank, a park?",
+          "bot_native": "Hola, ¿te puedo ayudar? Parecés un poco perdido/a."
+        },
+        {
+          "bot": "Ah, it's not far. Is it near here or do you need directions from downtown?",
+          "example_responses": [
+            {
+              "target": "I'm near the park right now.",
+              "native": "Estoy cerca del parque ahora."
+            },
+            {
+              "target": "I'm downtown, near the station.",
+              "native": "Estoy en el centro, cerca de la estación."
+            }
+          ],
+          "keywords": [
+            "near",
+            "behind",
+            "in front of",
+            "next to",
+            "between",
+            "across from",
+            "downtown",
+            "park",
+            "station"
+          ],
+          "min_length": 3,
+          "hint": "Decí dónde estás (I'm near the park / I'm downtown...)",
+          "redirect": "Where are you right now — near the park, downtown, or somewhere else?",
+          "bot_native": "Ah, no queda lejos. ¿Está cerca de acá o necesitás direcciones desde el centro?"
+        },
+        {
+          "bot": "Okay! Go straight and it's on the left, next to the supermarket. Is there anything else nearby you need?",
+          "example_responses": [
+            {
+              "target": "Is there a pharmacy nearby too?",
+              "native": "¿Hay una farmacia cerca también?"
+            },
+            {
+              "target": "No, that's all I need, thanks.",
+              "native": "No, eso es todo lo que necesito, gracias."
+            }
+          ],
+          "keywords": [
+            "pharmacy",
+            "restaurant",
+            "hotel",
+            "nearby",
+            "also",
+            "too",
+            "that's all",
+            "no thanks"
+          ],
+          "min_length": 2,
+          "hint": "Preguntá por otro lugar o decí que ya tenés suficiente (is there a pharmacy nearby? / no, that's all)",
+          "redirect": "Do you need anything else nearby, like a pharmacy or a restaurant?",
+          "bot_native": "¡Listo! Andá derecho y queda a la izquierda, al lado del supermercado. ¿Necesitás algo más cerca de ahí?"
+        },
+        {
+          "bot": "Great, good luck finding it! Have a nice day!",
+          "example_responses": [
+            {
+              "target": "Thank you so much for your help!",
+              "native": "¡Muchas gracias por tu ayuda!"
+            },
+            {
+              "target": "Thanks, you too!",
+              "native": "Gracias, ¡vos también!"
+            }
+          ],
+          "keywords": [
+            "thank you",
+            "thanks",
+            "help",
+            "you too",
+            "appreciate"
+          ],
+          "min_length": 2,
+          "hint": "Agradecé la ayuda (thank you so much! / thanks, you too!)",
+          "redirect": "Thank them for their help before you go!",
+          "bot_native": "¡Genial, suerte encontrándolo! ¡Que tengas un buen día!"
+        }
+      ]
+    },
+    {
+      "id": "tech_routine",
+      "unit": 5,
+      "title": "Rutina y tecnología",
+      "description": "Charlá con un amigo por videollamada sobre tu rutina diaria y el uso de la tecnología",
+      "bot_role": "Amigo/a por videollamada",
+      "user_role": "Vos",
+      "turns": [
+        {
+          "bot": "Hey! Good to see you. What time do you usually wake up?",
+          "example_responses": [
+            {
+              "target": "I usually wake up at seven.",
+              "native": "Normalmente me levanto a las siete."
+            },
+            {
+              "target": "I get up around eight in the morning.",
+              "native": "Me levanto como a las ocho de la mañana."
+            }
+          ],
+          "keywords": [
+            "wake up",
+            "get up",
+            "seven",
+            "eight",
+            "six",
+            "morning",
+            "early",
+            "late",
+            "usually"
+          ],
+          "min_length": 3,
+          "hint": "Decí a qué hora te levantás (I wake up at seven / I get up around eight...)",
+          "redirect": "What time do you get up in the morning — early or late?",
+          "bot_native": "¡Hola! Qué bueno verte. ¿A qué hora te levantás normalmente?"
+        },
+        {
+          "bot": "Nice! Are you using your phone or your laptop right now?",
+          "example_responses": [
+            {
+              "target": "I'm using my laptop right now.",
+              "native": "Estoy usando mi laptop ahora."
+            },
+            {
+              "target": "I'm talking to you on my phone.",
+              "native": "Te estoy hablando desde el celular."
+            }
+          ],
+          "keywords": [
+            "phone",
+            "laptop",
+            "computer",
+            "tablet",
+            "using",
+            "talking",
+            "right now"
+          ],
+          "min_length": 3,
+          "hint": "Decí qué dispositivo estás usando (I'm using my laptop / phone...)",
+          "redirect": "Are you on your phone, laptop, or tablet right now?",
+          "bot_native": "¡Bien! ¿Estás usando el celular o la laptop ahora?"
+        },
+        {
+          "bot": "How much time do you spend on your phone every day?",
+          "example_responses": [
+            {
+              "target": "I spend about three hours a day.",
+              "native": "Paso como tres horas por día."
+            },
+            {
+              "target": "Probably too much, honestly!",
+              "native": "Probablemente demasiado, ¡honestamente!"
+            }
+          ],
+          "keywords": [
+            "hours",
+            "time",
+            "spend",
+            "too much",
+            "every day",
+            "screen time"
+          ],
+          "min_length": 3,
+          "hint": "Decí cuánto tiempo pasás en el celular (about three hours a day / too much!)",
+          "redirect": "How many hours a day do you spend on your phone?",
+          "bot_native": "¿Cuánto tiempo pasás en el celular todos los días?"
+        },
+        {
+          "bot": "Ha, same here! Well, I should get back to work. Talk soon!",
+          "example_responses": [
+            {
+              "target": "Okay, talk to you later!",
+              "native": "Dale, ¡hablamos luego!"
+            },
+            {
+              "target": "Sure, have a good day!",
+              "native": "Dale, ¡que tengas un buen día!"
+            }
+          ],
+          "keywords": [
+            "talk later",
+            "bye",
+            "see you",
+            "good day",
+            "take care"
+          ],
+          "min_length": 2,
+          "hint": "Despedite (talk to you later! / have a good day!)",
+          "redirect": "Say goodbye and wish them a good day!",
+          "bot_native": "Ja, ¡igual yo! Bueno, tengo que volver al trabajo. ¡Hablamos pronto!"
+        }
+      ]
+    },
+    {
+      "id": "travel_experiences",
+      "unit": 7,
+      "title": "Experiencias de viaje",
+      "description": "Charlá sobre lugares que visitaste y tus próximos planes de viaje",
+      "bot_role": "Compañero/a de viaje",
+      "user_role": "Vos",
+      "turns": [
+        {
+          "bot": "Have you ever traveled outside your country?",
+          "example_responses": [
+            {
+              "target": "Yes, I've been to Brazil.",
+              "native": "Sí, estuve en Brasil."
+            },
+            {
+              "target": "No, I haven't traveled abroad yet.",
+              "native": "No, todavía no viajé al exterior."
+            }
+          ],
+          "keywords": [
+            "been",
+            "traveled",
+            "abroad",
+            "yet",
+            "ever",
+            "never",
+            "visited"
+          ],
+          "min_length": 3,
+          "hint": "Contá si viajaste al exterior (I've been to... / I haven't traveled yet)",
+          "redirect": "Have you ever been abroad — yes or no?",
+          "bot_native": "¿Alguna vez viajaste fuera de tu país?"
+        },
+        {
+          "bot": "That's great! Which country did you like better, the one you visited or your own?",
+          "example_responses": [
+            {
+              "target": "Brazil was more exciting than home.",
+              "native": "Brasil fue más emocionante que mi país."
+            },
+            {
+              "target": "My country is quieter than Brazil.",
+              "native": "Mi país es más tranquilo que Brasil."
+            }
+          ],
+          "keywords": [
+            "more",
+            "less",
+            "than",
+            "better",
+            "cheaper",
+            "bigger",
+            "exciting",
+            "quieter"
+          ],
+          "min_length": 3,
+          "hint": "Compará los dos lugares (more exciting than / cheaper than...)",
+          "redirect": "How did it compare — more exciting, cheaper, bigger than home?",
+          "bot_native": "¡Qué bueno! ¿Qué país te gustó más, el que visitaste o el tuyo?"
+        },
+        {
+          "bot": "Nice! Are you going to travel again soon?",
+          "example_responses": [
+            {
+              "target": "Yes, I'm going to visit Peru next year.",
+              "native": "Sí, voy a visitar Perú el año que viene."
+            },
+            {
+              "target": "Not sure yet, maybe next summer.",
+              "native": "Todavía no sé, tal vez el verano que viene."
+            }
+          ],
+          "keywords": [
+            "going to",
+            "next year",
+            "summer",
+            "soon",
+            "plan",
+            "maybe"
+          ],
+          "min_length": 3,
+          "hint": "Contá tus planes de viaje (I'm going to visit... / not sure yet)",
+          "redirect": "Do you have plans to travel again — going to visit somewhere new?",
+          "bot_native": "¡Bien! ¿Vas a viajar de nuevo pronto?"
+        },
+        {
+          "bot": "You should book early, flights get expensive! Anyway, safe travels, don't you think?",
+          "example_responses": [
+            {
+              "target": "Yeah, you're right, I should.",
+              "native": "Sí, tenés razón, debería."
+            },
+            {
+              "target": "Good idea, I will book soon.",
+              "native": "Buena idea, voy a reservar pronto."
+            }
+          ],
+          "keywords": [
+            "should",
+            "right",
+            "agree",
+            "yeah",
+            "book",
+            "soon",
+            "good idea"
+          ],
+          "min_length": 2,
+          "hint": "Estate de acuerdo con el consejo (yeah, you're right / good idea)",
+          "redirect": "Agree with the advice — say something like 'yeah, you're right' or 'good idea'.",
+          "bot_native": "Deberías reservar temprano, ¡los vuelos se ponen caros! De todas formas, buen viaje, ¿no?"
+        }
+      ]
+    },
+    {
+      "id": "doctor_visit",
+      "unit": 9,
+      "title": "En el consultorio",
+      "description": "Contale al médico cómo te sentís y recibí consejos de salud",
+      "bot_role": "Doctor/a",
+      "user_role": "Paciente",
+      "turns": [
+        {
+          "bot": "Hello, what brings you in today? How are you feeling?",
+          "example_responses": [
+            {
+              "target": "I have a headache and I feel tired.",
+              "native": "Tengo dolor de cabeza y me siento cansado/a."
+            },
+            {
+              "target": "My stomach hurts a little.",
+              "native": "Me duele un poco el estómago."
+            }
+          ],
+          "keywords": [
+            "headache",
+            "tired",
+            "stomach",
+            "hurts",
+            "sick",
+            "fever",
+            "cough",
+            "pain"
+          ],
+          "min_length": 3,
+          "hint": "Contá cómo te sentís (I have a headache / my stomach hurts...)",
+          "redirect": "What's bothering you — a headache, stomach ache, or something else?",
+          "bot_native": "Hola, ¿qué te trae por acá hoy? ¿Cómo te sentís?"
+        },
+        {
+          "bot": "I see. Did you use to feel this way often before, or is it new?",
+          "example_responses": [
+            {
+              "target": "I used to get headaches a lot as a kid.",
+              "native": "Solía tener dolores de cabeza seguido de chico/a."
+            },
+            {
+              "target": "No, this never happened before.",
+              "native": "No, esto nunca me había pasado antes."
+            }
+          ],
+          "keywords": [
+            "used to",
+            "before",
+            "often",
+            "never",
+            "new",
+            "happened"
+          ],
+          "min_length": 3,
+          "hint": "Decí si te pasaba antes (I used to... / this never happened before)",
+          "redirect": "Is this something that used to happen before, or is it completely new?",
+          "bot_native": "Ya veo. ¿Solías sentirte así antes seguido, o es algo nuevo?"
+        },
+        {
+          "bot": "Okay. If you rest and drink water, you might feel better by tomorrow. You should also avoid coffee.",
+          "example_responses": [
+            {
+              "target": "Okay, I will rest more.",
+              "native": "Bien, voy a descansar más."
+            },
+            {
+              "target": "If I rest, I might feel better, right?",
+              "native": "Si descanso, podría sentirme mejor, ¿no?"
+            }
+          ],
+          "keywords": [
+            "rest",
+            "water",
+            "might",
+            "should",
+            "avoid",
+            "coffee",
+            "if",
+            "better"
+          ],
+          "min_length": 3,
+          "hint": "Estate de acuerdo o repetí el consejo (I will rest more / if I rest, I might feel better)",
+          "redirect": "Confirm the advice — will you rest, drink water, and avoid coffee?",
+          "bot_native": "Bien. Si descansás y tomás agua, podrías sentirte mejor mañana. También deberías evitar el café."
+        },
+        {
+          "bot": "Great. If the pain doesn't go away in two days, you should come back. Take care!",
+          "example_responses": [
+            {
+              "target": "Thank you, doctor. I will.",
+              "native": "Gracias, doctor/a. Lo voy a hacer."
+            },
+            {
+              "target": "Okay, I'll come back if needed.",
+              "native": "Bien, voy a volver si hace falta."
+            }
+          ],
+          "keywords": [
+            "thank you",
+            "will",
+            "come back",
+            "if needed",
+            "okay"
+          ],
+          "min_length": 2,
+          "hint": "Agradecé y confirmá (thank you, doctor / I'll come back if needed)",
+          "redirect": "Thank the doctor and confirm you'll come back if it doesn't improve!",
+          "bot_native": "Genial. Si el dolor no se va en dos días, deberías volver. ¡Cuidate!"
+        }
+      ]
+    },
+    {
+      "id": "eco_habits",
+      "unit": 10,
+      "title": "Hábitos ecológicos",
+      "description": "Charlá sobre el medio ambiente y hábitos para cuidarlo",
+      "bot_role": "Amigo/a ambientalista",
+      "user_role": "Vos",
+      "turns": [
+        {
+          "bot": "Hey, do you recycle at home? I think it's really important.",
+          "example_responses": [
+            {
+              "target": "Yes, we recycle paper and plastic.",
+              "native": "Sí, reciclamos papel y plástico."
+            },
+            {
+              "target": "Not really, I should start doing it.",
+              "native": "La verdad que no, debería empezar a hacerlo."
+            }
+          ],
+          "keywords": [
+            "recycle",
+            "paper",
+            "plastic",
+            "glass",
+            "should",
+            "start"
+          ],
+          "min_length": 3,
+          "hint": "Decí si reciclás (yes, we recycle paper / not really, I should start)",
+          "redirect": "Do you recycle at home — paper, plastic, glass?",
+          "bot_native": "Hola, ¿reciclás en tu casa? Creo que es muy importante."
+        },
+        {
+          "bot": "That's good. If everyone recycled more, the planet would be healthier, don't you think?",
+          "example_responses": [
+            {
+              "target": "Yes, if we all tried harder, it would help a lot.",
+              "native": "Sí, si todos nos esforzáramos más, ayudaría mucho."
+            },
+            {
+              "target": "I agree, it would make a big difference.",
+              "native": "Estoy de acuerdo, haría una gran diferencia."
+            }
+          ],
+          "keywords": [
+            "if",
+            "would",
+            "everyone",
+            "planet",
+            "healthier",
+            "agree",
+            "difference"
+          ],
+          "min_length": 3,
+          "hint": "Estate de acuerdo usando 'if...would' (if we all tried harder, it would help)",
+          "redirect": "Do you agree — if more people recycled, would it really help?",
+          "bot_native": "Qué bueno. Si todos reciclaran más, el planeta sería más saludable, ¿no creés?"
+        },
+        {
+          "bot": "For sure. Plastic that is thrown into the ocean hurts a lot of animals.",
+          "example_responses": [
+            {
+              "target": "That's terrible, animals that live there suffer a lot.",
+              "native": "Eso es terrible, los animales que viven ahí sufren mucho."
+            },
+            {
+              "target": "Yes, we need laws that protect the ocean.",
+              "native": "Sí, necesitamos leyes que protejan el océano."
+            }
+          ],
+          "keywords": [
+            "that",
+            "which",
+            "who",
+            "protect",
+            "animals",
+            "ocean",
+            "laws",
+            "suffer"
+          ],
+          "min_length": 3,
+          "hint": "Usá una oración con 'that/which/who' (animals that live there... / laws that protect...)",
+          "redirect": "What do you think — should there be laws that protect the ocean?",
+          "bot_native": "Seguro. El plástico que se tira al océano lastima a muchos animales."
+        },
+        {
+          "bot": "Definitely. We all have to do our part. Thanks for caring about this!",
+          "example_responses": [
+            {
+              "target": "Of course, we have to protect the planet.",
+              "native": "Por supuesto, tenemos que proteger el planeta."
+            },
+            {
+              "target": "Thank you, I'll try to do more.",
+              "native": "Gracias, voy a tratar de hacer más."
+            }
+          ],
+          "keywords": [
+            "have to",
+            "protect",
+            "planet",
+            "try",
+            "more",
+            "of course"
+          ],
+          "min_length": 2,
+          "hint": "Cerrá la charla (we have to protect the planet / I'll try to do more)",
+          "redirect": "Wrap it up — say you'll try to do more or that we have to protect the planet.",
+          "bot_native": "Definitivamente. Todos tenemos que poner de nuestra parte. ¡Gracias por preocuparte por esto!"
+        }
+      ]
+    },
+    {
+      "id": "society_regrets",
+      "unit": 13,
+      "title": "Hablando de la sociedad y el pasado",
+      "description": "Reflexioná sobre decisiones sociales pasadas y sus consecuencias hoy",
+      "bot_role": "Amigo/a reflexivo/a",
+      "user_role": "Vos",
+      "turns": [
+        {
+          "bot": "Do you think society would be different if people had made better choices in the past?",
+          "example_responses": [
+            {
+              "target": "Yes, if we had acted sooner, things would be better now.",
+              "native": "Sí, si hubiéramos actuado antes, las cosas estarían mejor ahora."
+            },
+            {
+              "target": "I'm not sure, some problems were unavoidable.",
+              "native": "No estoy seguro/a, algunos problemas eran inevitables."
+            }
+          ],
+          "keywords": [
+            "if",
+            "had",
+            "would",
+            "sooner",
+            "better",
+            "unavoidable",
+            "different"
+          ],
+          "min_length": 5,
+          "hint": "Usá condicional mixto (if we had acted sooner, things would be better now)",
+          "redirect": "Do you think things would be different if people had acted differently?",
+          "bot_native": "¿Creés que la sociedad sería diferente si la gente hubiera tomado mejores decisiones en el pasado?"
+        },
+        {
+          "bot": "I sometimes wish people had listened to scientists earlier about climate change.",
+          "example_responses": [
+            {
+              "target": "I wish more people had cared sooner too.",
+              "native": "Yo también desearía que más gente se hubiera preocupado antes."
+            },
+            {
+              "target": "I agree, it's frustrating to think about.",
+              "native": "Estoy de acuerdo, es frustrante pensarlo."
+            }
+          ],
+          "keywords": [
+            "wish",
+            "had",
+            "sooner",
+            "cared",
+            "agree",
+            "frustrating"
+          ],
+          "min_length": 5,
+          "hint": "Usá 'wish + past perfect' (I wish people had cared sooner...)",
+          "redirect": "Is there something you wish society had done differently?",
+          "bot_native": "A veces desearía que la gente hubiera escuchado antes a los científicos sobre el cambio climático."
+        },
+        {
+          "bot": "What's one social change you'd like to see happen in the next ten years?",
+          "example_responses": [
+            {
+              "target": "I'd like to see more equality in education.",
+              "native": "Me gustaría ver más igualdad en la educación."
+            },
+            {
+              "target": "I hope inequality decreases significantly.",
+              "native": "Espero que la desigualdad disminuya significativamente."
+            }
+          ],
+          "keywords": [
+            "equality",
+            "education",
+            "inequality",
+            "decrease",
+            "hope",
+            "like to see",
+            "change"
+          ],
+          "min_length": 4,
+          "hint": "Contá qué cambio te gustaría ver (I'd like to see more equality...)",
+          "redirect": "What change would you like society to make in the next decade?",
+          "bot_native": "¿Qué cambio social te gustaría que pasara en los próximos diez años?"
+        },
+        {
+          "bot": "That's a hopeful thought. It's good to talk about these things honestly, isn't it?",
+          "example_responses": [
+            {
+              "target": "Definitely, these conversations matter.",
+              "native": "Definitivamente, estas conversaciones importan."
+            },
+            {
+              "target": "Yes, I appreciate talking about it with you.",
+              "native": "Sí, aprecio hablar de esto con vos."
+            }
+          ],
+          "keywords": [
+            "definitely",
+            "matter",
+            "appreciate",
+            "agree",
+            "conversations"
+          ],
+          "min_length": 3,
+          "hint": "Cerrá la charla estando de acuerdo (definitely, these conversations matter...)",
+          "redirect": "Wrap up — do these conversations matter to you?",
+          "bot_native": "Es un pensamiento esperanzador. Está bueno hablar de estas cosas honestamente, ¿no?"
+        }
+      ]
+    },
+    {
+      "id": "tech_debate",
+      "unit": 14,
+      "title": "Debate sobre tecnología",
+      "description": "Discutí sobre el impacto de la tecnología en la vida moderna",
+      "bot_role": "Colega",
+      "user_role": "Vos",
+      "turns": [
+        {
+          "bot": "Smartphones, which most people now consider essential, have changed how we communicate completely.",
+          "example_responses": [
+            {
+              "target": "True, my phone, which I use constantly, is basically an extension of me.",
+              "native": "Verdad, mi teléfono, que uso constantemente, es básicamente una extensión mía."
+            },
+            {
+              "target": "I agree, though sometimes I wish it were simpler.",
+              "native": "Estoy de acuerdo, aunque a veces desearía que fuera más simple."
+            }
+          ],
+          "keywords": [
+            "which",
+            "who",
+            "essential",
+            "communicate",
+            "extension",
+            "agree",
+            "constantly"
+          ],
+          "min_length": 5,
+          "hint": "Usá una cláusula no restrictiva con 'which' (my phone, which I use constantly...)",
+          "redirect": "What do you think about how essential phones have become?",
+          "bot_native": "Los smartphones, que la mayoría ahora considera esenciales, cambiaron completamente cómo nos comunicamos."
+        },
+        {
+          "bot": "What I find most surprising is how quickly kids learn new apps.",
+          "example_responses": [
+            {
+              "target": "What surprises me is how little training they need.",
+              "native": "Lo que me sorprende es cuán poco entrenamiento necesitan."
+            },
+            {
+              "target": "What worries me is how much time they spend on screens.",
+              "native": "Lo que me preocupa es cuánto tiempo pasan en pantallas."
+            }
+          ],
+          "keywords": [
+            "what",
+            "surprises",
+            "worries",
+            "find",
+            "screens",
+            "training",
+            "interesting"
+          ],
+          "min_length": 5,
+          "hint": "Usá 'what + verbo' (what surprises me is... / what worries me is...)",
+          "redirect": "What surprises or worries you most about kids and technology?",
+          "bot_native": "Lo que más me sorprende es qué tan rápido los chicos aprenden apps nuevas."
+        },
+        {
+          "bot": "Rarely do we stop to think about how much data companies collect from us.",
+          "example_responses": [
+            {
+              "target": "Rarely do I check my privacy settings, honestly.",
+              "native": "Rara vez reviso mi configuración de privacidad, honestamente."
+            },
+            {
+              "target": "Never have I read a full privacy policy!",
+              "native": "¡Nunca leí una política de privacidad completa!"
+            }
+          ],
+          "keywords": [
+            "rarely",
+            "never",
+            "seldom",
+            "privacy",
+            "data",
+            "settings",
+            "policy"
+          ],
+          "min_length": 4,
+          "hint": "Usá inversión (rarely do I... / never have I...)",
+          "redirect": "Be honest — how often do you check your privacy settings?",
+          "bot_native": "Rara vez nos detenemos a pensar cuántos datos recolectan las empresas de nosotros."
+        },
+        {
+          "bot": "It's a lot to think about. Anyway, thanks for the interesting chat!",
+          "example_responses": [
+            {
+              "target": "Thanks, this was a great discussion.",
+              "native": "Gracias, fue una gran discusión."
+            },
+            {
+              "target": "Likewise, this got me thinking.",
+              "native": "Igualmente, esto me hizo pensar."
+            }
+          ],
+          "keywords": [
+            "thanks",
+            "discussion",
+            "likewise",
+            "thinking",
+            "great"
+          ],
+          "min_length": 3,
+          "hint": "Cerrá la charla (thanks, this was a great discussion...)",
+          "redirect": "Wrap up the conversation and thank them for the discussion.",
+          "bot_native": "Es mucho para pensar. Bueno, ¡gracias por la charla interesante!"
+        }
+      ]
+    },
+    {
+      "id": "culture_heritage",
+      "unit": 15,
+      "title": "Patrimonio cultural",
+      "description": "Hablá sobre patrimonio, identidad cultural y museos",
+      "bot_role": "Guía de museo",
+      "user_role": "Visitante",
+      "turns": [
+        {
+          "bot": "This artifact must have been made over a thousand years ago. What do you think it was used for?",
+          "example_responses": [
+            {
+              "target": "It might have been used in ceremonies.",
+              "native": "Podría haber sido usado en ceremonias."
+            },
+            {
+              "target": "It could have been a tool for farming.",
+              "native": "Podría haber sido una herramienta para la agricultura."
+            }
+          ],
+          "keywords": [
+            "must have",
+            "might have",
+            "could have",
+            "ceremonies",
+            "tool",
+            "farming",
+            "used for"
+          ],
+          "min_length": 5,
+          "hint": "Usá modal perfect (it must have been... / it might have been...)",
+          "redirect": "What do you think it might have been used for?",
+          "bot_native": "Este artefacto debe haber sido hecho hace más de mil años. ¿Para qué creés que se usaba?"
+        },
+        {
+          "bot": "This whole collection was donated by a local family in the 1980s.",
+          "example_responses": [
+            {
+              "target": "That's generous — was it well preserved by them?",
+              "native": "Es generoso — ¿fue bien conservada por ellos?"
+            },
+            {
+              "target": "Interesting, was it displayed elsewhere before?",
+              "native": "Interesante, ¿fue exhibida en otro lugar antes?"
+            }
+          ],
+          "keywords": [
+            "was",
+            "were",
+            "donated",
+            "preserved",
+            "displayed",
+            "by",
+            "generous"
+          ],
+          "min_length": 4,
+          "hint": "Usá voz pasiva (was it preserved by them? / was it displayed before?)",
+          "redirect": "Ask something using passive voice — was it preserved, displayed, found?",
+          "bot_native": "Toda esta colección fue donada por una familia local en los años 80."
+        },
+        {
+          "bot": "However, some pieces are still missing. Furthermore, we believe more artifacts exist nearby.",
+          "example_responses": [
+            {
+              "target": "However, that must be frustrating for researchers.",
+              "native": "Sin embargo, eso debe ser frustrante para los investigadores."
+            },
+            {
+              "target": "Furthermore, I hope they find them soon.",
+              "native": "Además, espero que los encuentren pronto."
+            }
+          ],
+          "keywords": [
+            "however",
+            "furthermore",
+            "moreover",
+            "therefore",
+            "frustrating",
+            "hope",
+            "researchers"
+          ],
+          "min_length": 4,
+          "hint": "Usá un conector (however... / furthermore...)",
+          "redirect": "React using a discourse marker like 'however' or 'furthermore'.",
+          "bot_native": "Sin embargo, todavía faltan algunas piezas. Además, creemos que hay más artefactos cerca."
+        },
+        {
+          "bot": "Thank you for visiting. I hope you learned something about our heritage today.",
+          "example_responses": [
+            {
+              "target": "I definitely did, this was fascinating.",
+              "native": "Definitivamente sí, esto fue fascinante."
+            },
+            {
+              "target": "Yes, thank you for the tour.",
+              "native": "Sí, gracias por el recorrido."
+            }
+          ],
+          "keywords": [
+            "fascinating",
+            "thank you",
+            "tour",
+            "learned",
+            "definitely"
+          ],
+          "min_length": 3,
+          "hint": "Agradecé el recorrido (thank you for the tour / this was fascinating)",
+          "redirect": "Thank the guide for the tour before you leave.",
+          "bot_native": "Gracias por visitarnos. Espero que hayas aprendido algo sobre nuestro patrimonio hoy."
+        }
+      ]
+    },
+    {
+      "id": "business_pitch",
+      "unit": 16,
+      "title": "Presentando una idea de negocio",
+      "description": "Presentá una idea de negocio y respondé preguntas difíciles",
+      "bot_role": "Inversor/a",
+      "user_role": "Emprendedor/a",
+      "turns": [
+        {
+          "bot": "Even though the market is competitive, why should I invest in your idea?",
+          "example_responses": [
+            {
+              "target": "Although there's competition, our approach is unique.",
+              "native": "Aunque hay competencia, nuestro enfoque es único."
+            },
+            {
+              "target": "Despite the competition, we solve a real problem.",
+              "native": "A pesar de la competencia, resolvemos un problema real."
+            }
+          ],
+          "keywords": [
+            "although",
+            "even though",
+            "despite",
+            "in spite of",
+            "unique",
+            "competition",
+            "solve"
+          ],
+          "min_length": 5,
+          "hint": "Usá una cláusula de concesión (although there's competition... / despite the competition...)",
+          "redirect": "Explain why your idea stands out despite the competition.",
+          "bot_native": "Aunque el mercado es competitivo, ¿por qué debería invertir en tu idea?"
+        },
+        {
+          "bot": "If you had unlimited funding, what would you build first?",
+          "example_responses": [
+            {
+              "target": "If I had unlimited funding, I would hire a bigger team.",
+              "native": "Si tuviera financiamiento ilimitado, contrataría a un equipo más grande."
+            },
+            {
+              "target": "I would expand internationally first.",
+              "native": "Primero me expandiría internacionalmente."
+            }
+          ],
+          "keywords": [
+            "if",
+            "would",
+            "unlimited",
+            "funding",
+            "hire",
+            "expand",
+            "team"
+          ],
+          "min_length": 5,
+          "hint": "Usá segundo condicional (if I had unlimited funding, I would...)",
+          "redirect": "If money weren't an issue, what would you build first?",
+          "bot_native": "Si tuvieras financiamiento ilimitado, ¿qué construirías primero?"
+        },
+        {
+          "bot": "What's your plan for growth? I need specifics, not just enthusiasm.",
+          "example_responses": [
+            {
+              "target": "Our growth strategy focuses on customer retention.",
+              "native": "Nuestra estrategia de crecimiento se enfoca en la retención de clientes."
+            },
+            {
+              "target": "The expansion will require careful implementation.",
+              "native": "La expansión va a requerir una implementación cuidadosa."
+            }
+          ],
+          "keywords": [
+            "strategy",
+            "growth",
+            "retention",
+            "expansion",
+            "implementation",
+            "development",
+            "focus"
+          ],
+          "min_length": 5,
+          "hint": "Usá sustantivos abstractos (our growth strategy / the expansion will require...)",
+          "redirect": "Describe your growth strategy in concrete terms.",
+          "bot_native": "¿Cuál es tu plan de crecimiento? Necesito detalles, no solo entusiasmo."
+        },
+        {
+          "bot": "I'm impressed. Let's talk numbers next week.",
+          "example_responses": [
+            {
+              "target": "Great, I'll send you the details.",
+              "native": "Genial, te voy a enviar los detalles."
+            },
+            {
+              "target": "Perfect, looking forward to it.",
+              "native": "Perfecto, con muchas ganas."
+            }
+          ],
+          "keywords": [
+            "great",
+            "send",
+            "details",
+            "looking forward",
+            "perfect"
+          ],
+          "min_length": 3,
+          "hint": "Cerrá el trato (great, I'll send the details / looking forward to it)",
+          "redirect": "Confirm the next steps before ending the pitch.",
+          "bot_native": "Estoy impresionado/a. Hablemos de números la semana que viene."
+        }
+      ]
+    },
+    {
+      "id": "global_conference",
+      "unit": 17,
+      "title": "En una conferencia internacional",
+      "description": "Participá en una charla formal sobre temas globales",
+      "bot_role": "Panelista",
+      "user_role": "Participante",
+      "turns": [
+        {
+          "bot": "It is widely believed that global cooperation is essential to solving these challenges.",
+          "example_responses": [
+            {
+              "target": "It is often argued that individual countries can't act alone.",
+              "native": "A menudo se argumenta que los países no pueden actuar solos."
+            },
+            {
+              "target": "It has been shown that collaboration produces better results.",
+              "native": "Se ha demostrado que la colaboración produce mejores resultados."
+            }
+          ],
+          "keywords": [
+            "it is believed",
+            "it is argued",
+            "it has been shown",
+            "cooperation",
+            "collaboration",
+            "essential"
+          ],
+          "min_length": 5,
+          "hint": "Usá pasiva impersonal formal (it is believed that... / it has been shown that...)",
+          "redirect": "Share a formal opinion using 'it is believed/argued that...'",
+          "bot_native": "Se cree ampliamente que la cooperación global es esencial para resolver estos desafíos."
+        },
+        {
+          "bot": "Never before have we faced a challenge of this scale.",
+          "example_responses": [
+            {
+              "target": "Rarely has the world faced such urgency.",
+              "native": "Rara vez el mundo enfrentó tanta urgencia."
+            },
+            {
+              "target": "Not once have we seen such unity, though.",
+              "native": "Sin embargo, nunca vimos tanta unidad."
+            }
+          ],
+          "keywords": [
+            "never before",
+            "rarely",
+            "not once",
+            "scale",
+            "urgency",
+            "unity",
+            "faced"
+          ],
+          "min_length": 5,
+          "hint": "Usá inversión formal (never before have we... / rarely has the world...)",
+          "redirect": "Respond using an inverted structure like 'never before have we...'",
+          "bot_native": "Nunca antes enfrentamos un desafío de esta escala."
+        },
+        {
+          "bot": "What is needed now is real, measurable action, not just promises.",
+          "example_responses": [
+            {
+              "target": "What matters most is holding leaders accountable.",
+              "native": "Lo que más importa es hacer responsables a los líderes."
+            },
+            {
+              "target": "What we truly need is long-term investment.",
+              "native": "Lo que realmente necesitamos es inversión a largo plazo."
+            }
+          ],
+          "keywords": [
+            "what is needed",
+            "what matters",
+            "what we need",
+            "accountable",
+            "investment",
+            "action"
+          ],
+          "min_length": 5,
+          "hint": "Usá 'what + verbo' para enfatizar (what matters most is... / what we need is...)",
+          "redirect": "Emphasize your point using 'what is needed/matters is...'",
+          "bot_native": "Lo que se necesita ahora es acción real y medible, no solo promesas."
+        },
+        {
+          "bot": "Thank you for your contribution to this discussion.",
+          "example_responses": [
+            {
+              "target": "Thank you for the opportunity to speak.",
+              "native": "Gracias por la oportunidad de hablar."
+            },
+            {
+              "target": "It was an honor to be part of this panel.",
+              "native": "Fue un honor ser parte de este panel."
+            }
+          ],
+          "keywords": [
+            "thank you",
+            "opportunity",
+            "honor",
+            "panel",
+            "contribution"
+          ],
+          "min_length": 3,
+          "hint": "Agradecé formalmente (thank you for the opportunity / it was an honor...)",
+          "redirect": "Close formally — thank them for the opportunity to speak.",
+          "bot_native": "Gracias por tu contribución a esta discusión."
+        }
+      ]
+    },
+    {
+      "id": "science_research",
+      "unit": 18,
+      "title": "Presentando un proyecto de investigación",
+      "description": "Hablá sobre tu investigación científica y sus próximos pasos",
+      "bot_role": "Profesor/a",
+      "user_role": "Estudiante de investigación",
+      "turns": [
+        {
+          "bot": "By next year, will you have finished collecting your data?",
+          "example_responses": [
+            {
+              "target": "Yes, I will have finished by next spring.",
+              "native": "Sí, voy a haber terminado para la próxima primavera."
+            },
+            {
+              "target": "I will have completed most of it by then.",
+              "native": "Voy a haber completado la mayor parte para entonces."
+            }
+          ],
+          "keywords": [
+            "will have",
+            "by next year",
+            "finished",
+            "completed",
+            "spring",
+            "by then"
+          ],
+          "min_length": 5,
+          "hint": "Usá future perfect (I will have finished by... / I will have completed...)",
+          "redirect": "Will you have finished your data collection by next year?",
+          "bot_native": "Para el año que viene, ¿vas a haber terminado de recolectar tus datos?"
+        },
+        {
+          "bot": "My colleague mentioned that your results were surprising. Is that true?",
+          "example_responses": [
+            {
+              "target": "She said that the numbers were higher than expected.",
+              "native": "Ella dijo que los números fueron más altos de lo esperado."
+            },
+            {
+              "target": "He told me that the data supported our hypothesis.",
+              "native": "Él me dijo que los datos apoyaban nuestra hipótesis."
+            }
+          ],
+          "keywords": [
+            "said that",
+            "told me",
+            "mentioned",
+            "reported",
+            "hypothesis",
+            "surprising",
+            "results"
+          ],
+          "min_length": 5,
+          "hint": "Usá estilo indirecto (she said that... / he told me that...)",
+          "redirect": "What did your results show — report it indirectly.",
+          "bot_native": "Mi colega mencionó que tus resultados fueron sorprendentes. ¿Es verdad?"
+        },
+        {
+          "bot": "How would you summarize your findings for an academic paper?",
+          "example_responses": [
+            {
+              "target": "The findings indicate a significant correlation.",
+              "native": "Los hallazgos indican una correlación significativa."
+            },
+            {
+              "target": "The results suggest further investigation is required.",
+              "native": "Los resultados sugieren que se requiere más investigación."
+            }
+          ],
+          "keywords": [
+            "findings",
+            "indicate",
+            "suggest",
+            "significant",
+            "correlation",
+            "further investigation"
+          ],
+          "min_length": 5,
+          "hint": "Usá lenguaje académico (the findings indicate... / the results suggest...)",
+          "redirect": "Summarize your findings in formal academic language.",
+          "bot_native": "¿Cómo resumirías tus hallazgos para un paper académico?"
+        },
+        {
+          "bot": "Excellent work. I look forward to your final report.",
+          "example_responses": [
+            {
+              "target": "Thank you, I'll submit it soon.",
+              "native": "Gracias, lo voy a enviar pronto."
+            },
+            {
+              "target": "Thank you for your guidance.",
+              "native": "Gracias por tu guía."
+            }
+          ],
+          "keywords": [
+            "thank you",
+            "submit",
+            "soon",
+            "guidance",
+            "report"
+          ],
+          "min_length": 3,
+          "hint": "Agradecé y confirmá (thank you, I'll submit it soon...)",
+          "redirect": "Thank your professor and confirm when you'll submit the report.",
+          "bot_native": "Excelente trabajo. Espero con ganas tu informe final."
+        }
+      ]
+    },
+    {
+      "id": "political_debate",
+      "unit": 19,
+      "title": "Debate político",
+      "description": "Discutí sobre política y políticas públicas usando lenguaje formal y matizado",
+      "bot_role": "Moderador/a de debate",
+      "user_role": "Panelista",
+      "turns": [
+        {
+          "bot": "Many argue it is essential that the government act immediately on this issue. Do you agree?",
+          "example_responses": [
+            {
+              "target": "I agree it is vital that we address this now.",
+              "native": "Estoy de acuerdo en que es vital que abordemos esto ahora."
+            },
+            {
+              "target": "It's important that policy be reconsidered carefully first.",
+              "native": "Es importante que la política se reconsidere cuidadosamente primero."
+            }
+          ],
+          "keywords": [
+            "essential that",
+            "vital that",
+            "important that",
+            "be",
+            "act",
+            "reconsidered"
+          ],
+          "min_length": 6,
+          "hint": "Usá subjuntivo formal (it is essential that we act / it's important that policy be...)",
+          "redirect": "Do you think it's essential that action be taken immediately?",
+          "bot_native": "Muchos argumentan que es esencial que el gobierno actúe de inmediato en este tema. ¿Está de acuerdo?"
+        },
+        {
+          "bot": "Rarely has a policy divided public opinion so sharply.",
+          "example_responses": [
+            {
+              "target": "Seldom have we seen such polarization, that's true.",
+              "native": "Rara vez vimos tanta polarización, es cierto."
+            },
+            {
+              "target": "Not often does an issue generate this much debate.",
+              "native": "No muy seguido un tema genera tanto debate."
+            }
+          ],
+          "keywords": [
+            "rarely",
+            "seldom",
+            "not often",
+            "polarization",
+            "divided",
+            "debate"
+          ],
+          "min_length": 5,
+          "hint": "Usá inversión (seldom have we seen... / not often does...)",
+          "redirect": "Have you ever seen an issue this divisive before?",
+          "bot_native": "Rara vez una política dividió tanto la opinión pública."
+        },
+        {
+          "bot": "It would seem that both sides have valid points, wouldn't you say?",
+          "example_responses": [
+            {
+              "target": "It would appear so, though one side has more evidence.",
+              "native": "Parecería que sí, aunque un lado tiene más evidencia."
+            },
+            {
+              "target": "One might argue that compromise is the only real solution.",
+              "native": "Se podría argumentar que el compromiso es la única solución real."
+            }
+          ],
+          "keywords": [
+            "it would seem",
+            "it would appear",
+            "one might argue",
+            "compromise",
+            "evidence",
+            "valid"
+          ],
+          "min_length": 6,
+          "hint": "Usá lenguaje distanciado (it would seem that... / one might argue that...)",
+          "redirect": "Would you say both sides have valid points, or does one have stronger evidence?",
+          "bot_native": "Parecería que ambos lados tienen puntos válidos, ¿no diría usted?"
+        },
+        {
+          "bot": "Thank you for such a thoughtful contribution to this debate.",
+          "example_responses": [
+            {
+              "target": "Thank you for having me, it's a pleasure to discuss this.",
+              "native": "Gracias por invitarme, es un placer discutir esto."
+            },
+            {
+              "target": "I appreciate the opportunity to share my perspective.",
+              "native": "Aprecio la oportunidad de compartir mi perspectiva."
+            }
+          ],
+          "keywords": [
+            "thank you",
+            "pleasure",
+            "appreciate",
+            "opportunity",
+            "perspective"
+          ],
+          "min_length": 4,
+          "hint": "Cerrá formalmente (thank you for having me / I appreciate the opportunity...)",
+          "redirect": "Close the debate — thank the moderator for the opportunity.",
+          "bot_native": "Gracias por una contribución tan reflexiva a este debate."
+        }
+      ]
+    },
+    {
+      "id": "philosophy_cafe",
+      "unit": 20,
+      "title": "Café filosófico",
+      "description": "Reflexioná sobre preguntas filosóficas con matices de significado",
+      "bot_role": "Filósofo/a",
+      "user_role": "Vos",
+      "turns": [
+        {
+          "bot": "I regret to say that most people stop to think about meaning only in crisis. Do you agree?",
+          "example_responses": [
+            {
+              "target": "I remember thinking about it more when I was younger.",
+              "native": "Recuerdo pensar en eso más cuando era joven."
+            },
+            {
+              "target": "I regret not considering it sooner in my life.",
+              "native": "Me arrepiento de no haberlo considerado antes en mi vida."
+            }
+          ],
+          "keywords": [
+            "remember thinking",
+            "stop to think",
+            "regret",
+            "regret to say",
+            "remember to"
+          ],
+          "min_length": 6,
+          "hint": "Usá gerundio/infinitivo con cambio de sentido (I remember thinking / I regret not considering...)",
+          "redirect": "Do you remember thinking about life's meaning more at a certain point?",
+          "bot_native": "Lamento decir que la mayoría de la gente se detiene a pensar sobre el sentido solo en una crisis. ¿Está de acuerdo?"
+        },
+        {
+          "bot": "To have lived without ever questioning your beliefs seems like a wasted opportunity, doesn't it?",
+          "example_responses": [
+            {
+              "target": "To have never doubted anything does seem limiting.",
+              "native": "No haber dudado nunca de nada sí parece limitante."
+            },
+            {
+              "target": "I'd hate to have lived without ever questioning things.",
+              "native": "Odiaría haber vivido sin cuestionar nada nunca."
+            }
+          ],
+          "keywords": [
+            "to have lived",
+            "to have never",
+            "questioning",
+            "doubted",
+            "limiting"
+          ],
+          "min_length": 6,
+          "hint": "Usá infinitivo perfecto (to have never doubted... / I'd hate to have lived...)",
+          "redirect": "Would you hate to have lived without ever questioning your beliefs?",
+          "bot_native": "Haber vivido sin cuestionar nunca tus creencias parece una oportunidad desperdiciada, ¿no?"
+        },
+        {
+          "bot": "What does it mean, to you, to live a good life?",
+          "example_responses": [
+            {
+              "target": "To live well means to act with integrity.",
+              "native": "Vivir bien significa actuar con integridad."
+            },
+            {
+              "target": "For me, it means being present and honest.",
+              "native": "Para mí, significa estar presente y ser honesto."
+            }
+          ],
+          "keywords": [
+            "to live",
+            "means",
+            "integrity",
+            "present",
+            "honest",
+            "good life"
+          ],
+          "min_length": 5,
+          "hint": "Definí a tu manera (to live well means... / for me, it means...)",
+          "redirect": "What does living a good life mean to you personally?",
+          "bot_native": "¿Qué significa para vos vivir una buena vida?"
+        },
+        {
+          "bot": "This has been a fascinating conversation. Thank you for engaging so deeply.",
+          "example_responses": [
+            {
+              "target": "Thank you, I love exploring these questions.",
+              "native": "Gracias, me encanta explorar estas preguntas."
+            },
+            {
+              "target": "It's been a pleasure thinking this through with you.",
+              "native": "Fue un placer pensar esto junto a vos."
+            }
+          ],
+          "keywords": [
+            "thank you",
+            "pleasure",
+            "exploring",
+            "questions",
+            "fascinating"
+          ],
+          "min_length": 4,
+          "hint": "Cerrá la charla (thank you, I love exploring these questions...)",
+          "redirect": "Wrap up — did you enjoy exploring these questions?",
+          "bot_native": "Esta fue una conversación fascinante. Gracias por comprometerte tan profundamente."
+        }
+      ]
+    },
+    {
+      "id": "research_symposium",
+      "unit": 21,
+      "title": "Simposio de investigación",
+      "description": "Discutí resultados de investigación con colegas académicos",
+      "bot_role": "Colega investigador/a",
+      "user_role": "Vos",
+      "turns": [
+        {
+          "bot": "Did your team find a strong correlation, or didn't you?",
+          "example_responses": [
+            {
+              "target": "We did, and a stronger one than expected.",
+              "native": "Sí, y una más fuerte de lo esperado."
+            },
+            {
+              "target": "We didn't, unfortunately.",
+              "native": "No, lamentablemente."
+            }
+          ],
+          "keywords": [
+            "we did",
+            "we didn't",
+            "so did",
+            "neither did"
+          ],
+          "min_length": 4,
+          "hint": "Usá elipsis (we did, and... / we didn't, unfortunately)",
+          "redirect": "Did you find a strong correlation or not?",
+          "bot_native": "¿Su equipo encontró una correlación fuerte, o no?"
+        },
+        {
+          "bot": "Our results were similar to the previous study. I assume yours were too?",
+          "example_responses": [
+            {
+              "target": "Yes, ours were as well.",
+              "native": "Sí, los nuestros también."
+            },
+            {
+              "target": "Actually, ours weren't — quite different results.",
+              "native": "En realidad, los nuestros no — resultados bastante diferentes."
+            }
+          ],
+          "keywords": [
+            "ours were",
+            "ours weren't",
+            "as well",
+            "too",
+            "similar",
+            "different"
+          ],
+          "min_length": 4,
+          "hint": "Usá sustitución (ours were as well / ours weren't)",
+          "redirect": "Were your results similar to the previous study, or different?",
+          "bot_native": "Nuestros resultados fueron similares al estudio previo. ¿Asumo que los suyos también?"
+        },
+        {
+          "bot": "Consequently, we're revising our methodology. What about you — will you, too?",
+          "example_responses": [
+            {
+              "target": "Consequently, we plan to as well.",
+              "native": "Por consiguiente, planeamos hacerlo también."
+            },
+            {
+              "target": "Nevertheless, we'll keep our current approach.",
+              "native": "Sin embargo, mantendremos nuestro enfoque actual."
+            }
+          ],
+          "keywords": [
+            "consequently",
+            "nevertheless",
+            "therefore",
+            "furthermore",
+            "methodology",
+            "approach"
+          ],
+          "min_length": 4,
+          "hint": "Usá un conector académico (consequently... / nevertheless...)",
+          "redirect": "Will you revise your methodology too, or keep the current approach?",
+          "bot_native": "Por consiguiente, estamos revisando nuestra metodología. ¿Y ustedes — también?"
+        },
+        {
+          "bot": "It was a pleasure discussing this with you. Let's stay in touch.",
+          "example_responses": [
+            {
+              "target": "Likewise, let's collaborate in the future.",
+              "native": "Igualmente, colaboremos en el futuro."
+            },
+            {
+              "target": "Absolutely, I'll send you our full paper.",
+              "native": "Por supuesto, le voy a enviar nuestro paper completo."
+            }
+          ],
+          "keywords": [
+            "likewise",
+            "collaborate",
+            "future",
+            "paper",
+            "absolutely"
+          ],
+          "min_length": 3,
+          "hint": "Cerrá la charla (likewise, let's collaborate / I'll send you our paper)",
+          "redirect": "Suggest staying in touch or collaborating in the future.",
+          "bot_native": "Fue un placer discutir esto con usted. Mantengámonos en contacto."
+        }
+      ]
+    },
+    {
+      "id": "media_critique",
+      "unit": 22,
+      "title": "Crítica de medios",
+      "description": "Analizá críticamente una noticia o pieza de medios",
+      "bot_role": "Crítico/a de medios",
+      "user_role": "Vos",
+      "turns": [
+        {
+          "bot": "It was the headline, not the article itself, that caused the controversy.",
+          "example_responses": [
+            {
+              "target": "It was the framing that really misled people.",
+              "native": "Fue el enfoque lo que realmente engañó a la gente."
+            },
+            {
+              "target": "What caused the outrage was the missing context.",
+              "native": "Lo que causó la indignación fue el contexto faltante."
+            }
+          ],
+          "keywords": [
+            "it was",
+            "that",
+            "what caused",
+            "framing",
+            "misled",
+            "context"
+          ],
+          "min_length": 5,
+          "hint": "Usá oración hendida (it was the framing that... / what caused it was...)",
+          "redirect": "What do you think really caused the controversy?",
+          "bot_native": "Fue el titular, no el artículo en sí, lo que causó la controversia."
+        },
+        {
+          "bot": "Only later did the newspaper issue a correction.",
+          "example_responses": [
+            {
+              "target": "Only then did people realize the story was wrong.",
+              "native": "Recién ahí la gente se dio cuenta de que la nota estaba mal."
+            },
+            {
+              "target": "Rarely do outlets admit their mistakes so openly.",
+              "native": "Rara vez los medios admiten sus errores tan abiertamente."
+            }
+          ],
+          "keywords": [
+            "only later",
+            "only then",
+            "rarely",
+            "seldom",
+            "correction",
+            "admit"
+          ],
+          "min_length": 5,
+          "hint": "Usá inversión con fronting (only then did... / rarely do outlets...)",
+          "redirect": "When did people realize the story was inaccurate?",
+          "bot_native": "Recién más tarde el diario publicó una corrección."
+        },
+        {
+          "bot": "What's most concerning is how quickly misinformation spreads online.",
+          "example_responses": [
+            {
+              "target": "What worries me most is how few people fact-check.",
+              "native": "Lo que más me preocupa es cuán poca gente verifica los hechos."
+            },
+            {
+              "target": "What strikes me is how little accountability there is.",
+              "native": "Lo que me llama la atención es cuán poca responsabilidad hay."
+            }
+          ],
+          "keywords": [
+            "what's most concerning",
+            "what worries me",
+            "what strikes me",
+            "misinformation",
+            "accountability"
+          ],
+          "min_length": 5,
+          "hint": "Usá 'what + verbo' (what worries me most is... / what strikes me is...)",
+          "redirect": "What concerns you most about how misinformation spreads?",
+          "bot_native": "Lo más preocupante es qué tan rápido se difunde la desinformación online."
+        },
+        {
+          "bot": "This has been an insightful critique. Thanks for your sharp analysis.",
+          "example_responses": [
+            {
+              "target": "Thank you, media literacy matters a lot to me.",
+              "native": "Gracias, la alfabetización mediática me importa mucho."
+            },
+            {
+              "target": "I appreciate the chance to dig into this.",
+              "native": "Aprecio la oportunidad de profundizar en esto."
+            }
+          ],
+          "keywords": [
+            "thank you",
+            "media literacy",
+            "appreciate",
+            "analysis",
+            "insightful"
+          ],
+          "min_length": 4,
+          "hint": "Cerrá la charla (thank you, media literacy matters to me...)",
+          "redirect": "Wrap up — why does media literacy matter to you?",
+          "bot_native": "Esta fue una crítica reveladora. Gracias por tu análisis agudo."
+        }
+      ]
+    },
+    {
+      "id": "identity_language",
+      "unit": 23,
+      "title": "Identidad y lengua",
+      "description": "Hablá sobre cómo el idioma moldea la identidad",
+      "bot_role": "Investigador/a en lingüística",
+      "user_role": "Vos",
+      "turns": [
+        {
+          "bot": "Did you have your name officially translated when you moved abroad?",
+          "example_responses": [
+            {
+              "target": "I had my documents translated, yes.",
+              "native": "Hice traducir mis documentos, sí."
+            },
+            {
+              "target": "I got my accent corrected in classes, actually.",
+              "native": "En realidad, hice corregir mi acento en clases."
+            }
+          ],
+          "keywords": [
+            "had",
+            "got",
+            "done",
+            "translated",
+            "corrected",
+            "documents"
+          ],
+          "min_length": 5,
+          "hint": "Usá causativo (I had my documents translated / I got my accent corrected)",
+          "redirect": "Did you have anything officially translated or changed when you moved?",
+          "bot_native": "¿Hiciste traducir oficialmente tu nombre cuando te mudaste al exterior?"
+        },
+        {
+          "bot": "It is often said that language shapes how we see the world. Do you feel that?",
+          "example_responses": [
+            {
+              "target": "It is widely believed that bilinguals think differently, and I agree.",
+              "native": "Se cree ampliamente que los bilingües piensan diferente, y estoy de acuerdo."
+            },
+            {
+              "target": "It has been argued that identity shifts between languages.",
+              "native": "Se ha argumentado que la identidad cambia entre idiomas."
+            }
+          ],
+          "keywords": [
+            "it is said",
+            "it is believed",
+            "it has been argued",
+            "bilingual",
+            "identity",
+            "shapes"
+          ],
+          "min_length": 6,
+          "hint": "Usá pasiva impersonal (it is believed that... / it has been argued that...)",
+          "redirect": "Do you feel like a different person when you speak another language?",
+          "bot_native": "A menudo se dice que el lenguaje moldea cómo vemos el mundo. ¿Sentís eso?"
+        },
+        {
+          "bot": "Do you feel like a slightly different person when you switch languages?",
+          "example_responses": [
+            {
+              "target": "Definitely, I feel more direct in English.",
+              "native": "Definitivamente, me siento más directo/a en inglés."
+            },
+            {
+              "target": "Not really, my identity stays the same.",
+              "native": "La verdad que no, mi identidad se mantiene igual."
+            }
+          ],
+          "keywords": [
+            "definitely",
+            "not really",
+            "identity",
+            "direct",
+            "same",
+            "different person"
+          ],
+          "min_length": 4,
+          "hint": "Contá tu experiencia (definitely, I feel more direct... / not really, I stay the same)",
+          "redirect": "Does your personality shift at all between languages?",
+          "bot_native": "¿Sentís que sos una persona un poco diferente cuando cambiás de idioma?"
+        },
+        {
+          "bot": "This is such a rich topic. Thank you for sharing your perspective.",
+          "example_responses": [
+            {
+              "target": "Thank you, I find this endlessly fascinating.",
+              "native": "Gracias, encuentro esto infinitamente fascinante."
+            },
+            {
+              "target": "Likewise, this made me reflect a lot.",
+              "native": "Igualmente, esto me hizo reflexionar mucho."
+            }
+          ],
+          "keywords": [
+            "thank you",
+            "fascinating",
+            "reflect",
+            "perspective",
+            "likewise"
+          ],
+          "min_length": 4,
+          "hint": "Cerrá la charla (thank you, I find this fascinating...)",
+          "redirect": "Wrap up — what did you find most fascinating about this topic?",
+          "bot_native": "Este es un tema tan rico. Gracias por compartir tu perspectiva."
+        }
+      ]
+    },
+    {
+      "id": "global_law",
+      "unit": 24,
+      "title": "Derecho y globalización",
+      "description": "Discutí sobre acuerdos internacionales y regulaciones globales",
+      "bot_role": "Abogado/a internacional",
+      "user_role": "Vos",
+      "turns": [
+        {
+          "bot": "Unless countries agree on shared standards, global trade will keep facing conflicts.",
+          "example_responses": [
+            {
+              "target": "Provided that everyone complies, it could work.",
+              "native": "Siempre que todos cumplan, podría funcionar."
+            },
+            {
+              "target": "As long as enforcement is strong, I'd agree.",
+              "native": "Mientras la aplicación sea fuerte, estaría de acuerdo."
+            }
+          ],
+          "keywords": [
+            "unless",
+            "provided that",
+            "as long as",
+            "comply",
+            "enforcement",
+            "standards"
+          ],
+          "min_length": 6,
+          "hint": "Usá condicionales alternativos (provided that... / as long as...)",
+          "redirect": "Under what conditions would shared standards actually work?",
+          "bot_native": "A menos que los países acuerden estándares compartidos, el comercio global va a seguir enfrentando conflictos."
+        },
+        {
+          "bot": "Even if the treaty is signed, enforcement remains a major challenge.",
+          "example_responses": [
+            {
+              "target": "Even if it's signed, that's just the first step.",
+              "native": "Aunque se firme, eso es solo el primer paso."
+            },
+            {
+              "target": "Regardless of the treaty, national interests often win.",
+              "native": "Independientemente del tratado, los intereses nacionales suelen ganar."
+            }
+          ],
+          "keywords": [
+            "even if",
+            "regardless of",
+            "enforcement",
+            "treaty",
+            "national interests"
+          ],
+          "min_length": 5,
+          "hint": "Usá concesión avanzada (even if it's signed... / regardless of the treaty...)",
+          "redirect": "Do you think enforcement is the real challenge, even with a signed treaty?",
+          "bot_native": "Aunque se firme el tratado, la aplicación sigue siendo un gran desafío."
+        },
+        {
+          "bot": "Should smaller countries have equal say, or does that seem unrealistic to you?",
+          "example_responses": [
+            {
+              "target": "They should, provided that decisions stay balanced.",
+              "native": "Deberían, siempre que las decisiones sigan siendo equilibradas."
+            },
+            {
+              "target": "It seems unrealistic unless the system changes first.",
+              "native": "Parece poco realista a menos que el sistema cambie primero."
+            }
+          ],
+          "keywords": [
+            "should",
+            "provided that",
+            "unless",
+            "unrealistic",
+            "equal say",
+            "balanced"
+          ],
+          "min_length": 5,
+          "hint": "Combiná opinión con condicional (they should, provided that... / unless the system changes)",
+          "redirect": "Do smaller countries deserve equal say, or is that unrealistic?",
+          "bot_native": "¿Deberían los países más pequeños tener igual voz, o te parece poco realista?"
+        },
+        {
+          "bot": "This has been a rigorous discussion. I appreciate your legal insight.",
+          "example_responses": [
+            {
+              "target": "Thank you, international law fascinates me.",
+              "native": "Gracias, el derecho internacional me fascina."
+            },
+            {
+              "target": "I appreciate the chance to debate this properly.",
+              "native": "Aprecio la oportunidad de debatir esto en serio."
+            }
+          ],
+          "keywords": [
+            "thank you",
+            "fascinates",
+            "appreciate",
+            "debate",
+            "international law"
+          ],
+          "min_length": 4,
+          "hint": "Cerrá la charla (thank you, international law fascinates me...)",
+          "redirect": "Wrap up — what fascinates you about international law?",
+          "bot_native": "Esta fue una discusión rigurosa. Aprecio tu visión legal."
+        }
+      ]
+    },
+    {
+      "id": "rhetoric_workshop",
+      "unit": 25,
+      "title": "Taller de retórica",
+      "description": "Analizá técnicas retóricas en un discurso persuasivo",
+      "bot_role": "Instructor/a de oratoria",
+      "user_role": "Vos",
+      "turns": [
+        {
+          "bot": "That speech relied heavily on pathos rather than logos. Did you notice?",
+          "example_responses": [
+            {
+              "target": "Yes, the emotional appeal was much stronger than the logic.",
+              "native": "Sí, el llamado emocional fue mucho más fuerte que la lógica."
+            },
+            {
+              "target": "I did — barely any statistics, mostly stories.",
+              "native": "Sí — casi ninguna estadística, sobre todo historias."
+            }
+          ],
+          "keywords": [
+            "pathos",
+            "logos",
+            "ethos",
+            "emotional appeal",
+            "logic",
+            "statistics"
+          ],
+          "min_length": 6,
+          "hint": "Identificá el recurso retórico (the emotional appeal was stronger than the logic...)",
+          "redirect": "Did the speaker lean more on emotion, logic, or credibility?",
+          "bot_native": "Ese discurso se apoyó mucho en el pathos más que en el logos. ¿Te diste cuenta?"
+        },
+        {
+          "bot": "There was also a clear logical fallacy — a slippery slope argument.",
+          "example_responses": [
+            {
+              "target": "Right, and there was some loaded language too.",
+              "native": "Cierto, y también hubo algo de lenguaje cargado."
+            },
+            {
+              "target": "I caught a false dilemma earlier in the speech.",
+              "native": "Yo noté un falso dilema antes en el discurso."
+            }
+          ],
+          "keywords": [
+            "slippery slope",
+            "loaded language",
+            "false dilemma",
+            "fallacy",
+            "straw man"
+          ],
+          "min_length": 6,
+          "hint": "Nombrá otra falacia o recurso que notaste (loaded language / false dilemma...)",
+          "redirect": "Did you spot any other fallacies or loaded language in the speech?",
+          "bot_native": "También hubo una falacia lógica clara — un argumento de pendiente resbaladiza."
+        },
+        {
+          "bot": "The rhetorical question at the end was a nice touch, wasn't it?",
+          "example_responses": [
+            {
+              "target": "It was, it left the audience thinking.",
+              "native": "Sí, dejó al público pensando."
+            },
+            {
+              "target": "Combined with the chiasmus before it, it landed well.",
+              "native": "Combinado con el quiasmo anterior, funcionó bien."
+            }
+          ],
+          "keywords": [
+            "rhetorical question",
+            "chiasmus",
+            "landed",
+            "audience",
+            "effective"
+          ],
+          "min_length": 5,
+          "hint": "Comentá el efecto del recurso (it left the audience thinking / it landed well)",
+          "redirect": "What did you think of the rhetorical question at the end?",
+          "bot_native": "La pregunta retórica al final fue un buen toque, ¿no?"
+        },
+        {
+          "bot": "Great analysis. You clearly have a sharp eye for rhetoric.",
+          "example_responses": [
+            {
+              "target": "Thank you, I've been studying persuasion techniques a lot.",
+              "native": "Gracias, estuve estudiando mucho las técnicas de persuasión."
+            },
+            {
+              "target": "I appreciate that, rhetoric fascinates me.",
+              "native": "Aprecio eso, la retórica me fascina."
+            }
+          ],
+          "keywords": [
+            "thank you",
+            "persuasion",
+            "fascinates",
+            "appreciate",
+            "sharp eye"
+          ],
+          "min_length": 4,
+          "hint": "Agradecé el cumplido (thank you, I've been studying persuasion...)",
+          "redirect": "Thank the instructor and share why rhetoric interests you.",
+          "bot_native": "Gran análisis. Claramente tenés buen ojo para la retórica."
+        }
+      ]
+    },
+    {
+      "id": "book_club",
+      "unit": 26,
+      "title": "Club de lectura",
+      "description": "Analizá una novela con tu club de lectura: voz narrativa y simbolismo",
+      "bot_role": "Miembro del club de lectura",
+      "user_role": "Vos",
+      "turns": [
+        {
+          "bot": "I think the narrator is completely unreliable — did you trust him?",
+          "example_responses": [
+            {
+              "target": "Not at all, his account felt distorted from the start.",
+              "native": "Para nada, su relato se sintió distorsionado desde el principio."
+            },
+            {
+              "target": "I did at first, until the twist revealed his bias.",
+              "native": "Al principio sí, hasta que el giro reveló su sesgo."
+            }
+          ],
+          "keywords": [
+            "unreliable narrator",
+            "distorted",
+            "bias",
+            "trust",
+            "twist",
+            "account"
+          ],
+          "min_length": 6,
+          "hint": "Opiná sobre el narrador (his account felt distorted / I trusted him until...)",
+          "redirect": "Did you trust the narrator, or did something feel off?",
+          "bot_native": "Creo que el narrador es completamente poco confiable — ¿confiaste en él?"
+        },
+        {
+          "bot": "The lighthouse clearly works as an allegory for hope, don't you think?",
+          "example_responses": [
+            {
+              "target": "Definitely, and it's also a recurring motif throughout.",
+              "native": "Definitivamente, y también es un motivo recurrente a lo largo del libro."
+            },
+            {
+              "target": "I read it more as a symbol of isolation, actually.",
+              "native": "En realidad, lo leí más como un símbolo de aislamiento."
+            }
+          ],
+          "keywords": [
+            "allegory",
+            "motif",
+            "symbol",
+            "recurring",
+            "isolation",
+            "hope"
+          ],
+          "min_length": 6,
+          "hint": "Interpretá el símbolo (it's a recurring motif / I read it as a symbol of...)",
+          "redirect": "How did you interpret the lighthouse — hope, isolation, something else?",
+          "bot_native": "El faro claramente funciona como alegoría de la esperanza, ¿no creés?"
+        },
+        {
+          "bot": "The dramatic irony in chapter three really got to me — we knew what she didn't.",
+          "example_responses": [
+            {
+              "target": "That scene had such powerful subtext underneath it.",
+              "native": "Esa escena tenía un subtexto tan poderoso debajo."
+            },
+            {
+              "target": "The foreshadowing earlier made that moment inevitable.",
+              "native": "El presagio anterior hizo que ese momento fuera inevitable."
+            }
+          ],
+          "keywords": [
+            "dramatic irony",
+            "subtext",
+            "foreshadowing",
+            "inevitable",
+            "powerful"
+          ],
+          "min_length": 6,
+          "hint": "Comentá el recurso literario (that scene had powerful subtext / the foreshadowing made it inevitable)",
+          "redirect": "What did you think of the dramatic irony in that chapter?",
+          "bot_native": "La ironía dramática en el capítulo tres realmente me llegó — sabíamos lo que ella no sabía."
+        },
+        {
+          "bot": "This was such a rich discussion. I love how differently we read the same book.",
+          "example_responses": [
+            {
+              "target": "Me too, that's the beauty of literature.",
+              "native": "A mí también, esa es la belleza de la literatura."
+            },
+            {
+              "target": "Agreed, I always leave these discussions with new insight.",
+              "native": "De acuerdo, siempre salgo de estas discusiones con nueva perspectiva."
+            }
+          ],
+          "keywords": [
+            "beauty of literature",
+            "insight",
+            "agreed",
+            "discussion",
+            "rich"
+          ],
+          "min_length": 4,
+          "hint": "Cerrá la charla (that's the beauty of literature / new insight)",
+          "redirect": "Wrap up — what did you take away from this discussion?",
+          "bot_native": "Esta fue una discusión tan rica. Me encanta cómo leemos el mismo libro de forma tan diferente."
+        }
+      ]
+    },
+    {
+      "id": "comedy_analysis",
+      "unit": 27,
+      "title": "Analizando el humor",
+      "description": "Analizá el humor de un programa de comedia con un amigo",
+      "bot_role": "Amigo/a fanático/a de la comedia",
+      "user_role": "Vos",
+      "turns": [
+        {
+          "bot": "That comedian's deadpan delivery is what makes the joke land, don't you think?",
+          "example_responses": [
+            {
+              "target": "Exactly, the deadpan tone makes it funnier than if he laughed.",
+              "native": "Exacto, el tono impasible lo hace más gracioso que si se riera."
+            },
+            {
+              "target": "I think it's more about the comic timing, honestly.",
+              "native": "Honestamente, creo que es más sobre el timing cómico."
+            }
+          ],
+          "keywords": [
+            "deadpan",
+            "comic timing",
+            "delivery",
+            "land",
+            "funnier"
+          ],
+          "min_length": 6,
+          "hint": "Opiná sobre la técnica (the deadpan tone makes it funnier / it's about comic timing)",
+          "redirect": "What do you think makes the joke actually land — the delivery or the timing?",
+          "bot_native": "La entrega impasible de ese comediante es lo que hace que el chiste funcione, ¿no?"
+        },
+        {
+          "bot": "That was more satire than parody — it's mocking the system, not another show.",
+          "example_responses": [
+            {
+              "target": "True, satire usually has a sharper point to make.",
+              "native": "Cierto, la sátira suele tener un punto más filoso que hacer."
+            },
+            {
+              "target": "Right, and there's some dark humour mixed in too.",
+              "native": "Cierto, y también hay algo de humor negro mezclado."
+            }
+          ],
+          "keywords": [
+            "satire",
+            "parody",
+            "dark humour",
+            "mocking",
+            "sharper point"
+          ],
+          "min_length": 6,
+          "hint": "Distinguí sátira de parodia (satire has a sharper point / dark humour mixed in)",
+          "redirect": "Would you call that satire or parody — and why?",
+          "bot_native": "Eso fue más sátira que parodia — se burla del sistema, no de otro programa."
+        },
+        {
+          "bot": "His self-deprecating humour is honestly his best material.",
+          "example_responses": [
+            {
+              "target": "Agreed, it's more relatable than his sarcastic jokes.",
+              "native": "De acuerdo, es más identificable que sus chistes sarcásticos."
+            },
+            {
+              "target": "I actually prefer his wordplay over the self-deprecating stuff.",
+              "native": "En realidad prefiero sus juegos de palabras al material autocrítico."
+            }
+          ],
+          "keywords": [
+            "self-deprecating",
+            "sarcastic",
+            "relatable",
+            "wordplay",
+            "prefer"
+          ],
+          "min_length": 5,
+          "hint": "Comparalo con otro estilo (more relatable than his sarcastic jokes / I prefer his wordplay)",
+          "redirect": "Do you prefer his self-deprecating jokes or his sarcasm?",
+          "bot_native": "Su humor autocrítico es honestamente su mejor material."
+        },
+        {
+          "bot": "Great chat! I always love breaking down comedy with someone who gets it.",
+          "example_responses": [
+            {
+              "target": "Same here, comedy is more interesting than people think.",
+              "native": "Igual yo, la comedia es más interesante de lo que la gente cree."
+            },
+            {
+              "target": "Thanks, this was a fun analysis.",
+              "native": "Gracias, este fue un análisis divertido."
+            }
+          ],
+          "keywords": [
+            "same here",
+            "fun analysis",
+            "interesting",
+            "thanks",
+            "comedy"
+          ],
+          "min_length": 4,
+          "hint": "Cerrá la charla (comedy is more interesting than people think / this was a fun analysis)",
+          "redirect": "Wrap up — did you enjoy breaking down the comedy together?",
+          "bot_native": "¡Gran charla! Siempre me encanta analizar la comedia con alguien que la entiende."
+        }
+      ]
+    },
+    {
+      "id": "register_shift",
+      "unit": 28,
+      "title": "Cambiando de registro",
+      "description": "Practicá reformular el mismo mensaje en distintos registros",
+      "bot_role": "Editor/a",
+      "user_role": "Vos",
+      "turns": [
+        {
+          "bot": "Can you rewrite 'we messed up' in more diplomatic language?",
+          "example_responses": [
+            {
+              "target": "We acknowledge that an error occurred on our part.",
+              "native": "Reconocemos que ocurrió un error de nuestra parte."
+            },
+            {
+              "target": "There were shortcomings in our process that we regret.",
+              "native": "Hubo deficiencias en nuestro proceso que lamentamos."
+            }
+          ],
+          "keywords": [
+            "acknowledge",
+            "shortcomings",
+            "regret",
+            "error occurred",
+            "diplomatic"
+          ],
+          "min_length": 6,
+          "hint": "Usá lenguaje diplomático (we acknowledge that... / there were shortcomings...)",
+          "redirect": "How would you phrase that diplomatically?",
+          "bot_native": "¿Podés reescribir 'nos equivocamos' en un lenguaje más diplomático?"
+        },
+        {
+          "bot": "Now try turning that into legalese, as if for a contract.",
+          "example_responses": [
+            {
+              "target": "The undersigned party hereby acknowledges the aforementioned discrepancy.",
+              "native": "La parte abajo firmante por la presente reconoce la discrepancia mencionada."
+            },
+            {
+              "target": "Notwithstanding the foregoing, liability is limited accordingly.",
+              "native": "No obstante lo anterior, la responsabilidad se limita en consecuencia."
+            }
+          ],
+          "keywords": [
+            "hereby",
+            "aforementioned",
+            "notwithstanding",
+            "undersigned",
+            "liability"
+          ],
+          "min_length": 6,
+          "hint": "Usá jerga legal (hereby acknowledges / notwithstanding the foregoing...)",
+          "redirect": "Try phrasing it as legalese, using words like 'hereby' or 'notwithstanding'.",
+          "bot_native": "Ahora intentá convertirlo en lenguaje legal, como para un contrato."
+        },
+        {
+          "bot": "Great. Now simplify it into plain language a child could understand.",
+          "example_responses": [
+            {
+              "target": "We made a mistake and we're sorry.",
+              "native": "Cometimos un error y lo sentimos."
+            },
+            {
+              "target": "Something went wrong and we're fixing it.",
+              "native": "Algo salió mal y lo estamos arreglando."
+            }
+          ],
+          "keywords": [
+            "plain language",
+            "mistake",
+            "sorry",
+            "fixing",
+            "simple"
+          ],
+          "min_length": 4,
+          "hint": "Usá lenguaje simple (we made a mistake and we're sorry / we're fixing it)",
+          "redirect": "Now simplify it into plain, everyday language.",
+          "bot_native": "Genial. Ahora simplificalo a un lenguaje simple que un niño pueda entender."
+        },
+        {
+          "bot": "Perfect — you clearly understand how register shapes meaning.",
+          "example_responses": [
+            {
+              "target": "Thank you, context really changes everything.",
+              "native": "Gracias, el contexto realmente cambia todo."
+            },
+            {
+              "target": "I appreciate that, register is fascinating to study.",
+              "native": "Aprecio eso, el registro es fascinante de estudiar."
+            }
+          ],
+          "keywords": [
+            "thank you",
+            "context",
+            "register",
+            "fascinating",
+            "appreciate"
+          ],
+          "min_length": 4,
+          "hint": "Cerrá la charla (thank you, context changes everything...)",
+          "redirect": "Wrap up — what did you learn about how register changes meaning?",
+          "bot_native": "Perfecto — claramente entendés cómo el registro moldea el significado."
+        }
+      ]
+    },
+    {
+      "id": "idiom_practice",
+      "unit": 29,
+      "title": "Practicando modismos",
+      "description": "Usá idioms y lenguaje figurado en una charla natural",
+      "bot_role": "Amigo/a nativo/a",
+      "user_role": "Vos",
+      "turns": [
+        {
+          "bot": "I've been under the weather all week, to be honest.",
+          "example_responses": [
+            {
+              "target": "Sorry to hear that, hope you feel better soon.",
+              "native": "Lamento escuchar eso, espero que te sientas mejor pronto."
+            },
+            {
+              "target": "That's rough, are you finally turning the corner?",
+              "native": "Qué difícil, ¿ya estás mejorando?"
+            }
+          ],
+          "keywords": [
+            "under the weather",
+            "turning the corner",
+            "feel better",
+            "rough"
+          ],
+          "min_length": 4,
+          "hint": "Respondé al idiom (sorry to hear that / are you turning the corner?)",
+          "redirect": "What would you say to someone who's 'under the weather'?",
+          "bot_native": "Estuve un poco mal de salud toda la semana, la verdad."
+        },
+        {
+          "bot": "Honestly, this project has been a rollercoaster — one day great, the next a disaster.",
+          "example_responses": [
+            {
+              "target": "I know the feeling, it's been touch and go for us too.",
+              "native": "Sé lo que se siente, para nosotros también estuvo inestable."
+            },
+            {
+              "target": "Sounds intense, but at least the light's at the end of the tunnel now?",
+              "native": "Suena intenso, pero ¿al menos ya se ve la luz al final del túnel?"
+            }
+          ],
+          "keywords": [
+            "rollercoaster",
+            "touch and go",
+            "light at the end of the tunnel",
+            "intense"
+          ],
+          "min_length": 5,
+          "hint": "Usá otro idiom relacionado (touch and go / light at the end of the tunnel)",
+          "redirect": "Do you know that feeling — has anything been 'touch and go' for you?",
+          "bot_native": "Honestamente, este proyecto fue una montaña rusa — un día genial, al otro un desastre."
+        },
+        {
+          "bot": "I'll admit, I bit off more than I could chew with this one.",
+          "example_responses": [
+            {
+              "target": "We've all been there, it happens to the best of us.",
+              "native": "A todos nos pasó, le pasa a los mejores."
+            },
+            {
+              "target": "Maybe it's time to call it a day and rest.",
+              "native": "Tal vez es hora de dejarlo por hoy y descansar."
+            }
+          ],
+          "keywords": [
+            "bit off more than I could chew",
+            "been there",
+            "call it a day",
+            "happens to the best of us"
+          ],
+          "min_length": 5,
+          "hint": "Respondé con empatía usando un idiom (we've all been there / call it a day)",
+          "redirect": "React with an idiom of your own — 'we've all been there' or similar.",
+          "bot_native": "Admito que me metí en algo más grande de lo que podía manejar con esto."
+        },
+        {
+          "bot": "Ha, well, that's life! Thanks for listening, it means a lot.",
+          "example_responses": [
+            {
+              "target": "Anytime, that's what friends are for.",
+              "native": "Cuando quieras, para eso están los amigos."
+            },
+            {
+              "target": "Of course, I've got your back.",
+              "native": "Por supuesto, te banco."
+            }
+          ],
+          "keywords": [
+            "that's what friends are for",
+            "got your back",
+            "anytime",
+            "means a lot"
+          ],
+          "min_length": 3,
+          "hint": "Cerrá con un idiom (that's what friends are for / I've got your back)",
+          "redirect": "Close warmly using an idiom, like 'I've got your back'.",
+          "bot_native": "Ja, bueno, ¡así es la vida! Gracias por escuchar, significa mucho."
+        }
+      ]
+    },
+    {
+      "id": "mediation_practice",
+      "unit": 30,
+      "title": "Práctica de mediación y síntesis",
+      "description": "Practicá parafrasear y sintetizar ideas complejas entre registros",
+      "bot_role": "Colega bilingüe",
+      "user_role": "Vos",
+      "turns": [
+        {
+          "bot": "Can you paraphrase this dense academic sentence in simpler terms for a general audience?",
+          "example_responses": [
+            {
+              "target": "Basically, it means the results support the original theory.",
+              "native": "Básicamente, significa que los resultados apoyan la teoría original."
+            },
+            {
+              "target": "In simple terms, the study confirms what we expected.",
+              "native": "En términos simples, el estudio confirma lo que esperábamos."
+            }
+          ],
+          "keywords": [
+            "basically",
+            "in simple terms",
+            "paraphrase",
+            "confirms",
+            "means"
+          ],
+          "min_length": 6,
+          "hint": "Parafraseá con lenguaje simple (basically, it means... / in simple terms...)",
+          "redirect": "How would you say that more simply, for someone outside the field?",
+          "bot_native": "¿Podés parafrasear esta oración académica densa en términos más simples para una audiencia general?"
+        },
+        {
+          "bot": "Now synthesize these two conflicting sources into one balanced summary.",
+          "example_responses": [
+            {
+              "target": "While one source emphasizes risk, the other highlights opportunity.",
+              "native": "Mientras una fuente enfatiza el riesgo, la otra destaca la oportunidad."
+            },
+            {
+              "target": "Taken together, both sources suggest a more nuanced picture.",
+              "native": "Tomadas en conjunto, ambas fuentes sugieren un panorama más matizado."
+            }
+          ],
+          "keywords": [
+            "while",
+            "taken together",
+            "synthesize",
+            "nuanced",
+            "balanced"
+          ],
+          "min_length": 6,
+          "hint": "Sintetizá ambas fuentes (while one emphasizes... the other... / taken together...)",
+          "redirect": "How would you combine both perspectives into one summary?",
+          "bot_native": "Ahora sintetizá estas dos fuentes contradictorias en un resumen equilibrado."
+        },
+        {
+          "bot": "Could you mediate this for a Spanish-speaking colleague who missed the meeting?",
+          "example_responses": [
+            {
+              "target": "Sure, I'll explain the key points in their language and context.",
+              "native": "Claro, voy a explicar los puntos clave en su idioma y contexto."
+            },
+            {
+              "target": "Of course, I'll adapt the tone so it makes sense for them.",
+              "native": "Por supuesto, voy a adaptar el tono para que tenga sentido para ellos."
+            }
+          ],
+          "keywords": [
+            "mediate",
+            "explain",
+            "adapt",
+            "tone",
+            "context",
+            "key points"
+          ],
+          "min_length": 5,
+          "hint": "Ofrecé mediar (I'll explain the key points... / I'll adapt the tone...)",
+          "redirect": "How would you mediate this for someone who missed it?",
+          "bot_native": "¿Podrías mediar esto para un colega hispanohablante que se perdió la reunión?"
+        },
+        {
+          "bot": "Impressive precision. You clearly have full command of register and nuance.",
+          "example_responses": [
+            {
+              "target": "Thank you, this kind of precision takes years to build.",
+              "native": "Gracias, este tipo de precisión lleva años construir."
+            },
+            {
+              "target": "I appreciate that — mediation is something I've worked hard on.",
+              "native": "Aprecio eso — la mediación es algo en lo que trabajé mucho."
+            }
+          ],
+          "keywords": [
+            "thank you",
+            "precision",
+            "command",
+            "appreciate",
+            "worked hard"
+          ],
+          "min_length": 4,
+          "hint": "Agradecé el cumplido (thank you, this precision takes years... / I appreciate that)",
+          "redirect": "Accept the compliment and reflect on how you developed this skill.",
+          "bot_native": "Precisión impresionante. Claramente tenés dominio total del registro y el matiz."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8068 @@
+{
+  "words": [
+    {
+      "target": "edificio",
+      "native": "building",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "capital",
+      "native": "capital",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "sucio",
+      "native": "dirty",
+      "unit": 4,
+      "category": "adjective"
+    },
+    {
+      "target": "jardín",
+      "native": "garden",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "parque",
+      "native": "park",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "alto",
+      "native": "tall",
+      "unit": 4,
+      "category": "adjective"
+    },
+    {
+      "target": "árbol",
+      "native": "tree",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "banco",
+      "native": "bank",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "estación de autobuses",
+      "native": "bus station",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "cafetería",
+      "native": "café",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "estacionamiento",
+      "native": "car park",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "cine",
+      "native": "cinema",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "centro de información",
+      "native": "information centre",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "mercado",
+      "native": "market",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "museo",
+      "native": "museum",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "nuevo",
+      "native": "new",
+      "unit": 4,
+      "category": "adjective"
+    },
+    {
+      "target": "viejo",
+      "native": "old",
+      "unit": 4,
+      "category": "adjective"
+    },
+    {
+      "target": "popular",
+      "native": "popular",
+      "unit": 4,
+      "category": "adjective"
+    },
+    {
+      "target": "estación de tren",
+      "native": "train station",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "famoso",
+      "native": "famous",
+      "unit": 4,
+      "category": "adjective"
+    },
+    {
+      "target": "guía turística",
+      "native": "guidebook",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "mapa",
+      "native": "map",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "abierto",
+      "native": "open",
+      "unit": 4,
+      "category": "adjective"
+    },
+    {
+      "target": "símbolo",
+      "native": "symbol",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "horario",
+      "native": "timetable",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "turista",
+      "native": "tourist",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "torre",
+      "native": "tower",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "cama",
+      "native": "bed",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "cerrado",
+      "native": "closed",
+      "unit": 4,
+      "category": "adjective"
+    },
+    {
+      "target": "oficina",
+      "native": "office",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "tienda",
+      "native": "shop",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "manzana",
+      "native": "apple",
+      "unit": 4,
+      "category": "food"
+    },
+    {
+      "target": "banana",
+      "native": "banana",
+      "unit": 4,
+      "category": "food"
+    },
+    {
+      "target": "pastel",
+      "native": "cake",
+      "unit": 4,
+      "category": "food"
+    },
+    {
+      "target": "café",
+      "native": "coffee",
+      "unit": 4,
+      "category": "food"
+    },
+    {
+      "target": "comida",
+      "native": "food",
+      "unit": 4,
+      "category": "food"
+    },
+    {
+      "target": "jugo de fruta",
+      "native": "fruit juice",
+      "unit": 4,
+      "category": "food"
+    },
+    {
+      "target": "genial",
+      "native": "great",
+      "unit": 4,
+      "category": "adjective"
+    },
+    {
+      "target": "grande",
+      "native": "large",
+      "unit": 4,
+      "category": "adjective"
+    },
+    {
+      "target": "agua mineral",
+      "native": "mineral water",
+      "unit": 4,
+      "category": "food"
+    },
+    {
+      "target": "moderno",
+      "native": "modern",
+      "unit": 4,
+      "category": "adjective"
+    },
+    {
+      "target": "naranja",
+      "native": "orange",
+      "unit": 4,
+      "category": "food"
+    },
+    {
+      "target": "parte",
+      "native": "part",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "libra",
+      "native": "pound",
+      "unit": 4,
+      "category": "money"
+    },
+    {
+      "target": "ensalada",
+      "native": "salad",
+      "unit": 4,
+      "category": "food"
+    },
+    {
+      "target": "sándwich",
+      "native": "sandwich",
+      "unit": 4,
+      "category": "food"
+    },
+    {
+      "target": "pequeño",
+      "native": "small",
+      "unit": 4,
+      "category": "adjective"
+    },
+    {
+      "target": "bocadillo",
+      "native": "snack",
+      "unit": 4,
+      "category": "food"
+    },
+    {
+      "target": "té",
+      "native": "tea",
+      "unit": 4,
+      "category": "food"
+    },
+    {
+      "target": "puente",
+      "native": "bridge",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "letrero",
+      "native": "sign",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "hospital",
+      "native": "hospital",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "panadería",
+      "native": "bakery",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "estación de bomberos",
+      "native": "fire station",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "supermercado",
+      "native": "supermarket",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "parada de autobús",
+      "native": "bus stop",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "librería",
+      "native": "bookstore",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "biblioteca",
+      "native": "library",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "comisaría",
+      "native": "police station",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "oficina de correos",
+      "native": "post office",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "parque de diversiones",
+      "native": "amusement park",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "aeropuerto",
+      "native": "airport",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "escuela",
+      "native": "school",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "restaurante",
+      "native": "restaurant",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "hotel",
+      "native": "hotel",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "zoológico",
+      "native": "zoo",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "patio de juegos",
+      "native": "playground",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "estadio",
+      "native": "stadium",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "gasolinera",
+      "native": "gas station",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "farmacia",
+      "native": "pharmacy",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "en/dentro de",
+      "native": "in",
+      "unit": 4,
+      "category": "preposition"
+    },
+    {
+      "target": "sobre/encima de",
+      "native": "on",
+      "unit": 4,
+      "category": "preposition"
+    },
+    {
+      "target": "debajo de",
+      "native": "under",
+      "unit": 4,
+      "category": "preposition"
+    },
+    {
+      "target": "entre (dos)",
+      "native": "between",
+      "unit": 4,
+      "category": "preposition"
+    },
+    {
+      "target": "delante de",
+      "native": "in front of",
+      "unit": 4,
+      "category": "preposition"
+    },
+    {
+      "target": "al lado de",
+      "native": "next to",
+      "unit": 4,
+      "category": "preposition"
+    },
+    {
+      "target": "detrás de",
+      "native": "behind",
+      "unit": 4,
+      "category": "preposition"
+    },
+    {
+      "target": "lejos de",
+      "native": "far from",
+      "unit": 4,
+      "category": "preposition"
+    },
+    {
+      "target": "cerca de",
+      "native": "near",
+      "unit": 4,
+      "category": "preposition"
+    },
+    {
+      "target": "frente a",
+      "native": "opposite",
+      "unit": 4,
+      "category": "preposition"
+    },
+    {
+      "target": "aire",
+      "native": "air",
+      "unit": 5,
+      "category": "general"
+    },
+    {
+      "target": "fantástico",
+      "native": "fantastic",
+      "unit": 5,
+      "category": "adjective"
+    },
+    {
+      "target": "volar",
+      "native": "fly",
+      "unit": 5,
+      "category": "verb"
+    },
+    {
+      "target": "minuto",
+      "native": "minute",
+      "unit": 5,
+      "category": "general"
+    },
+    {
+      "target": "cesta",
+      "native": "basket",
+      "unit": 5,
+      "category": "general"
+    },
+    {
+      "target": "cocinar",
+      "native": "cook",
+      "unit": 5,
+      "category": "verb"
+    },
+    {
+      "target": "manejar",
+      "native": "drive",
+      "unit": 5,
+      "category": "verb"
+    },
+    {
+      "target": "inteligente",
+      "native": "intelligent",
+      "unit": 5,
+      "category": "adjective"
+    },
+    {
+      "target": "piano",
+      "native": "piano",
+      "unit": 5,
+      "category": "object"
+    },
+    {
+      "target": "jugar/tocar",
+      "native": "play",
+      "unit": 5,
+      "category": "verb"
+    },
+    {
+      "target": "montar (bici)",
+      "native": "ride",
+      "unit": 5,
+      "category": "verb"
+    },
+    {
+      "target": "robot",
+      "native": "robot",
+      "unit": 5,
+      "category": "object"
+    },
+    {
+      "target": "cantar",
+      "native": "sing",
+      "unit": 5,
+      "category": "verb"
+    },
+    {
+      "target": "cámara",
+      "native": "camera",
+      "unit": 5,
+      "category": "object"
+    },
+    {
+      "target": "gato",
+      "native": "cat",
+      "unit": 5,
+      "category": "general"
+    },
+    {
+      "target": "caro",
+      "native": "expensive",
+      "unit": 5,
+      "category": "adjective"
+    },
+    {
+      "target": "pelota de fútbol",
+      "native": "football",
+      "unit": 5,
+      "category": "object"
+    },
+    {
+      "target": "anteojos",
+      "native": "glasses",
+      "unit": 5,
+      "category": "object"
+    },
+    {
+      "target": "guitarra",
+      "native": "guitar",
+      "unit": 5,
+      "category": "object"
+    },
+    {
+      "target": "motocicleta",
+      "native": "motorbike",
+      "unit": 5,
+      "category": "object"
+    },
+    {
+      "target": "posesión",
+      "native": "possession",
+      "unit": 5,
+      "category": "general"
+    },
+    {
+      "target": "reloj de pulsera",
+      "native": "watch",
+      "unit": 5,
+      "category": "object"
+    },
+    {
+      "target": "aplicación",
+      "native": "app",
+      "unit": 5,
+      "category": "technology"
+    },
+    {
+      "target": "batería",
+      "native": "battery",
+      "unit": 5,
+      "category": "technology"
+    },
+    {
+      "target": "auriculares",
+      "native": "headphones",
+      "unit": 5,
+      "category": "technology"
+    },
+    {
+      "target": "computadora portátil",
+      "native": "laptop",
+      "unit": 5,
+      "category": "technology"
+    },
+    {
+      "target": "memoria USB",
+      "native": "memory stick",
+      "unit": 5,
+      "category": "technology"
+    },
+    {
+      "target": "diario",
+      "native": "newspaper",
+      "unit": 5,
+      "category": "object"
+    },
+    {
+      "target": "pasaporte",
+      "native": "passport",
+      "unit": 5,
+      "category": "object"
+    },
+    {
+      "target": "reportero",
+      "native": "reporter",
+      "unit": 5,
+      "category": "general"
+    },
+    {
+      "target": "pantalla",
+      "native": "screen",
+      "unit": 5,
+      "category": "technology"
+    },
+    {
+      "target": "tableta",
+      "native": "tablet",
+      "unit": 5,
+      "category": "technology"
+    },
+    {
+      "target": "tecnología",
+      "native": "technology",
+      "unit": 5,
+      "category": "technology"
+    },
+    {
+      "target": "cámara web",
+      "native": "webcam",
+      "unit": 5,
+      "category": "technology"
+    },
+    {
+      "target": "despertador",
+      "native": "alarm clock",
+      "unit": 5,
+      "category": "object"
+    },
+    {
+      "target": "universidad",
+      "native": "college",
+      "unit": 5,
+      "category": "general"
+    },
+    {
+      "target": "dólar",
+      "native": "dollar",
+      "unit": 5,
+      "category": "money"
+    },
+    {
+      "target": "euro",
+      "native": "euro",
+      "unit": 5,
+      "category": "money"
+    },
+    {
+      "target": "dinero",
+      "native": "money",
+      "unit": 5,
+      "category": "money"
+    },
+    {
+      "target": "precio",
+      "native": "price",
+      "unit": 5,
+      "category": "money"
+    },
+    {
+      "target": "monedero",
+      "native": "purse",
+      "unit": 5,
+      "category": "object"
+    },
+    {
+      "target": "billetera",
+      "native": "wallet",
+      "unit": 5,
+      "category": "object"
+    },
+    {
+      "target": "básico",
+      "native": "basic",
+      "unit": 5,
+      "category": "adjective"
+    },
+    {
+      "target": "cafetera",
+      "native": "coffee machine",
+      "unit": 5,
+      "category": "object"
+    },
+    {
+      "target": "agenda",
+      "native": "diary",
+      "unit": 5,
+      "category": "object"
+    },
+    {
+      "target": "aparato",
+      "native": "gadget",
+      "unit": 5,
+      "category": "technology"
+    },
+    {
+      "target": "cocina",
+      "native": "kitchen",
+      "unit": 5,
+      "category": "general"
+    },
+    {
+      "target": "horno microondas",
+      "native": "microwave oven",
+      "unit": 5,
+      "category": "object"
+    },
+    {
+      "target": "cien",
+      "native": "hundred",
+      "unit": 6,
+      "category": "number"
+    },
+    {
+      "target": "millón",
+      "native": "million",
+      "unit": 6,
+      "category": "number"
+    },
+    {
+      "target": "premio",
+      "native": "prize",
+      "unit": 6,
+      "category": "general"
+    },
+    {
+      "target": "mil",
+      "native": "thousand",
+      "unit": 6,
+      "category": "number"
+    },
+    {
+      "target": "básquetbol",
+      "native": "basketball",
+      "unit": 6,
+      "category": "sport"
+    },
+    {
+      "target": "ciclismo",
+      "native": "cycling",
+      "unit": 6,
+      "category": "sport"
+    },
+    {
+      "target": "difícil",
+      "native": "hard",
+      "unit": 6,
+      "category": "adjective"
+    },
+    {
+      "target": "kilómetro",
+      "native": "kilometre",
+      "unit": 6,
+      "category": "general"
+    },
+    {
+      "target": "correr",
+      "native": "running",
+      "unit": 6,
+      "category": "sport"
+    },
+    {
+      "target": "natación",
+      "native": "swimming",
+      "unit": 6,
+      "category": "sport"
+    },
+    {
+      "target": "tenis",
+      "native": "tennis",
+      "unit": 6,
+      "category": "sport"
+    },
+    {
+      "target": "triatlón",
+      "native": "triathlon",
+      "unit": 6,
+      "category": "sport"
+    },
+    {
+      "target": "comedia",
+      "native": "comedy",
+      "unit": 6,
+      "category": "interest"
+    },
+    {
+      "target": "historia de detectives",
+      "native": "detective story",
+      "unit": 6,
+      "category": "interest"
+    },
+    {
+      "target": "pez/pescado",
+      "native": "fish",
+      "unit": 6,
+      "category": "food"
+    },
+    {
+      "target": "pescador",
+      "native": "fisherman",
+      "unit": 6,
+      "category": "general"
+    },
+    {
+      "target": "tiempo libre",
+      "native": "free time",
+      "unit": 6,
+      "category": "general"
+    },
+    {
+      "target": "música",
+      "native": "music",
+      "unit": 6,
+      "category": "interest"
+    },
+    {
+      "target": "pop (música)",
+      "native": "pop",
+      "unit": 6,
+      "category": "interest"
+    },
+    {
+      "target": "científico",
+      "native": "scientist",
+      "unit": 6,
+      "category": "general"
+    },
+    {
+      "target": "buceo",
+      "native": "scuba diving",
+      "unit": 6,
+      "category": "sport"
+    },
+    {
+      "target": "televisión",
+      "native": "TV",
+      "unit": 6,
+      "category": "interest"
+    },
+    {
+      "target": "agua",
+      "native": "water",
+      "unit": 6,
+      "category": "food"
+    },
+    {
+      "target": "mojado",
+      "native": "wet",
+      "unit": 6,
+      "category": "adjective"
+    },
+    {
+      "target": "programa de naturaleza",
+      "native": "wildlife show",
+      "unit": 6,
+      "category": "interest"
+    },
+    {
+      "target": "pan",
+      "native": "bread",
+      "unit": 6,
+      "category": "food"
+    },
+    {
+      "target": "desayuno",
+      "native": "breakfast",
+      "unit": 6,
+      "category": "food"
+    },
+    {
+      "target": "queso",
+      "native": "cheese",
+      "unit": 6,
+      "category": "food"
+    },
+    {
+      "target": "pollo",
+      "native": "chicken",
+      "unit": 6,
+      "category": "food"
+    },
+    {
+      "target": "cena",
+      "native": "dinner",
+      "unit": 6,
+      "category": "food"
+    },
+    {
+      "target": "huevo",
+      "native": "egg",
+      "unit": 6,
+      "category": "food"
+    },
+    {
+      "target": "tarde/noche",
+      "native": "evening",
+      "unit": 6,
+      "category": "general"
+    },
+    {
+      "target": "fruta",
+      "native": "fruit",
+      "unit": 6,
+      "category": "food"
+    },
+    {
+      "target": "almuerzo",
+      "native": "lunch",
+      "unit": 6,
+      "category": "food"
+    },
+    {
+      "target": "comida",
+      "native": "meal",
+      "unit": 6,
+      "category": "food"
+    },
+    {
+      "target": "carne",
+      "native": "meat",
+      "unit": 6,
+      "category": "food"
+    },
+    {
+      "target": "mediodía",
+      "native": "midday",
+      "unit": 6,
+      "category": "general"
+    },
+    {
+      "target": "mañana",
+      "native": "morning",
+      "unit": 6,
+      "category": "general"
+    },
+    {
+      "target": "papa",
+      "native": "potato",
+      "unit": 6,
+      "category": "food"
+    },
+    {
+      "target": "arroz",
+      "native": "rice",
+      "unit": 6,
+      "category": "food"
+    },
+    {
+      "target": "sopa",
+      "native": "soup",
+      "unit": 6,
+      "category": "food"
+    },
+    {
+      "target": "tiempo",
+      "native": "time",
+      "unit": 6,
+      "category": "general"
+    },
+    {
+      "target": "verdura",
+      "native": "vegetable",
+      "unit": 6,
+      "category": "food"
+    },
+    {
+      "target": "visitante",
+      "native": "visitor",
+      "unit": 6,
+      "category": "general"
+    },
+    {
+      "target": "hamburguesa",
+      "native": "burger",
+      "unit": 6,
+      "category": "food"
+    },
+    {
+      "target": "entrada",
+      "native": "ticket",
+      "unit": 6,
+      "category": "general"
+    },
+    {
+      "target": "mañana (día)",
+      "native": "tomorrow",
+      "unit": 6,
+      "category": "general"
+    },
+    {
+      "target": "fin de semana",
+      "native": "weekend",
+      "unit": 6,
+      "category": "general"
+    },
+    {
+      "target": "tomate",
+      "native": "tomato",
+      "unit": 6,
+      "category": "food"
+    },
+    {
+      "target": "durazno",
+      "native": "peach",
+      "unit": 6,
+      "category": "food"
+    },
+    {
+      "target": "escuchar",
+      "native": "listen",
+      "unit": 1,
+      "category": "verb"
+    },
+    {
+      "target": "mirar",
+      "native": "look",
+      "unit": 1,
+      "category": "verb"
+    },
+    {
+      "target": "leer",
+      "native": "read",
+      "unit": 1,
+      "category": "verb"
+    },
+    {
+      "target": "repetir",
+      "native": "repeat",
+      "unit": 1,
+      "category": "verb"
+    },
+    {
+      "target": "decir",
+      "native": "say",
+      "unit": 1,
+      "category": "verb"
+    },
+    {
+      "target": "hablar",
+      "native": "speak",
+      "unit": 1,
+      "category": "verb"
+    },
+    {
+      "target": "deletrear",
+      "native": "spell",
+      "unit": 1,
+      "category": "verb"
+    },
+    {
+      "target": "escribir",
+      "native": "write",
+      "unit": 1,
+      "category": "verb"
+    },
+    {
+      "target": "verificar",
+      "native": "check",
+      "unit": 1,
+      "category": "verb"
+    },
+    {
+      "target": "copiar",
+      "native": "copy",
+      "unit": 1,
+      "category": "verb"
+    },
+    {
+      "target": "abrir",
+      "native": "open",
+      "unit": 1,
+      "category": "verb"
+    },
+    {
+      "target": "subrayar",
+      "native": "underline",
+      "unit": 1,
+      "category": "verb"
+    },
+    {
+      "target": "entender",
+      "native": "understand",
+      "unit": 1,
+      "category": "verb"
+    },
+    {
+      "target": "sentarse",
+      "native": "sit down",
+      "unit": 1,
+      "category": "verb"
+    },
+    {
+      "target": "trabajar",
+      "native": "work",
+      "unit": 1,
+      "category": "verb"
+    },
+    {
+      "target": "hola",
+      "native": "hi",
+      "unit": 1,
+      "category": "greeting"
+    },
+    {
+      "target": "mucho gusto",
+      "native": "nice to meet you",
+      "unit": 1,
+      "category": "greeting"
+    },
+    {
+      "target": "buenos días",
+      "native": "good morning",
+      "unit": 1,
+      "category": "greeting"
+    },
+    {
+      "target": "buenas tardes",
+      "native": "good afternoon",
+      "unit": 1,
+      "category": "greeting"
+    },
+    {
+      "target": "buenas noches (al llegar)",
+      "native": "good evening",
+      "unit": 1,
+      "category": "greeting"
+    },
+    {
+      "target": "buenas noches (al irse)",
+      "native": "goodnight",
+      "unit": 1,
+      "category": "greeting"
+    },
+    {
+      "target": "adiós",
+      "native": "goodbye",
+      "unit": 1,
+      "category": "greeting"
+    },
+    {
+      "target": "chau",
+      "native": "bye",
+      "unit": 1,
+      "category": "greeting"
+    },
+    {
+      "target": "nos vemos",
+      "native": "see you later",
+      "unit": 1,
+      "category": "greeting"
+    },
+    {
+      "target": "gracias",
+      "native": "thanks",
+      "unit": 1,
+      "category": "greeting"
+    },
+    {
+      "target": "perdón",
+      "native": "sorry",
+      "unit": 1,
+      "category": "greeting"
+    },
+    {
+      "target": "nombre",
+      "native": "name",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "foto",
+      "native": "photo",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "letra",
+      "native": "letter",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "estudiante",
+      "native": "student",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "país",
+      "native": "country",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "nacionalidad",
+      "native": "nationality",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "número",
+      "native": "number",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "lugar",
+      "native": "place",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "cuestionario",
+      "native": "quiz",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "palabra",
+      "native": "word",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "oración",
+      "native": "sentence",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "acento/énfasis",
+      "native": "stress",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "tabla",
+      "native": "table",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "clase",
+      "native": "class",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "conversación",
+      "native": "conversation",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "doctor",
+      "native": "doctor",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "celular",
+      "native": "mobile",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "número de teléfono",
+      "native": "phone number",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "número de teléfono fijo",
+      "native": "home phone number",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "profesor",
+      "native": "teacher",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "libro",
+      "native": "book",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "letra mayúscula",
+      "native": "capital letter",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "ciudad",
+      "native": "city",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "aula",
+      "native": "classroom",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "empresa",
+      "native": "company",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "todos",
+      "native": "everyone",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "documento de identidad",
+      "native": "identity card",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "idioma",
+      "native": "language",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "compañero",
+      "native": "partner",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "pregunta",
+      "native": "question",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "visitante",
+      "native": "visitor",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "animal",
+      "native": "animal",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "hombre",
+      "native": "man",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "gente",
+      "native": "people",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "fotógrafo",
+      "native": "photographer",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "mujer",
+      "native": "woman",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "en parejas",
+      "native": "in pairs",
+      "unit": 1,
+      "category": "general"
+    },
+    {
+      "target": "internacional",
+      "native": "international",
+      "unit": 1,
+      "category": "adjective"
+    },
+    {
+      "target": "tarde",
+      "native": "late",
+      "unit": 1,
+      "category": "adjective"
+    },
+    {
+      "target": "favorito",
+      "native": "favourite",
+      "unit": 1,
+      "category": "adjective"
+    },
+    {
+      "target": "americano",
+      "native": "American",
+      "unit": 1,
+      "category": "nationality"
+    },
+    {
+      "target": "brasileño",
+      "native": "Brazilian",
+      "unit": 1,
+      "category": "nationality"
+    },
+    {
+      "target": "británico",
+      "native": "British",
+      "unit": 1,
+      "category": "nationality"
+    },
+    {
+      "target": "egipcio",
+      "native": "Egyptian",
+      "unit": 1,
+      "category": "nationality"
+    },
+    {
+      "target": "italiano",
+      "native": "Italian",
+      "unit": 1,
+      "category": "nationality"
+    },
+    {
+      "target": "mexicano",
+      "native": "Mexican",
+      "unit": 1,
+      "category": "nationality"
+    },
+    {
+      "target": "ruso",
+      "native": "Russian",
+      "unit": 1,
+      "category": "nationality"
+    },
+    {
+      "target": "sudafricano",
+      "native": "South African",
+      "unit": 1,
+      "category": "nationality"
+    },
+    {
+      "target": "vietnamita",
+      "native": "Vietnamese",
+      "unit": 1,
+      "category": "nationality"
+    },
+    {
+      "target": "béisbol",
+      "native": "baseball",
+      "unit": 1,
+      "category": "sport"
+    },
+    {
+      "target": "pasta",
+      "native": "pasta",
+      "unit": 1,
+      "category": "food"
+    },
+    {
+      "target": "playa",
+      "native": "beach",
+      "unit": 2,
+      "category": "place"
+    },
+    {
+      "target": "río",
+      "native": "river",
+      "unit": 2,
+      "category": "place"
+    },
+    {
+      "target": "desierto",
+      "native": "desert",
+      "unit": 2,
+      "category": "place"
+    },
+    {
+      "target": "aeropuerto",
+      "native": "airport",
+      "unit": 2,
+      "category": "place"
+    },
+    {
+      "target": "hotel",
+      "native": "hotel",
+      "unit": 2,
+      "category": "place"
+    },
+    {
+      "target": "cielo",
+      "native": "sky",
+      "unit": 2,
+      "category": "place"
+    },
+    {
+      "target": "autobús",
+      "native": "bus",
+      "unit": 2,
+      "category": "transport"
+    },
+    {
+      "target": "auto",
+      "native": "car",
+      "unit": 2,
+      "category": "transport"
+    },
+    {
+      "target": "avión",
+      "native": "plane",
+      "unit": 2,
+      "category": "transport"
+    },
+    {
+      "target": "camello",
+      "native": "camel",
+      "unit": 2,
+      "category": "animal"
+    },
+    {
+      "target": "canguro",
+      "native": "kangaroo",
+      "unit": 2,
+      "category": "animal"
+    },
+    {
+      "target": "blog",
+      "native": "blog",
+      "unit": 2,
+      "category": "technology"
+    },
+    {
+      "target": "correo electrónico",
+      "native": "email",
+      "unit": 2,
+      "category": "technology"
+    },
+    {
+      "target": "internet",
+      "native": "internet",
+      "unit": 2,
+      "category": "technology"
+    },
+    {
+      "target": "en línea",
+      "native": "online",
+      "unit": 2,
+      "category": "technology"
+    },
+    {
+      "target": "perfil",
+      "native": "profile",
+      "unit": 2,
+      "category": "technology"
+    },
+    {
+      "target": "hermoso",
+      "native": "beautiful",
+      "unit": 2,
+      "category": "adjective"
+    },
+    {
+      "target": "feliz",
+      "native": "happy",
+      "unit": 2,
+      "category": "adjective"
+    },
+    {
+      "target": "lindo",
+      "native": "nice",
+      "unit": 2,
+      "category": "adjective"
+    },
+    {
+      "target": "mismo",
+      "native": "same",
+      "unit": 2,
+      "category": "adjective"
+    },
+    {
+      "target": "cálido",
+      "native": "warm",
+      "unit": 2,
+      "category": "adjective"
+    },
+    {
+      "target": "frío",
+      "native": "cold",
+      "unit": 2,
+      "category": "adjective"
+    },
+    {
+      "target": "diferente",
+      "native": "different",
+      "unit": 2,
+      "category": "adjective"
+    },
+    {
+      "target": "caliente",
+      "native": "hot",
+      "unit": 2,
+      "category": "adjective"
+    },
+    {
+      "target": "increíble",
+      "native": "amazing",
+      "unit": 2,
+      "category": "adjective"
+    },
+    {
+      "target": "amigo",
+      "native": "friend",
+      "unit": 2,
+      "category": "general"
+    },
+    {
+      "target": "vacaciones",
+      "native": "holiday",
+      "unit": 2,
+      "category": "general"
+    },
+    {
+      "target": "lunes",
+      "native": "Monday",
+      "unit": 2,
+      "category": "general"
+    },
+    {
+      "target": "martes",
+      "native": "Tuesday",
+      "unit": 2,
+      "category": "general"
+    },
+    {
+      "target": "miércoles",
+      "native": "Wednesday",
+      "unit": 2,
+      "category": "general"
+    },
+    {
+      "target": "jueves",
+      "native": "Thursday",
+      "unit": 2,
+      "category": "general"
+    },
+    {
+      "target": "viernes",
+      "native": "Friday",
+      "unit": 2,
+      "category": "general"
+    },
+    {
+      "target": "sábado",
+      "native": "Saturday",
+      "unit": 2,
+      "category": "general"
+    },
+    {
+      "target": "domingo",
+      "native": "Sunday",
+      "unit": 2,
+      "category": "general"
+    },
+    {
+      "target": "carpa",
+      "native": "tent",
+      "unit": 2,
+      "category": "general"
+    },
+    {
+      "target": "color",
+      "native": "colour",
+      "unit": 2,
+      "category": "general"
+    },
+    {
+      "target": "dirección",
+      "native": "address",
+      "unit": 2,
+      "category": "general"
+    },
+    {
+      "target": "grado",
+      "native": "degree",
+      "unit": 2,
+      "category": "general"
+    },
+    {
+      "target": "formulario de reserva",
+      "native": "booking form",
+      "unit": 2,
+      "category": "general"
+    },
+    {
+      "target": "negocios",
+      "native": "business",
+      "unit": 2,
+      "category": "general"
+    },
+    {
+      "target": "llave",
+      "native": "key",
+      "unit": 2,
+      "category": "general"
+    },
+    {
+      "target": "número de patente",
+      "native": "registration number",
+      "unit": 2,
+      "category": "general"
+    },
+    {
+      "target": "estado",
+      "native": "state",
+      "unit": 2,
+      "category": "general"
+    },
+    {
+      "target": "sol",
+      "native": "sun",
+      "unit": 2,
+      "category": "general"
+    },
+    {
+      "target": "hija",
+      "native": "daughter",
+      "unit": 3,
+      "category": "family"
+    },
+    {
+      "target": "familia",
+      "native": "family",
+      "unit": 3,
+      "category": "family"
+    },
+    {
+      "target": "padre",
+      "native": "father",
+      "unit": 3,
+      "category": "family"
+    },
+    {
+      "target": "madre",
+      "native": "mother",
+      "unit": 3,
+      "category": "family"
+    },
+    {
+      "target": "hijo",
+      "native": "son",
+      "unit": 3,
+      "category": "family"
+    },
+    {
+      "target": "esposa",
+      "native": "wife",
+      "unit": 3,
+      "category": "family"
+    },
+    {
+      "target": "padre o madre",
+      "native": "parent",
+      "unit": 3,
+      "category": "family"
+    },
+    {
+      "target": "niños",
+      "native": "children",
+      "unit": 3,
+      "category": "family"
+    },
+    {
+      "target": "bebé recién nacido",
+      "native": "new baby",
+      "unit": 3,
+      "category": "family"
+    },
+    {
+      "target": "famoso",
+      "native": "famous",
+      "unit": 3,
+      "category": "adjective"
+    },
+    {
+      "target": "pequeño",
+      "native": "little",
+      "unit": 3,
+      "category": "adjective"
+    },
+    {
+      "target": "casado",
+      "native": "married",
+      "unit": 3,
+      "category": "adjective"
+    },
+    {
+      "target": "viejo",
+      "native": "old",
+      "unit": 3,
+      "category": "adjective"
+    },
+    {
+      "target": "bajo",
+      "native": "short",
+      "unit": 3,
+      "category": "adjective"
+    },
+    {
+      "target": "alto",
+      "native": "tall",
+      "unit": 3,
+      "category": "adjective"
+    },
+    {
+      "target": "joven",
+      "native": "young",
+      "unit": 3,
+      "category": "adjective"
+    },
+    {
+      "target": "grande",
+      "native": "big",
+      "unit": 3,
+      "category": "adjective"
+    },
+    {
+      "target": "divertido",
+      "native": "fun",
+      "unit": 3,
+      "category": "adjective"
+    },
+    {
+      "target": "amable",
+      "native": "kind",
+      "unit": 3,
+      "category": "adjective"
+    },
+    {
+      "target": "encantador",
+      "native": "lovely",
+      "unit": 3,
+      "category": "adjective"
+    },
+    {
+      "target": "excelente",
+      "native": "excellent",
+      "unit": 3,
+      "category": "adjective"
+    },
+    {
+      "target": "deporte",
+      "native": "sport",
+      "unit": 3,
+      "category": "sport"
+    },
+    {
+      "target": "tenis",
+      "native": "tennis",
+      "unit": 3,
+      "category": "sport"
+    },
+    {
+      "target": "carrera",
+      "native": "race",
+      "unit": 3,
+      "category": "sport"
+    },
+    {
+      "target": "disfrazarse",
+      "native": "dress up",
+      "unit": 3,
+      "category": "verb"
+    },
+    {
+      "target": "felicitaciones",
+      "native": "congratulations",
+      "unit": 3,
+      "category": "greeting"
+    },
+    {
+      "target": "de nada",
+      "native": "you're welcome",
+      "unit": 3,
+      "category": "greeting"
+    },
+    {
+      "target": "chico",
+      "native": "boy",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "chica",
+      "native": "girl",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "jugador",
+      "native": "player",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "apellido",
+      "native": "surname",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "mejor amigo",
+      "native": "best friend",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "compañero de clase",
+      "native": "classmate",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "ojo",
+      "native": "eye",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "pelo",
+      "native": "hair",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "abril",
+      "native": "April",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "agosto",
+      "native": "August",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "celebración",
+      "native": "celebration",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "Navidad",
+      "native": "Christmas Day",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "diciembre",
+      "native": "December",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "febrero",
+      "native": "February",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "película",
+      "native": "film",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "Halloween",
+      "native": "Halloween",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "enero",
+      "native": "January",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "julio",
+      "native": "July",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "junio",
+      "native": "June",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "marzo",
+      "native": "March",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "mayo",
+      "native": "May",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "hombres",
+      "native": "men",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "mes",
+      "native": "month",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "Año Nuevo",
+      "native": "New Year's Day",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "noviembre",
+      "native": "November",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "octubre",
+      "native": "October",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "septiembre",
+      "native": "September",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "San Valentín",
+      "native": "Valentine's Day",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "mujeres",
+      "native": "women",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "mundo",
+      "native": "world",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "en realidad",
+      "native": "actually",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "cumpleaños",
+      "native": "birthday",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "tarjeta",
+      "native": "card",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "vestido",
+      "native": "dress",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "casa",
+      "native": "house",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "año nuevo",
+      "native": "new year",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "fiesta",
+      "native": "party",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "regalo",
+      "native": "present",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "boda",
+      "native": "wedding",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "reunión",
+      "native": "reunion",
+      "unit": 3,
+      "category": "general"
+    },
+    {
+      "target": "teléfono",
+      "native": "phone",
+      "unit": 5,
+      "category": "technology"
+    },
+    {
+      "target": "teléfono móvil",
+      "native": "mobile phone",
+      "unit": 5,
+      "category": "technology"
+    },
+    {
+      "target": "cargador",
+      "native": "charger",
+      "unit": 5,
+      "category": "technology"
+    },
+    {
+      "target": "cable",
+      "native": "cable",
+      "unit": 5,
+      "category": "technology"
+    },
+    {
+      "target": "altavoz",
+      "native": "speaker",
+      "unit": 5,
+      "category": "technology"
+    },
+    {
+      "target": "teclado",
+      "native": "keyboard",
+      "unit": 5,
+      "category": "technology"
+    },
+    {
+      "target": "ratón (de computadora)",
+      "native": "mouse",
+      "unit": 5,
+      "category": "technology"
+    },
+    {
+      "target": "contraseña",
+      "native": "password",
+      "unit": 5,
+      "category": "technology"
+    },
+    {
+      "target": "internet",
+      "native": "internet",
+      "unit": 5,
+      "category": "technology"
+    },
+    {
+      "target": "impresora",
+      "native": "printer",
+      "unit": 5,
+      "category": "technology"
+    },
+    {
+      "target": "barato",
+      "native": "cheap",
+      "unit": 5,
+      "category": "adjective"
+    },
+    {
+      "target": "roto",
+      "native": "broken",
+      "unit": 5,
+      "category": "adjective"
+    },
+    {
+      "target": "de segunda mano",
+      "native": "second-hand",
+      "unit": 5,
+      "category": "adjective"
+    },
+    {
+      "target": "bicicleta",
+      "native": "bicycle",
+      "unit": 5,
+      "category": "object"
+    },
+    {
+      "target": "tarjeta de crédito",
+      "native": "credit card",
+      "unit": 5,
+      "category": "money"
+    },
+    {
+      "target": "efectivo",
+      "native": "cash",
+      "unit": 5,
+      "category": "money"
+    },
+    {
+      "target": "cambio/vuelto",
+      "native": "change",
+      "unit": 5,
+      "category": "money"
+    },
+    {
+      "target": "descargar",
+      "native": "download",
+      "unit": 5,
+      "category": "verb"
+    },
+    {
+      "target": "subir (archivo)",
+      "native": "upload",
+      "unit": 5,
+      "category": "verb"
+    },
+    {
+      "target": "encender",
+      "native": "turn on",
+      "unit": 5,
+      "category": "verb"
+    },
+    {
+      "target": "apagar",
+      "native": "turn off",
+      "unit": 5,
+      "category": "verb"
+    },
+    {
+      "target": "pasatiempo",
+      "native": "hobby",
+      "unit": 6,
+      "category": "interest"
+    },
+    {
+      "target": "dibujar",
+      "native": "draw",
+      "unit": 6,
+      "category": "verb"
+    },
+    {
+      "target": "bailar",
+      "native": "dance",
+      "unit": 6,
+      "category": "verb"
+    },
+    {
+      "target": "pintar",
+      "native": "paint",
+      "unit": 6,
+      "category": "verb"
+    },
+    {
+      "target": "escalar",
+      "native": "climb",
+      "unit": 6,
+      "category": "verb"
+    },
+    {
+      "target": "saludable",
+      "native": "healthy",
+      "unit": 6,
+      "category": "adjective"
+    },
+    {
+      "target": "poco saludable",
+      "native": "unhealthy",
+      "unit": 6,
+      "category": "adjective"
+    },
+    {
+      "target": "delicioso",
+      "native": "delicious",
+      "unit": 6,
+      "category": "adjective"
+    },
+    {
+      "target": "picante",
+      "native": "spicy",
+      "unit": 6,
+      "category": "adjective"
+    },
+    {
+      "target": "dulce",
+      "native": "sweet",
+      "unit": 6,
+      "category": "adjective"
+    },
+    {
+      "target": "siempre",
+      "native": "always",
+      "unit": 6,
+      "category": "general"
+    },
+    {
+      "target": "normalmente",
+      "native": "usually",
+      "unit": 6,
+      "category": "general"
+    },
+    {
+      "target": "a menudo",
+      "native": "often",
+      "unit": 6,
+      "category": "general"
+    },
+    {
+      "target": "a veces",
+      "native": "sometimes",
+      "unit": 6,
+      "category": "general"
+    },
+    {
+      "target": "nunca",
+      "native": "never",
+      "unit": 6,
+      "category": "general"
+    },
+    {
+      "target": "casi nunca",
+      "native": "rarely",
+      "unit": 6,
+      "category": "general"
+    },
+    {
+      "target": "postre",
+      "native": "dessert",
+      "unit": 6,
+      "category": "food"
+    },
+    {
+      "target": "pizza",
+      "native": "pizza",
+      "unit": 6,
+      "category": "food"
+    },
+    {
+      "target": "pasta",
+      "native": "pasta",
+      "unit": 6,
+      "category": "food"
+    },
+    {
+      "target": "receta",
+      "native": "recipe",
+      "unit": 6,
+      "category": "food"
+    },
+    {
+      "target": "girar a la izquierda",
+      "native": "turn left",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "girar a la derecha",
+      "native": "turn right",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "seguir recto",
+      "native": "go straight",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "semáforo",
+      "native": "traffic lights",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "esquina",
+      "native": "corner",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "calle",
+      "native": "street",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "plaza",
+      "native": "square",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "entrada/boleto",
+      "native": "ticket",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "entrada",
+      "native": "entrance",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "cajero automático",
+      "native": "cash machine",
+      "unit": 4,
+      "category": "city"
+    },
+    {
+      "target": "alojamiento",
+      "native": "accommodation",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "aventura",
+      "native": "adventure",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "mochila",
+      "native": "backpack",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "tarjeta de embarque",
+      "native": "boarding pass",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "reserva",
+      "native": "booking",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "registro de entrada",
+      "native": "check-in",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "aduana",
+      "native": "customs",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "retraso",
+      "native": "delay",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "salida",
+      "native": "departure",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "destino",
+      "native": "destination",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "explorar",
+      "native": "explore",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "tarifa",
+      "native": "fare",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "albergue",
+      "native": "hostel",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "itinerario",
+      "native": "itinerary",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "desfase horario",
+      "native": "jet lag",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "lugar emblemático",
+      "native": "landmark",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "escala",
+      "native": "layover",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "equipaje",
+      "native": "luggage",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "pasaporte",
+      "native": "passport",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "reservación",
+      "native": "reservation",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "ruta",
+      "native": "route",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "turismo / visitas",
+      "native": "sightseeing",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "recuerdo de viaje",
+      "native": "souvenir",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "terminal",
+      "native": "terminal",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "turismo",
+      "native": "tourism",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "transbordo",
+      "native": "transfer",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "visa",
+      "native": "visa",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "moneda",
+      "native": "currency",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "tipo de cambio",
+      "native": "exchange rate",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "guía turística",
+      "native": "guidebook",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "en el extranjero",
+      "native": "overseas",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "andén",
+      "native": "platform",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "seguro de viaje",
+      "native": "travel insurance",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "viaje (por mar)",
+      "native": "voyage",
+      "unit": 7,
+      "category": "travel"
+    },
+    {
+      "target": "pintoresco",
+      "native": "scenic",
+      "unit": 7,
+      "category": "adjective"
+    },
+    {
+      "target": "agotador",
+      "native": "exhausting",
+      "unit": 7,
+      "category": "adjective"
+    },
+    {
+      "target": "inolvidable",
+      "native": "unforgettable",
+      "unit": 7,
+      "category": "adjective"
+    },
+    {
+      "target": "concurrido / lleno de gente",
+      "native": "crowded",
+      "unit": 7,
+      "category": "adjective"
+    },
+    {
+      "target": "accesible / económico",
+      "native": "affordable",
+      "unit": 7,
+      "category": "adjective"
+    },
+    {
+      "target": "remoto / alejado",
+      "native": "remote",
+      "unit": 7,
+      "category": "adjective"
+    },
+    {
+      "target": "solicitud / aplicación",
+      "native": "application",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "carrera profesional",
+      "native": "career",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "colega / compañero de trabajo",
+      "native": "colleague",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "viaje diario al trabajo",
+      "native": "commute",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "fecha límite",
+      "native": "deadline",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "departamento",
+      "native": "department",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "empleador",
+      "native": "employer",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "empleo",
+      "native": "employment",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "experiencia",
+      "native": "experience",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "independiente / freelance",
+      "native": "freelance",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "industria / sector",
+      "native": "industry",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "entrevista",
+      "native": "interview",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "liderazgo",
+      "native": "leadership",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "negociar",
+      "native": "negotiate",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "horas extra",
+      "native": "overtime",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "ascenso / promoción",
+      "native": "promotion",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "calificación / título",
+      "native": "qualification",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "renunciar",
+      "native": "resign",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "jubilarse",
+      "native": "retire",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "salario",
+      "native": "salary",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "habilidad",
+      "native": "skill",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "trabajo en equipo",
+      "native": "teamwork",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "desempleado",
+      "native": "unemployed",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "vacante",
+      "native": "vacancy",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "lugar de trabajo",
+      "native": "workplace",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "currículum vitae",
+      "native": "CV / résumé",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "referencia / carta de recomendación",
+      "native": "reference",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "trabajo remoto",
+      "native": "remote work",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "pensión / jubilación",
+      "native": "pension",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "despedido por recorte",
+      "native": "redundant",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "ambicioso",
+      "native": "ambitious",
+      "unit": 8,
+      "category": "adjective"
+    },
+    {
+      "target": "motivado",
+      "native": "motivated",
+      "unit": 8,
+      "category": "adjective"
+    },
+    {
+      "target": "profesional",
+      "native": "professional",
+      "unit": 8,
+      "category": "adjective"
+    },
+    {
+      "target": "productivo",
+      "native": "productive",
+      "unit": 8,
+      "category": "adjective"
+    },
+    {
+      "target": "exigente",
+      "native": "demanding",
+      "unit": 8,
+      "category": "adjective"
+    },
+    {
+      "target": "flexible",
+      "native": "flexible",
+      "unit": 8,
+      "category": "adjective"
+    },
+    {
+      "target": "competitivo",
+      "native": "competitive",
+      "unit": 8,
+      "category": "adjective"
+    },
+    {
+      "target": "responsable",
+      "native": "responsible",
+      "unit": 8,
+      "category": "adjective"
+    },
+    {
+      "target": "experimentado",
+      "native": "experienced",
+      "unit": 8,
+      "category": "adjective"
+    },
+    {
+      "target": "autónomo / cuenta propia",
+      "native": "self-employed",
+      "unit": 8,
+      "category": "work"
+    },
+    {
+      "target": "cita médica",
+      "native": "appointment",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "presión arterial",
+      "native": "blood pressure",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "enfermedad",
+      "native": "disease",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "emergencia",
+      "native": "emergency",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "fiebre",
+      "native": "fever",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "forma física / estado físico",
+      "native": "fitness",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "sanar / curar",
+      "native": "heal",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "infección",
+      "native": "infection",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "lesión",
+      "native": "injury",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "medicamento",
+      "native": "medication",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "salud mental",
+      "native": "mental health",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "operación quirúrgica",
+      "native": "operation",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "receta médica",
+      "native": "prescription",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "prevención",
+      "native": "prevention",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "recuperación",
+      "native": "recovery",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "especialista",
+      "native": "specialist",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "estrés",
+      "native": "stress",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "cirugía",
+      "native": "surgery",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "síntoma",
+      "native": "symptom",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "terapia",
+      "native": "therapy",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "tratamiento",
+      "native": "treatment",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "vacuna",
+      "native": "vaccine",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "bienestar",
+      "native": "wellbeing",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "diagnosticar",
+      "native": "diagnose",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "nutrición",
+      "native": "nutrition",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "obesidad",
+      "native": "obesity",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "crónico",
+      "native": "chronic",
+      "unit": 9,
+      "category": "adjective"
+    },
+    {
+      "target": "sistema inmunológico",
+      "native": "immune system",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "alergia",
+      "native": "allergy",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "dosis",
+      "native": "dosage",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "paciente",
+      "native": "patient",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "cirujano",
+      "native": "surgeon",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "sala de hospital",
+      "native": "ward",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "dieta / alimentación",
+      "native": "diet",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "agotado",
+      "native": "exhausted",
+      "unit": 9,
+      "category": "adjective"
+    },
+    {
+      "target": "con sobrepeso",
+      "native": "overweight",
+      "unit": 9,
+      "category": "adjective"
+    },
+    {
+      "target": "ansioso",
+      "native": "anxious",
+      "unit": 9,
+      "category": "adjective"
+    },
+    {
+      "target": "contagioso",
+      "native": "contagious",
+      "unit": 9,
+      "category": "adjective"
+    },
+    {
+      "target": "sedentario",
+      "native": "sedentary",
+      "unit": 9,
+      "category": "adjective"
+    },
+    {
+      "target": "médico de cabecera",
+      "native": "GP",
+      "unit": 9,
+      "category": "health"
+    },
+    {
+      "target": "atmósfera",
+      "native": "atmosphere",
+      "unit": 10,
+      "category": "environment"
+    },
+    {
+      "target": "biodiversidad",
+      "native": "biodiversity",
+      "unit": 10,
+      "category": "environment"
+    },
+    {
+      "target": "cambio climático",
+      "native": "climate change",
+      "unit": 10,
+      "category": "environment"
+    },
+    {
+      "target": "conservación",
+      "native": "conservation",
+      "unit": 10,
+      "category": "environment"
+    },
+    {
+      "target": "deforestación",
+      "native": "deforestation",
+      "unit": 10,
+      "category": "environment"
+    },
+    {
+      "target": "sequía",
+      "native": "drought",
+      "unit": 10,
+      "category": "environment"
+    },
+    {
+      "target": "terremoto",
+      "native": "earthquake",
+      "unit": 10,
+      "category": "nature"
+    },
+    {
+      "target": "ecosistema",
+      "native": "ecosystem",
+      "unit": 10,
+      "category": "environment"
+    },
+    {
+      "target": "emisiones",
+      "native": "emissions",
+      "unit": 10,
+      "category": "environment"
+    },
+    {
+      "target": "en peligro de extinción",
+      "native": "endangered",
+      "unit": 10,
+      "category": "adjective"
+    },
+    {
+      "target": "extinción",
+      "native": "extinction",
+      "unit": 10,
+      "category": "environment"
+    },
+    {
+      "target": "inundación",
+      "native": "flood",
+      "unit": 10,
+      "category": "nature"
+    },
+    {
+      "target": "combustible fósil",
+      "native": "fossil fuel",
+      "unit": 10,
+      "category": "environment"
+    },
+    {
+      "target": "hábitat",
+      "native": "habitat",
+      "unit": 10,
+      "category": "environment"
+    },
+    {
+      "target": "huracán",
+      "native": "hurricane",
+      "unit": 10,
+      "category": "nature"
+    },
+    {
+      "target": "contaminación",
+      "native": "pollution",
+      "unit": 10,
+      "category": "environment"
+    },
+    {
+      "target": "selva tropical",
+      "native": "rainforest",
+      "unit": 10,
+      "category": "nature"
+    },
+    {
+      "target": "reciclar",
+      "native": "recycle",
+      "unit": 10,
+      "category": "environment"
+    },
+    {
+      "target": "energía renovable",
+      "native": "renewable energy",
+      "unit": 10,
+      "category": "environment"
+    },
+    {
+      "target": "especie",
+      "native": "species",
+      "unit": 10,
+      "category": "environment"
+    },
+    {
+      "target": "sostenibilidad",
+      "native": "sustainability",
+      "unit": 10,
+      "category": "environment"
+    },
+    {
+      "target": "volcán",
+      "native": "volcano",
+      "unit": 10,
+      "category": "nature"
+    },
+    {
+      "target": "fauna silvestre",
+      "native": "wildlife",
+      "unit": 10,
+      "category": "nature"
+    },
+    {
+      "target": "huella de carbono",
+      "native": "carbon footprint",
+      "unit": 10,
+      "category": "environment"
+    },
+    {
+      "target": "calentamiento global",
+      "native": "global warming",
+      "unit": 10,
+      "category": "environment"
+    },
+    {
+      "target": "glaciar",
+      "native": "glacier",
+      "unit": 10,
+      "category": "nature"
+    },
+    {
+      "target": "océano",
+      "native": "ocean",
+      "unit": 10,
+      "category": "nature"
+    },
+    {
+      "target": "desastre natural",
+      "native": "natural disaster",
+      "unit": 10,
+      "category": "nature"
+    },
+    {
+      "target": "degradar",
+      "native": "degrade",
+      "unit": 10,
+      "category": "environment"
+    },
+    {
+      "target": "superpoblación",
+      "native": "overpopulation",
+      "unit": 10,
+      "category": "environment"
+    },
+    {
+      "target": "sostenible",
+      "native": "sustainable",
+      "unit": 10,
+      "category": "adjective"
+    },
+    {
+      "target": "tóxico",
+      "native": "toxic",
+      "unit": 10,
+      "category": "adjective"
+    },
+    {
+      "target": "renovable",
+      "native": "renewable",
+      "unit": 10,
+      "category": "adjective"
+    },
+    {
+      "target": "tropical",
+      "native": "tropical",
+      "unit": 10,
+      "category": "adjective"
+    },
+    {
+      "target": "extinto",
+      "native": "extinct",
+      "unit": 10,
+      "category": "adjective"
+    },
+    {
+      "target": "panel solar",
+      "native": "solar panel",
+      "unit": 10,
+      "category": "environment"
+    },
+    {
+      "target": "turbina eólica",
+      "native": "wind turbine",
+      "unit": 10,
+      "category": "environment"
+    },
+    {
+      "target": "residuos / desperdicio",
+      "native": "waste",
+      "unit": 10,
+      "category": "environment"
+    },
+    {
+      "target": "presa",
+      "native": "prey",
+      "unit": 10,
+      "category": "nature"
+    },
+    {
+      "target": "depredador",
+      "native": "predator",
+      "unit": 10,
+      "category": "nature"
+    },
+    {
+      "target": "publicidad",
+      "native": "advertising",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "artículo",
+      "native": "article",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "transmisión / emitir",
+      "native": "broadcast",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "canal",
+      "native": "channel",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "contenido",
+      "native": "content",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "documental",
+      "native": "documentary",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "editor",
+      "native": "editor",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "noticias falsas",
+      "native": "fake news",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "titular",
+      "native": "headline",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "influencia / influir",
+      "native": "influence",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "periodista",
+      "native": "journalist",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "red / cadena",
+      "native": "network",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "plataforma",
+      "native": "platform",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "podcast",
+      "native": "podcast",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "prensa",
+      "native": "press",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "informe / reportaje",
+      "native": "report",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "redes sociales",
+      "native": "social media",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "transmisión en línea",
+      "native": "streaming",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "suscribirse",
+      "native": "subscribe",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "subir (archivos)",
+      "native": "upload",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "viral",
+      "native": "viral",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "publicar",
+      "native": "publish",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "fuente (de información)",
+      "native": "source",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "audiencia / público",
+      "native": "audience",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "cebo de clics",
+      "native": "clickbait",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "algoritmo",
+      "native": "algorithm",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "burbuja de filtro",
+      "native": "filter bubble",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "tiempo de pantalla",
+      "native": "screen time",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "influencer",
+      "native": "influencer",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "comentario",
+      "native": "comment",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "confiable / fiable",
+      "native": "reliable",
+      "unit": 11,
+      "category": "adjective"
+    },
+    {
+      "target": "engañoso",
+      "native": "misleading",
+      "unit": 11,
+      "category": "adjective"
+    },
+    {
+      "target": "anónimo",
+      "native": "anonymous",
+      "unit": 11,
+      "category": "adjective"
+    },
+    {
+      "target": "imparcial",
+      "native": "unbiased",
+      "unit": 11,
+      "category": "adjective"
+    },
+    {
+      "target": "digital",
+      "native": "digital",
+      "unit": 11,
+      "category": "adjective"
+    },
+    {
+      "target": "interactivo",
+      "native": "interactive",
+      "unit": 11,
+      "category": "adjective"
+    },
+    {
+      "target": "censura",
+      "native": "censorship",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "privacidad",
+      "native": "privacy",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "acoso cibernético",
+      "native": "cyberbullying",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "en tendencia",
+      "native": "trending",
+      "unit": 11,
+      "category": "media"
+    },
+    {
+      "target": "lograr / alcanzar",
+      "native": "achieve",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "ambición",
+      "native": "ambition",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "desafío / reto",
+      "native": "challenge",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "compromiso",
+      "native": "commitment",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "decisión",
+      "native": "decision",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "sueño / meta",
+      "native": "dream",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "expectativa",
+      "native": "expectation",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "objetivo / meta",
+      "native": "goal",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "graduación",
+      "native": "graduation",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "mejorar",
+      "native": "improve",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "intención",
+      "native": "intention",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "estilo de vida",
+      "native": "lifestyle",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "hito / logro importante",
+      "native": "milestone",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "objetivo",
+      "native": "objective",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "oportunidad",
+      "native": "opportunity",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "prioridad",
+      "native": "priority",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "progreso",
+      "native": "progress",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "propósito",
+      "native": "purpose",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "resolución / propósito",
+      "native": "resolution",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "responsabilidad",
+      "native": "responsibility",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "horario / programar",
+      "native": "schedule",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "meta / objetivo",
+      "native": "target",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "visión",
+      "native": "vision",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "aspiración",
+      "native": "aspiration",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "determinación",
+      "native": "determination",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "motivar",
+      "native": "motivate",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "superar",
+      "native": "overcome",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "perseguir / seguir adelante con",
+      "native": "pursue",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "tener éxito",
+      "native": "succeed",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "realista",
+      "native": "realistic",
+      "unit": 12,
+      "category": "adjective"
+    },
+    {
+      "target": "motivado",
+      "native": "motivated",
+      "unit": 12,
+      "category": "adjective"
+    },
+    {
+      "target": "determinado",
+      "native": "determined",
+      "unit": 12,
+      "category": "adjective"
+    },
+    {
+      "target": "optimista",
+      "native": "optimistic",
+      "unit": 12,
+      "category": "adjective"
+    },
+    {
+      "target": "comprometido",
+      "native": "committed",
+      "unit": 12,
+      "category": "adjective"
+    },
+    {
+      "target": "a largo plazo",
+      "native": "long-term",
+      "unit": 12,
+      "category": "adjective"
+    },
+    {
+      "target": "a corto plazo",
+      "native": "short-term",
+      "unit": 12,
+      "category": "adjective"
+    },
+    {
+      "target": "establecer una meta",
+      "native": "set a goal",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "hacer un plan",
+      "native": "make a plan",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "dar un paso",
+      "native": "take a step",
+      "unit": 12,
+      "category": "plans"
+    },
+    {
+      "target": "relación",
+      "native": "relationship",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "confianza",
+      "native": "trust",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "conflicto",
+      "native": "conflict",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "compromiso",
+      "native": "commitment",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "vínculo",
+      "native": "bond",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "proximidad",
+      "native": "proximity",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "traición",
+      "native": "betrayal",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "perdón",
+      "native": "forgiveness",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "reconciliación",
+      "native": "reconciliation",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "soledad",
+      "native": "loneliness",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "comunidad",
+      "native": "community",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "movilidad social",
+      "native": "social mobility",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "meritocracia",
+      "native": "meritocracy",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "desigualdad",
+      "native": "inequality",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "cohorte / generación",
+      "native": "cohort",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "estigma",
+      "native": "stigma",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "empatía",
+      "native": "empathy",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "resentimiento",
+      "native": "resentment",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "vigilancia",
+      "native": "surveillance",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "disolver / separarse",
+      "native": "dissolve",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "intergeneracional",
+      "native": "intergenerational",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "navegar / gestionar",
+      "native": "navigate",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "norma",
+      "native": "norm",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "bienestar",
+      "native": "wellbeing",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "responsabilidad / rendición de cuentas",
+      "native": "accountability",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "perspectiva",
+      "native": "perspective",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "legitimar",
+      "native": "legitimise",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "estructural",
+      "native": "structural",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "privilegio",
+      "native": "privilege",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "sostener / mantener",
+      "native": "sustain",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "resiliencia",
+      "native": "resilience",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "deliberado / intencional",
+      "native": "deliberate",
+      "unit": 13,
+      "category": "adjective"
+    },
+    {
+      "target": "amigable / cordial",
+      "native": "amicable",
+      "unit": 13,
+      "category": "adjective"
+    },
+    {
+      "target": "multicultural",
+      "native": "multicultural",
+      "unit": 13,
+      "category": "adjective"
+    },
+    {
+      "target": "arraigado / atrincherado",
+      "native": "entrenched",
+      "unit": 13,
+      "category": "adjective"
+    },
+    {
+      "target": "comparable",
+      "native": "comparable",
+      "unit": 13,
+      "category": "adjective"
+    },
+    {
+      "target": "arbitrario",
+      "native": "arbitrary",
+      "unit": 13,
+      "category": "adjective"
+    },
+    {
+      "target": "difuso / disperso",
+      "native": "diffuse",
+      "unit": 13,
+      "category": "adjective"
+    },
+    {
+      "target": "sostener",
+      "native": "sustain",
+      "unit": 13,
+      "category": "society"
+    },
+    {
+      "target": "automatización",
+      "native": "automation",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "algoritmo",
+      "native": "algorithm",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "inteligencia artificial",
+      "native": "artificial intelligence",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "ciberseguridad",
+      "native": "cybersecurity",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "cifrado / encriptación",
+      "native": "encryption",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "alfabetización digital",
+      "native": "digital literacy",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "despliegue / implementación",
+      "native": "deployment",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "autónomo",
+      "native": "autonomous",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "capitalismo de vigilancia",
+      "native": "surveillance capitalism",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "edición genética",
+      "native": "gene editing",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "genoma",
+      "native": "genome",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "sesgo",
+      "native": "bias",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "código abierto",
+      "native": "open-source",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "burbuja de filtro",
+      "native": "filter bubble",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "polarización",
+      "native": "polarisation",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "diagnóstico",
+      "native": "diagnostic",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "infraestructura",
+      "native": "infrastructure",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "órbita",
+      "native": "orbit",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "satélite",
+      "native": "satellite",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "proliferación",
+      "native": "proliferation",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "responsabilidad legal",
+      "native": "liability",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "consentimiento",
+      "native": "consent",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "transparencia",
+      "native": "transparency",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "regulación",
+      "native": "regulation",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "phishing / suplantación de identidad",
+      "native": "phishing",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "asimetría",
+      "native": "asymmetry",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "geopolítico",
+      "native": "geopolitical",
+      "unit": 14,
+      "category": "adjective"
+    },
+    {
+      "target": "opaco / poco transparente",
+      "native": "opaque",
+      "unit": 14,
+      "category": "adjective"
+    },
+    {
+      "target": "propietario / privativo",
+      "native": "proprietary",
+      "unit": 14,
+      "category": "adjective"
+    },
+    {
+      "target": "heredable",
+      "native": "heritable",
+      "unit": 14,
+      "category": "adjective"
+    },
+    {
+      "target": "escalable",
+      "native": "scalable",
+      "unit": 14,
+      "category": "adjective"
+    },
+    {
+      "target": "explotar / aprovechar",
+      "native": "exploit",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "desplazar",
+      "native": "displace",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "exacerbar / empeorar",
+      "native": "exacerbate",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "democratizar",
+      "native": "democratise",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "curar / seleccionar cuidadosamente",
+      "native": "curate",
+      "unit": 14,
+      "category": "technology"
+    },
+    {
+      "target": "interconectado",
+      "native": "interconnected",
+      "unit": 14,
+      "category": "adjective"
+    },
+    {
+      "target": "patrimonio",
+      "native": "heritage",
+      "unit": 15,
+      "category": "culture"
+    },
+    {
+      "target": "identidad",
+      "native": "identity",
+      "unit": 15,
+      "category": "culture"
+    },
+    {
+      "target": "narrativa",
+      "native": "narrative",
+      "unit": 15,
+      "category": "culture"
+    },
+    {
+      "target": "autenticidad",
+      "native": "authenticity",
+      "unit": 15,
+      "category": "culture"
+    },
+    {
+      "target": "repatriación",
+      "native": "repatriation",
+      "unit": 15,
+      "category": "culture"
+    },
+    {
+      "target": "poscolonial",
+      "native": "postcolonial",
+      "unit": 15,
+      "category": "culture"
+    },
+    {
+      "target": "estético / estética",
+      "native": "aesthetic",
+      "unit": 15,
+      "category": "culture"
+    },
+    {
+      "target": "interpretación",
+      "native": "interpretation",
+      "unit": 15,
+      "category": "culture"
+    },
+    {
+      "target": "capital cultural",
+      "native": "cultural capital",
+      "unit": 15,
+      "category": "culture"
+    },
+    {
+      "target": "mercantilización",
+      "native": "commodification",
+      "unit": 15,
+      "category": "culture"
+    },
+    {
+      "target": "globalización",
+      "native": "globalisation",
+      "unit": 15,
+      "category": "culture"
+    },
+    {
+      "target": "homogeneización",
+      "native": "homogenisation",
+      "unit": 15,
+      "category": "culture"
+    },
+    {
+      "target": "glocalización",
+      "native": "glocalisation",
+      "unit": 15,
+      "category": "culture"
+    },
+    {
+      "target": "erosión",
+      "native": "erosion",
+      "unit": 15,
+      "category": "culture"
+    },
+    {
+      "target": "género",
+      "native": "genre",
+      "unit": 15,
+      "category": "culture"
+    },
+    {
+      "target": "transgresor",
+      "native": "transgressive",
+      "unit": 15,
+      "category": "culture"
+    },
+    {
+      "target": "cultivar",
+      "native": "cultivate",
+      "unit": 15,
+      "category": "culture"
+    },
+    {
+      "target": "invocar / evocar",
+      "native": "invoke",
+      "unit": 15,
+      "category": "culture"
+    },
+    {
+      "target": "evocar",
+      "native": "evoke",
+      "unit": 15,
+      "category": "culture"
+    },
+    {
+      "target": "disputar / debatir",
+      "native": "contest",
+      "unit": 15,
+      "category": "culture"
+    },
+    {
+      "target": "representar / retratar",
+      "native": "depict",
+      "unit": 15,
+      "category": "culture"
+    },
+    {
+      "target": "exhibir / exponer",
+      "native": "exhibit",
+      "unit": 15,
+      "category": "culture"
+    },
+    {
+      "target": "encargar / comisionar",
+      "native": "commission",
+      "unit": 15,
+      "category": "culture"
+    },
+    {
+      "target": "distorsionar",
+      "native": "distort",
+      "unit": 15,
+      "category": "culture"
+    },
+    {
+      "target": "habitar / vivir en",
+      "native": "inhabit",
+      "unit": 15,
+      "category": "culture"
+    },
+    {
+      "target": "subjetivo",
+      "native": "subjective",
+      "unit": 15,
+      "category": "adjective"
+    },
+    {
+      "target": "autobiográfico",
+      "native": "autobiographical",
+      "unit": 15,
+      "category": "adjective"
+    },
+    {
+      "target": "exclusivo",
+      "native": "exclusive",
+      "unit": 15,
+      "category": "adjective"
+    },
+    {
+      "target": "inmersivo",
+      "native": "immersive",
+      "unit": 15,
+      "category": "adjective"
+    },
+    {
+      "target": "matizado / con sutileza",
+      "native": "nuanced",
+      "unit": 15,
+      "category": "adjective"
+    },
+    {
+      "target": "marginado",
+      "native": "marginalised",
+      "unit": 15,
+      "category": "adjective"
+    },
+    {
+      "target": "controvertido / polémico",
+      "native": "controversial",
+      "unit": 15,
+      "category": "adjective"
+    },
+    {
+      "target": "accesible",
+      "native": "accessible",
+      "unit": 15,
+      "category": "adjective"
+    },
+    {
+      "target": "simultáneo",
+      "native": "simultaneous",
+      "unit": 15,
+      "category": "adjective"
+    },
+    {
+      "target": "precario",
+      "native": "precarious",
+      "unit": 15,
+      "category": "adjective"
+    },
+    {
+      "target": "incorporado / arraigado",
+      "native": "embedded",
+      "unit": 15,
+      "category": "adjective"
+    },
+    {
+      "target": "parte interesada",
+      "native": "stakeholder",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "accionista",
+      "native": "shareholder",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "capital de riesgo",
+      "native": "venture capital",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "empresa emergente",
+      "native": "startup",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "pivotar / cambiar de estrategia",
+      "native": "pivot",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "cadena de suministro",
+      "native": "supply chain",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "ingresos / facturación",
+      "native": "revenue",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "margen de beneficio",
+      "native": "profit margin",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "responsabilidad social corporativa",
+      "native": "corporate social responsibility",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "lavado verde / ecoimpostura",
+      "native": "greenwashing",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "economía gig / de plataformas",
+      "native": "gig economy",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "contratista",
+      "native": "contractor",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "negociación",
+      "native": "negotiation",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "apalancamiento / influencia",
+      "native": "leverage",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "política monetaria",
+      "native": "monetary policy",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "tasa de interés",
+      "native": "interest rate",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "flexibilización cuantitativa",
+      "native": "quantitative easing",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "inflación",
+      "native": "inflation",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "recesión",
+      "native": "recession",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "relocalización de producción",
+      "native": "reshoring",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "disrupción",
+      "native": "disruption",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "disolución",
+      "native": "dissolution",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "diversificar",
+      "native": "diversify",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "cuello de botella",
+      "native": "bottleneck",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "excedente / superávit",
+      "native": "surplus",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "déficit",
+      "native": "deficit",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "hipótesis",
+      "native": "hypothesis",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "viable",
+      "native": "viable",
+      "unit": 16,
+      "category": "adjective"
+    },
+    {
+      "target": "solvente",
+      "native": "solvent",
+      "unit": 16,
+      "category": "adjective"
+    },
+    {
+      "target": "competitivo",
+      "native": "competitive",
+      "unit": 16,
+      "category": "adjective"
+    },
+    {
+      "target": "sostenible",
+      "native": "sustainable",
+      "unit": 16,
+      "category": "adjective"
+    },
+    {
+      "target": "ético",
+      "native": "ethical",
+      "unit": 16,
+      "category": "adjective"
+    },
+    {
+      "target": "escalable",
+      "native": "scalable",
+      "unit": 16,
+      "category": "adjective"
+    },
+    {
+      "target": "empresa establecida / incumbente",
+      "native": "incumbent",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "respaldar / aprobar",
+      "native": "endorse",
+      "unit": 16,
+      "category": "business"
+    },
+    {
+      "target": "cambio climático",
+      "native": "climate change",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "emisiones",
+      "native": "emissions",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "mitigación",
+      "native": "mitigation",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "adaptación",
+      "native": "adaptation",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "huella de carbono",
+      "native": "carbon footprint",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "energía renovable",
+      "native": "renewable energy",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "combustibles fósiles",
+      "native": "fossil fuels",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "desplazamiento",
+      "native": "displacement",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "refugiado",
+      "native": "refugee",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "asilo",
+      "native": "asylum",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "soberanía",
+      "native": "sovereignty",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "multilateralismo",
+      "native": "multilateralism",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "sanciones",
+      "native": "sanctions",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "disuasión",
+      "native": "deterrence",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "acción colectiva",
+      "native": "collective action",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "autoritario",
+      "native": "authoritarian",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "retroceso democrático",
+      "native": "democratic backsliding",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "sociedad civil",
+      "native": "civil society",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "humanitario",
+      "native": "humanitarian",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "intervención",
+      "native": "intervention",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "gentrificación",
+      "native": "gentrification",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "segregación espacial",
+      "native": "spatial segregation",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "escasez",
+      "native": "scarcity",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "acuífero",
+      "native": "aquifer",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "obligar / compeler",
+      "native": "compel",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "fatiga por compasión",
+      "native": "compassion fatigue",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "defensa / activismo",
+      "native": "advocacy",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "movilizar",
+      "native": "mobilise",
+      "unit": 17,
+      "category": "global"
+    },
+    {
+      "target": "transfronterizo",
+      "native": "transboundary",
+      "unit": 17,
+      "category": "adjective"
+    },
+    {
+      "target": "sistémico",
+      "native": "systemic",
+      "unit": 17,
+      "category": "adjective"
+    },
+    {
+      "target": "diferido / postergado",
+      "native": "deferred",
+      "unit": 17,
+      "category": "adjective"
+    },
+    {
+      "target": "irreversible",
+      "native": "irreversible",
+      "unit": 17,
+      "category": "adjective"
+    },
+    {
+      "target": "debatido / disputado",
+      "native": "contested",
+      "unit": 17,
+      "category": "adjective"
+    },
+    {
+      "target": "sin precedentes",
+      "native": "unprecedented",
+      "unit": 17,
+      "category": "adjective"
+    },
+    {
+      "target": "geopolítico",
+      "native": "geopolitical",
+      "unit": 17,
+      "category": "adjective"
+    },
+    {
+      "target": "conciencia / consciencia",
+      "native": "consciousness",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "experiencia subjetiva",
+      "native": "subjective experience",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "neurociencia",
+      "native": "neuroscience",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "longevidad",
+      "native": "longevity",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "senescencia",
+      "native": "senescence",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "biomarcador",
+      "native": "biomarker",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "empírico",
+      "native": "empirical",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "replicación",
+      "native": "replication",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "paradigma",
+      "native": "paradigm",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "cognitivo",
+      "native": "cognitive",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "práctica de recuperación",
+      "native": "retrieval practice",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "repetición espaciada",
+      "native": "spaced repetition",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "pronóstico / previsión",
+      "native": "forecasting",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "probabilístico",
+      "native": "probabilistic",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "efecto mariposa",
+      "native": "butterfly effect",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "complejidad",
+      "native": "complexity",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "aspiración",
+      "native": "aspiration",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "legado",
+      "native": "legacy",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "finitud",
+      "native": "finitude",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "zona habitable",
+      "native": "habitable zone",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "ciudad inteligente",
+      "native": "smart city",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "medicina personalizada",
+      "native": "personalised medicine",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "inmutable",
+      "native": "immutable",
+      "unit": 18,
+      "category": "adjective"
+    },
+    {
+      "target": "duradero",
+      "native": "durable",
+      "unit": 18,
+      "category": "adjective"
+    },
+    {
+      "target": "profundo",
+      "native": "profound",
+      "unit": 18,
+      "category": "adjective"
+    },
+    {
+      "target": "propicio / conducente",
+      "native": "conducive",
+      "unit": 18,
+      "category": "adjective"
+    },
+    {
+      "target": "importante / trascendente",
+      "native": "consequential",
+      "unit": 18,
+      "category": "adjective"
+    },
+    {
+      "target": "instrumental",
+      "native": "instrumental",
+      "unit": 18,
+      "category": "adjective"
+    },
+    {
+      "target": "cultivar",
+      "native": "cultivate",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "sobrevivir / perdurar más",
+      "native": "outlast",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "acelerar",
+      "native": "accelerate",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "trayectoria",
+      "native": "trajectory",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "implicaciones",
+      "native": "implications",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "intervención",
+      "native": "intervention",
+      "unit": 18,
+      "category": "science"
+    },
+    {
+      "target": "inmutable",
+      "native": "immutable",
+      "unit": 18,
+      "category": "adjective"
+    },
+    {
+      "target": "gobernanza",
+      "native": "governance",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "legislación",
+      "native": "legislation",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "soberanía",
+      "native": "sovereignty",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "circunscripción electoral",
+      "native": "constituency",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "retórica",
+      "native": "rhetoric",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "demagogo",
+      "native": "demagogue",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "populismo",
+      "native": "populism",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "autocracia",
+      "native": "autocracy",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "oligarquía",
+      "native": "oligarchy",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "enmienda",
+      "native": "amendment",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "ratificación",
+      "native": "ratification",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "bipartidista",
+      "native": "bipartisan",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "geopolítico",
+      "native": "geopolitical",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "precedente",
+      "native": "precedent",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "jurisprudencia",
+      "native": "jurisprudence",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "facción política",
+      "native": "faction",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "mandato",
+      "native": "mandate",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "rendición de cuentas",
+      "native": "accountability",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "titular / en ejercicio",
+      "native": "incumbent",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "disentimiento / disidencia",
+      "native": "dissent",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "totalitario",
+      "native": "totalitarian",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "sufragio",
+      "native": "suffrage",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "sedición",
+      "native": "sedition",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "coalición",
+      "native": "coalition",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "referéndum",
+      "native": "referendum",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "destitución / acusación formal",
+      "native": "impeachment",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "hegemonía",
+      "native": "hegemony",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "despotismo",
+      "native": "despotism",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "insurrección",
+      "native": "insurrection",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "otorgamiento del derecho al voto",
+      "native": "enfranchisement",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "bicameral",
+      "native": "bicameral",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "ordenanza / decreto",
+      "native": "ordinance",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "revisionismo histórico",
+      "native": "revisionism",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "partidista / sectario",
+      "native": "partisan",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "rectificación / compensación legal",
+      "native": "redress",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "veto",
+      "native": "veto",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "dinástico",
+      "native": "dynastic",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "golpe de estado",
+      "native": "coup",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "censura / reprobación formal",
+      "native": "censure",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "propaganda",
+      "native": "propaganda",
+      "unit": 19,
+      "category": "politics"
+    },
+    {
+      "target": "epistemología",
+      "native": "epistemology",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "ontología",
+      "native": "ontology",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "metafísica",
+      "native": "metaphysics",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "empirismo",
+      "native": "empiricism",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "racionalismo",
+      "native": "rationalism",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "determinismo",
+      "native": "determinism",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "utilitarismo",
+      "native": "utilitarianism",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "deontológico",
+      "native": "deontological",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "nihilismo",
+      "native": "nihilism",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "existencialismo",
+      "native": "existentialism",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "fenomenología",
+      "native": "phenomenology",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "abstracción",
+      "native": "abstraction",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "dialéctica",
+      "native": "dialectic",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "premisa",
+      "native": "premise",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "inferencia",
+      "native": "inference",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "axioma",
+      "native": "axiom",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "paradoja",
+      "native": "paradox",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "falacia",
+      "native": "fallacy",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "silogismo",
+      "native": "syllogism",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "sofistería",
+      "native": "sophistry",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "pragmatismo",
+      "native": "pragmatism",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "autonomía",
+      "native": "autonomy",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "intrínseco",
+      "native": "intrinsic",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "altruismo",
+      "native": "altruism",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "normativo",
+      "native": "normative",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "conjetura",
+      "native": "conjecture",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "refutación",
+      "native": "refutation",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "doctrina",
+      "native": "doctrine",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "trascendental",
+      "native": "transcendental",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "teleológico",
+      "native": "teleological",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "consecuencialismo",
+      "native": "consequentialism",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "relativismo moral",
+      "native": "moral relativism",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "ética de la virtud",
+      "native": "virtue ethics",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "reduccionismo",
+      "native": "reductionism",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "holismo",
+      "native": "holism",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "convincente / sólido lógicamente",
+      "native": "cogent",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "imperativo categórico",
+      "native": "categorical imperative",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "solipsismo",
+      "native": "solipsism",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "subjetivismo",
+      "native": "subjectivism",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "prescriptivo",
+      "native": "prescriptive",
+      "unit": 20,
+      "category": "philosophy"
+    },
+    {
+      "target": "metodología",
+      "native": "methodology",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "hipótesis",
+      "native": "hypothesis",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "revisión por pares",
+      "native": "peer review",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "replicación",
+      "native": "replication",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "correlación",
+      "native": "correlation",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "causalidad",
+      "native": "causation",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "grupo de control",
+      "native": "control group",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "doble ciego",
+      "native": "double-blind",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "variable de confusión",
+      "native": "confounding variable",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "longitudinal",
+      "native": "longitudinal",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "cualitativo",
+      "native": "qualitative",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "cuantitativo",
+      "native": "quantitative",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "meta-análisis",
+      "native": "meta-analysis",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "cambio de paradigma",
+      "native": "paradigm shift",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "falsabilidad",
+      "native": "falsifiability",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "extrapolación",
+      "native": "extrapolation",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "anomalía",
+      "native": "anomaly",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "tamaño de muestra",
+      "native": "sample size",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "cohorte",
+      "native": "cohort",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "placebo",
+      "native": "placebo",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "validez",
+      "native": "validity",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "fiabilidad",
+      "native": "reliability",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "hipótesis nula",
+      "native": "null hypothesis",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "valor p (estadística)",
+      "native": "p-value",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "tamaño del efecto",
+      "native": "effect size",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "revisión sistemática",
+      "native": "systematic review",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "sesgo de publicación",
+      "native": "publication bias",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "replicabilidad",
+      "native": "replicability",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "estandarización",
+      "native": "standardisation",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "triangulación metodológica",
+      "native": "triangulation",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "validez ecológica",
+      "native": "ecological validity",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "aleatorizado",
+      "native": "randomised",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "estudio observacional",
+      "native": "observational study",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "revisado por pares",
+      "native": "peer-reviewed",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "basado en datos",
+      "native": "data-driven",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "significancia estadística",
+      "native": "statistical significance",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "robusto / metódicamente sólido",
+      "native": "robust",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "generalización",
+      "native": "generalisation",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "estadística inferencial",
+      "native": "inferential statistics",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "sesgo",
+      "native": "bias",
+      "unit": 21,
+      "category": "research"
+    },
+    {
+      "target": "discurso / debate público",
+      "native": "discourse",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "establecimiento de agenda mediática",
+      "native": "agenda-setting",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "control y filtrado de información",
+      "native": "gatekeeping",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "pluralidad mediática",
+      "native": "media plurality",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "cuarto poder",
+      "native": "fourth estate",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "difamación",
+      "native": "defamation",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "difamación escrita",
+      "native": "libel",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "difamación oral",
+      "native": "slander",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "independencia editorial",
+      "native": "editorial independence",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "sesgo de confirmación",
+      "native": "confirmation bias",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "cámara de eco",
+      "native": "echo chamber",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "desinformación intencional",
+      "native": "disinformation",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "apoyo artificial simulado",
+      "native": "astroturfing",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "libertad de prensa",
+      "native": "press freedom",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "denunciante",
+      "native": "whistleblower",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "sensacionalismo",
+      "native": "sensationalism",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "alfabetización mediática",
+      "native": "media literacy",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "contenido audiovisual falsificado / deepfake",
+      "native": "deepfake",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "microfocalización publicitaria",
+      "native": "microtargeting",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "retractación / rectificación",
+      "native": "retraction",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "periodismo de investigación",
+      "native": "investigative journalism",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "manipulación informativa",
+      "native": "spin",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "comentarismo mediático",
+      "native": "punditry",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "periodismo de denuncia",
+      "native": "muckraking",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "bajo embargo informativo",
+      "native": "embargoed",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "cebo de clics",
+      "native": "clickbait",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "encuadre narrativo",
+      "native": "framing",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "imparcialidad periodística",
+      "native": "impartiality",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "información errónea",
+      "native": "misinformation",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "hiperpartidista",
+      "native": "hyperpartisan",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "censura mediática",
+      "native": "censorship",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "objetividad periodística",
+      "native": "objectivity",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "descontextualizado",
+      "native": "decontextualised",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "verificación y uso de fuentes",
+      "native": "sourcing",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "polarización mediática",
+      "native": "polarisation",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "transparencia informativa",
+      "native": "transparency",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "detrás de un muro de pago",
+      "native": "paywalled",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "extraoficialmente / de manera reservada",
+      "native": "off the record",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "narrativa mediática",
+      "native": "narrative",
+      "unit": 22,
+      "category": "media"
+    },
+    {
+      "target": "neutralidad de carbono",
+      "native": "carbon neutrality",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "emisiones netas cero",
+      "native": "net zero",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "límite e intercambio de emisiones",
+      "native": "cap-and-trade",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "compensación de carbono",
+      "native": "carbon offset",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "economía circular",
+      "native": "circular economy",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "punto de no retorno",
+      "native": "tipping point",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "bucle de retroalimentación",
+      "native": "feedback loop",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "acidificación de los océanos",
+      "native": "ocean acidification",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "desertificación",
+      "native": "desertification",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "renaturalización / rewilding",
+      "native": "rewilding",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "forestación / repoblación forestal",
+      "native": "afforestation",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "secuestro de carbono",
+      "native": "carbon sequestration",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "activos varados / obsoletos",
+      "native": "stranded assets",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "transición justa",
+      "native": "just transition",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "especie invasora",
+      "native": "invasive species",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "microplásticos",
+      "native": "microplastics",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "permafrost / suelo permanentemente congelado",
+      "native": "permafrost",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "metano",
+      "native": "methane",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "descarbonización",
+      "native": "decarbonisation",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "monocultivo",
+      "native": "monoculture",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "límites planetarios",
+      "native": "planetary boundaries",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "antropoceno",
+      "native": "anthropocene",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "gestión responsable del medio ambiente",
+      "native": "stewardship",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "huella ecológica",
+      "native": "ecological footprint",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "eutrofización",
+      "native": "eutrophication",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "albedo / reflectividad solar",
+      "native": "albedo",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "bioma",
+      "native": "biome",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "corredor de hábitat",
+      "native": "habitat corridor",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "servicios ecosistémicos",
+      "native": "ecosystem services",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "infraestructura verde",
+      "native": "green infrastructure",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "sumidero de carbono",
+      "native": "carbon sink",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "rebasamiento ecológico",
+      "native": "overshoot",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "resiliencia ecológica",
+      "native": "resilience",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "criterios ASG (ambiental, social, gobernanza)",
+      "native": "ESG criteria",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "biodegradable",
+      "native": "biodegradable",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "litigios climáticos",
+      "native": "climate litigation",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "mitigación climática",
+      "native": "mitigation",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "adaptación climática",
+      "native": "adaptation",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "vulnerabilidad ambiental",
+      "native": "vulnerability",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "biodiversidad",
+      "native": "biodiversity",
+      "unit": 23,
+      "category": "environment"
+    },
+    {
+      "target": "jurisdicción",
+      "native": "jurisdiction",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "extradición",
+      "native": "extradition",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "solicitante de asilo",
+      "native": "asylum seeker",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "principio de no devolución",
+      "native": "non-refoulement",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "obligación de tratado",
+      "native": "treaty obligation",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "derecho consuetudinario",
+      "native": "customary law",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "impunidad",
+      "native": "impunity",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "régimen de sanciones",
+      "native": "sanctions regime",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "inmunidad diplomática",
+      "native": "diplomatic immunity",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "arbitraje",
+      "native": "arbitration",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "multilateral",
+      "native": "multilateral",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "bilateral",
+      "native": "bilateral",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "proteccionismo",
+      "native": "protectionism",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "disuasión",
+      "native": "deterrence",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "realineamiento geopolítico",
+      "native": "realignment",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "guerra por delegación",
+      "native": "proxy war",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "ciberguerra",
+      "native": "cyberwarfare",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "poder blando",
+      "native": "soft power",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "poder duro",
+      "native": "hard power",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "derecho humanitario internacional",
+      "native": "humanitarian law",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "crímenes de guerra",
+      "native": "war crimes",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "apátrida",
+      "native": "stateless",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "adhesión a un tratado",
+      "native": "accession",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "reparaciones",
+      "native": "reparations",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "embargo",
+      "native": "embargo",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "bloqueo",
+      "native": "blockade",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "alto el fuego",
+      "native": "ceasefire",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "seguridad colectiva",
+      "native": "collective security",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "tutela internacional",
+      "native": "trusteeship",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "cumplimiento / acatamiento",
+      "native": "compliance",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "aplicación coercitiva",
+      "native": "enforcement",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "realpolitik / política pragmática de poder",
+      "native": "realpolitik",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "anexión territorial",
+      "native": "annexation",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "geopolítica",
+      "native": "geopolitics",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "arancel",
+      "native": "tariff",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "alianza",
+      "native": "alliance",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "poder de veto",
+      "native": "veto power",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "norma internacional",
+      "native": "norm",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "ius cogens / normas imperativas del derecho internacional",
+      "native": "jus cogens",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "extraterritorial",
+      "native": "extraterritorial",
+      "unit": 24,
+      "category": "law"
+    },
+    {
+      "target": "conciencia metalingüística",
+      "native": "metalinguistic awareness",
+      "unit": 23,
+      "category": "language_identity"
+    },
+    {
+      "target": "alternancia de código lingüístico",
+      "native": "code-switching",
+      "unit": 23,
+      "category": "language_identity"
+    },
+    {
+      "target": "registro lingüístico (nivel de formalidad)",
+      "native": "register",
+      "unit": 23,
+      "category": "language_identity"
+    },
+    {
+      "target": "connotación",
+      "native": "connotation",
+      "unit": 23,
+      "category": "language_identity"
+    },
+    {
+      "target": "lengua franca",
+      "native": "lingua franca",
+      "unit": 23,
+      "category": "language_identity"
+    },
+    {
+      "target": "semiótica",
+      "native": "semiotics",
+      "unit": 23,
+      "category": "language_identity"
+    },
+    {
+      "target": "análisis del discurso",
+      "native": "discourse analysis",
+      "unit": 23,
+      "category": "language_identity"
+    },
+    {
+      "target": "pragmática lingüística",
+      "native": "pragmatics",
+      "unit": 23,
+      "category": "language_identity"
+    },
+    {
+      "target": "sociolecto",
+      "native": "sociolect",
+      "unit": 23,
+      "category": "language_identity"
+    },
+    {
+      "target": "neologismo",
+      "native": "neologism",
+      "unit": 23,
+      "category": "language_identity"
+    },
+    {
+      "target": "eufemismo",
+      "native": "euphemism",
+      "unit": 23,
+      "category": "language_identity"
+    },
+    {
+      "target": "idiolecto",
+      "native": "idiolect",
+      "unit": 23,
+      "category": "language_identity"
+    },
+    {
+      "target": "préstamo lingüístico",
+      "native": "loanword",
+      "unit": 23,
+      "category": "language_identity"
+    },
+    {
+      "target": "prescriptivismo lingüístico",
+      "native": "prescriptivism",
+      "unit": 23,
+      "category": "language_identity"
+    },
+    {
+      "target": "diglosia",
+      "native": "diglossia",
+      "unit": 23,
+      "category": "language_identity"
+    },
+    {
+      "target": "vacío léxico",
+      "native": "lexical gap",
+      "unit": 23,
+      "category": "language_identity"
+    },
+    {
+      "target": "metalenguaje",
+      "native": "metalanguage",
+      "unit": 23,
+      "category": "language_identity"
+    },
+    {
+      "target": "relatividad lingüística",
+      "native": "linguistic relativity",
+      "unit": 23,
+      "category": "language_identity"
+    },
+    {
+      "target": "denotación",
+      "native": "denotation",
+      "unit": 23,
+      "category": "language_identity"
+    },
+    {
+      "target": "descriptivismo lingüístico",
+      "native": "descriptivism",
+      "unit": 23,
+      "category": "language_identity"
+    },
+    {
+      "target": "globalización",
+      "native": "globalisation",
+      "unit": 24,
+      "category": "globalisation"
+    },
+    {
+      "target": "cadena de suministro",
+      "native": "supply chain",
+      "unit": 24,
+      "category": "globalisation"
+    },
+    {
+      "target": "subcontratación / externalización",
+      "native": "outsourcing",
+      "unit": 24,
+      "category": "globalisation"
+    },
+    {
+      "target": "política fiscal",
+      "native": "fiscal policy",
+      "unit": 24,
+      "category": "globalisation"
+    },
+    {
+      "target": "política monetaria",
+      "native": "monetary policy",
+      "unit": 24,
+      "category": "globalisation"
+    },
+    {
+      "target": "austeridad económica",
+      "native": "austerity",
+      "unit": 24,
+      "category": "globalisation"
+    },
+    {
+      "target": "desregulación",
+      "native": "deregulation",
+      "unit": 24,
+      "category": "globalisation"
+    },
+    {
+      "target": "déficit comercial",
+      "native": "trade deficit",
+      "unit": 24,
+      "category": "globalisation"
+    },
+    {
+      "target": "desigualdad económica",
+      "native": "inequality",
+      "unit": 24,
+      "category": "globalisation"
+    },
+    {
+      "target": "proteccionismo",
+      "native": "protectionism",
+      "unit": 24,
+      "category": "globalisation"
+    },
+    {
+      "target": "fuga de capitales",
+      "native": "capital flight",
+      "unit": 24,
+      "category": "globalisation"
+    },
+    {
+      "target": "remesas",
+      "native": "remittances",
+      "unit": 24,
+      "category": "globalisation"
+    },
+    {
+      "target": "materias primas / commodities",
+      "native": "commodities",
+      "unit": 24,
+      "category": "globalisation"
+    },
+    {
+      "target": "recesión económica",
+      "native": "recession",
+      "unit": 24,
+      "category": "globalisation"
+    },
+    {
+      "target": "microfinanzas",
+      "native": "microfinance",
+      "unit": 24,
+      "category": "globalisation"
+    },
+    {
+      "target": "interdependencia económica",
+      "native": "economic interdependence",
+      "unit": 24,
+      "category": "globalisation"
+    },
+    {
+      "target": "tratado de libre comercio",
+      "native": "free trade agreement",
+      "unit": 24,
+      "category": "globalisation"
+    },
+    {
+      "target": "deslocalización productiva",
+      "native": "offshoring",
+      "unit": 24,
+      "category": "globalisation"
+    },
+    {
+      "target": "mercado emergente",
+      "native": "emerging market",
+      "unit": 24,
+      "category": "globalisation"
+    },
+    {
+      "target": "distribución del ingreso",
+      "native": "income distribution",
+      "unit": 24,
+      "category": "globalisation"
+    },
+    {
+      "target": "retórica",
+      "native": "rhetoric",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "ethos (credibilidad del hablante)",
+      "native": "ethos",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "pathos (apelación emocional)",
+      "native": "pathos",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "logos (apelación lógica / racional)",
+      "native": "logos",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "pregunta retórica",
+      "native": "rhetorical question",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "anáfora (repetición al inicio de frases)",
+      "native": "anaphora",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "antítesis",
+      "native": "antithesis",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "quiasmo (inversión estructural)",
+      "native": "chiasmus",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "epístrofe (repetición al final de frases)",
+      "native": "epistrophe",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "hipérbole",
+      "native": "hyperbole",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "subestimación / litotes",
+      "native": "understatement",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "eufemismo",
+      "native": "euphemism",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "alusión",
+      "native": "allusion",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "hombre de paja (falacia argumentativa)",
+      "native": "straw man",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "ad hominem (ataque a la persona)",
+      "native": "ad hominem",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "apelación a la autoridad",
+      "native": "appeal to authority",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "falsa dicotomía / dilema falso",
+      "native": "false dichotomy",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "lenguaje cargado / sesgado",
+      "native": "loaded language",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "persuasión",
+      "native": "persuasion",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "encuadre / enmarcamiento",
+      "native": "framing",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "sesgo informativo / manipulación del relato",
+      "native": "spin",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "polémica / discurso combativo",
+      "native": "polemic",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "invectiva / diatriba",
+      "native": "invective",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "concesión (retórica)",
+      "native": "concession",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "refutación",
+      "native": "rebuttal",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "silogismo",
+      "native": "syllogism",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "razonamiento inductivo",
+      "native": "inductive reasoning",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "razonamiento deductivo",
+      "native": "deductive reasoning",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "contraargumento",
+      "native": "counter-argument",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "matiz / sutileza",
+      "native": "nuance",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "calificador / modificador de alcance",
+      "native": "qualifier",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "lenguaje de cobertura / atenuación",
+      "native": "hedging language",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "presuposición",
+      "native": "presupposition",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "implicatura (lo que se da a entender sin decirlo)",
+      "native": "implicature",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "acto de habla",
+      "native": "speech act",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "asertividad",
+      "native": "assertiveness",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "credibilidad",
+      "native": "credibility",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "tautología",
+      "native": "tautology",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "oxímoron",
+      "native": "oxymoron",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "estilo en prosa",
+      "native": "prose style",
+      "unit": 25,
+      "category": "rhetoric"
+    },
+    {
+      "target": "género literario",
+      "native": "literary genre",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "voz narrativa",
+      "native": "narrative voice",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "narrador no confiable",
+      "native": "unreliable narrator",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "presagio / anticipación narrativa",
+      "native": "foreshadowing",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "motivo (literario)",
+      "native": "motif",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "alegoría",
+      "native": "allegory",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "metáfora",
+      "native": "metaphor",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "símil / comparación",
+      "native": "simile",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "imaginería / lenguaje figurado",
+      "native": "imagery",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "tono (literario)",
+      "native": "tone",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "dicción / elección de palabras",
+      "native": "diction",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "sintaxis (como recurso estilístico)",
+      "native": "syntax (literary)",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "flujo de conciencia",
+      "native": "stream of consciousness",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "narrador omnisciente",
+      "native": "omniscient narrator",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "discurso indirecto libre",
+      "native": "free indirect discourse",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "intertextualidad",
+      "native": "intertextuality",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "subtexto",
+      "native": "subtext",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "ambigüedad (literaria)",
+      "native": "ambiguity",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "desenlace",
+      "native": "denouement",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "catarsis",
+      "native": "catharsis",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "ironía dramática",
+      "native": "dramatic irony",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "epifanía (momento de revelación)",
+      "native": "epiphany",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "caracterización (de personajes)",
+      "native": "characterisation",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "foil (personaje contrastante)",
+      "native": "foil (literary)",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "arquetipo",
+      "native": "archetype",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "distopía",
+      "native": "dystopia",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "realismo mágico",
+      "native": "magic realism",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "sátira",
+      "native": "satire",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "pastiche",
+      "native": "pastiche",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "parodia",
+      "native": "parody",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "lectura minuciosa / análisis textual detallado",
+      "native": "close reading",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "crítica literaria",
+      "native": "literary criticism",
+      "unit": 26,
+      "category": "literature"
+    },
+    {
+      "target": "ironía",
+      "native": "irony",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "sarcasmo",
+      "native": "sarcasm",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "agudeza / ingenio",
+      "native": "wit",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "juego de palabras",
+      "native": "wordplay",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "juego de palabras / calambur",
+      "native": "pun",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "deadpan (humor con cara seria)",
+      "native": "deadpan",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "humor autodespreciativo",
+      "native": "self-deprecating humour",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "humor negro",
+      "native": "black humour",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "humor absurdo",
+      "native": "absurdist humour",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "con ironía / en broma",
+      "native": "tongue-in-cheek",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "insinuación / doble sentido",
+      "native": "innuendo",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "bathos (anticlímax cómico)",
+      "native": "bathos",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "burlesco",
+      "native": "burlesque",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "caricatura",
+      "native": "caricature",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "timing cómico",
+      "native": "comic timing",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "ironía situacional",
+      "native": "situational irony",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "ironía verbal",
+      "native": "verbal irony",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "subestimación / litotes (estilo británico)",
+      "native": "understatement (British)",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "humor de horca / humor ante la adversidad",
+      "native": "gallows humour",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "farsa",
+      "native": "farce",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "teoría de la incongruencia (del humor)",
+      "native": "incongruity theory",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "teoría del alivio (del humor)",
+      "native": "relief theory",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "teoría de la superioridad (del humor)",
+      "native": "superiority theory",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "humor subversivo",
+      "native": "subversive humour",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "fantasía caprichosa / extravagancia",
+      "native": "whimsy",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "réplica ingeniosa / intercambio chispeante",
+      "native": "repartee",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "libelo / parodia hiriente",
+      "native": "lampoon",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "alivio cómico",
+      "native": "comic relief",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "acerbo / mordaz",
+      "native": "acerbic",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "distanciamiento irónico",
+      "native": "ironic detachment",
+      "unit": 27,
+      "category": "humour"
+    },
+    {
+      "target": "registro (especializado)",
+      "native": "register (specialised)",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "jerga / terminología especializada",
+      "native": "jargon",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "jerga legal / lenguaje jurídico",
+      "native": "legalese",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "lenguaje burocrático",
+      "native": "bureaucratic language",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "escritura técnica",
+      "native": "technical writing",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "registro académico",
+      "native": "academic register",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "estilo periodístico",
+      "native": "journalistic style",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "lenguaje diplomático",
+      "native": "diplomatic language",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "jerga corporativa",
+      "native": "corporate speak",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "lenguaje llano / claro",
+      "native": "plain language",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "circunloquio",
+      "native": "circumlocution",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "lenguaje oficial / burocrático",
+      "native": "officialese",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "pasivización (uso de la voz pasiva)",
+      "native": "passivisation",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "nominalización",
+      "native": "nominalisation",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "atenuación (académica)",
+      "native": "hedging (academic)",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "cambio de registro",
+      "native": "register shift",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "código de conducta",
+      "native": "code of conduct",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "texto estándar / cláusula tipo",
+      "native": "boilerplate",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "términos de referencia",
+      "native": "terms of reference",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "resumen ejecutivo",
+      "native": "executive summary",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "resumen / abstract (académico)",
+      "native": "abstract (academic)",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "sección de metodología",
+      "native": "methodology section",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "revisión por pares",
+      "native": "peer review",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "cita / referencia bibliográfica",
+      "native": "citation (academic)",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "lenguaje parlamentario",
+      "native": "parliamentary language",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "terminología clínica",
+      "native": "clinical terminology",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "lenguaje de informes financieros",
+      "native": "financial reporting language",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "análisis estilístico",
+      "native": "stylistic analysis",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "conciencia de registro",
+      "native": "register awareness",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "convenciones de género textual",
+      "native": "genre conventions",
+      "unit": 28,
+      "category": "registers"
+    },
+    {
+      "target": "expresión idiomática",
+      "native": "idiomatic expression",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "verbo frasal",
+      "native": "phrasal verb",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "colocación (palabras que van juntas)",
+      "native": "collocation",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "expresión fija / locución",
+      "native": "fixed expression",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "proverbio / refrán",
+      "native": "proverb",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "alusión cultural",
+      "native": "cultural allusion",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "andarse por las ramas",
+      "native": "to beat around the bush",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "leer entre líneas",
+      "native": "to read between the lines",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "tomarle el pelo a alguien",
+      "native": "to pull someone's leg",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "no mojarse / no tomar partido",
+      "native": "to sit on the fence",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "hacer la vista gorda",
+      "native": "to turn a blind eye",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "morder la bala / aguantar con estoicismo",
+      "native": "to bite the bullet",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "hacer las cosas a medias / escatimar",
+      "native": "to cut corners",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "poner la pelota en movimiento / arrancar",
+      "native": "to get the ball rolling",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "pasar por mil pruebas / hacer lo imposible",
+      "native": "to jump through hoops",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "posponer un problema",
+      "native": "to kick the can down the road",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "irse de la lengua / revelar un secreto",
+      "native": "to let the cat out of the bag",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "cambiar las reglas del juego",
+      "native": "to move the goalposts",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "enterrar el hacha de guerra / reconciliarse",
+      "native": "to bury the hatchet",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "tomar con pinzas",
+      "native": "to take with a grain of salt",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "tirar la toalla",
+      "native": "to throw in the towel",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "quemar puentes",
+      "native": "to burn bridges",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "estar en terreno peligroso",
+      "native": "to be on thin ice",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "tener un as en la manga",
+      "native": "to have an ace up one's sleeve",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "volver a cero / replantear todo",
+      "native": "to go back to the drawing board",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "mostrar sus verdaderas intenciones / comprometerse públicamente",
+      "native": "to nail one's colours to the mast",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "capear el temporal / superar una crisis",
+      "native": "to weather the storm",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "fluidez idiomática",
+      "native": "idiomatic fluency",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "bloque léxico / unidad fraseológica",
+      "native": "lexical chunk",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "lenguaje figurado",
+      "native": "figurative language",
+      "unit": 29,
+      "category": "idioms"
+    },
+    {
+      "target": "mediación lingüística",
+      "native": "mediation (linguistic)",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "paráfrasis",
+      "native": "paraphrase",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "resumen condensado / síntesis",
+      "native": "précis",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "síntesis",
+      "native": "synthesis",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "evaluación crítica",
+      "native": "critical evaluation",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "reformulación",
+      "native": "reformulation",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "conversión de registro",
+      "native": "register conversion",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "amplitud estilística",
+      "native": "stylistic range",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "coherencia discursiva",
+      "native": "discourse coherence",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "competencia intercultural",
+      "native": "intercultural competence",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "precisión pragmática",
+      "native": "pragmatic precision",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "exactitud idiomática",
+      "native": "idiomatic accuracy",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "sofisticación léxica",
+      "native": "lexical sophistication",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "dispositivo cohesivo",
+      "native": "cohesive device",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "organización textual",
+      "native": "textual organisation",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "mapeo de argumentos",
+      "native": "argument mapping",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "marco analítico",
+      "native": "analytical framework",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "significado implícito",
+      "native": "implicit meaning",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "mediación cultural",
+      "native": "cultural mediation",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "transferencia lingüística",
+      "native": "language transfer",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "fluidez vs. exactitud",
+      "native": "fluency vs accuracy",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "automaticidad (producción sin esfuerzo)",
+      "native": "automaticity",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "registro coloquial",
+      "native": "colloquial register",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "registro formal",
+      "native": "formal register",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "competencia estratégica",
+      "native": "strategic competence",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "competencia sociolingüística",
+      "native": "sociolinguistic competence",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "competencia gramatical",
+      "native": "grammatical competence",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "competencia discursiva",
+      "native": "discourse competence",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "competencia comunicativa",
+      "native": "communicative competence",
+      "unit": 30,
+      "category": "mastery"
+    },
+    {
+      "target": "nivel C2 / dominio completo de la lengua",
+      "native": "C2 proficiency",
+      "unit": 30,
+      "category": "mastery"
+    }
+  ]
+}
