@@ -45395,6 +45395,2814 @@
       "phonetic": "trans-LANGG-ua-ying-pe-da-gou-yi",
       "en": "translanguaging pedagogy",
       "es": "pedagogía del translingüismo"
+    },
+    {
+      "target": "red",
+      "native": "rojo",
+      "unit": 2,
+      "category": "colour",
+      "phonetic": "RED",
+      "en": "red",
+      "es": "rojo"
+    },
+    {
+      "target": "blue",
+      "native": "azul",
+      "unit": 2,
+      "category": "colour",
+      "phonetic": "BLUU",
+      "en": "blue",
+      "es": "azul"
+    },
+    {
+      "target": "green",
+      "native": "verde",
+      "unit": 2,
+      "category": "colour",
+      "phonetic": "GRIIN",
+      "en": "green",
+      "es": "verde"
+    },
+    {
+      "target": "yellow",
+      "native": "amarillo",
+      "unit": 2,
+      "category": "colour",
+      "phonetic": "IE-lou",
+      "en": "yellow",
+      "es": "amarillo"
+    },
+    {
+      "target": "black",
+      "native": "negro",
+      "unit": 2,
+      "category": "colour",
+      "phonetic": "BLAK",
+      "en": "black",
+      "es": "negro"
+    },
+    {
+      "target": "white",
+      "native": "blanco",
+      "unit": 2,
+      "category": "colour",
+      "phonetic": "UAIT",
+      "en": "white",
+      "es": "blanco"
+    },
+    {
+      "target": "purple",
+      "native": "violeta",
+      "unit": 2,
+      "category": "colour",
+      "phonetic": "PER-pel",
+      "en": "purple",
+      "es": "violeta"
+    },
+    {
+      "target": "pink",
+      "native": "rosa",
+      "unit": 2,
+      "category": "colour",
+      "phonetic": "PINGK",
+      "en": "pink",
+      "es": "rosa"
+    },
+    {
+      "target": "brown",
+      "native": "marrón",
+      "unit": 2,
+      "category": "colour",
+      "phonetic": "BRAUN",
+      "en": "brown",
+      "es": "marrón"
+    },
+    {
+      "target": "grey",
+      "native": "gris",
+      "unit": 2,
+      "category": "colour",
+      "phonetic": "GREI",
+      "en": "grey",
+      "es": "gris"
+    },
+    {
+      "target": "beige",
+      "native": "beige",
+      "unit": 2,
+      "category": "colour",
+      "phonetic": "BEISH",
+      "en": "beige",
+      "es": "beige"
+    },
+    {
+      "target": "turquoise",
+      "native": "turquesa",
+      "unit": 2,
+      "category": "colour",
+      "phonetic": "TER-kuois",
+      "en": "turquoise",
+      "es": "turquesa"
+    },
+    {
+      "target": "golden",
+      "native": "dorado",
+      "unit": 2,
+      "category": "colour",
+      "phonetic": "GOUL-den",
+      "en": "golden",
+      "es": "dorado"
+    },
+    {
+      "target": "silver",
+      "native": "plateado",
+      "unit": 2,
+      "category": "colour",
+      "phonetic": "SIL-ver",
+      "en": "silver",
+      "es": "plateado"
+    },
+    {
+      "target": "dark",
+      "native": "oscuro",
+      "unit": 2,
+      "category": "colour",
+      "phonetic": "DARK",
+      "en": "dark",
+      "es": "oscuro"
+    },
+    {
+      "target": "light",
+      "native": "claro",
+      "unit": 2,
+      "category": "colour",
+      "phonetic": "LAIT",
+      "en": "light",
+      "es": "claro"
+    },
+    {
+      "target": "bright",
+      "native": "brillante",
+      "unit": 2,
+      "category": "colour",
+      "phonetic": "BRAIT",
+      "en": "bright",
+      "es": "brillante"
+    },
+    {
+      "target": "pale",
+      "native": "pálido",
+      "unit": 2,
+      "category": "colour",
+      "phonetic": "PEIL",
+      "en": "pale",
+      "es": "pálido"
+    },
+    {
+      "target": "nephew",
+      "native": "sobrino",
+      "unit": 3,
+      "category": "family",
+      "phonetic": "NEF-iu",
+      "en": "nephew",
+      "es": "sobrino"
+    },
+    {
+      "target": "niece",
+      "native": "sobrina",
+      "unit": 3,
+      "category": "family",
+      "phonetic": "NIIS",
+      "en": "niece",
+      "es": "sobrina"
+    },
+    {
+      "target": "grandson",
+      "native": "nieto",
+      "unit": 3,
+      "category": "family",
+      "phonetic": "GRAND-sen",
+      "en": "grandson",
+      "es": "nieto"
+    },
+    {
+      "target": "granddaughter",
+      "native": "nieta",
+      "unit": 3,
+      "category": "family",
+      "phonetic": "GRAN-do-ter",
+      "en": "granddaughter",
+      "es": "nieta"
+    },
+    {
+      "target": "grandchildren",
+      "native": "nietos",
+      "unit": 3,
+      "category": "family",
+      "phonetic": "GRAN-chil-dren",
+      "en": "grandchildren",
+      "es": "nietos"
+    },
+    {
+      "target": "grandparents",
+      "native": "abuelos",
+      "unit": 3,
+      "category": "family",
+      "phonetic": "GRAND-pe-rents",
+      "en": "grandparents",
+      "es": "abuelos"
+    },
+    {
+      "target": "mother-in-law",
+      "native": "suegra",
+      "unit": 3,
+      "category": "family",
+      "phonetic": "MA-der-in-lo",
+      "en": "mother-in-law",
+      "es": "suegra"
+    },
+    {
+      "target": "father-in-law",
+      "native": "suegro",
+      "unit": 3,
+      "category": "family",
+      "phonetic": "FO-der-in-lo",
+      "en": "father-in-law",
+      "es": "suegro"
+    },
+    {
+      "target": "brother-in-law",
+      "native": "cuñado",
+      "unit": 3,
+      "category": "family",
+      "phonetic": "BRA-der-in-lo",
+      "en": "brother-in-law",
+      "es": "cuñado"
+    },
+    {
+      "target": "sister-in-law",
+      "native": "cuñada",
+      "unit": 3,
+      "category": "family",
+      "phonetic": "SI-ster-in-lo",
+      "en": "sister-in-law",
+      "es": "cuñada"
+    },
+    {
+      "target": "son-in-law",
+      "native": "yerno",
+      "unit": 3,
+      "category": "family",
+      "phonetic": "SA-nin-lo",
+      "en": "son-in-law",
+      "es": "yerno"
+    },
+    {
+      "target": "daughter-in-law",
+      "native": "nuera",
+      "unit": 3,
+      "category": "family",
+      "phonetic": "DO-ter-in-lo",
+      "en": "daughter-in-law",
+      "es": "nuera"
+    },
+    {
+      "target": "stepmother",
+      "native": "madrastra",
+      "unit": 3,
+      "category": "family",
+      "phonetic": "STEP-ma-der",
+      "en": "stepmother",
+      "es": "madrastra"
+    },
+    {
+      "target": "stepfather",
+      "native": "padrastro",
+      "unit": 3,
+      "category": "family",
+      "phonetic": "STEP-fo-der",
+      "en": "stepfather",
+      "es": "padrastro"
+    },
+    {
+      "target": "godmother",
+      "native": "madrina",
+      "unit": 3,
+      "category": "family",
+      "phonetic": "GOD-ma-der",
+      "en": "godmother",
+      "es": "madrina"
+    },
+    {
+      "target": "godfather",
+      "native": "padrino",
+      "unit": 3,
+      "category": "family",
+      "phonetic": "GOD-fo-der",
+      "en": "godfather",
+      "es": "padrino"
+    },
+    {
+      "target": "relatives",
+      "native": "parientes",
+      "unit": 3,
+      "category": "family",
+      "phonetic": "RE-la-tivs",
+      "en": "relatives",
+      "es": "parientes"
+    },
+    {
+      "target": "husband",
+      "native": "esposo",
+      "unit": 3,
+      "category": "family",
+      "phonetic": "JAS-bend",
+      "en": "husband",
+      "es": "esposo"
+    },
+    {
+      "target": "only child",
+      "native": "hijo único",
+      "unit": 3,
+      "category": "family",
+      "phonetic": "OUN-li-chaild",
+      "en": "only child",
+      "es": "hijo único"
+    },
+    {
+      "target": "eldest",
+      "native": "el mayor",
+      "unit": 3,
+      "category": "family",
+      "phonetic": "EL-dest",
+      "en": "eldest",
+      "es": "el mayor"
+    },
+    {
+      "target": "youngest",
+      "native": "el menor",
+      "unit": 3,
+      "category": "family",
+      "phonetic": "IANG-gest",
+      "en": "youngest",
+      "es": "el menor"
+    },
+    {
+      "target": "dog",
+      "native": "perro",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "DOG",
+      "en": "dog",
+      "es": "perro"
+    },
+    {
+      "target": "horse",
+      "native": "caballo",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "JORS",
+      "en": "horse",
+      "es": "caballo"
+    },
+    {
+      "target": "cow",
+      "native": "vaca",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "KAU",
+      "en": "cow",
+      "es": "vaca"
+    },
+    {
+      "target": "pig",
+      "native": "cerdo / chancho",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "PIG",
+      "en": "pig",
+      "es": "cerdo / chancho"
+    },
+    {
+      "target": "sheep",
+      "native": "oveja",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "SHIIP",
+      "en": "sheep",
+      "es": "oveja"
+    },
+    {
+      "target": "duck",
+      "native": "pato",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "DAK",
+      "en": "duck",
+      "es": "pato"
+    },
+    {
+      "target": "rabbit",
+      "native": "conejo",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "RA-bet",
+      "en": "rabbit",
+      "es": "conejo"
+    },
+    {
+      "target": "bird",
+      "native": "pájaro",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "BERD",
+      "en": "bird",
+      "es": "pájaro"
+    },
+    {
+      "target": "lion",
+      "native": "león",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "LAI-en",
+      "en": "lion",
+      "es": "león"
+    },
+    {
+      "target": "tiger",
+      "native": "tigre",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "TAI-ger",
+      "en": "tiger",
+      "es": "tigre"
+    },
+    {
+      "target": "bear",
+      "native": "oso",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "BER",
+      "en": "bear",
+      "es": "oso"
+    },
+    {
+      "target": "elephant",
+      "native": "elefante",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "E-la-fent",
+      "en": "elephant",
+      "es": "elefante"
+    },
+    {
+      "target": "monkey",
+      "native": "mono",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "MANG-ki",
+      "en": "monkey",
+      "es": "mono"
+    },
+    {
+      "target": "giraffe",
+      "native": "jirafa",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "yer-AF",
+      "en": "giraffe",
+      "es": "jirafa"
+    },
+    {
+      "target": "snake",
+      "native": "serpiente",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "SNEIK",
+      "en": "snake",
+      "es": "serpiente"
+    },
+    {
+      "target": "spider",
+      "native": "araña",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "SPAI-der",
+      "en": "spider",
+      "es": "araña"
+    },
+    {
+      "target": "bee",
+      "native": "abeja",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "BII",
+      "en": "bee",
+      "es": "abeja"
+    },
+    {
+      "target": "butterfly",
+      "native": "mariposa",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "BA-ter-flai",
+      "en": "butterfly",
+      "es": "mariposa"
+    },
+    {
+      "target": "ant",
+      "native": "hormiga",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "ANT",
+      "en": "ant",
+      "es": "hormiga"
+    },
+    {
+      "target": "frog",
+      "native": "rana",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "FROG",
+      "en": "frog",
+      "es": "rana"
+    },
+    {
+      "target": "turtle",
+      "native": "tortuga",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "TER-tel",
+      "en": "turtle",
+      "es": "tortuga"
+    },
+    {
+      "target": "wolf",
+      "native": "lobo",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "UULF",
+      "en": "wolf",
+      "es": "lobo"
+    },
+    {
+      "target": "fox",
+      "native": "zorro",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "FOKS",
+      "en": "fox",
+      "es": "zorro"
+    },
+    {
+      "target": "deer",
+      "native": "ciervo",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "DIR",
+      "en": "deer",
+      "es": "ciervo"
+    },
+    {
+      "target": "whale",
+      "native": "ballena",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "UEIL",
+      "en": "whale",
+      "es": "ballena"
+    },
+    {
+      "target": "dolphin",
+      "native": "delfín",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "DOL-fen",
+      "en": "dolphin",
+      "es": "delfín"
+    },
+    {
+      "target": "shark",
+      "native": "tiburón",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "SHARK",
+      "en": "shark",
+      "es": "tiburón"
+    },
+    {
+      "target": "penguin",
+      "native": "pingüino",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "PENGG-uen",
+      "en": "penguin",
+      "es": "pingüino"
+    },
+    {
+      "target": "owl",
+      "native": "búho",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "AUL",
+      "en": "owl",
+      "es": "búho"
+    },
+    {
+      "target": "goat",
+      "native": "cabra",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "GOUT",
+      "en": "goat",
+      "es": "cabra"
+    },
+    {
+      "target": "pet",
+      "native": "mascota",
+      "unit": 4,
+      "category": "animal",
+      "phonetic": "PET",
+      "en": "pet",
+      "es": "mascota"
+    },
+    {
+      "target": "eraser",
+      "native": "goma de borrar",
+      "unit": 1,
+      "category": "school",
+      "phonetic": "i-REI-ser",
+      "en": "eraser",
+      "es": "goma de borrar"
+    },
+    {
+      "target": "ruler",
+      "native": "regla",
+      "unit": 1,
+      "category": "school",
+      "phonetic": "RUU-ler",
+      "en": "ruler",
+      "es": "regla"
+    },
+    {
+      "target": "scissors",
+      "native": "tijera",
+      "unit": 1,
+      "category": "school",
+      "phonetic": "SI-sers",
+      "en": "scissors",
+      "es": "tijera"
+    },
+    {
+      "target": "glue",
+      "native": "pegamento",
+      "unit": 1,
+      "category": "school",
+      "phonetic": "GLUU",
+      "en": "glue",
+      "es": "pegamento"
+    },
+    {
+      "target": "pencil case",
+      "native": "cartuchera",
+      "unit": 1,
+      "category": "school",
+      "phonetic": "PEN-sal-keis",
+      "en": "pencil case",
+      "es": "cartuchera"
+    },
+    {
+      "target": "desk",
+      "native": "pupitre / escritorio",
+      "unit": 1,
+      "category": "school",
+      "phonetic": "DESK",
+      "en": "desk",
+      "es": "pupitre / escritorio"
+    },
+    {
+      "target": "chair",
+      "native": "silla",
+      "unit": 1,
+      "category": "school",
+      "phonetic": "CHER",
+      "en": "chair",
+      "es": "silla"
+    },
+    {
+      "target": "blackboard",
+      "native": "pizarrón",
+      "unit": 1,
+      "category": "school",
+      "phonetic": "BLAK-bord",
+      "en": "blackboard",
+      "es": "pizarrón"
+    },
+    {
+      "target": "whiteboard",
+      "native": "pizarra blanca",
+      "unit": 1,
+      "category": "school",
+      "phonetic": "UAIT-bord",
+      "en": "whiteboard",
+      "es": "pizarra blanca"
+    },
+    {
+      "target": "chalk",
+      "native": "tiza",
+      "unit": 1,
+      "category": "school",
+      "phonetic": "CHOK",
+      "en": "chalk",
+      "es": "tiza"
+    },
+    {
+      "target": "homework",
+      "native": "tarea",
+      "unit": 1,
+      "category": "school",
+      "phonetic": "JOUM-uerk",
+      "en": "homework",
+      "es": "tarea"
+    },
+    {
+      "target": "exam",
+      "native": "examen",
+      "unit": 1,
+      "category": "school",
+      "phonetic": "ig-SAM",
+      "en": "exam",
+      "es": "examen"
+    },
+    {
+      "target": "grade",
+      "native": "nota",
+      "unit": 1,
+      "category": "school",
+      "phonetic": "GREID",
+      "en": "grade",
+      "es": "nota"
+    },
+    {
+      "target": "folder",
+      "native": "carpeta",
+      "unit": 1,
+      "category": "school",
+      "phonetic": "FOUL-der",
+      "en": "folder",
+      "es": "carpeta"
+    },
+    {
+      "target": "sheet",
+      "native": "hoja",
+      "unit": 1,
+      "category": "school",
+      "phonetic": "SHIIT",
+      "en": "sheet",
+      "es": "hoja"
+    },
+    {
+      "target": "dictionary",
+      "native": "diccionario",
+      "unit": 1,
+      "category": "school",
+      "phonetic": "DIK-sha-ne-ri",
+      "en": "dictionary",
+      "es": "diccionario"
+    },
+    {
+      "target": "break",
+      "native": "recreo",
+      "unit": 1,
+      "category": "school",
+      "phonetic": "BREIK",
+      "en": "break",
+      "es": "recreo"
+    },
+    {
+      "target": "subject",
+      "native": "materia",
+      "unit": 1,
+      "category": "school",
+      "phonetic": "sab-YEKT",
+      "en": "subject",
+      "es": "materia"
+    },
+    {
+      "target": "marker",
+      "native": "marcador",
+      "unit": 1,
+      "category": "school",
+      "phonetic": "MAR-ker",
+      "en": "marker",
+      "es": "marcador"
+    },
+    {
+      "target": "flat",
+      "native": "departamento",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "FLAT",
+      "en": "flat",
+      "es": "departamento"
+    },
+    {
+      "target": "room",
+      "native": "habitación / cuarto",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "RUUM",
+      "en": "room",
+      "es": "habitación / cuarto"
+    },
+    {
+      "target": "bedroom",
+      "native": "dormitorio",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "BE-drum",
+      "en": "bedroom",
+      "es": "dormitorio"
+    },
+    {
+      "target": "bathroom",
+      "native": "baño",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "BAZ-rum",
+      "en": "bathroom",
+      "es": "baño"
+    },
+    {
+      "target": "living room",
+      "native": "living / sala",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "LI-ving-ruum",
+      "en": "living room",
+      "es": "living / sala"
+    },
+    {
+      "target": "dining room",
+      "native": "comedor",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "DAI-ning-ruum",
+      "en": "dining room",
+      "es": "comedor"
+    },
+    {
+      "target": "garage",
+      "native": "garaje",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "ger-OSH",
+      "en": "garage",
+      "es": "garaje"
+    },
+    {
+      "target": "balcony",
+      "native": "balcón",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "BAL-ka-ni",
+      "en": "balcony",
+      "es": "balcón"
+    },
+    {
+      "target": "door",
+      "native": "puerta",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "DOR",
+      "en": "door",
+      "es": "puerta"
+    },
+    {
+      "target": "window",
+      "native": "ventana",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "UIN-dou",
+      "en": "window",
+      "es": "ventana"
+    },
+    {
+      "target": "wall",
+      "native": "pared",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "UOL",
+      "en": "wall",
+      "es": "pared"
+    },
+    {
+      "target": "floor",
+      "native": "piso",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "FLOR",
+      "en": "floor",
+      "es": "piso"
+    },
+    {
+      "target": "ceiling",
+      "native": "techo",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "SII-ling",
+      "en": "ceiling",
+      "es": "techo"
+    },
+    {
+      "target": "roof",
+      "native": "techo exterior",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "RUUF",
+      "en": "roof",
+      "es": "techo exterior"
+    },
+    {
+      "target": "stairs",
+      "native": "escalera",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "STERS",
+      "en": "stairs",
+      "es": "escalera"
+    },
+    {
+      "target": "lift",
+      "native": "ascensor",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "LIFT",
+      "en": "lift",
+      "es": "ascensor"
+    },
+    {
+      "target": "lock",
+      "native": "cerradura",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "LOK",
+      "en": "lock",
+      "es": "cerradura"
+    },
+    {
+      "target": "bell",
+      "native": "timbre",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "BEL",
+      "en": "bell",
+      "es": "timbre"
+    },
+    {
+      "target": "furniture",
+      "native": "muebles",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "FER-ni-cher",
+      "en": "furniture",
+      "es": "muebles"
+    },
+    {
+      "target": "sofa",
+      "native": "sillón / sofá",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "SOU-fe",
+      "en": "sofa",
+      "es": "sillón / sofá"
+    },
+    {
+      "target": "shelf",
+      "native": "estante",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "SHELF",
+      "en": "shelf",
+      "es": "estante"
+    },
+    {
+      "target": "wardrobe",
+      "native": "placard / ropero",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "UOR-droub",
+      "en": "wardrobe",
+      "es": "placard / ropero"
+    },
+    {
+      "target": "curtain",
+      "native": "cortina",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "KER-ten",
+      "en": "curtain",
+      "es": "cortina"
+    },
+    {
+      "target": "lamp",
+      "native": "lámpara",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "LAMP",
+      "en": "lamp",
+      "es": "lámpara"
+    },
+    {
+      "target": "drawer",
+      "native": "cajón",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "DROR",
+      "en": "drawer",
+      "es": "cajón"
+    },
+    {
+      "target": "pillow",
+      "native": "almohada",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "PI-lou",
+      "en": "pillow",
+      "es": "almohada"
+    },
+    {
+      "target": "blanket",
+      "native": "manta / frazada",
+      "unit": 5,
+      "category": "house",
+      "phonetic": "BLANG-ket",
+      "en": "blanket",
+      "es": "manta / frazada"
+    },
+    {
+      "target": "plate",
+      "native": "plato",
+      "unit": 6,
+      "category": "kitchen",
+      "phonetic": "PLEIT",
+      "en": "plate",
+      "es": "plato"
+    },
+    {
+      "target": "bowl",
+      "native": "bol / cuenco",
+      "unit": 6,
+      "category": "kitchen",
+      "phonetic": "BOUL",
+      "en": "bowl",
+      "es": "bol / cuenco"
+    },
+    {
+      "target": "cup",
+      "native": "taza",
+      "unit": 6,
+      "category": "kitchen",
+      "phonetic": "KAP",
+      "en": "cup",
+      "es": "taza"
+    },
+    {
+      "target": "mug",
+      "native": "jarro / taza grande",
+      "unit": 6,
+      "category": "kitchen",
+      "phonetic": "MAG",
+      "en": "mug",
+      "es": "jarro / taza grande"
+    },
+    {
+      "target": "glass",
+      "native": "vaso",
+      "unit": 6,
+      "category": "kitchen",
+      "phonetic": "GLAS",
+      "en": "glass",
+      "es": "vaso"
+    },
+    {
+      "target": "fork",
+      "native": "tenedor",
+      "unit": 6,
+      "category": "kitchen",
+      "phonetic": "FORK",
+      "en": "fork",
+      "es": "tenedor"
+    },
+    {
+      "target": "knife",
+      "native": "cuchillo",
+      "unit": 6,
+      "category": "kitchen",
+      "phonetic": "NAIF",
+      "en": "knife",
+      "es": "cuchillo"
+    },
+    {
+      "target": "spoon",
+      "native": "cuchara",
+      "unit": 6,
+      "category": "kitchen",
+      "phonetic": "SPUUN",
+      "en": "spoon",
+      "es": "cuchara"
+    },
+    {
+      "target": "teaspoon",
+      "native": "cucharita",
+      "unit": 6,
+      "category": "kitchen",
+      "phonetic": "TII-spun",
+      "en": "teaspoon",
+      "es": "cucharita"
+    },
+    {
+      "target": "cutlery",
+      "native": "cubiertos",
+      "unit": 6,
+      "category": "kitchen",
+      "phonetic": "KAT-ler-i",
+      "en": "cutlery",
+      "es": "cubiertos"
+    },
+    {
+      "target": "napkin",
+      "native": "servilleta",
+      "unit": 6,
+      "category": "kitchen",
+      "phonetic": "NAP-kin",
+      "en": "napkin",
+      "es": "servilleta"
+    },
+    {
+      "target": "tablecloth",
+      "native": "mantel",
+      "unit": 6,
+      "category": "kitchen",
+      "phonetic": "TEI-bal-kloz",
+      "en": "tablecloth",
+      "es": "mantel"
+    },
+    {
+      "target": "pan",
+      "native": "sartén",
+      "unit": 6,
+      "category": "kitchen",
+      "phonetic": "PAN",
+      "en": "pan",
+      "es": "sartén"
+    },
+    {
+      "target": "pot",
+      "native": "olla",
+      "unit": 6,
+      "category": "kitchen",
+      "phonetic": "POT",
+      "en": "pot",
+      "es": "olla"
+    },
+    {
+      "target": "lid",
+      "native": "tapa",
+      "unit": 6,
+      "category": "kitchen",
+      "phonetic": "LID",
+      "en": "lid",
+      "es": "tapa"
+    },
+    {
+      "target": "tray",
+      "native": "bandeja",
+      "unit": 6,
+      "category": "kitchen",
+      "phonetic": "TREI",
+      "en": "tray",
+      "es": "bandeja"
+    },
+    {
+      "target": "jug",
+      "native": "jarra",
+      "unit": 6,
+      "category": "kitchen",
+      "phonetic": "YAG",
+      "en": "jug",
+      "es": "jarra"
+    },
+    {
+      "target": "bottle",
+      "native": "botella",
+      "unit": 6,
+      "category": "kitchen",
+      "phonetic": "BO-tel",
+      "en": "bottle",
+      "es": "botella"
+    },
+    {
+      "target": "can",
+      "native": "lata",
+      "unit": 6,
+      "category": "kitchen",
+      "phonetic": "KAN",
+      "en": "can",
+      "es": "lata"
+    },
+    {
+      "target": "sink",
+      "native": "pileta / fregadero",
+      "unit": 6,
+      "category": "kitchen",
+      "phonetic": "SINGK",
+      "en": "sink",
+      "es": "pileta / fregadero"
+    },
+    {
+      "target": "tap",
+      "native": "canilla / grifo",
+      "unit": 6,
+      "category": "kitchen",
+      "phonetic": "TAP",
+      "en": "tap",
+      "es": "canilla / grifo"
+    },
+    {
+      "target": "sponge",
+      "native": "esponja",
+      "unit": 6,
+      "category": "kitchen",
+      "phonetic": "SPANY",
+      "en": "sponge",
+      "es": "esponja"
+    },
+    {
+      "target": "rubbish",
+      "native": "basura",
+      "unit": 6,
+      "category": "kitchen",
+      "phonetic": "RA-bish",
+      "en": "rubbish",
+      "es": "basura"
+    },
+    {
+      "target": "apron",
+      "native": "delantal",
+      "unit": 6,
+      "category": "kitchen",
+      "phonetic": "EI-pren",
+      "en": "apron",
+      "es": "delantal"
+    },
+    {
+      "target": "fridge",
+      "native": "heladera / nevera",
+      "unit": 7,
+      "category": "appliance",
+      "phonetic": "FRIY",
+      "en": "fridge",
+      "es": "heladera / nevera"
+    },
+    {
+      "target": "freezer",
+      "native": "freezer / congelador",
+      "unit": 7,
+      "category": "appliance",
+      "phonetic": "FRII-ser",
+      "en": "freezer",
+      "es": "freezer / congelador"
+    },
+    {
+      "target": "oven",
+      "native": "horno",
+      "unit": 7,
+      "category": "appliance",
+      "phonetic": "A-ven",
+      "en": "oven",
+      "es": "horno"
+    },
+    {
+      "target": "microwave",
+      "native": "microondas",
+      "unit": 7,
+      "category": "appliance",
+      "phonetic": "MAI-kra-ueiv",
+      "en": "microwave",
+      "es": "microondas"
+    },
+    {
+      "target": "stove",
+      "native": "cocina / estufa",
+      "unit": 7,
+      "category": "appliance",
+      "phonetic": "STOUV",
+      "en": "stove",
+      "es": "cocina / estufa"
+    },
+    {
+      "target": "toaster",
+      "native": "tostadora",
+      "unit": 7,
+      "category": "appliance",
+      "phonetic": "TOU-ster",
+      "en": "toaster",
+      "es": "tostadora"
+    },
+    {
+      "target": "kettle",
+      "native": "pava eléctrica",
+      "unit": 7,
+      "category": "appliance",
+      "phonetic": "KE-tel",
+      "en": "kettle",
+      "es": "pava eléctrica"
+    },
+    {
+      "target": "blender",
+      "native": "licuadora",
+      "unit": 7,
+      "category": "appliance",
+      "phonetic": "BLEN-der",
+      "en": "blender",
+      "es": "licuadora"
+    },
+    {
+      "target": "dishwasher",
+      "native": "lavavajillas",
+      "unit": 7,
+      "category": "appliance",
+      "phonetic": "DISH-uo-sher",
+      "en": "dishwasher",
+      "es": "lavavajillas"
+    },
+    {
+      "target": "washing machine",
+      "native": "lavarropas",
+      "unit": 7,
+      "category": "appliance",
+      "phonetic": "UO-shing-ma-shiin",
+      "en": "washing machine",
+      "es": "lavarropas"
+    },
+    {
+      "target": "dryer",
+      "native": "secarropas",
+      "unit": 7,
+      "category": "appliance",
+      "phonetic": "DRAI-er",
+      "en": "dryer",
+      "es": "secarropas"
+    },
+    {
+      "target": "vacuum cleaner",
+      "native": "aspiradora",
+      "unit": 7,
+      "category": "appliance",
+      "phonetic": "VAK-ium-klii-ner",
+      "en": "vacuum cleaner",
+      "es": "aspiradora"
+    },
+    {
+      "target": "iron",
+      "native": "plancha",
+      "unit": 7,
+      "category": "appliance",
+      "phonetic": "AI-ern",
+      "en": "iron",
+      "es": "plancha"
+    },
+    {
+      "target": "heater",
+      "native": "estufa / calefactor",
+      "unit": 7,
+      "category": "appliance",
+      "phonetic": "JII-ter",
+      "en": "heater",
+      "es": "estufa / calefactor"
+    },
+    {
+      "target": "fan",
+      "native": "ventilador",
+      "unit": 7,
+      "category": "appliance",
+      "phonetic": "FAN",
+      "en": "fan",
+      "es": "ventilador"
+    },
+    {
+      "target": "air conditioner",
+      "native": "aire acondicionado",
+      "unit": 7,
+      "category": "appliance",
+      "phonetic": "ER-kan-di-sha-ner",
+      "en": "air conditioner",
+      "es": "aire acondicionado"
+    },
+    {
+      "target": "television",
+      "native": "televisor",
+      "unit": 7,
+      "category": "appliance",
+      "phonetic": "TE-la-vi-shen",
+      "en": "television",
+      "es": "televisor"
+    },
+    {
+      "target": "remote control",
+      "native": "control remoto",
+      "unit": 7,
+      "category": "appliance",
+      "phonetic": "ri-MOUT-kan-troul",
+      "en": "remote control",
+      "es": "control remoto"
+    },
+    {
+      "target": "socket",
+      "native": "enchufe",
+      "unit": 7,
+      "category": "appliance",
+      "phonetic": "SO-ket",
+      "en": "socket",
+      "es": "enchufe"
+    },
+    {
+      "target": "switch",
+      "native": "interruptor",
+      "unit": 7,
+      "category": "appliance",
+      "phonetic": "SUICH",
+      "en": "switch",
+      "es": "interruptor"
+    },
+    {
+      "target": "computer",
+      "native": "computadora",
+      "unit": 8,
+      "category": "technology",
+      "phonetic": "kamp-IUU-ter",
+      "en": "computer",
+      "es": "computadora"
+    },
+    {
+      "target": "mouse pad",
+      "native": "mouse pad",
+      "unit": 8,
+      "category": "technology",
+      "phonetic": "MAU-spad",
+      "en": "mouse pad",
+      "es": "mouse pad"
+    },
+    {
+      "target": "file",
+      "native": "archivo",
+      "unit": 8,
+      "category": "technology",
+      "phonetic": "FAIL",
+      "en": "file",
+      "es": "archivo"
+    },
+    {
+      "target": "link",
+      "native": "enlace",
+      "unit": 8,
+      "category": "technology",
+      "phonetic": "LINGK",
+      "en": "link",
+      "es": "enlace"
+    },
+    {
+      "target": "search",
+      "native": "buscar",
+      "unit": 8,
+      "category": "technology",
+      "phonetic": "SERCH",
+      "en": "search",
+      "es": "buscar"
+    },
+    {
+      "target": "click",
+      "native": "hacer clic",
+      "unit": 8,
+      "category": "technology",
+      "phonetic": "KLIK",
+      "en": "click",
+      "es": "hacer clic"
+    },
+    {
+      "target": "scroll",
+      "native": "desplazar",
+      "unit": 8,
+      "category": "technology",
+      "phonetic": "SKROUL",
+      "en": "scroll",
+      "es": "desplazar"
+    },
+    {
+      "target": "share",
+      "native": "compartir",
+      "unit": 8,
+      "category": "technology",
+      "phonetic": "SHER",
+      "en": "share",
+      "es": "compartir"
+    },
+    {
+      "target": "storage",
+      "native": "almacenamiento",
+      "unit": 8,
+      "category": "technology",
+      "phonetic": "STO-rey",
+      "en": "storage",
+      "es": "almacenamiento"
+    },
+    {
+      "target": "signal",
+      "native": "señal",
+      "unit": 8,
+      "category": "technology",
+      "phonetic": "SIG-nel",
+      "en": "signal",
+      "es": "señal"
+    },
+    {
+      "target": "train",
+      "native": "tren",
+      "unit": 9,
+      "category": "vehicle",
+      "phonetic": "TREIN",
+      "en": "train",
+      "es": "tren"
+    },
+    {
+      "target": "motorcycle",
+      "native": "moto",
+      "unit": 9,
+      "category": "vehicle",
+      "phonetic": "MOU-ter-sai-kel",
+      "en": "motorcycle",
+      "es": "moto"
+    },
+    {
+      "target": "truck",
+      "native": "camión",
+      "unit": 9,
+      "category": "vehicle",
+      "phonetic": "TRAK",
+      "en": "truck",
+      "es": "camión"
+    },
+    {
+      "target": "van",
+      "native": "camioneta",
+      "unit": 9,
+      "category": "vehicle",
+      "phonetic": "VAN",
+      "en": "van",
+      "es": "camioneta"
+    },
+    {
+      "target": "taxi",
+      "native": "taxi",
+      "unit": 9,
+      "category": "vehicle",
+      "phonetic": "TAK-si",
+      "en": "taxi",
+      "es": "taxi"
+    },
+    {
+      "target": "boat",
+      "native": "bote / barco",
+      "unit": 9,
+      "category": "vehicle",
+      "phonetic": "BOUT",
+      "en": "boat",
+      "es": "bote / barco"
+    },
+    {
+      "target": "ship",
+      "native": "barco grande",
+      "unit": 9,
+      "category": "vehicle",
+      "phonetic": "SHIP",
+      "en": "ship",
+      "es": "barco grande"
+    },
+    {
+      "target": "helicopter",
+      "native": "helicóptero",
+      "unit": 9,
+      "category": "vehicle",
+      "phonetic": "JE-li-kop-ter",
+      "en": "helicopter",
+      "es": "helicóptero"
+    },
+    {
+      "target": "subway",
+      "native": "subte / metro",
+      "unit": 9,
+      "category": "vehicle",
+      "phonetic": "SAB-uei",
+      "en": "subway",
+      "es": "subte / metro"
+    },
+    {
+      "target": "scooter",
+      "native": "monopatín",
+      "unit": 9,
+      "category": "vehicle",
+      "phonetic": "SKUU-ter",
+      "en": "scooter",
+      "es": "monopatín"
+    },
+    {
+      "target": "wheel",
+      "native": "rueda",
+      "unit": 9,
+      "category": "vehicle",
+      "phonetic": "UIIL",
+      "en": "wheel",
+      "es": "rueda"
+    },
+    {
+      "target": "engine",
+      "native": "motor",
+      "unit": 9,
+      "category": "vehicle",
+      "phonetic": "EN-yen",
+      "en": "engine",
+      "es": "motor"
+    },
+    {
+      "target": "brake",
+      "native": "freno",
+      "unit": 9,
+      "category": "vehicle",
+      "phonetic": "BREIK",
+      "en": "brake",
+      "es": "freno"
+    },
+    {
+      "target": "seatbelt",
+      "native": "cinturón de seguridad",
+      "unit": 9,
+      "category": "vehicle",
+      "phonetic": "SIIT-belt",
+      "en": "seatbelt",
+      "es": "cinturón de seguridad"
+    },
+    {
+      "target": "petrol",
+      "native": "nafta / gasolina",
+      "unit": 9,
+      "category": "vehicle",
+      "phonetic": "PE-troul",
+      "en": "petrol",
+      "es": "nafta / gasolina"
+    },
+    {
+      "target": "driver",
+      "native": "conductor",
+      "unit": 9,
+      "category": "vehicle",
+      "phonetic": "DRAI-ver",
+      "en": "driver",
+      "es": "conductor"
+    },
+    {
+      "target": "parking",
+      "native": "estacionamiento",
+      "unit": 9,
+      "category": "vehicle",
+      "phonetic": "PAR-king",
+      "en": "parking",
+      "es": "estacionamiento"
+    },
+    {
+      "target": "hill",
+      "native": "colina / cerro",
+      "unit": 10,
+      "category": "nature",
+      "phonetic": "JIL",
+      "en": "hill",
+      "es": "colina / cerro"
+    },
+    {
+      "target": "field",
+      "native": "campo",
+      "unit": 10,
+      "category": "nature",
+      "phonetic": "FIILD",
+      "en": "field",
+      "es": "campo"
+    },
+    {
+      "target": "moon",
+      "native": "luna",
+      "unit": 10,
+      "category": "nature",
+      "phonetic": "MUUN",
+      "en": "moon",
+      "es": "luna"
+    },
+    {
+      "target": "star",
+      "native": "estrella",
+      "unit": 10,
+      "category": "nature",
+      "phonetic": "STAR",
+      "en": "star",
+      "es": "estrella"
+    },
+    {
+      "target": "cloud",
+      "native": "nube",
+      "unit": 10,
+      "category": "nature",
+      "phonetic": "KLAUD",
+      "en": "cloud",
+      "es": "nube"
+    },
+    {
+      "target": "wind",
+      "native": "viento",
+      "unit": 10,
+      "category": "nature",
+      "phonetic": "UAIND",
+      "en": "wind",
+      "es": "viento"
+    },
+    {
+      "target": "storm",
+      "native": "tormenta",
+      "unit": 10,
+      "category": "nature",
+      "phonetic": "STORM",
+      "en": "storm",
+      "es": "tormenta"
+    },
+    {
+      "target": "flower",
+      "native": "flor",
+      "unit": 10,
+      "category": "nature",
+      "phonetic": "FLAU-er",
+      "en": "flower",
+      "es": "flor"
+    },
+    {
+      "target": "grass",
+      "native": "pasto / césped",
+      "unit": 10,
+      "category": "nature",
+      "phonetic": "GRAS",
+      "en": "grass",
+      "es": "pasto / césped"
+    },
+    {
+      "target": "leaf",
+      "native": "hoja",
+      "unit": 10,
+      "category": "nature",
+      "phonetic": "LIIF",
+      "en": "leaf",
+      "es": "hoja"
+    },
+    {
+      "target": "stone",
+      "native": "piedra",
+      "unit": 10,
+      "category": "nature",
+      "phonetic": "STOUN",
+      "en": "stone",
+      "es": "piedra"
+    },
+    {
+      "target": "sand",
+      "native": "arena",
+      "unit": 10,
+      "category": "nature",
+      "phonetic": "SAND",
+      "en": "sand",
+      "es": "arena"
+    },
+    {
+      "target": "landscape",
+      "native": "paisaje",
+      "unit": 10,
+      "category": "nature",
+      "phonetic": "LAND-skeip",
+      "en": "landscape",
+      "es": "paisaje"
+    },
+    {
+      "target": "sunset",
+      "native": "atardecer",
+      "unit": 10,
+      "category": "nature",
+      "phonetic": "SAN-set",
+      "en": "sunset",
+      "es": "atardecer"
+    },
+    {
+      "target": "sunrise",
+      "native": "amanecer",
+      "unit": 10,
+      "category": "nature",
+      "phonetic": "SAN-rais",
+      "en": "sunrise",
+      "es": "amanecer"
+    },
+    {
+      "target": "weights",
+      "native": "pesas",
+      "unit": 6,
+      "category": "gym",
+      "phonetic": "UEITS",
+      "en": "weights",
+      "es": "pesas"
+    },
+    {
+      "target": "treadmill",
+      "native": "cinta de correr",
+      "unit": 6,
+      "category": "gym",
+      "phonetic": "TRED-mil",
+      "en": "treadmill",
+      "es": "cinta de correr"
+    },
+    {
+      "target": "mat",
+      "native": "colchoneta",
+      "unit": 6,
+      "category": "gym",
+      "phonetic": "MAT",
+      "en": "mat",
+      "es": "colchoneta"
+    },
+    {
+      "target": "strength",
+      "native": "fuerza",
+      "unit": 6,
+      "category": "gym",
+      "phonetic": "STRENGKZ",
+      "en": "strength",
+      "es": "fuerza"
+    },
+    {
+      "target": "warm-up",
+      "native": "entrada en calor",
+      "unit": 6,
+      "category": "gym",
+      "phonetic": "UOR-map",
+      "en": "warm-up",
+      "es": "entrada en calor"
+    },
+    {
+      "target": "workout",
+      "native": "rutina de ejercicio",
+      "unit": 6,
+      "category": "gym",
+      "phonetic": "UER-kaut",
+      "en": "workout",
+      "es": "rutina de ejercicio"
+    },
+    {
+      "target": "push-up",
+      "native": "flexión de brazos",
+      "unit": 6,
+      "category": "gym",
+      "phonetic": "PU-shap",
+      "en": "push-up",
+      "es": "flexión de brazos"
+    },
+    {
+      "target": "sit-up",
+      "native": "abdominal",
+      "unit": 6,
+      "category": "gym",
+      "phonetic": "SI-tap",
+      "en": "sit-up",
+      "es": "abdominal"
+    },
+    {
+      "target": "jog",
+      "native": "trotar",
+      "unit": 6,
+      "category": "gym",
+      "phonetic": "YOG",
+      "en": "jog",
+      "es": "trotar"
+    },
+    {
+      "target": "sweat",
+      "native": "transpirar",
+      "unit": 6,
+      "category": "gym",
+      "phonetic": "SUET",
+      "en": "sweat",
+      "es": "transpirar"
+    },
+    {
+      "target": "towel",
+      "native": "toalla",
+      "unit": 6,
+      "category": "gym",
+      "phonetic": "TAU-el",
+      "en": "towel",
+      "es": "toalla"
+    },
+    {
+      "target": "locker",
+      "native": "casillero",
+      "unit": 6,
+      "category": "gym",
+      "phonetic": "LO-ker",
+      "en": "locker",
+      "es": "casillero"
+    },
+    {
+      "target": "trainer",
+      "native": "zapatilla deportiva",
+      "unit": 6,
+      "category": "gym",
+      "phonetic": "TREI-ner",
+      "en": "trainer",
+      "es": "zapatilla deportiva"
+    },
+    {
+      "target": "routine",
+      "native": "rutina",
+      "unit": 6,
+      "category": "gym",
+      "phonetic": "ru-TIIN",
+      "en": "routine",
+      "es": "rutina"
+    },
+    {
+      "target": "the",
+      "native": "el / la / los / las",
+      "unit": 1,
+      "category": "article",
+      "phonetic": "DE",
+      "en": "the",
+      "es": "el / la / los / las"
+    },
+    {
+      "target": "a",
+      "native": "un / una",
+      "unit": 1,
+      "category": "article",
+      "phonetic": "E",
+      "en": "a",
+      "es": "un / una"
+    },
+    {
+      "target": "an",
+      "native": "un / una (antes de vocal)",
+      "unit": 1,
+      "category": "article",
+      "phonetic": "AN",
+      "en": "an",
+      "es": "un / una (antes de vocal)"
+    },
+    {
+      "target": "some",
+      "native": "algo de / unos",
+      "unit": 1,
+      "category": "article",
+      "phonetic": "SAM",
+      "en": "some",
+      "es": "algo de / unos"
+    },
+    {
+      "target": "any",
+      "native": "algún / nada de (en preguntas y negaciones)",
+      "unit": 1,
+      "category": "article",
+      "phonetic": "E-ni",
+      "en": "any",
+      "es": "algún / nada de (en preguntas y negaciones)"
+    },
+    {
+      "target": "I",
+      "native": "yo",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "AI",
+      "en": "I",
+      "es": "yo"
+    },
+    {
+      "target": "you",
+      "native": "vos / tú / ustedes",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "IUU",
+      "en": "you",
+      "es": "vos / tú / ustedes"
+    },
+    {
+      "target": "he",
+      "native": "él",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "JII",
+      "en": "he",
+      "es": "él"
+    },
+    {
+      "target": "she",
+      "native": "ella",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "SHII",
+      "en": "she",
+      "es": "ella"
+    },
+    {
+      "target": "it",
+      "native": "eso (cosas y animales)",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "IT",
+      "en": "it",
+      "es": "eso (cosas y animales)"
+    },
+    {
+      "target": "we",
+      "native": "nosotros",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "UII",
+      "en": "we",
+      "es": "nosotros"
+    },
+    {
+      "target": "they",
+      "native": "ellos / ellas",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "DEI",
+      "en": "they",
+      "es": "ellos / ellas"
+    },
+    {
+      "target": "me",
+      "native": "me / a mí",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "MII",
+      "en": "me",
+      "es": "me / a mí"
+    },
+    {
+      "target": "him",
+      "native": "lo / le / a él",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "JIM",
+      "en": "him",
+      "es": "lo / le / a él"
+    },
+    {
+      "target": "her",
+      "native": "la / le / a ella",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "JER",
+      "en": "her",
+      "es": "la / le / a ella"
+    },
+    {
+      "target": "us",
+      "native": "nos / a nosotros",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "AS",
+      "en": "us",
+      "es": "nos / a nosotros"
+    },
+    {
+      "target": "them",
+      "native": "los / les / a ellos",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "DEM",
+      "en": "them",
+      "es": "los / les / a ellos"
+    },
+    {
+      "target": "my",
+      "native": "mi",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "MAI",
+      "en": "my",
+      "es": "mi"
+    },
+    {
+      "target": "your",
+      "native": "tu / su",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "IOR",
+      "en": "your",
+      "es": "tu / su"
+    },
+    {
+      "target": "his",
+      "native": "su (de él)",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "JIS",
+      "en": "his",
+      "es": "su (de él)"
+    },
+    {
+      "target": "its",
+      "native": "su (de eso)",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "ITS",
+      "en": "its",
+      "es": "su (de eso)"
+    },
+    {
+      "target": "our",
+      "native": "nuestro",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "AU-er",
+      "en": "our",
+      "es": "nuestro"
+    },
+    {
+      "target": "their",
+      "native": "su (de ellos)",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "DER",
+      "en": "their",
+      "es": "su (de ellos)"
+    },
+    {
+      "target": "mine",
+      "native": "mío",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "MAIN",
+      "en": "mine",
+      "es": "mío"
+    },
+    {
+      "target": "yours",
+      "native": "tuyo / suyo",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "IURS",
+      "en": "yours",
+      "es": "tuyo / suyo"
+    },
+    {
+      "target": "hers",
+      "native": "de ella",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "JERS",
+      "en": "hers",
+      "es": "de ella"
+    },
+    {
+      "target": "ours",
+      "native": "nuestro",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "AU-ers",
+      "en": "ours",
+      "es": "nuestro"
+    },
+    {
+      "target": "theirs",
+      "native": "de ellos",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "DERS",
+      "en": "theirs",
+      "es": "de ellos"
+    },
+    {
+      "target": "myself",
+      "native": "yo mismo",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "mai-SELF",
+      "en": "myself",
+      "es": "yo mismo"
+    },
+    {
+      "target": "yourself",
+      "native": "vos mismo",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "ier-SELF",
+      "en": "yourself",
+      "es": "vos mismo"
+    },
+    {
+      "target": "someone",
+      "native": "alguien",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "SAM-uen",
+      "en": "someone",
+      "es": "alguien"
+    },
+    {
+      "target": "anyone",
+      "native": "cualquiera / alguien",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "E-ni-uen",
+      "en": "anyone",
+      "es": "cualquiera / alguien"
+    },
+    {
+      "target": "nobody",
+      "native": "nadie",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "NOU-bo-di",
+      "en": "nobody",
+      "es": "nadie"
+    },
+    {
+      "target": "something",
+      "native": "algo",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "SAM-zing",
+      "en": "something",
+      "es": "algo"
+    },
+    {
+      "target": "anything",
+      "native": "cualquier cosa",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "E-ni-zing",
+      "en": "anything",
+      "es": "cualquier cosa"
+    },
+    {
+      "target": "everything",
+      "native": "todo",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "EV-ri-zing",
+      "en": "everything",
+      "es": "todo"
+    },
+    {
+      "target": "nothing",
+      "native": "nada",
+      "unit": 1,
+      "category": "pronoun",
+      "phonetic": "NA-zing",
+      "en": "nothing",
+      "es": "nada"
+    },
+    {
+      "target": "what",
+      "native": "qué",
+      "unit": 2,
+      "category": "question",
+      "phonetic": "UAT",
+      "en": "what",
+      "es": "qué"
+    },
+    {
+      "target": "who",
+      "native": "quién",
+      "unit": 2,
+      "category": "question",
+      "phonetic": "JUU",
+      "en": "who",
+      "es": "quién"
+    },
+    {
+      "target": "where",
+      "native": "dónde",
+      "unit": 2,
+      "category": "question",
+      "phonetic": "UER",
+      "en": "where",
+      "es": "dónde"
+    },
+    {
+      "target": "when",
+      "native": "cuándo",
+      "unit": 2,
+      "category": "question",
+      "phonetic": "UEN",
+      "en": "when",
+      "es": "cuándo"
+    },
+    {
+      "target": "why",
+      "native": "por qué",
+      "unit": 2,
+      "category": "question",
+      "phonetic": "UAI",
+      "en": "why",
+      "es": "por qué"
+    },
+    {
+      "target": "how",
+      "native": "cómo",
+      "unit": 2,
+      "category": "question",
+      "phonetic": "JAU",
+      "en": "how",
+      "es": "cómo"
+    },
+    {
+      "target": "which",
+      "native": "cuál",
+      "unit": 2,
+      "category": "question",
+      "phonetic": "UICH",
+      "en": "which",
+      "es": "cuál"
+    },
+    {
+      "target": "whose",
+      "native": "de quién",
+      "unit": 2,
+      "category": "question",
+      "phonetic": "JUUS",
+      "en": "whose",
+      "es": "de quién"
+    },
+    {
+      "target": "whom",
+      "native": "a quién",
+      "unit": 2,
+      "category": "question",
+      "phonetic": "JUUM",
+      "en": "whom",
+      "es": "a quién"
+    },
+    {
+      "target": "how much",
+      "native": "cuánto (incontable)",
+      "unit": 2,
+      "category": "question",
+      "phonetic": "JAU-mach",
+      "en": "how much",
+      "es": "cuánto (incontable)"
+    },
+    {
+      "target": "how many",
+      "native": "cuántos (contable)",
+      "unit": 2,
+      "category": "question",
+      "phonetic": "JAU-me-ni",
+      "en": "how many",
+      "es": "cuántos (contable)"
+    },
+    {
+      "target": "how often",
+      "native": "cada cuánto",
+      "unit": 2,
+      "category": "question",
+      "phonetic": "JAU-o-fen",
+      "en": "how often",
+      "es": "cada cuánto"
+    },
+    {
+      "target": "how long",
+      "native": "cuánto tiempo",
+      "unit": 2,
+      "category": "question",
+      "phonetic": "JAU-long",
+      "en": "how long",
+      "es": "cuánto tiempo"
+    },
+    {
+      "target": "how far",
+      "native": "a qué distancia",
+      "unit": 2,
+      "category": "question",
+      "phonetic": "JAU-far",
+      "en": "how far",
+      "es": "a qué distancia"
+    },
+    {
+      "target": "how old",
+      "native": "qué edad",
+      "unit": 2,
+      "category": "question",
+      "phonetic": "JAU-ould",
+      "en": "how old",
+      "es": "qué edad"
+    },
+    {
+      "target": "and",
+      "native": "y",
+      "unit": 2,
+      "category": "connector",
+      "phonetic": "END",
+      "en": "and",
+      "es": "y"
+    },
+    {
+      "target": "but",
+      "native": "pero",
+      "unit": 2,
+      "category": "connector",
+      "phonetic": "BAT",
+      "en": "but",
+      "es": "pero"
+    },
+    {
+      "target": "or",
+      "native": "o",
+      "unit": 2,
+      "category": "connector",
+      "phonetic": "OR",
+      "en": "or",
+      "es": "o"
+    },
+    {
+      "target": "so",
+      "native": "así que",
+      "unit": 2,
+      "category": "connector",
+      "phonetic": "SOU",
+      "en": "so",
+      "es": "así que"
+    },
+    {
+      "target": "because",
+      "native": "porque",
+      "unit": 2,
+      "category": "connector",
+      "phonetic": "bi-KOS",
+      "en": "because",
+      "es": "porque"
+    },
+    {
+      "target": "although",
+      "native": "aunque",
+      "unit": 2,
+      "category": "connector",
+      "phonetic": "ol-DOU",
+      "en": "although",
+      "es": "aunque"
+    },
+    {
+      "target": "however",
+      "native": "sin embargo",
+      "unit": 2,
+      "category": "connector",
+      "phonetic": "jau-E-ver",
+      "en": "however",
+      "es": "sin embargo"
+    },
+    {
+      "target": "therefore",
+      "native": "por lo tanto",
+      "unit": 2,
+      "category": "connector",
+      "phonetic": "DER-for",
+      "en": "therefore",
+      "es": "por lo tanto"
+    },
+    {
+      "target": "while",
+      "native": "mientras",
+      "unit": 2,
+      "category": "connector",
+      "phonetic": "UAIL",
+      "en": "while",
+      "es": "mientras"
+    },
+    {
+      "target": "if",
+      "native": "si",
+      "unit": 2,
+      "category": "connector",
+      "phonetic": "IF",
+      "en": "if",
+      "es": "si"
+    },
+    {
+      "target": "unless",
+      "native": "a menos que",
+      "unit": 2,
+      "category": "connector",
+      "phonetic": "an-LES",
+      "en": "unless",
+      "es": "a menos que"
+    },
+    {
+      "target": "since",
+      "native": "desde que / ya que",
+      "unit": 2,
+      "category": "connector",
+      "phonetic": "SINS",
+      "en": "since",
+      "es": "desde que / ya que"
+    },
+    {
+      "target": "until",
+      "native": "hasta que",
+      "unit": 2,
+      "category": "connector",
+      "phonetic": "an-TIL",
+      "en": "until",
+      "es": "hasta que"
+    },
+    {
+      "target": "also",
+      "native": "también",
+      "unit": 2,
+      "category": "connector",
+      "phonetic": "OL-sou",
+      "en": "also",
+      "es": "también"
+    },
+    {
+      "target": "then",
+      "native": "entonces",
+      "unit": 2,
+      "category": "connector",
+      "phonetic": "DEN",
+      "en": "then",
+      "es": "entonces"
+    },
+    {
+      "target": "besides",
+      "native": "además",
+      "unit": 2,
+      "category": "connector",
+      "phonetic": "bi-SAIDS",
+      "en": "besides",
+      "es": "además"
+    },
+    {
+      "target": "instead",
+      "native": "en cambio",
+      "unit": 2,
+      "category": "connector",
+      "phonetic": "in-STED",
+      "en": "instead",
+      "es": "en cambio"
+    },
+    {
+      "target": "otherwise",
+      "native": "si no",
+      "unit": 2,
+      "category": "connector",
+      "phonetic": "A-der-uais",
+      "en": "otherwise",
+      "es": "si no"
+    },
+    {
+      "target": "though",
+      "native": "aunque",
+      "unit": 2,
+      "category": "connector",
+      "phonetic": "DOU",
+      "en": "though",
+      "es": "aunque"
+    },
+    {
+      "target": "whereas",
+      "native": "mientras que",
+      "unit": 2,
+      "category": "connector",
+      "phonetic": "ue-RAS",
+      "en": "whereas",
+      "es": "mientras que"
+    },
+    {
+      "target": "finally",
+      "native": "finalmente",
+      "unit": 2,
+      "category": "connector",
+      "phonetic": "FAI-na-li",
+      "en": "finally",
+      "es": "finalmente"
+    },
+    {
+      "target": "first",
+      "native": "primero",
+      "unit": 2,
+      "category": "connector",
+      "phonetic": "FERST",
+      "en": "first",
+      "es": "primero"
+    },
+    {
+      "target": "anyway",
+      "native": "de todos modos",
+      "unit": 2,
+      "category": "connector",
+      "phonetic": "E-ni-uei",
+      "en": "anyway",
+      "es": "de todos modos"
+    },
+    {
+      "target": "with",
+      "native": "con",
+      "unit": 3,
+      "category": "preposition",
+      "phonetic": "UID",
+      "en": "with",
+      "es": "con"
+    },
+    {
+      "target": "without",
+      "native": "sin",
+      "unit": 3,
+      "category": "preposition",
+      "phonetic": "ui-ZAUT",
+      "en": "without",
+      "es": "sin"
+    },
+    {
+      "target": "for",
+      "native": "para / por",
+      "unit": 3,
+      "category": "preposition",
+      "phonetic": "FOR",
+      "en": "for",
+      "es": "para / por"
+    },
+    {
+      "target": "about",
+      "native": "sobre / acerca de",
+      "unit": 3,
+      "category": "preposition",
+      "phonetic": "a-BAUT",
+      "en": "about",
+      "es": "sobre / acerca de"
+    },
+    {
+      "target": "over",
+      "native": "encima de",
+      "unit": 3,
+      "category": "preposition",
+      "phonetic": "OU-ver",
+      "en": "over",
+      "es": "encima de"
+    },
+    {
+      "target": "among",
+      "native": "entre (varios)",
+      "unit": 3,
+      "category": "preposition",
+      "phonetic": "a-MANG",
+      "en": "among",
+      "es": "entre (varios)"
+    },
+    {
+      "target": "through",
+      "native": "a través de",
+      "unit": 3,
+      "category": "preposition",
+      "phonetic": "ZRUU",
+      "en": "through",
+      "es": "a través de"
+    },
+    {
+      "target": "during",
+      "native": "durante",
+      "unit": 3,
+      "category": "preposition",
+      "phonetic": "DU-ring",
+      "en": "during",
+      "es": "durante"
+    },
+    {
+      "target": "above",
+      "native": "arriba de",
+      "unit": 3,
+      "category": "preposition",
+      "phonetic": "a-BAV",
+      "en": "above",
+      "es": "arriba de"
+    },
+    {
+      "target": "below",
+      "native": "debajo de",
+      "unit": 3,
+      "category": "preposition",
+      "phonetic": "bi-LOU",
+      "en": "below",
+      "es": "debajo de"
+    },
+    {
+      "target": "into",
+      "native": "hacia adentro de",
+      "unit": 3,
+      "category": "preposition",
+      "phonetic": "IN-tu",
+      "en": "into",
+      "es": "hacia adentro de"
+    },
+    {
+      "target": "onto",
+      "native": "sobre",
+      "unit": 3,
+      "category": "preposition",
+      "phonetic": "ON-tu",
+      "en": "onto",
+      "es": "sobre"
+    },
+    {
+      "target": "across",
+      "native": "a través de",
+      "unit": 3,
+      "category": "preposition",
+      "phonetic": "a-KROS",
+      "en": "across",
+      "es": "a través de"
+    },
+    {
+      "target": "along",
+      "native": "a lo largo de",
+      "unit": 3,
+      "category": "preposition",
+      "phonetic": "a-LONG",
+      "en": "along",
+      "es": "a lo largo de"
+    },
+    {
+      "target": "around",
+      "native": "alrededor de",
+      "unit": 3,
+      "category": "preposition",
+      "phonetic": "er-AUND",
+      "en": "around",
+      "es": "alrededor de"
+    },
+    {
+      "target": "against",
+      "native": "contra",
+      "unit": 3,
+      "category": "preposition",
+      "phonetic": "a-GENST",
+      "en": "against",
+      "es": "contra"
+    },
+    {
+      "target": "towards",
+      "native": "hacia",
+      "unit": 3,
+      "category": "preposition",
+      "phonetic": "ta-UORDS",
+      "en": "towards",
+      "es": "hacia"
+    },
+    {
+      "target": "inside",
+      "native": "adentro de",
+      "unit": 3,
+      "category": "preposition",
+      "phonetic": "in-SAID",
+      "en": "inside",
+      "es": "adentro de"
+    },
+    {
+      "target": "outside",
+      "native": "afuera de",
+      "unit": 3,
+      "category": "preposition",
+      "phonetic": "AUT-said",
+      "en": "outside",
+      "es": "afuera de"
+    },
+    {
+      "target": "beside",
+      "native": "al lado de",
+      "unit": 3,
+      "category": "preposition",
+      "phonetic": "bi-SAID",
+      "en": "beside",
+      "es": "al lado de"
+    },
+    {
+      "target": "colourful",
+      "native": "colorido",
+      "unit": 2,
+      "category": "colour",
+      "phonetic": "KA-ler-fel",
+      "en": "colourful",
+      "es": "colorido"
     }
   ]
 }
