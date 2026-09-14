@@ -2666,20 +2666,6 @@
       "topic": "present_simple_basic",
       "unit": 3,
       "type": "choose",
-      "question": "She ___ to school every day.",
-      "options": [
-        "go",
-        "goes",
-        "gos",
-        "do go"
-      ],
-      "answer": "goes",
-      "explanation": "Tercera persona singular: 'go' → 'goes'. Los verbos terminados en -o añaden -es."
-    },
-    {
-      "topic": "present_simple_basic",
-      "unit": 3,
-      "type": "choose",
       "question": "He ___ TV at night.",
       "options": [
         "watch",
@@ -12385,6 +12371,144 @@
         "He lost him phone.",
         "He lost his phone."
       ]
+    },
+    {
+      "topic": "narrative tenses",
+      "unit": 26,
+      "type": "choose",
+      "question": "By the time the letter arrived, she _____ the house for good.",
+      "options": [
+        "had left",
+        "left",
+        "was leaving",
+        "has left"
+      ],
+      "answer": "had left",
+      "explanation": "El pluscuamperfecto marca lo ANTERIOR a otro momento pasado: primero se fue, después llegó la carta."
+    },
+    {
+      "topic": "narrative tenses",
+      "unit": 26,
+      "type": "choose",
+      "question": "Rain _____ against the windows when the stranger knocked.",
+      "options": [
+        "was beating",
+        "beat",
+        "had beaten",
+        "beats"
+      ],
+      "answer": "was beating",
+      "explanation": "El pasado continuo pinta el fondo de la escena; el pasado simple (knocked) trae la acción que lo interrumpe."
+    },
+    {
+      "topic": "narrative tenses",
+      "unit": 26,
+      "type": "choose",
+      "question": "She realised she _____ for hours without noticing the cold.",
+      "options": [
+        "had been walking",
+        "was walking",
+        "has been walking",
+        "walked"
+      ],
+      "answer": "had been walking",
+      "explanation": "Pluscuamperfecto continuo: la acción venía ocurriendo antes de ese momento pasado y explica el estado (el frío)."
+    },
+    {
+      "topic": "narrative tenses",
+      "unit": 26,
+      "type": "error",
+      "question": "When he arrived, she already left.",
+      "answer": "When he arrived, she had already left.",
+      "explanation": "Lo que ocurre ANTES de otro pasado pide pluscuamperfecto: had already left."
+    },
+    {
+      "topic": "literary inversion",
+      "unit": 26,
+      "type": "choose",
+      "question": "Never before _____ such silence in the village.",
+      "options": [
+        "had there been",
+        "there had been",
+        "had been there",
+        "there was been"
+      ],
+      "answer": "had there been",
+      "explanation": "Tras un adverbio negativo al principio (never before) se invierte: auxiliar + sujeto. Acá el sujeto es 'there'."
+    },
+    {
+      "topic": "literary inversion",
+      "unit": 26,
+      "type": "fill",
+      "question": "_____ was his grief that he could not speak. (so great)",
+      "answer": "So great",
+      "explanation": "'So + adjetivo' al frente obliga a invertir: So great WAS his grief. Recurso enfático típico de la narrativa."
+    },
+    {
+      "topic": "literary inversion",
+      "unit": 26,
+      "type": "choose",
+      "question": "_____ the old woman, silent and unmoving.",
+      "options": [
+        "In the doorway stood",
+        "In the doorway stood there",
+        "In the doorway it stood",
+        "In the doorway was stood"
+      ],
+      "answer": "In the doorway stood",
+      "explanation": "Con un complemento de lugar al frente, el verbo va antes del sujeto (inversión locativa). Sirve para presentar algo nuevo en escena."
+    },
+    {
+      "topic": "literary inversion",
+      "unit": 26,
+      "type": "fill",
+      "question": "_____ it not for her diaries, the story would have been lost. (be)",
+      "answer": "Were",
+      "explanation": "'Were it not for' es la inversión formal de 'If it were not for'. Registro literario y formal."
+    },
+    {
+      "topic": "participle clauses",
+      "unit": 26,
+      "type": "choose",
+      "question": "_____ the last page, she closed the diary and wept.",
+      "options": [
+        "Having read",
+        "Having been read",
+        "After read",
+        "She read"
+      ],
+      "answer": "Having read",
+      "explanation": "'Having + participio' comprime dos acciones sucesivas del mismo sujeto: primero leyó, después cerró."
+    },
+    {
+      "topic": "participle clauses",
+      "unit": 26,
+      "type": "error",
+      "question": "Walking through the empty house, the memories came back to her.",
+      "answer": "Walking through the empty house, she felt the memories come back.",
+      "explanation": "El sujeto de la cláusula de participio tiene que ser el mismo de la principal. Tal como estaba, quien caminaba eran los recuerdos."
+    },
+    {
+      "topic": "reduced relative clauses",
+      "unit": 26,
+      "type": "fill",
+      "question": "The letters _____ (write) in prison were never delivered.",
+      "answer": "written",
+      "explanation": "Relativa reducida: 'that were written' se abrevia al participio 'written'. Muy usado en la descripción literaria."
+    },
+    {
+      "topic": "free indirect discourse",
+      "unit": 26,
+      "type": "choose",
+      "question": "In free indirect discourse, “She wondered: will he come tomorrow?” becomes:",
+      "options": [
+        "Would he come the next day?",
+        "Will he come tomorrow?",
+        "She asked if he will come tomorrow.",
+        "He would come the next day."
+      ],
+      "answer": "Would he come the next day?",
+      "explanation": "El estilo indirecto libre traslada el tiempo y los deícticos (will→would, tomorrow→the next day) pero conserva la voz del personaje, sin 'ella preguntó'."
     }
   ]
 }

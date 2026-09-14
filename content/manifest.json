@@ -11,20 +11,20 @@
       "l2_name": "Español",
       "title": "English → Español",
       "units": 30,
-      "size_kb": 1907,
+      "size_kb": 2441,
       "status": "ready",
       "missing_modules": []
     },
     {
       "id": "es-en",
-      "version": 8,
+      "version": 9,
       "l1": "es",
       "l2": "en",
       "l1_name": "Español",
       "l2_name": "English",
       "title": "Español → Inglés",
       "units": 30,
-      "size_kb": 3905,
+      "size_kb": 4212,
       "status": "ready",
       "missing_modules": []
     }

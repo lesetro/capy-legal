@@ -7849,15 +7849,6 @@
       "es": "intervención"
     },
     {
-      "target": "immutable",
-      "native": "inmutable",
-      "unit": 18,
-      "category": "adjective",
-      "phonetic": "im-IU-ta-bel",
-      "en": "immutable",
-      "es": "inmutable"
-    },
-    {
       "target": "governance",
       "native": "gobernanza",
       "unit": 19,
@@ -10268,15 +10259,6 @@
       "phonetic": "i-nek-UO-li-ti",
       "en": "inequality",
       "es": "desigualdad económica"
-    },
-    {
-      "target": "protectionism",
-      "native": "proteccionismo",
-      "unit": 24,
-      "category": "globalisation",
-      "phonetic": "pro-TEK-sho-ni-sam",
-      "en": "protectionism",
-      "es": "proteccionismo"
     },
     {
       "target": "capital flight",
@@ -15284,12 +15266,12 @@
     },
     {
       "target": "nurse",
-      "native": "enfermero/a",
+      "native": "enfermero / enfermera",
       "unit": 9,
       "category": "health",
       "phonetic": "NERS",
       "en": "nurse",
-      "es": "enfermero/a"
+      "es": "enfermero / enfermera"
     },
     {
       "target": "nutritionist",
@@ -18344,12 +18326,12 @@
     },
     {
       "target": "cut corners",
-      "native": "recortar gastos/pasos",
+      "native": "recortar gastos / recortar pasos",
       "unit": 12,
       "category": "plans",
       "phonetic": "KAT-KOR-ners",
       "en": "cut corners",
-      "es": "recortar gastos/pasos"
+      "es": "recortar gastos / recortar pasos"
     },
     {
       "target": "day-to-day planning",
@@ -42923,12 +42905,12 @@
     },
     {
       "target": "be glad to see the back of",
-      "native": "alegrarse de que algo/alguien se vaya",
+      "native": "alegrarse de que algo se vaya / alegrarse de que alguien se vaya",
       "unit": 29,
       "category": "idioms",
       "phonetic": "BII-GLAD-to-SII-the-BAK-of",
       "en": "be glad to see the back of",
-      "es": "alegrarse de que algo/alguien se vaya"
+      "es": "alegrarse de que algo se vaya / alegrarse de que alguien se vaya"
     },
     {
       "target": "beggars can't be choosers",
