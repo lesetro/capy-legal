@@ -3250,6 +3250,122 @@
       ]
     },
     {
+      "topic": "narrative tenses",
+      "unit": 26,
+      "kind": "grammar",
+      "title": "Tiempos narrativos",
+      "summary": "Los cuatro pasados que sostienen un relato y para qué sirve cada uno.",
+      "body": "Contar algo en inglés no se hace con un solo pasado: se hace con cuatro, y cada uno ocupa un plano distinto.\n\nEl **pasado simple** lleva la acción hacia adelante. Es la línea del relato: *she opened the door, crossed the hall and left*.\n\nEl **pasado continuo** pinta el fondo. No avanza nada: describe lo que ya estaba pasando cuando llegó la acción. *Rain was beating against the windows when the stranger knocked* — la lluvia es el escenario, el golpe es el hecho.\n\nEl **pluscuamperfecto** (had + participio) va hacia atrás. Marca lo que pasó ANTES de ese pasado: *by the time the letter arrived, she had left*. Primero se fue, después llegó la carta, aunque se cuente al revés.\n\nEl **pluscuamperfecto continuo** (had been + -ing) hace lo mismo pero con duración, y casi siempre explica un estado: *she had been walking for hours* dice por qué tenía frío.",
+      "watch_out": "El error más común no es elegir mal el tiempo: es usar pasado simple para todo. *When he arrived, she already left* suena a que se fue después de que él llegó. Con **had already left** queda claro que se había ido antes. En español el pretérito perfecto simple tapa esa diferencia, y por eso se pierde al traducir.",
+      "examples": [
+        {
+          "target": "By the time the letter arrived, she had left the house for good.",
+          "native": "Para cuando llegó la carta, ella ya se había ido de la casa para siempre.",
+          "en": "By the time the letter arrived, she had left the house for good.",
+          "es": "Para cuando llegó la carta, ella ya se había ido de la casa para siempre."
+        },
+        {
+          "target": "Rain was beating against the windows when the stranger knocked.",
+          "native": "La lluvia golpeaba contra las ventanas cuando el desconocido llamó.",
+          "en": "Rain was beating against the windows when the stranger knocked.",
+          "es": "La lluvia golpeaba contra las ventanas cuando el desconocido llamó."
+        },
+        {
+          "target": "She realised she had been walking for hours without noticing the cold.",
+          "native": "Se dio cuenta de que venía caminando hace horas sin notar el frío.",
+          "en": "She realised she had been walking for hours without noticing the cold.",
+          "es": "Se dio cuenta de que venía caminando hace horas sin notar el frío."
+        }
+      ]
+    },
+    {
+      "topic": "literary inversion",
+      "unit": 26,
+      "kind": "grammar",
+      "title": "Inversión literaria",
+      "summary": "Cuando algo se adelanta al principio de la oración, el verbo pasa delante del sujeto.",
+      "body": "El inglés tiene un orden fijo: sujeto, verbo. La inversión lo rompe a propósito, y ese quiebre es el énfasis.\n\nDespués de un **adverbio negativo** al frente (*never, rarely, seldom, not only, no sooner*), la oración se arma como una pregunta: auxiliar + sujeto + verbo. *Never before had there been such silence.*\n\nCon **so + adjetivo** adelante pasa lo mismo: *So great was his grief that he could not speak.*\n\nCon un **complemento de lugar** al frente, el verbo va antes del sujeto sin auxiliar: *In the doorway stood an old woman.* Sirve para presentar algo nuevo en escena — por eso abunda en las descripciones.\n\nY *If it were not for…* tiene su versión formal sin **if**: *Were it not for her diaries, the story would have been lost.*",
+      "watch_out": "La inversión no es decoración: es registro. En una narración o un texto formal suena elegante; en una conversación suena impostado. Y el error concreto es olvidar el auxiliar: *Never before there had been* está mal, va **Never before had there been**.",
+      "examples": [
+        {
+          "target": "Never before had there been such silence in the village.",
+          "native": "Nunca antes había habido semejante silencio en el pueblo.",
+          "en": "Never before had there been such silence in the village.",
+          "es": "Nunca antes había habido semejante silencio en el pueblo."
+        },
+        {
+          "target": "So great was his grief that he could not speak.",
+          "native": "Tan grande era su dolor que no podía hablar.",
+          "en": "So great was his grief that he could not speak.",
+          "es": "Tan grande era su dolor que no podía hablar."
+        },
+        {
+          "target": "Were it not for her diaries, the story would have been lost.",
+          "native": "De no ser por sus diarios, la historia se habría perdido.",
+          "en": "Were it not for her diaries, the story would have been lost.",
+          "es": "De no ser por sus diarios, la historia se habría perdido."
+        }
+      ]
+    },
+    {
+      "topic": "participle clauses",
+      "unit": 26,
+      "kind": "grammar",
+      "title": "Cláusulas de participio",
+      "summary": "Comprimir dos oraciones en una usando -ing o having + participio.",
+      "body": "Una cláusula de participio saca el sujeto y el verbo conjugado, y deja solo el participio. Sirve para no repetir y para que la prosa no vaya a los saltos.\n\n**-ing** para algo simultáneo: *Walking through the empty house, she felt the memories come back.* Camina y siente a la vez.\n\n**Having + participio** para algo anterior: *Having read the last page, she closed the diary.* Primero leyó, después cerró.\n\n**Participio pasado** para la voz pasiva: *Written in prison, the letters were never delivered.*\n\nSon la diferencia entre *She finished the letter. Then she stood up. Then she left.* y una sola oración que respira.",
+      "watch_out": "La regla que se rompe siempre: el sujeto de la cláusula tiene que ser el mismo que el de la principal. *Walking through the empty house, the memories came back to her* dice, literalmente, que los recuerdos caminaban por la casa. Se llama participio colgante, y en inglés escrito es un error visible — no una sutileza.",
+      "examples": [
+        {
+          "target": "Having read the last page, she closed the diary and wept.",
+          "native": "Habiendo leído la última página, cerró el diario y lloró.",
+          "en": "Having read the last page, she closed the diary and wept.",
+          "es": "Habiendo leído la última página, cerró el diario y lloró."
+        },
+        {
+          "target": "Walking through the empty house, she felt the memories come back.",
+          "native": "Caminando por la casa vacía, sintió que volvían los recuerdos.",
+          "en": "Walking through the empty house, she felt the memories come back.",
+          "es": "Caminando por la casa vacía, sintió que volvían los recuerdos."
+        },
+        {
+          "target": "Written in prison, the letters were never delivered.",
+          "native": "Escritas en la cárcel, las cartas nunca fueron entregadas.",
+          "en": "Written in prison, the letters were never delivered.",
+          "es": "Escritas en la cárcel, las cartas nunca fueron entregadas."
+        }
+      ]
+    },
+    {
+      "topic": "reduced relative clauses",
+      "unit": 26,
+      "kind": "grammar",
+      "title": "Relativas reducidas",
+      "summary": "Sacar el relativo y el verbo be de una relativa: queda solo el participio.",
+      "body": "*The letters that were written in prison* y *the letters written in prison* dicen lo mismo. La segunda saca **that were**, y eso es una relativa reducida.\n\nSe puede en dos casos:\n\nEn **pasiva**, queda el participio: *the man arrested last night* (= who was arrested).\n\nEn **activa continua**, queda el -ing: *the woman waiting at the gate* (= who is waiting).\n\nEs uno de los rasgos que separan la descripción literaria de la prosa escolar: la misma información, la mitad de las palabras, y la atención puesta en el sustantivo y no en el andamiaje gramatical.",
+      "watch_out": "Solo funciona cuando la relativa lleva **be**. *The man who lives next door* no se puede reducir a *the man living next door* sin cambiar el matiz, y *the book that I read* no se reduce nunca — ahí el sujeto de la relativa es otro. Si no hay be, dejala entera.",
+      "examples": [
+        {
+          "target": "The letters written in prison were never delivered.",
+          "native": "Las cartas escritas en la cárcel nunca fueron entregadas.",
+          "en": "The letters written in prison were never delivered.",
+          "es": "Las cartas escritas en la cárcel nunca fueron entregadas."
+        },
+        {
+          "target": "The woman waiting at the gate had been there since dawn.",
+          "native": "La mujer que esperaba en el portón estaba ahí desde el amanecer.",
+          "en": "The woman waiting at the gate had been there since dawn.",
+          "es": "La mujer que esperaba en el portón estaba ahí desde el amanecer."
+        },
+        {
+          "target": "The man arrested last night refused to give his name.",
+          "native": "El hombre detenido anoche se negó a dar su nombre.",
+          "en": "The man arrested last night refused to give his name.",
+          "es": "El hombre detenido anoche se negó a dar su nombre."
+        }
+      ]
+    },
+    {
       "topic": "acerbic",
       "unit": 27,
       "kind": "lexis",
