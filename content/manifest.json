@@ -17,14 +17,14 @@
     },
     {
       "id": "es-en",
-      "version": 9,
+      "version": 10,
       "l1": "es",
       "l2": "en",
       "l1_name": "Español",
       "l2_name": "English",
       "title": "Español → Inglés",
       "units": 30,
-      "size_kb": 4212,
+      "size_kb": 4289,
       "status": "ready",
       "missing_modules": []
     }

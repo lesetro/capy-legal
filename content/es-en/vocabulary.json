@@ -6247,15 +6247,6 @@
       "es": "difuso / disperso"
     },
     {
-      "target": "sustain",
-      "native": "sostener",
-      "unit": 13,
-      "category": "society",
-      "phonetic": "sus-TEIN",
-      "en": "sustain",
-      "es": "sostener"
-    },
-    {
       "target": "automation",
       "native": "automatización",
       "unit": 14,

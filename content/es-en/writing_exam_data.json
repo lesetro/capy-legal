@@ -308,7 +308,9 @@
       "type": "translation_es_to_en",
       "question": "El hotel es muy cómodo.",
       "answer": "The hotel is very comfortable.",
-      "alternatives": []
+      "alternatives": [
+        "The hotel is really comfortable."
+      ]
     },
     {
       "unit": 2,
@@ -513,14 +515,20 @@
       "type": "translation_es_to_en",
       "question": "Tengo dos hermanas.",
       "answer": "I have two sisters.",
-      "alternatives": []
+      "alternatives": [
+        "I have got two sisters.",
+        "I've got two sisters."
+      ]
     },
     {
       "unit": 3,
       "type": "translation_es_to_en",
       "question": "Mi abuela cocina muy bien.",
       "answer": "My grandmother cooks very well.",
-      "alternatives": []
+      "alternatives": [
+        "My grandma cooks very well.",
+        "My grandmother is a very good cook."
+      ]
     },
     {
       "unit": 3,
@@ -536,7 +544,9 @@
       "type": "translation_es_to_en",
       "question": "Mi tío trabaja en un hospital.",
       "answer": "My uncle works in a hospital.",
-      "alternatives": []
+      "alternatives": [
+        "My uncle works at a hospital."
+      ]
     },
     {
       "unit": 3,
@@ -759,7 +769,10 @@
       "type": "translation_es_to_en",
       "question": "La ciudad tiene muchos edificios.",
       "answer": "The city has many buildings.",
-      "alternatives": []
+      "alternatives": [
+        "The city has a lot of buildings.",
+        "The city has lots of buildings."
+      ]
     },
     {
       "unit": 4,
@@ -775,7 +788,9 @@
       "type": "translation_es_to_en",
       "question": "La estación de tren queda a dos cuadras.",
       "answer": "The train station is two blocks away.",
-      "alternatives": []
+      "alternatives": [
+        "The train station is two blocks from here."
+      ]
     },
     {
       "unit": 4,
@@ -1226,7 +1241,9 @@
       "type": "translation_es_to_en",
       "question": "No me importa el calor.",
       "answer": "I don't mind the heat.",
-      "alternatives": []
+      "alternatives": [
+        "The heat doesn't bother me."
+      ]
     },
     {
       "unit": 6,
@@ -1242,7 +1259,9 @@
       "type": "translation_es_to_en",
       "question": "Él detesta los lunes.",
       "answer": "He hates Mondays.",
-      "alternatives": []
+      "alternatives": [
+        "He can't stand Mondays."
+      ]
     },
     {
       "unit": 6,
@@ -1403,7 +1422,9 @@
       "type": "translation_es_to_en",
       "question": "Yo nunca como comida rápida.",
       "answer": "I never eat fast food.",
-      "alternatives": []
+      "alternatives": [
+        "I don't ever eat fast food."
+      ]
     },
     {
       "unit": 6,
@@ -1804,14 +1825,18 @@
       "type": "translation_es_to_en",
       "question": "La empleada fue ascendida la semana pasada.",
       "answer": "The employee was promoted last week.",
-      "alternatives": []
+      "alternatives": [
+        "The worker was promoted last week."
+      ]
     },
     {
       "unit": 8,
       "type": "translation_es_to_en",
       "question": "Ella dijo que estaba trabajando desde casa.",
       "answer": "She said she was working from home.",
-      "alternatives": []
+      "alternatives": [
+        "She said that she was working from home."
+      ]
     },
     {
       "unit": 8,
@@ -2003,7 +2028,9 @@
       "type": "translation_es_to_en",
       "question": "Deberías comer más verduras.",
       "answer": "You should eat more vegetables.",
-      "alternatives": []
+      "alternatives": [
+        "You ought to eat more vegetables."
+      ]
     },
     {
       "unit": 9,
@@ -2275,7 +2302,9 @@
       "type": "translation_es_to_en",
       "question": "La selva tropical está siendo destruida.",
       "answer": "The rainforest is being destroyed.",
-      "alternatives": []
+      "alternatives": [
+        "The tropical rainforest is being destroyed."
+      ]
     },
     {
       "unit": 10,
@@ -2312,7 +2341,9 @@
       "type": "translation_es_to_en",
       "question": "No deberíamos desperdiciar tanta agua.",
       "answer": "We shouldn't waste so much water.",
-      "alternatives": []
+      "alternatives": [
+        "We shouldn't waste this much water."
+      ]
     },
     {
       "unit": 10,
@@ -2467,7 +2498,9 @@
       "type": "translation_es_to_en",
       "question": "El periodista dijo que la historia era verdadera.",
       "answer": "The journalist said the story was true.",
-      "alternatives": []
+      "alternatives": [
+        "The journalist said that the story was true."
+      ]
     },
     {
       "unit": 11,
@@ -2515,7 +2548,9 @@
       "type": "translation_es_to_en",
       "question": "Ella preguntó dónde estaba yo trabajando.",
       "answer": "She asked where I was working.",
-      "alternatives": []
+      "alternatives": [
+        "She asked me where I was working."
+      ]
     },
     {
       "unit": 11,
@@ -2711,7 +2746,10 @@
       "type": "translation_es_to_en",
       "question": "Me gusta aprender nuevos idiomas.",
       "answer": "I enjoy learning new languages.",
-      "alternatives": []
+      "alternatives": [
+        "I like learning new languages.",
+        "I love learning new languages."
+      ]
     },
     {
       "unit": 12,
@@ -2750,7 +2788,10 @@
       "type": "translation_es_to_en",
       "question": "Espero poder viajar antes de los 30.",
       "answer": "I hope to travel before I turn 30.",
-      "alternatives": []
+      "alternatives": [
+        "I hope to travel before I am 30.",
+        "I hope I can travel before I turn 30."
+      ]
     },
     {
       "unit": 12,
@@ -3408,7 +3449,9 @@
       "type": "translation_es_to_en",
       "question": "Deben de haber estado trabajando toda la noche.",
       "answer": "They must have been working all night.",
-      "alternatives": []
+      "alternatives": [
+        "They must have worked all night."
+      ]
     },
     {
       "unit": 15,
