@@ -238,7 +238,9 @@
       "type": "translation_en_to_es",
       "question": "My brother is 18 years old.",
       "answer": "Mi hermano tiene 18 años.",
-      "alternatives": []
+      "alternatives": [
+        "Mi hermano tiene dieciocho años."
+      ]
     },
     {
       "unit": 2,
@@ -441,28 +443,36 @@
       "type": "translation_en_to_es",
       "question": "The bank is next to the pharmacy.",
       "answer": "El banco está al lado de la farmacia.",
-      "alternatives": []
+      "alternatives": [
+        "El banco queda al lado de la farmacia."
+      ]
     },
     {
       "unit": 3,
       "type": "translation_en_to_es",
       "question": "There is a park near my house.",
       "answer": "Hay un parque cerca de mi casa.",
-      "alternatives": []
+      "alternatives": [
+        "Hay un parque cerca de casa."
+      ]
     },
     {
       "unit": 3,
       "type": "translation_en_to_es",
       "question": "I wake up at seven o'clock.",
       "answer": "Me despierto a las siete.",
-      "alternatives": []
+      "alternatives": [
+        "Me despierto a las 7."
+      ]
     },
     {
       "unit": 3,
       "type": "translation_en_to_es",
       "question": "She has breakfast every morning.",
       "answer": "Ella desayuna todas las mañanas.",
-      "alternatives": []
+      "alternatives": [
+        "Ella desayuna cada mañana."
+      ]
     },
     {
       "unit": 3,
@@ -508,7 +518,10 @@
       "type": "translation_en_to_es",
       "question": "We usually eat lunch at noon.",
       "answer": "Normalmente almorzamos al mediodía.",
-      "alternatives": []
+      "alternatives": [
+        "Generalmente almorzamos al mediodía.",
+        "Usualmente almorzamos al mediodía."
+      ]
     },
     {
       "unit": 3,
@@ -664,14 +677,18 @@
       "type": "translation_en_to_es",
       "question": "That house over there is huge.",
       "answer": "Esa casa de allá es enorme.",
-      "alternatives": []
+      "alternatives": [
+        "Esa casa de allí es enorme."
+      ]
     },
     {
       "unit": 4,
       "type": "translation_en_to_es",
       "question": "I have a headache.",
       "answer": "Tengo dolor de cabeza.",
-      "alternatives": []
+      "alternatives": [
+        "Me duele la cabeza."
+      ]
     },
     {
       "unit": 4,
@@ -687,7 +704,9 @@
       "type": "translation_en_to_es",
       "question": "How much does this cost?",
       "answer": "¿Cuánto cuesta esto?",
-      "alternatives": []
+      "alternatives": [
+        "¿Cuánto vale esto?"
+      ]
     },
     {
       "unit": 4,
@@ -710,14 +729,20 @@
       "type": "translation_en_to_es",
       "question": "I can speak two languages.",
       "answer": "Puedo hablar dos idiomas.",
-      "alternatives": []
+      "alternatives": [
+        "Sé hablar dos idiomas.",
+        "Hablo dos idiomas."
+      ]
     },
     {
       "unit": 4,
       "type": "translation_en_to_es",
       "question": "The museum is two blocks away.",
       "answer": "El museo está a dos cuadras.",
-      "alternatives": []
+      "alternatives": [
+        "El museo está a dos manzanas.",
+        "El museo queda a dos cuadras."
+      ]
     },
     {
       "unit": 4,
@@ -885,21 +910,27 @@
       "type": "translation_en_to_es",
       "question": "She loves painting.",
       "answer": "A ella le encanta pintar.",
-      "alternatives": []
+      "alternatives": [
+        "Le encanta pintar."
+      ]
     },
     {
       "unit": 5,
       "type": "translation_en_to_es",
       "question": "We are interested in music.",
       "answer": "Nos interesa la música.",
-      "alternatives": []
+      "alternatives": [
+        "Estamos interesados en la música."
+      ]
     },
     {
       "unit": 5,
       "type": "translation_en_to_es",
       "question": "Loud noises bother him.",
       "answer": "Los ruidos fuertes le molestan.",
-      "alternatives": []
+      "alternatives": [
+        "Le molestan los ruidos fuertes."
+      ]
     },
     {
       "unit": 5,
@@ -920,21 +951,27 @@
       "type": "translation_en_to_es",
       "question": "I can't stand cigarette smoke.",
       "answer": "No soporto el humo del cigarrillo.",
-      "alternatives": []
+      "alternatives": [
+        "No aguanto el humo del cigarrillo."
+      ]
     },
     {
       "unit": 5,
       "type": "translation_en_to_es",
       "question": "They love traveling.",
       "answer": "A ellos les encanta viajar.",
-      "alternatives": []
+      "alternatives": [
+        "Les encanta viajar."
+      ]
     },
     {
       "unit": 5,
       "type": "translation_en_to_es",
       "question": "What do you like to do on weekends?",
       "answer": "¿Qué te gusta hacer los fines de semana?",
-      "alternatives": []
+      "alternatives": [
+        "¿Qué te gusta hacer el fin de semana?"
+      ]
     },
     {
       "unit": 5,
@@ -1097,7 +1134,10 @@
       "type": "translation_en_to_es",
       "question": "I always drink coffee in the morning.",
       "answer": "Siempre tomo café por la mañana.",
-      "alternatives": []
+      "alternatives": [
+        "Siempre tomo café en la mañana.",
+        "Siempre bebo café por la mañana."
+      ]
     },
     {
       "unit": 6,
@@ -1118,7 +1158,9 @@
       "type": "translation_en_to_es",
       "question": "My sister is younger than me.",
       "answer": "Mi hermana es menor que yo.",
-      "alternatives": []
+      "alternatives": [
+        "Mi hermana es más joven que yo."
+      ]
     },
     {
       "unit": 6,
@@ -1139,7 +1181,10 @@
       "type": "translation_en_to_es",
       "question": "I usually work on Saturdays.",
       "answer": "Normalmente trabajo los sábados.",
-      "alternatives": []
+      "alternatives": [
+        "Generalmente trabajo los sábados.",
+        "Usualmente trabajo los sábados."
+      ]
     },
     {
       "unit": 6,
@@ -1300,7 +1345,9 @@
       "type": "translation_en_to_es",
       "question": "We arrived at the hotel at midnight.",
       "answer": "Llegamos al hotel a medianoche.",
-      "alternatives": []
+      "alternatives": [
+        "Llegamos al hotel a la medianoche."
+      ]
     },
     {
       "unit": 7,
@@ -1314,14 +1361,18 @@
       "type": "translation_en_to_es",
       "question": "I am going to visit my grandparents.",
       "answer": "Voy a visitar a mis abuelos.",
-      "alternatives": []
+      "alternatives": [
+        "Visitaré a mis abuelos."
+      ]
     },
     {
       "unit": 7,
       "type": "translation_en_to_es",
       "question": "They saw the whole city in one day.",
       "answer": "Ellos vieron toda la ciudad en un día.",
-      "alternatives": []
+      "alternatives": [
+        "Vieron toda la ciudad en un día."
+      ]
     },
     {
       "unit": 7,
@@ -1360,7 +1411,9 @@
       "type": "translation_en_to_es",
       "question": "Did you enjoy the trip?",
       "answer": "¿Disfrutaste el viaje?",
-      "alternatives": []
+      "alternatives": [
+        "¿Disfrutaste del viaje?"
+      ]
     },
     {
       "unit": 7,
@@ -1507,7 +1560,10 @@
       "type": "translation_en_to_es",
       "question": "I used to work at a bank.",
       "answer": "Yo trabajaba en un banco.",
-      "alternatives": []
+      "alternatives": [
+        "Trabajaba en un banco.",
+        "Yo solía trabajar en un banco."
+      ]
     },
     {
       "unit": 8,
@@ -1537,14 +1593,18 @@
       "type": "translation_en_to_es",
       "question": "She used to have many clients.",
       "answer": "Ella tenía muchos clientes.",
-      "alternatives": []
+      "alternatives": [
+        "Ella solía tener muchos clientes."
+      ]
     },
     {
       "unit": 8,
       "type": "translation_en_to_es",
       "question": "I gave him the documents yesterday.",
       "answer": "Le di los documentos ayer.",
-      "alternatives": []
+      "alternatives": [
+        "Ayer le di los documentos."
+      ]
     },
     {
       "unit": 8,
@@ -1567,14 +1627,18 @@
       "type": "translation_en_to_es",
       "question": "My boss always arrived early.",
       "answer": "Mi jefe siempre llegaba temprano.",
-      "alternatives": []
+      "alternatives": [
+        "Mi jefe llegaba siempre temprano."
+      ]
     },
     {
       "unit": 8,
       "type": "translation_en_to_es",
       "question": "I bought him a gift for his birthday.",
       "answer": "Le compré un regalo para su cumpleaños.",
-      "alternatives": []
+      "alternatives": [
+        "Le compré un regalo por su cumpleaños."
+      ]
     },
     {
       "unit": 8,
@@ -1730,14 +1794,18 @@
       "type": "translation_en_to_es",
       "question": "Don't smoke in here.",
       "answer": "No fumes aquí.",
-      "alternatives": []
+      "alternatives": [
+        "No fumes acá."
+      ]
     },
     {
       "unit": 9,
       "type": "translation_en_to_es",
       "question": "My back hurts.",
       "answer": "Me duele la espalda.",
-      "alternatives": []
+      "alternatives": [
+        "Tengo dolor de espalda."
+      ]
     },
     {
       "unit": 9,
@@ -1758,28 +1826,36 @@
       "type": "translation_en_to_es",
       "question": "I went to the doctor because of a headache.",
       "answer": "Fui al médico por un dolor de cabeza.",
-      "alternatives": []
+      "alternatives": [
+        "Fui al doctor por un dolor de cabeza."
+      ]
     },
     {
       "unit": 9,
       "type": "translation_en_to_es",
       "question": "Take this medicine every eight hours.",
       "answer": "Toma esta medicina cada ocho horas.",
-      "alternatives": []
+      "alternatives": [
+        "Toma este medicamento cada ocho horas."
+      ]
     },
     {
       "unit": 9,
       "type": "translation_en_to_es",
       "question": "In this hospital, they speak English.",
       "answer": "En este hospital se habla inglés.",
-      "alternatives": []
+      "alternatives": [
+        "En este hospital hablan inglés."
+      ]
     },
     {
       "unit": 9,
       "type": "translation_en_to_es",
       "question": "Rest and drink lots of fluids.",
       "answer": "Descansa y bebe muchos líquidos.",
-      "alternatives": []
+      "alternatives": [
+        "Descansa y toma muchos líquidos."
+      ]
     },
     {
       "unit": 9,
@@ -1933,14 +2009,18 @@
       "type": "translation_en_to_es",
       "question": "It will rain tomorrow.",
       "answer": "Mañana lloverá.",
-      "alternatives": []
+      "alternatives": [
+        "Mañana va a llover."
+      ]
     },
     {
       "unit": 10,
       "type": "translation_en_to_es",
       "question": "We will recycle more plastic.",
       "answer": "Reciclaremos más plástico.",
-      "alternatives": []
+      "alternatives": [
+        "Vamos a reciclar más plástico."
+      ]
     },
     {
       "unit": 10,
@@ -1954,14 +2034,18 @@
       "type": "translation_en_to_es",
       "question": "I would plant more trees if I could.",
       "answer": "Plantaría más árboles si pudiera.",
-      "alternatives": []
+      "alternatives": [
+        "Si pudiera, plantaría más árboles."
+      ]
     },
     {
       "unit": 10,
       "type": "translation_en_to_es",
       "question": "Plastic is recycled in this factory.",
       "answer": "El plástico se recicla en esta fábrica.",
-      "alternatives": []
+      "alternatives": [
+        "En esta fábrica se recicla el plástico."
+      ]
     },
     {
       "unit": 10,
@@ -1989,7 +2073,9 @@
       "type": "translation_en_to_es",
       "question": "Glass bottles are recycled here.",
       "answer": "Las botellas de vidrio se reciclan aquí.",
-      "alternatives": []
+      "alternatives": [
+        "Las botellas de vidrio se reciclan acá."
+      ]
     },
     {
       "unit": 10,
@@ -2143,28 +2229,37 @@
       "type": "translation_en_to_es",
       "question": "I have already watched that movie.",
       "answer": "Ya he visto esa película.",
-      "alternatives": []
+      "alternatives": [
+        "Ya vi esa película."
+      ]
     },
     {
       "unit": 11,
       "type": "translation_en_to_es",
       "question": "She has written three articles this month.",
       "answer": "Ella ha escrito tres artículos este mes.",
-      "alternatives": []
+      "alternatives": [
+        "Ella escribió tres artículos este mes."
+      ]
     },
     {
       "unit": 11,
       "type": "translation_en_to_es",
       "question": "We haven't opened the newspaper yet.",
       "answer": "Todavía no hemos abierto el periódico.",
-      "alternatives": []
+      "alternatives": [
+        "Aún no hemos abierto el periódico.",
+        "Todavía no abrimos el periódico."
+      ]
     },
     {
       "unit": 11,
       "type": "translation_en_to_es",
       "question": "I am watching the news right now.",
       "answer": "Estoy viendo las noticias ahora mismo.",
-      "alternatives": []
+      "alternatives": [
+        "Estoy mirando las noticias ahora mismo."
+      ]
     },
     {
       "unit": 11,
@@ -2206,7 +2301,9 @@
       "type": "translation_en_to_es",
       "question": "He said that he would call later.",
       "answer": "Él dijo que llamaría más tarde.",
-      "alternatives": []
+      "alternatives": [
+        "Dijo que llamaría más tarde."
+      ]
     },
     {
       "unit": 11,
@@ -2353,7 +2450,9 @@
       "type": "translation_en_to_es",
       "question": "I hope you have a great trip.",
       "answer": "Ojalá tengas un gran viaje.",
-      "alternatives": []
+      "alternatives": [
+        "Espero que tengas un gran viaje."
+      ]
     },
     {
       "unit": 12,
@@ -2367,14 +2466,18 @@
       "type": "translation_en_to_es",
       "question": "When I finish work, I will call you.",
       "answer": "Cuando termine el trabajo, te llamaré.",
-      "alternatives": []
+      "alternatives": [
+        "Te llamaré cuando termine el trabajo."
+      ]
     },
     {
       "unit": 12,
       "type": "translation_en_to_es",
       "question": "I am going to travel next summer.",
       "answer": "Voy a viajar el próximo verano.",
-      "alternatives": []
+      "alternatives": [
+        "Voy a viajar el verano que viene."
+      ]
     },
     {
       "unit": 12,
@@ -2388,28 +2491,36 @@
       "type": "translation_en_to_es",
       "question": "You should rest more.",
       "answer": "Deberías descansar más.",
-      "alternatives": []
+      "alternatives": [
+        "Tendrías que descansar más."
+      ]
     },
     {
       "unit": 12,
       "type": "translation_en_to_es",
       "question": "I hope everything goes well.",
       "answer": "Ojalá todo salga bien.",
-      "alternatives": []
+      "alternatives": [
+        "Espero que todo salga bien."
+      ]
     },
     {
       "unit": 12,
       "type": "translation_en_to_es",
       "question": "When you arrive, send me a message.",
       "answer": "Cuando llegues, envíame un mensaje.",
-      "alternatives": []
+      "alternatives": [
+        "Cuando llegues, mándame un mensaje."
+      ]
     },
     {
       "unit": 12,
       "type": "translation_en_to_es",
       "question": "I would suggest studying every day.",
       "answer": "Yo sugeriría estudiar todos los días.",
-      "alternatives": []
+      "alternatives": [
+        "Sugeriría estudiar todos los días."
+      ]
     },
     {
       "unit": 12,
@@ -2591,14 +2702,18 @@
       "type": "translation_en_to_es",
       "question": "I wished that things were different.",
       "answer": "Deseaba que las cosas fueran diferentes.",
-      "alternatives": []
+      "alternatives": [
+        "Deseaba que las cosas fuesen diferentes."
+      ]
     },
     {
       "unit": 13,
       "type": "translation_en_to_es",
       "question": "She denied that there was a problem.",
       "answer": "Ella negó que hubiera un problema.",
-      "alternatives": []
+      "alternatives": [
+        "Ella negó que hubiese un problema."
+      ]
     },
     {
       "unit": 13,
@@ -2619,14 +2734,18 @@
       "type": "translation_en_to_es",
       "question": "Even though we protested, nothing changed.",
       "answer": "Aunque protestamos, nada cambió.",
-      "alternatives": []
+      "alternatives": [
+        "A pesar de que protestamos, nada cambió."
+      ]
     },
     {
       "unit": 13,
       "type": "translation_en_to_es",
       "question": "It was necessary for everyone to participate.",
       "answer": "Era necesario que todos participaran.",
-      "alternatives": []
+      "alternatives": [
+        "Era necesario que todos participasen."
+      ]
     },
     {
       "unit": 13,
@@ -2801,7 +2920,9 @@
       "type": "translation_en_to_es",
       "question": "The improvement of the system took months.",
       "answer": "La mejora del sistema tomó meses.",
-      "alternatives": []
+      "alternatives": [
+        "La mejora del sistema llevó meses."
+      ]
     },
     {
       "unit": 14,
@@ -2983,14 +3104,18 @@
       "type": "translation_en_to_es",
       "question": "I am glad that you like this tradition.",
       "answer": "Me alegra que te guste esta tradición.",
-      "alternatives": []
+      "alternatives": [
+        "Me alegro de que te guste esta tradición."
+      ]
     },
     {
       "unit": 15,
       "type": "translation_en_to_es",
       "question": "This festival is extremely popular.",
       "answer": "Este festival es popularísimo.",
-      "alternatives": []
+      "alternatives": [
+        "Este festival es extremadamente popular."
+      ]
     },
     {
       "unit": 15,
@@ -3025,7 +3150,9 @@
       "type": "translation_en_to_es",
       "question": "This painting is the most beautiful of all.",
       "answer": "Este cuadro es el más hermoso de todos.",
-      "alternatives": []
+      "alternatives": [
+        "Esta pintura es la más hermosa de todas."
+      ]
     },
     {
       "unit": 15,
@@ -3403,7 +3530,9 @@
       "type": "translation_en_to_es",
       "question": "I don't know where the summit will take place.",
       "answer": "No sé dónde se realizará la cumbre.",
-      "alternatives": []
+      "alternatives": [
+        "No sé dónde tendrá lugar la cumbre."
+      ]
     },
     {
       "unit": 17,
@@ -3634,7 +3763,10 @@
       "type": "translation_en_to_es",
       "question": "It is said that the vaccine is very effective.",
       "answer": "Se dice que la vacuna es muy eficaz.",
-      "alternatives": []
+      "alternatives": [
+        "Dicen que la vacuna es muy eficaz.",
+        "Se dice que la vacuna es muy efectiva."
+      ]
     },
     {
       "unit": 18,
@@ -3648,7 +3780,9 @@
       "type": "translation_en_to_es",
       "question": "The doctor insists that we get vaccinated.",
       "answer": "El médico insiste en que nos vacunemos.",
-      "alternatives": []
+      "alternatives": [
+        "El doctor insiste en que nos vacunemos."
+      ]
     },
     {
       "unit": 18,
@@ -3662,7 +3796,9 @@
       "type": "translation_en_to_es",
       "question": "It is believed that the planet has water.",
       "answer": "Se cree que el planeta tiene agua.",
-      "alternatives": []
+      "alternatives": [
+        "Creen que el planeta tiene agua."
+      ]
     },
     {
       "unit": 18,
@@ -3823,7 +3959,9 @@
       "type": "translation_en_to_es",
       "question": "Although he is a good candidate, he won't win.",
       "answer": "Aunque es un buen candidato, no ganará.",
-      "alternatives": []
+      "alternatives": [
+        "Si bien es un buen candidato, no ganará."
+      ]
     },
     {
       "unit": 19,
@@ -3837,7 +3975,9 @@
       "type": "translation_en_to_es",
       "question": "However much he insists, the law won't change.",
       "answer": "Por más que insista, la ley no cambiará.",
-      "alternatives": []
+      "alternatives": [
+        "Por mucho que insista, la ley no cambiará."
+      ]
     },
     {
       "unit": 19,
@@ -3886,7 +4026,9 @@
       "type": "translation_en_to_es",
       "question": "Even though she is young, she leads the party.",
       "answer": "Aunque es joven, lidera el partido.",
-      "alternatives": []
+      "alternatives": [
+        "Si bien es joven, lidera el partido."
+      ]
     },
     {
       "unit": 19,
@@ -4033,7 +4175,10 @@
       "type": "translation_en_to_es",
       "question": "Maybe the theory is wrong.",
       "answer": "Puede que la teoría esté equivocada.",
-      "alternatives": []
+      "alternatives": [
+        "Quizá la teoría esté equivocada.",
+        "Tal vez la teoría esté equivocada."
+      ]
     },
     {
       "unit": 20,
@@ -4054,35 +4199,47 @@
       "type": "translation_en_to_es",
       "question": "He ended up accepting the theory.",
       "answer": "Él acabó aceptando la teoría.",
-      "alternatives": []
+      "alternatives": [
+        "Terminó aceptando la teoría.",
+        "Acabó aceptando la teoría."
+      ]
     },
     {
       "unit": 20,
       "type": "translation_en_to_es",
       "question": "She came to realize the truth.",
       "answer": "Ella llegó a darse cuenta de la verdad.",
-      "alternatives": []
+      "alternatives": [
+        "Llegó a darse cuenta de la verdad."
+      ]
     },
     {
       "unit": 20,
       "type": "translation_en_to_es",
       "question": "It seems to me that this argument is weak.",
       "answer": "Me parece que este argumento es débil.",
-      "alternatives": []
+      "alternatives": [
+        "Creo que este argumento es débil."
+      ]
     },
     {
       "unit": 20,
       "type": "translation_en_to_es",
       "question": "I was about to change my mind.",
       "answer": "Estaba a punto de cambiar de opinión.",
-      "alternatives": []
+      "alternatives": [
+        "Estaba por cambiar de opinión."
+      ]
     },
     {
       "unit": 20,
       "type": "translation_en_to_es",
       "question": "Maybe we will never know the truth.",
       "answer": "Puede que nunca sepamos la verdad.",
-      "alternatives": []
+      "alternatives": [
+        "Quizá nunca sepamos la verdad.",
+        "Tal vez nunca sepamos la verdad."
+      ]
     },
     {
       "unit": 20,
@@ -4453,7 +4610,9 @@
       "type": "translation_en_to_es",
       "question": "It was the minister who resigned first.",
       "answer": "Fue el ministro quien renunció primero.",
-      "alternatives": []
+      "alternatives": [
+        "Fue el ministro el que renunció primero."
+      ]
     },
     {
       "unit": 22,
@@ -4873,7 +5032,9 @@
       "type": "translation_en_to_es",
       "question": "The law must have a loophole.",
       "answer": "La ley debe de tener un vacío legal.",
-      "alternatives": []
+      "alternatives": [
+        "La ley debe tener un vacío legal."
+      ]
     },
     {
       "unit": 24,
@@ -4929,7 +5090,9 @@
       "type": "translation_en_to_es",
       "question": "It is unclear whether the law will be enforced.",
       "answer": "No está claro si la ley se hará cumplir.",
-      "alternatives": []
+      "alternatives": [
+        "No está claro si se hará cumplir la ley."
+      ]
     },
     {
       "unit": 24,
@@ -5118,7 +5281,9 @@
       "type": "translation_en_to_es",
       "question": "Come what may, we will keep fighting.",
       "answer": "Pase lo que pase, seguiremos luchando.",
-      "alternatives": []
+      "alternatives": [
+        "Pase lo que pase, vamos a seguir luchando."
+      ]
     },
     {
       "unit": 25,
@@ -5293,7 +5458,9 @@
       "type": "translation_en_to_es",
       "question": "It was raining that afternoon when everything changed.",
       "answer": "Llovía aquella tarde cuando todo cambió.",
-      "alternatives": []
+      "alternatives": [
+        "Esa tarde llovía cuando todo cambió."
+      ]
     },
     {
       "unit": 26,
@@ -5335,14 +5502,18 @@
       "type": "translation_en_to_es",
       "question": "He walked slowly through the empty streets.",
       "answer": "Caminaba despacio por las calles vacías.",
-      "alternatives": []
+      "alternatives": [
+        "Caminaba lentamente por las calles vacías."
+      ]
     },
     {
       "unit": 26,
       "type": "translation_en_to_es",
       "question": "A single tear ran down her cheek.",
       "answer": "Una sola lágrima corrió por su mejilla.",
-      "alternatives": []
+      "alternatives": [
+        "Una sola lágrima rodó por su mejilla."
+      ]
     },
     {
       "unit": 26,
@@ -5517,14 +5688,18 @@
       "type": "translation_en_to_es",
       "question": "That little joke of yours wasn't very funny.",
       "answer": "Esa broma tuya no fue muy graciosa.",
-      "alternatives": []
+      "alternatives": [
+        "Esa bromita tuya no fue muy graciosa."
+      ]
     },
     {
       "unit": 27,
       "type": "translation_en_to_es",
       "question": "It wasn't exactly his best day.",
       "answer": "No fue precisamente su mejor día.",
-      "alternatives": []
+      "alternatives": [
+        "No fue exactamente su mejor día."
+      ]
     },
     {
       "unit": 27,
@@ -5552,7 +5727,9 @@
       "type": "translation_en_to_es",
       "question": "It wasn't the smartest plan, let's say.",
       "answer": "No fue el plan más inteligente, digamos.",
-      "alternatives": []
+      "alternatives": [
+        "No fue el plan más inteligente, que digamos."
+      ]
     },
     {
       "unit": 27,
@@ -5566,7 +5743,9 @@
       "type": "translation_en_to_es",
       "question": "Well, that went great, didn't it?",
       "answer": "Bueno, eso salió genial, ¿verdad?",
-      "alternatives": []
+      "alternatives": [
+        "Bueno, eso salió genial, ¿no?"
+      ]
     },
     {
       "unit": 27,
@@ -5776,7 +5955,9 @@
       "type": "translation_en_to_es",
       "question": "Honestly, this whole thing is a mess.",
       "answer": "Honestamente, todo esto es un quilombo.",
-      "alternatives": []
+      "alternatives": [
+        "La verdad, todo esto es un quilombo."
+      ]
     },
     {
       "unit": 28,
@@ -5930,14 +6111,18 @@
       "type": "translation_en_to_es",
       "question": "He got cold feet at the last minute.",
       "answer": "Se echó atrás a último momento.",
-      "alternatives": []
+      "alternatives": [
+        "Se echó para atrás a último momento."
+      ]
     },
     {
       "unit": 29,
       "type": "translation_en_to_es",
       "question": "This project makes me really excited.",
       "answer": "Este proyecto me hace mucha ilusión.",
-      "alternatives": []
+      "alternatives": [
+        "Este proyecto me entusiasma mucho."
+      ]
     },
     {
       "unit": 29,
@@ -5951,7 +6136,9 @@
       "type": "translation_en_to_es",
       "question": "That comment fell really badly with everyone.",
       "answer": "Ese comentario cayó muy mal a todos.",
-      "alternatives": []
+      "alternatives": [
+        "Ese comentario le cayó muy mal a todos."
+      ]
     },
     {
       "unit": 29,
@@ -5979,14 +6166,19 @@
       "type": "translation_en_to_es",
       "question": "I'm dying to see the final result.",
       "answer": "Me muero por ver el resultado final.",
-      "alternatives": []
+      "alternatives": [
+        "Me muero de ganas de ver el resultado final."
+      ]
     },
     {
       "unit": 29,
       "type": "translation_en_to_es",
       "question": "That idea doesn't make sense to me at all.",
-      "answer": "Esa idea no me cae nada bien.",
-      "alternatives": []
+      "answer": "Esa idea no me cierra para nada.",
+      "alternatives": [
+        "Esa idea no tiene ningún sentido para mí.",
+        "Esa idea no tiene nada de sentido."
+      ]
     },
     {
       "unit": 29,
