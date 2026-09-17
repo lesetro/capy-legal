@@ -4,14 +4,14 @@
   "pairs": [
     {
       "id": "en-es",
-      "version": 4,
+      "version": 5,
       "l1": "en",
       "l2": "es",
       "l1_name": "English",
       "l2_name": "Español",
       "title": "English → Español",
       "units": 30,
-      "size_kb": 2445,
+      "size_kb": 2485,
       "status": "ready",
       "missing_modules": []
     },

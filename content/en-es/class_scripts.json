@@ -9807,6 +9807,3584 @@
           }
         ]
       ]
+    },
+    {
+      "unit": 11,
+      "day": 1,
+      "role": "PRESENT",
+      "focus": "The media: press, platforms and how news is told",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Unidad once. Hablemos de los medios.",
+          "native": "Unit eleven. Let's talk about the media — the people and words behind the news.",
+          "en": "Unidad once. Hablemos de los medios.",
+          "es": "Unit eleven. Let's talk about the media — the people and words behind the news."
+        },
+        {
+          "kind": "SHOW",
+          "item": "periodista",
+          "phonetic": "peh-ryoh-DEES-tah",
+          "target": "Periodista.",
+          "native": "Journalist — same word for a man or a woman.",
+          "en": "Periodista.",
+          "es": "Journalist — same word for a man or a woman."
+        },
+        {
+          "kind": "MODEL",
+          "item": "periodista",
+          "phonetic": "peh-ryoh-DEES-tah"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "periodista",
+          "phonetic": "peh-ryoh-DEES-tah",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "editor",
+          "phonetic": "eh-dee-TOR",
+          "target": "Editor.",
+          "native": "Editor — 'editora' for a woman.",
+          "en": "Editor.",
+          "es": "Editor — 'editora' for a woman."
+        },
+        {
+          "kind": "MODEL",
+          "item": "editor",
+          "phonetic": "eh-dee-TOR"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "editor",
+          "phonetic": "eh-dee-TOR",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SAY",
+          "target": "El periodista escribe; el editor decide.",
+          "native": "The journalist writes; the editor decides what gets published.",
+          "en": "El periodista escribe; el editor decide.",
+          "es": "The journalist writes; the editor decides what gets published."
+        },
+        {
+          "kind": "SHOW",
+          "item": "fuente",
+          "phonetic": "FWEN-teh",
+          "target": "Fuente.",
+          "native": "Source — where the facts come from.",
+          "en": "Fuente.",
+          "es": "Source — where the facts come from."
+        },
+        {
+          "kind": "MODEL",
+          "item": "fuente",
+          "phonetic": "FWEN-teh"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "fuente",
+          "phonetic": "FWEN-teh",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "titular",
+          "phonetic": "tee-too-LAR",
+          "target": "Titular.",
+          "native": "Headline — the big title.",
+          "en": "Titular.",
+          "es": "Headline — the big title."
+        },
+        {
+          "kind": "MODEL",
+          "item": "titular",
+          "phonetic": "tee-too-LAR"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "titular",
+          "phonetic": "tee-too-LAR",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "artículo",
+          "phonetic": "ar-TEE-koo-loh",
+          "target": "Artículo.",
+          "native": "Article — the whole text.",
+          "en": "Artículo.",
+          "es": "Article — the whole text."
+        },
+        {
+          "kind": "MODEL",
+          "item": "artículo",
+          "phonetic": "ar-TEE-koo-loh"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "artículo",
+          "phonetic": "ar-TEE-koo-loh",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "prensa",
+          "phonetic": "PREN-sah",
+          "target": "Prensa.",
+          "native": "The press — papers, sites, magazines together.",
+          "en": "Prensa.",
+          "es": "The press — papers, sites, magazines together."
+        },
+        {
+          "kind": "MODEL",
+          "item": "prensa",
+          "phonetic": "PREN-sah"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "prensa",
+          "phonetic": "PREN-sah",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya podés nombrar quién hace las noticias.",
+          "native": "You can name who makes the news and where it appears.",
+          "en": "Ya podés nombrar quién hace las noticias.",
+          "es": "You can name who makes the news and where it appears."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "el periodista",
+            "target": "Decí quién escribe las noticias.",
+            "native": "Say who writes the news: 'El periodista...'.",
+            "en": "Decí quién escribe las noticias.",
+            "es": "Say who writes the news: 'El periodista...'."
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "la fuente",
+            "target": "Decí de dónde salen los datos.",
+            "native": "Say where the facts come from: 'La fuente es...'.",
+            "en": "Decí de dónde salen los datos.",
+            "es": "Say where the facts come from: 'La fuente es...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "titular",
+            "target": "Decime cómo se llama el título grande de una nota.",
+            "native": "Tell me the word for the big title of a story.",
+            "en": "Decime cómo se llama el título grande de una nota.",
+            "es": "Tell me the word for the big title of a story."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 11,
+      "day": 3,
+      "role": "PRACTISE",
+      "focus": "The media: press, platforms and how news is told",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Hoy: el pretérito perfecto. Lo que hiciste y todavía cuenta.",
+          "native": "Today: the present perfect — what you have done and still matters. 'he' + participle, like English 'have'.",
+          "en": "Hoy: el pretérito perfecto. Lo que hiciste y todavía cuenta.",
+          "es": "Today: the present perfect — what you have done and still matters. 'he' + participle, like English 'have'."
+        },
+        {
+          "kind": "SHOW",
+          "item": "publicar",
+          "phonetic": "poo-blee-KAR",
+          "target": "Publicar.",
+          "native": "To publish.",
+          "en": "Publicar.",
+          "es": "To publish."
+        },
+        {
+          "kind": "MODEL",
+          "item": "publicar",
+          "phonetic": "poo-blee-KAR"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "publicar",
+          "phonetic": "poo-blee-KAR",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "suscribirse",
+          "phonetic": "soos-kree-BEER-seh",
+          "target": "Suscribirse.",
+          "native": "To subscribe.",
+          "en": "Suscribirse.",
+          "es": "To subscribe."
+        },
+        {
+          "kind": "MODEL",
+          "item": "suscribirse",
+          "phonetic": "soos-kree-BEER-seh"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "suscribirse",
+          "phonetic": "soos-kree-BEER-seh",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SAY",
+          "target": "He leído el artículo.",
+          "native": "I have read the article. 'He' + 'leído'. Regular -er/-ir verbs make the participle with -ido.",
+          "en": "He leído el artículo.",
+          "es": "I have read the article. 'He' + 'leído'. Regular -er/-ir verbs make the participle with -ido."
+        },
+        {
+          "kind": "SAY",
+          "target": "Pero hay irregulares, y son los que más se usan.",
+          "native": "But there are irregular ones — and they're the most common. You have to know them cold.",
+          "en": "Pero hay irregulares, y son los que más se usan.",
+          "es": "But there are irregular ones — and they're the most common. You have to know them cold."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "visto",
+            "escrito",
+            "dicho",
+            "hecho"
+          ],
+          "target": "Los participios irregulares, conmigo.",
+          "native": "The irregular participles, with me: seen, written, said, done.",
+          "en": "Los participios irregulares, conmigo.",
+          "es": "The irregular participles, with me: seen, written, said, done."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya podés decir lo que hiciste con 'he' más participio.",
+          "native": "You can say what you have done, with 'he' plus a participle.",
+          "en": "Ya podés decir lo que hiciste con 'he' más participio.",
+          "es": "You can say what you have done, with 'he' plus a participle."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "he leído",
+            "target": "Decí que leíste la noticia.",
+            "native": "Say you have read the news: 'He leído...'.",
+            "en": "Decí que leíste la noticia.",
+            "es": "Say you have read the news: 'He leído...'."
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "he visto",
+            "target": "Decí que viste el documental.",
+            "native": "Say you have seen the documentary: 'He visto...'.",
+            "en": "Decí que viste el documental.",
+            "es": "Say you have seen the documentary: 'He visto...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "he",
+            "target": "Contame una cosa que hiciste hoy, con 'he'.",
+            "native": "Tell me one thing you have done today, using 'he' + participle.",
+            "en": "Contame una cosa que hiciste hoy, con 'he'.",
+            "es": "Tell me one thing you have done today, using 'he' + participle."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 11,
+      "day": 6,
+      "role": "COMBINE",
+      "focus": "The media: press, platforms and how news is told",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Ahora contá lo que alguien DIJO: el estilo indirecto.",
+          "native": "Now report what someone SAID — reported speech.",
+          "en": "Ahora contá lo que alguien DIJO: el estilo indirecto.",
+          "es": "Now report what someone SAID — reported speech."
+        },
+        {
+          "kind": "SAY",
+          "target": "Directo: 'La noticia es verdad'. Indirecto: el periodista dijo que la noticia ERA verdad.",
+          "native": "Direct: 'The news is true.' Reported: the journalist said that the news WAS true.",
+          "en": "Directo: 'La noticia es verdad'. Indirecto: el periodista dijo que la noticia ERA verdad.",
+          "es": "Direct: 'The news is true.' Reported: the journalist said that the news WAS true."
+        },
+        {
+          "kind": "SAY",
+          "target": "El verbo da un paso atrás: 'es' pasa a 'era'.",
+          "native": "The verb steps back one tense: 'es' becomes 'era'.",
+          "en": "El verbo da un paso atrás: 'es' pasa a 'era'.",
+          "es": "The verb steps back one tense: 'es' becomes 'era'."
+        },
+        {
+          "kind": "SHOW",
+          "item": "noticias falsas",
+          "phonetic": "noh-TEE-syahs FAHL-sahs",
+          "target": "Noticias falsas.",
+          "native": "Fake news — from a source you can't trust.",
+          "en": "Noticias falsas.",
+          "es": "Fake news — from a source you can't trust."
+        },
+        {
+          "kind": "MODEL",
+          "item": "noticias falsas",
+          "phonetic": "noh-TEE-syahs FAHL-sahs"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "noticias falsas",
+          "phonetic": "noh-TEE-syahs FAHL-sahs",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "dijo que",
+            "contó que",
+            "explicó que"
+          ],
+          "target": "Las formas de reportar, conmigo.",
+          "native": "The ways to report, with me: said that, told that, explained that.",
+          "en": "Las formas de reportar, conmigo.",
+          "es": "The ways to report, with me: said that, told that, explained that."
+        },
+        {
+          "kind": "SAY",
+          "target": "Me llamo Capy y dije que iba a enseñarte español.",
+          "native": "'Me llamo Capy y dije que iba a enseñarte español' — you introduce yourself and report what you said.",
+          "en": "Me llamo Capy y dije que iba a enseñarte español.",
+          "es": "'Me llamo Capy y dije que iba a enseñarte español' — you introduce yourself and report what you said."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya podés reportar lo que otros dijeron.",
+          "native": "You can report what others said about the news.",
+          "en": "Ya podés reportar lo que otros dijeron.",
+          "es": "You can report what others said about the news."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "dijo que",
+            "target": "Reportá lo que dijo el periodista.",
+            "native": "Report what the journalist said: 'El periodista dijo que...'.",
+            "en": "Reportá lo que dijo el periodista.",
+            "es": "Report what the journalist said: 'El periodista dijo que...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "dijo que",
+            "target": "Contame algo que un amigo dijo ayer.",
+            "native": "Tell me something a friend said yesterday, with '...dijo que...'.",
+            "en": "Contame algo que un amigo dijo ayer.",
+            "es": "Tell me something a friend said yesterday, with '...dijo que...'."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 11,
+      "day": 8,
+      "role": "PRESENT",
+      "focus": "The media: press, platforms and how news is told",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "La mitad de los medios hoy son digitales. Vamos a nombrarlos.",
+          "native": "Half the media today is digital. Let's name it.",
+          "en": "La mitad de los medios hoy son digitales. Vamos a nombrarlos.",
+          "es": "Half the media today is digital. Let's name it."
+        },
+        {
+          "kind": "SHOW",
+          "item": "plataforma",
+          "phonetic": "plah-tah-FOR-mah",
+          "target": "Plataforma.",
+          "native": "Platform — where the content lives.",
+          "en": "Plataforma.",
+          "es": "Platform — where the content lives."
+        },
+        {
+          "kind": "MODEL",
+          "item": "plataforma",
+          "phonetic": "plah-tah-FOR-mah"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "plataforma",
+          "phonetic": "plah-tah-FOR-mah",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "canal",
+          "phonetic": "kah-NAL",
+          "target": "Canal.",
+          "native": "Channel — one voice on a platform.",
+          "en": "Canal.",
+          "es": "Channel — one voice on a platform."
+        },
+        {
+          "kind": "MODEL",
+          "item": "canal",
+          "phonetic": "kah-NAL"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "canal",
+          "phonetic": "kah-NAL",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SAY",
+          "target": "La plataforma tiene el contenido; el canal es una voz adentro.",
+          "native": "The platform holds the content; a channel is one voice on it.",
+          "en": "La plataforma tiene el contenido; el canal es una voz adentro.",
+          "es": "The platform holds the content; a channel is one voice on it."
+        },
+        {
+          "kind": "SHOW",
+          "item": "podcast",
+          "phonetic": "POD-kast",
+          "target": "Podcast.",
+          "native": "Podcast — same word in Spanish.",
+          "en": "Podcast.",
+          "es": "Podcast — same word in Spanish."
+        },
+        {
+          "kind": "MODEL",
+          "item": "podcast",
+          "phonetic": "POD-kast"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "podcast",
+          "phonetic": "POD-kast",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "audiencia",
+          "phonetic": "ow-DYEN-syah",
+          "target": "Audiencia.",
+          "native": "Audience — everyone who watches or listens.",
+          "en": "Audiencia.",
+          "es": "Audience — everyone who watches or listens."
+        },
+        {
+          "kind": "MODEL",
+          "item": "audiencia",
+          "phonetic": "ow-DYEN-syah"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "audiencia",
+          "phonetic": "ow-DYEN-syah",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "viral",
+          "phonetic": "bee-RAHL",
+          "target": "Viral.",
+          "native": "Viral — it spreads on its own, fast.",
+          "en": "Viral.",
+          "es": "Viral — it spreads on its own, fast."
+        },
+        {
+          "kind": "MODEL",
+          "item": "viral",
+          "phonetic": "bee-RAHL"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "viral",
+          "phonetic": "bee-RAHL",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya podés nombrar los medios digitales.",
+          "native": "You can name digital media.",
+          "en": "Ya podés nombrar los medios digitales.",
+          "es": "You can name digital media."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "la plataforma",
+            "target": "Nombrá la plataforma que más usás.",
+            "native": "Name the platform you use most: 'La plataforma que uso es...'.",
+            "en": "Nombrá la plataforma que más usás.",
+            "es": "Name the platform you use most: 'La plataforma que uso es...'."
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "se hizo viral",
+            "target": "Decí que un video se hizo viral.",
+            "native": "Say a video went viral: 'El video se hizo viral'.",
+            "en": "Decí que un video se hizo viral.",
+            "es": "Say a video went viral: 'El video se hizo viral'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "me suscribo a",
+            "target": "Contame un canal al que estás suscripto.",
+            "native": "Tell me a channel you subscribe to: 'Me suscribo a...'.",
+            "en": "Contame un canal al que estás suscripto.",
+            "es": "Tell me a channel you subscribe to: 'Me suscribo a...'."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 11,
+      "day": 11,
+      "role": "PRACTISE",
+      "focus": "The media: press, platforms and how news is told",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Hoy, la gran puerta del español: el subjuntivo.",
+          "native": "Today, the great doorway of Spanish: the subjunctive. It's for wishes, doubts and feelings — not facts.",
+          "en": "Hoy, la gran puerta del español: el subjuntivo.",
+          "es": "Today, the great doorway of Spanish: the subjunctive. It's for wishes, doubts and feelings — not facts."
+        },
+        {
+          "kind": "SAY",
+          "target": "Con un deseo o una duda, el verbo cambia. Espero que sea verdad.",
+          "native": "After a wish or a doubt, the verb changes. 'Espero que sea verdad' — I hope it's true. Not 'es', but 'sea'.",
+          "en": "Con un deseo o una duda, el verbo cambia. Espero que sea verdad.",
+          "es": "After a wish or a doubt, the verb changes. 'Espero que sea verdad' — I hope it's true. Not 'es', but 'sea'."
+        },
+        {
+          "kind": "SAY",
+          "target": "No creo que sea cierto. La duda también lo pide.",
+          "native": "'No creo que sea cierto' — I don't think it's true. Doubt asks for it too.",
+          "en": "No creo que sea cierto. La duda también lo pide.",
+          "es": "'No creo que sea cierto' — I don't think it's true. Doubt asks for it too."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "que sea",
+            "que tenga",
+            "que venga"
+          ],
+          "target": "Las formas del subjuntivo, conmigo.",
+          "native": "The subjunctive forms, with me: that it be, that it have, that it come.",
+          "en": "Las formas del subjuntivo, conmigo.",
+          "es": "The subjunctive forms, with me: that it be, that it have, that it come."
+        },
+        {
+          "kind": "SAY",
+          "target": "'Ojalá' también lo pide, y no lleva 'que'. Ojalá sea verdad.",
+          "native": "'Ojalá' asks for it too, with no 'que': 'Ojalá sea verdad' — I hope it's true.",
+          "en": "'Ojalá' también lo pide, y no lleva 'que'. Ojalá sea verdad.",
+          "es": "'Ojalá' asks for it too, with no 'que': 'Ojalá sea verdad' — I hope it's true."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "ojalá sea",
+            "ojalá tenga",
+            "ojalá venga"
+          ],
+          "target": "Ahora con 'ojalá', conmigo.",
+          "native": "Now with 'ojalá', with me.",
+          "en": "Ahora con 'ojalá', conmigo.",
+          "es": "Now with 'ojalá', with me."
+        },
+        {
+          "kind": "SAY",
+          "target": "Si hay deseo o duda antes, viene el subjuntivo. Esa es la regla.",
+          "native": "If there's a wish or a doubt before it, the subjunctive follows. That's the rule.",
+          "en": "Si hay deseo o duda antes, viene el subjuntivo. Esa es la regla.",
+          "es": "If there's a wish or a doubt before it, the subjunctive follows. That's the rule."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya reconocés cuándo el español pide subjuntivo.",
+          "native": "You can recognise when Spanish asks for the subjunctive.",
+          "en": "Ya reconocés cuándo el español pide subjuntivo.",
+          "es": "You can recognise when Spanish asks for the subjunctive."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "espero que",
+            "target": "Expresá un deseo sobre las noticias.",
+            "native": "Express a wish about the news: 'Espero que...'.",
+            "en": "Expresá un deseo sobre las noticias.",
+            "es": "Express a wish about the news: 'Espero que...'."
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "no creo que",
+            "target": "Expresá una duda.",
+            "native": "Express a doubt: 'No creo que...'.",
+            "en": "Expresá una duda.",
+            "es": "Express a doubt: 'No creo que...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "espero que",
+            "target": "Decime un deseo para este año, con subjuntivo.",
+            "native": "Tell me a wish for this year, using the subjunctive.",
+            "en": "Decime un deseo para este año, con subjuntivo.",
+            "es": "Tell me a wish for this year, using the subjunctive."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 11,
+      "day": 13,
+      "role": "COMBINE",
+      "focus": "The media: press, platforms and how news is told",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Último día de la unidad. Cerramos con lo que estás haciendo ahora.",
+          "native": "Last day of the unit. We close with what you're doing right now.",
+          "en": "Último día de la unidad. Cerramos con lo que estás haciendo ahora.",
+          "es": "Last day of the unit. We close with what you're doing right now."
+        },
+        {
+          "kind": "SAY",
+          "target": "El presente progresivo: 'estar' más gerundio, como 'be' más -ing.",
+          "native": "The present progressive: 'estar' + gerund, like English 'be' + -ing.",
+          "en": "El presente progresivo: 'estar' más gerundio, como 'be' más -ing.",
+          "es": "The present progressive: 'estar' + gerund, like English 'be' + -ing."
+        },
+        {
+          "kind": "SAY",
+          "target": "Estoy leyendo las noticias.",
+          "native": "'Estoy leyendo las noticias' — I'm reading the news.",
+          "en": "Estoy leyendo las noticias.",
+          "es": "'Estoy leyendo las noticias' — I'm reading the news."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "leyendo",
+            "escribiendo",
+            "mirando"
+          ],
+          "target": "Los gerundios, conmigo.",
+          "native": "The gerunds, with me: reading, writing, watching.",
+          "en": "Los gerundios, conmigo.",
+          "es": "The gerunds, with me: reading, writing, watching."
+        },
+        {
+          "kind": "SAY",
+          "target": "'Estar' cambia con la persona: estoy, estás, está.",
+          "native": "'Estar' changes with the person: I am, you are, he/she is.",
+          "en": "'Estar' cambia con la persona: estoy, estás, está.",
+          "es": "'Estar' changes with the person: I am, you are, he/she is."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "estoy leyendo",
+            "estás mirando",
+            "está escribiendo"
+          ],
+          "target": "La frase entera, conmigo.",
+          "native": "The whole phrase, with me.",
+          "en": "La frase entera, conmigo.",
+          "es": "The whole phrase, with me."
+        },
+        {
+          "kind": "SAY",
+          "target": "Todo junto: he leído un artículo que se hizo viral, y espero que sea verdad.",
+          "native": "All together: 'He leído un artículo que se hizo viral, y espero que sea verdad' — perfect, plus a wish.",
+          "en": "Todo junto: he leído un artículo que se hizo viral, y espero que sea verdad.",
+          "es": "All together: 'He leído un artículo que se hizo viral, y espero que sea verdad' — perfect, plus a wish."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya podés hablar de los medios: contar, reportar y desear. Eso es B1.",
+          "native": "You can talk about the media: tell, report and wish. That's B1.",
+          "en": "Ya podés hablar de los medios: contar, reportar y desear. Eso es B1.",
+          "es": "You can talk about the media: tell, report and wish. That's B1."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "estoy leyendo",
+            "target": "Decí qué estás haciendo ahora.",
+            "native": "Say what you're doing right now: 'Estoy...'.",
+            "en": "Decí qué estás haciendo ahora.",
+            "es": "Say what you're doing right now: 'Estoy...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "he leído",
+            "target": "Contame sobre una noticia que seguiste, en dos frases.",
+            "native": "Tell me about a story you've followed, in two sentences.",
+            "en": "Contame sobre una noticia que seguiste, en dos frases.",
+            "es": "Tell me about a story you've followed, in two sentences."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "day": 1,
+      "role": "PRESENT",
+      "focus": "Plans, goals and the future",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Unidad doce. Hablemos de vos: tus metas y tus sueños.",
+          "native": "Unit twelve. Let's talk about you: your goals and dreams.",
+          "en": "Unidad doce. Hablemos de vos: tus metas y tus sueños.",
+          "es": "Unit twelve. Let's talk about you: your goals and dreams."
+        },
+        {
+          "kind": "SHOW",
+          "item": "meta",
+          "phonetic": "MEH-tah",
+          "target": "Meta.",
+          "native": "Goal — what you want to reach.",
+          "en": "Meta.",
+          "es": "Goal — what you want to reach."
+        },
+        {
+          "kind": "MODEL",
+          "item": "meta",
+          "phonetic": "MEH-tah"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "meta",
+          "phonetic": "MEH-tah",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "sueño",
+          "phonetic": "SWEH-nyoh",
+          "target": "Sueño.",
+          "native": "Dream — a big goal, far away. Also 'sleep'.",
+          "en": "Sueño.",
+          "es": "Dream — a big goal, far away. Also 'sleep'."
+        },
+        {
+          "kind": "MODEL",
+          "item": "sueño",
+          "phonetic": "SWEH-nyoh"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "sueño",
+          "phonetic": "SWEH-nyoh",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SAY",
+          "target": "El sueño está lejos; la meta es un paso que podés dar hoy.",
+          "native": "A dream is far; a goal is a step you can take today.",
+          "en": "El sueño está lejos; la meta es un paso que podés dar hoy.",
+          "es": "A dream is far; a goal is a step you can take today."
+        },
+        {
+          "kind": "SHOW",
+          "item": "prioridad",
+          "phonetic": "pryoh-ree-DAHD",
+          "target": "Prioridad.",
+          "native": "Priority — what comes first.",
+          "en": "Prioridad.",
+          "es": "Priority — what comes first."
+        },
+        {
+          "kind": "MODEL",
+          "item": "prioridad",
+          "phonetic": "pryoh-ree-DAHD"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "prioridad",
+          "phonetic": "pryoh-ree-DAHD",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "oportunidad",
+          "phonetic": "oh-por-too-nee-DAHD",
+          "target": "Oportunidad.",
+          "native": "Opportunity — a chance to move forward.",
+          "en": "Oportunidad.",
+          "es": "Opportunity — a chance to move forward."
+        },
+        {
+          "kind": "MODEL",
+          "item": "oportunidad",
+          "phonetic": "oh-por-too-nee-DAHD"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "oportunidad",
+          "phonetic": "oh-por-too-nee-DAHD",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "compromiso",
+          "phonetic": "kom-proh-MEE-soh",
+          "target": "Compromiso.",
+          "native": "Commitment — a promise you keep.",
+          "en": "Compromiso.",
+          "es": "Commitment — a promise you keep."
+        },
+        {
+          "kind": "MODEL",
+          "item": "compromiso",
+          "phonetic": "kom-proh-MEE-soh"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "compromiso",
+          "phonetic": "kom-proh-MEE-soh",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya podés nombrar tus metas.",
+          "native": "You can name your goals and dreams.",
+          "en": "Ya podés nombrar tus metas.",
+          "es": "You can name your goals and dreams."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "mi meta es",
+            "target": "Decí cuál es tu meta.",
+            "native": "Say what your goal is: 'Mi meta es...'.",
+            "en": "Decí cuál es tu meta.",
+            "es": "Say what your goal is: 'Mi meta es...'."
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "mi sueño es",
+            "target": "Decí cuál es tu sueño.",
+            "native": "Say your dream: 'Mi sueño es...'.",
+            "en": "Decí cuál es tu sueño.",
+            "es": "Say your dream: 'Mi sueño es...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "mi prioridad",
+            "target": "Decime tu prioridad número uno.",
+            "native": "Tell me your top priority.",
+            "en": "Decime tu prioridad número uno.",
+            "es": "Tell me your top priority."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "day": 3,
+      "role": "PRACTISE",
+      "focus": "Plans, goals and the future",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Dos maneras de hablar del futuro: 'ir a' y 'pensar'.",
+          "native": "Two ways to talk about the future in Spanish: 'ir a' and 'pensar'.",
+          "en": "Dos maneras de hablar del futuro: 'ir a' y 'pensar'.",
+          "es": "Two ways to talk about the future in Spanish: 'ir a' and 'pensar'."
+        },
+        {
+          "kind": "SHOW",
+          "item": "lograr",
+          "phonetic": "loh-GRAR",
+          "target": "Lograr.",
+          "native": "To achieve.",
+          "en": "Lograr.",
+          "es": "To achieve."
+        },
+        {
+          "kind": "MODEL",
+          "item": "lograr",
+          "phonetic": "loh-GRAR"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "lograr",
+          "phonetic": "loh-GRAR",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "mejorar",
+          "phonetic": "meh-hoh-RAR",
+          "target": "Mejorar.",
+          "native": "To improve.",
+          "en": "Mejorar.",
+          "es": "To improve."
+        },
+        {
+          "kind": "MODEL",
+          "item": "mejorar",
+          "phonetic": "meh-hoh-RAR"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "mejorar",
+          "phonetic": "meh-hoh-RAR",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SAY",
+          "target": "Voy a estudiar. 'Ir a' más infinitivo, como 'going to'.",
+          "native": "'Voy a estudiar' — I'm going to study. 'Ir a' + infinitive, like 'going to'.",
+          "en": "Voy a estudiar. 'Ir a' más infinitivo, como 'going to'.",
+          "es": "'Voy a estudiar' — I'm going to study. 'Ir a' + infinitive, like 'going to'."
+        },
+        {
+          "kind": "SAY",
+          "target": "Pienso viajar este año. 'Pensar' más infinitivo: un plan que tenés en mente.",
+          "native": "'Pienso viajar este año' — I plan to travel. 'Pensar' + infinitive: a plan you have in mind.",
+          "en": "Pienso viajar este año. 'Pensar' más infinitivo: un plan que tenés en mente.",
+          "es": "'Pienso viajar este año' — I plan to travel. 'Pensar' + infinitive: a plan you have in mind."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "voy a lograr",
+            "voy a mejorar",
+            "pienso intentar"
+          ],
+          "target": "Los planes, conmigo.",
+          "native": "The plans, with me: I'm going to achieve, improve, I plan to try.",
+          "en": "Los planes, conmigo.",
+          "es": "The plans, with me: I'm going to achieve, improve, I plan to try."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya podés hablar de tus planes de dos maneras.",
+          "native": "You can talk about your plans two ways.",
+          "en": "Ya podés hablar de tus planes de dos maneras.",
+          "es": "You can talk about your plans two ways."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "voy a",
+            "target": "Decí un plan que ya tenés.",
+            "native": "Say a plan you already have: 'Voy a...'.",
+            "en": "Decí un plan que ya tenés.",
+            "es": "Say a plan you already have: 'Voy a...'."
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "pienso",
+            "target": "Decí algo que pensás hacer este año.",
+            "native": "Say something you plan to do this year: 'Pienso...'.",
+            "en": "Decí algo que pensás hacer este año.",
+            "es": "Say something you plan to do this year: 'Pienso...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "voy a",
+            "target": "Contame una cosa que vas a hacer esta semana.",
+            "native": "Tell me one thing you're going to do this week.",
+            "en": "Contame una cosa que vas a hacer esta semana.",
+            "es": "Tell me one thing you're going to do this week."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "day": 6,
+      "role": "COMBINE",
+      "focus": "Plans, goals and the future",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Ahora el deseo, y acá vuelve el subjuntivo.",
+          "native": "Now wishes — and here the subjunctive comes back.",
+          "en": "Ahora el deseo, y acá vuelve el subjuntivo.",
+          "es": "Now wishes — and here the subjunctive comes back."
+        },
+        {
+          "kind": "SAY",
+          "target": "Quiero que estudies. No 'estudias', sino 'estudies'.",
+          "native": "'Quiero que estudies' — I want you to study. Not 'estudias' (fact), but 'estudies' (wish).",
+          "en": "Quiero que estudies. No 'estudias', sino 'estudies'.",
+          "es": "'Quiero que estudies' — I want you to study. Not 'estudias' (fact), but 'estudies' (wish)."
+        },
+        {
+          "kind": "SHOW",
+          "item": "progreso",
+          "phonetic": "proh-GREH-soh",
+          "target": "Progreso.",
+          "native": "Progress — moving forward, bit by bit.",
+          "en": "Progreso.",
+          "es": "Progress — moving forward, bit by bit."
+        },
+        {
+          "kind": "MODEL",
+          "item": "progreso",
+          "phonetic": "proh-GREH-soh"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "progreso",
+          "phonetic": "proh-GREH-soh",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SAY",
+          "target": "Espero que hagas progreso. El deseo pide subjuntivo.",
+          "native": "'Espero que hagas progreso' — I hope you make progress. A wish asks for the subjunctive.",
+          "en": "Espero que hagas progreso. El deseo pide subjuntivo.",
+          "es": "'Espero que hagas progreso' — I hope you make progress. A wish asks for the subjunctive."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "que estudies",
+            "que logres",
+            "que mejores"
+          ],
+          "target": "El subjuntivo del deseo, conmigo.",
+          "native": "The subjunctive of wishes, with me: that you study, achieve, improve.",
+          "en": "El subjuntivo del deseo, conmigo.",
+          "es": "The subjunctive of wishes, with me: that you study, achieve, improve."
+        },
+        {
+          "kind": "SAY",
+          "target": "Me llamo Capy y quiero que llegues a tu meta.",
+          "native": "'Me llamo Capy y quiero que llegues a tu meta' — you introduce yourself and wish for someone.",
+          "en": "Me llamo Capy y quiero que llegues a tu meta.",
+          "es": "'Me llamo Capy y quiero que llegues a tu meta' — you introduce yourself and wish for someone."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya podés expresar un deseo sobre otro.",
+          "native": "You can express a wish about someone else.",
+          "en": "Ya podés expresar un deseo sobre otro.",
+          "es": "You can express a wish about someone else."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "quiero que",
+            "target": "Expresá un deseo hacia alguien.",
+            "native": "Wish something for someone: 'Quiero que...'.",
+            "en": "Expresá un deseo hacia alguien.",
+            "es": "Wish something for someone: 'Quiero que...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "espero que",
+            "target": "Decime un deseo para un amigo.",
+            "native": "Tell me a wish for a friend, with the subjunctive.",
+            "en": "Decime un deseo para un amigo.",
+            "es": "Tell me a wish for a friend, with the subjunctive."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "day": 8,
+      "role": "PRESENT",
+      "focus": "Plans, goals and the future",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Una meta necesita pasos. Vamos a nombrarlos.",
+          "native": "A goal needs steps. Let's name them.",
+          "en": "Una meta necesita pasos. Vamos a nombrarlos.",
+          "es": "A goal needs steps. Let's name them."
+        },
+        {
+          "kind": "SHOW",
+          "item": "objetivo",
+          "phonetic": "oh-bheh-TEE-boh",
+          "target": "Objetivo.",
+          "native": "Objective — a clear target.",
+          "en": "Objetivo.",
+          "es": "Objective — a clear target."
+        },
+        {
+          "kind": "MODEL",
+          "item": "objetivo",
+          "phonetic": "oh-bheh-TEE-boh"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "objetivo",
+          "phonetic": "oh-bheh-TEE-boh",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "hito",
+          "phonetic": "EE-toh",
+          "target": "Hito.",
+          "native": "Milestone — a big step along the way.",
+          "en": "Hito.",
+          "es": "Milestone — a big step along the way."
+        },
+        {
+          "kind": "MODEL",
+          "item": "hito",
+          "phonetic": "EE-toh"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "hito",
+          "phonetic": "EE-toh",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "propósito",
+          "phonetic": "proh-POH-see-toh",
+          "target": "Propósito.",
+          "native": "Purpose — the reason behind it.",
+          "en": "Propósito.",
+          "es": "Purpose — the reason behind it."
+        },
+        {
+          "kind": "MODEL",
+          "item": "propósito",
+          "phonetic": "proh-POH-see-toh"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "propósito",
+          "phonetic": "proh-POH-see-toh",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "desafío",
+          "phonetic": "deh-sah-FEE-oh",
+          "target": "Desafío.",
+          "native": "Challenge — something hard, worth doing.",
+          "en": "Desafío.",
+          "es": "Challenge — something hard, worth doing."
+        },
+        {
+          "kind": "MODEL",
+          "item": "desafío",
+          "phonetic": "deh-sah-FEE-oh"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "desafío",
+          "phonetic": "deh-sah-FEE-oh",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya podés nombrar los pasos de un plan.",
+          "native": "You can name the steps of a plan.",
+          "en": "Ya podés nombrar los pasos de un plan.",
+          "es": "You can name the steps of a plan."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "mi objetivo",
+            "target": "Nombrá tu próximo objetivo.",
+            "native": "Name your next objective: 'Mi objetivo es...'.",
+            "en": "Nombrá tu próximo objetivo.",
+            "es": "Name your next objective: 'Mi objetivo es...'."
+          }
+        ],
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "mi próximo hito",
+            "target": "Decí cuál es tu próximo hito.",
+            "native": "Say your next milestone.",
+            "en": "Decí cuál es tu próximo hito.",
+            "es": "Say your next milestone."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "mi propósito",
+            "target": "Contame el propósito detrás de tu meta.",
+            "native": "Tell me the purpose behind your goal.",
+            "en": "Contame el propósito detrás de tu meta.",
+            "es": "Tell me the purpose behind your goal."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "day": 11,
+      "role": "PRACTISE",
+      "focus": "Plans, goals and the future",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "El subjuntivo también aparece con 'cuando', si es futuro.",
+          "native": "The subjunctive also appears with 'cuando', when it's about the future.",
+          "en": "El subjuntivo también aparece con 'cuando', si es futuro.",
+          "es": "The subjunctive also appears with 'cuando', when it's about the future."
+        },
+        {
+          "kind": "SAY",
+          "target": "Cuando termine, te llamo. Todavía no terminé: por eso 'termine'.",
+          "native": "'Cuando termine, te llamo' — when I finish, I'll call you. It hasn't happened yet, so 'termine', not 'termino'.",
+          "en": "Cuando termine, te llamo. Todavía no terminé: por eso 'termine'.",
+          "es": "'Cuando termine, te llamo' — when I finish, I'll call you. It hasn't happened yet, so 'termine', not 'termino'."
+        },
+        {
+          "kind": "SAY",
+          "target": "Cuando llegues, avisame. Un futuro, otra vez subjuntivo.",
+          "native": "'Cuando llegues, avisame' — when you arrive, let me know. Future again, subjunctive again.",
+          "en": "Cuando llegues, avisame. Un futuro, otra vez subjuntivo.",
+          "es": "'Cuando llegues, avisame' — when you arrive, let me know. Future again, subjunctive again."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "cuando termine",
+            "cuando llegue",
+            "cuando pueda"
+          ],
+          "target": "El 'cuando' del futuro, conmigo.",
+          "native": "The future 'cuando', with me: when I finish, arrive, can.",
+          "en": "El 'cuando' del futuro, conmigo.",
+          "es": "The future 'cuando', with me: when I finish, arrive, can."
+        },
+        {
+          "kind": "SAY",
+          "target": "'En cuanto' funciona igual: en cuanto pueda, empiezo.",
+          "native": "'En cuanto' works the same: 'en cuanto pueda, empiezo' — as soon as I can, I start.",
+          "en": "'En cuanto' funciona igual: en cuanto pueda, empiezo.",
+          "es": "'En cuanto' works the same: 'en cuanto pueda, empiezo' — as soon as I can, I start."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "en cuanto pueda",
+            "en cuanto termine",
+            "en cuanto llegue"
+          ],
+          "target": "Ahora con 'en cuanto', conmigo.",
+          "native": "Now with 'en cuanto' (as soon as), with me.",
+          "en": "Ahora con 'en cuanto', conmigo.",
+          "es": "Now with 'en cuanto' (as soon as), with me."
+        },
+        {
+          "kind": "SAY",
+          "target": "Si ya pasa siempre, va normal: 'cuando llego, tomo café'. Solo el futuro pide subjuntivo.",
+          "native": "If it already happens routinely, it's normal: 'cuando llego, tomo café'. Only the future asks for the subjunctive.",
+          "en": "Si ya pasa siempre, va normal: 'cuando llego, tomo café'. Solo el futuro pide subjuntivo.",
+          "es": "If it already happens routinely, it's normal: 'cuando llego, tomo café'. Only the future asks for the subjunctive."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya distinguís el 'cuando' de rutina del 'cuando' de futuro.",
+          "native": "You can tell the routine 'cuando' from the future 'cuando'.",
+          "en": "Ya distinguís el 'cuando' de rutina del 'cuando' de futuro.",
+          "es": "You can tell the routine 'cuando' from the future 'cuando'."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "cuando termine",
+            "target": "Decí qué hacés cuando termines de estudiar.",
+            "native": "Say what you'll do when you finish studying: 'Cuando termine...'.",
+            "en": "Decí qué hacés cuando termines de estudiar.",
+            "es": "Say what you'll do when you finish studying: 'Cuando termine...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "cuando",
+            "target": "Contame un plan para cuando llegue el verano.",
+            "native": "Tell me a plan for when summer comes, using 'cuando' + subjunctive.",
+            "en": "Contame un plan para cuando llegue el verano.",
+            "es": "Tell me a plan for when summer comes, using 'cuando' + subjunctive."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "day": 13,
+      "role": "COMBINE",
+      "focus": "Plans, goals and the future",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Último día. Una forma amable de aconsejar: el condicional.",
+          "native": "Last day. A gentle way to give advice: the conditional.",
+          "en": "Último día. Una forma amable de aconsejar: el condicional.",
+          "es": "Last day. A gentle way to give advice: the conditional."
+        },
+        {
+          "kind": "SAY",
+          "target": "Deberías descansar. 'Deberías' es más suave que 'tenés que'.",
+          "native": "'Deberías descansar' — you should rest. 'Deberías' is softer than 'tenés que' (you have to).",
+          "en": "Deberías descansar. 'Deberías' es más suave que 'tenés que'.",
+          "es": "'Deberías descansar' — you should rest. 'Deberías' is softer than 'tenés que' (you have to)."
+        },
+        {
+          "kind": "SAY",
+          "target": "Podrías intentar de nuevo. Una sugerencia, no una orden.",
+          "native": "'Podrías intentar de nuevo' — you could try again. A suggestion, not an order.",
+          "en": "Podrías intentar de nuevo. Una sugerencia, no una orden.",
+          "es": "'Podrías intentar de nuevo' — you could try again. A suggestion, not an order."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "deberías",
+            "podrías",
+            "tendrías que"
+          ],
+          "target": "Las sugerencias, conmigo.",
+          "native": "The suggestions, with me: you should, you could, you ought to.",
+          "en": "Las sugerencias, conmigo.",
+          "es": "The suggestions, with me: you should, you could, you ought to."
+        },
+        {
+          "kind": "SAY",
+          "target": "Bien argentino: 'yo que vos, empezaría hoy'. Un consejo desde tu lugar.",
+          "native": "Very Argentine: 'yo que vos, empezaría hoy' — if I were you, I'd start today.",
+          "en": "Bien argentino: 'yo que vos, empezaría hoy'. Un consejo desde tu lugar.",
+          "es": "Very Argentine: 'yo que vos, empezaría hoy' — if I were you, I'd start today."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "yo que vos",
+            "empezaría",
+            "intentaría"
+          ],
+          "target": "El consejo argentino, conmigo.",
+          "native": "The Argentine advice, with me: if I were you, I'd start, I'd try.",
+          "en": "El consejo argentino, conmigo.",
+          "es": "The Argentine advice, with me: if I were you, I'd start, I'd try."
+        },
+        {
+          "kind": "SAY",
+          "target": "Todo junto: si querés lograr tu meta, deberías empezar cuando puedas.",
+          "native": "All together: 'Si querés lograr tu meta, deberías empezar cuando puedas'.",
+          "en": "Todo junto: si querés lograr tu meta, deberías empezar cuando puedas.",
+          "es": "All together: 'Si querés lograr tu meta, deberías empezar cuando puedas'."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya podés planear, desear y aconsejar en español. Eso es B1.",
+          "native": "You can plan, wish and advise in Spanish. That's B1.",
+          "en": "Ya podés planear, desear y aconsejar en español. Eso es B1.",
+          "es": "You can plan, wish and advise in Spanish. That's B1."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "deberías",
+            "target": "Dale un consejo a alguien con una meta.",
+            "native": "Give advice to someone with a goal: 'Deberías...'.",
+            "en": "Dale un consejo a alguien con una meta.",
+            "es": "Give advice to someone with a goal: 'Deberías...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "podrías",
+            "target": "Sugerime algo para mejorar mi español.",
+            "native": "Suggest something to improve my Spanish, with 'podrías'.",
+            "en": "Sugerime algo para mejorar mi español.",
+            "es": "Suggest something to improve my Spanish, with 'podrías'."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "day": 1,
+      "role": "PRESENT",
+      "focus": "Society, relationships and what could have been",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Unidad trece. Las personas y cómo se conectan.",
+          "native": "Unit thirteen. People and how they connect.",
+          "en": "Unidad trece. Las personas y cómo se conectan.",
+          "es": "Unit thirteen. People and how they connect."
+        },
+        {
+          "kind": "SHOW",
+          "item": "relación",
+          "phonetic": "reh-lah-SYON",
+          "target": "Relación.",
+          "native": "Relationship — how two people are connected.",
+          "en": "Relación.",
+          "es": "Relationship — how two people are connected."
+        },
+        {
+          "kind": "MODEL",
+          "item": "relación",
+          "phonetic": "reh-lah-SYON"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "relación",
+          "phonetic": "reh-lah-SYON",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "confianza",
+          "phonetic": "kon-FYAHN-sah",
+          "target": "Confianza.",
+          "native": "Trust — believing someone won't let you down.",
+          "en": "Confianza.",
+          "es": "Trust — believing someone won't let you down."
+        },
+        {
+          "kind": "MODEL",
+          "item": "confianza",
+          "phonetic": "kon-FYAHN-sah"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "confianza",
+          "phonetic": "kon-FYAHN-sah",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "vínculo",
+          "phonetic": "BEEN-koo-loh",
+          "target": "Vínculo.",
+          "native": "Bond — a strong, close connection.",
+          "en": "Vínculo.",
+          "es": "Bond — a strong, close connection."
+        },
+        {
+          "kind": "MODEL",
+          "item": "vínculo",
+          "phonetic": "BEEN-koo-loh"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "vínculo",
+          "phonetic": "BEEN-koo-loh",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SAY",
+          "target": "La confianza construye el vínculo; el vínculo sostiene la relación.",
+          "native": "Trust builds the bond; the bond holds the relationship.",
+          "en": "La confianza construye el vínculo; el vínculo sostiene la relación.",
+          "es": "Trust builds the bond; the bond holds the relationship."
+        },
+        {
+          "kind": "SHOW",
+          "item": "conflicto",
+          "phonetic": "kon-FLEEK-toh",
+          "target": "Conflicto.",
+          "native": "Conflict — a serious disagreement.",
+          "en": "Conflicto.",
+          "es": "Conflict — a serious disagreement."
+        },
+        {
+          "kind": "MODEL",
+          "item": "conflicto",
+          "phonetic": "kon-FLEEK-toh"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "conflicto",
+          "phonetic": "kon-FLEEK-toh",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "perdón",
+          "phonetic": "per-DOHN",
+          "target": "Perdón.",
+          "native": "Forgiveness — also 'sorry'.",
+          "en": "Perdón.",
+          "es": "Forgiveness — also 'sorry'."
+        },
+        {
+          "kind": "MODEL",
+          "item": "perdón",
+          "phonetic": "per-DOHN"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "perdón",
+          "phonetic": "per-DOHN",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya podés nombrar lo que une y lo que separa a la gente.",
+          "native": "You can name what holds people together and what breaks them apart.",
+          "en": "Ya podés nombrar lo que une y lo que separa a la gente.",
+          "es": "You can name what holds people together and what breaks them apart."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "confío en",
+            "target": "Decí en quién confiás.",
+            "native": "Say who you trust: 'Confío en...'.",
+            "en": "Decí en quién confiás.",
+            "es": "Say who you trust: 'Confío en...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "relación",
+            "target": "Contame sobre una relación cercana de tu vida.",
+            "native": "Tell me about one close relationship in your life.",
+            "en": "Contame sobre una relación cercana de tu vida.",
+            "es": "Tell me about one close relationship in your life."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "day": 3,
+      "role": "PRACTISE",
+      "focus": "Society, relationships and what could have been",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Hoy, el pasado antes del pasado: el pluscuamperfecto.",
+          "native": "Today, the past before the past: the pluperfect.",
+          "en": "Hoy, el pasado antes del pasado: el pluscuamperfecto.",
+          "es": "Today, the past before the past: the pluperfect."
+        },
+        {
+          "kind": "SHOW",
+          "item": "traición",
+          "phonetic": "trah-ee-SYON",
+          "target": "Traición.",
+          "native": "Betrayal — when trust is broken.",
+          "en": "Traición.",
+          "es": "Betrayal — when trust is broken."
+        },
+        {
+          "kind": "MODEL",
+          "item": "traición",
+          "phonetic": "trah-ee-SYON"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "traición",
+          "phonetic": "trah-ee-SYON",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SAY",
+          "target": "Cuando llegué, ella ya se había ido. 'Había' más participio.",
+          "native": "'Cuando llegué, ella ya se había ido' — when I arrived, she had already left. 'Había' + participle.",
+          "en": "Cuando llegué, ella ya se había ido. 'Había' más participio.",
+          "es": "'Cuando llegué, ella ya se había ido' — when I arrived, she had already left. 'Había' + participle."
+        },
+        {
+          "kind": "SAY",
+          "target": "Primero se fue, después llegué yo. El pluscuamperfecto marca lo anterior.",
+          "native": "First she left, then I arrived. The pluperfect marks what happened earlier.",
+          "en": "Primero se fue, después llegué yo. El pluscuamperfecto marca lo anterior.",
+          "es": "First she left, then I arrived. The pluperfect marks what happened earlier."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "había ido",
+            "había visto",
+            "había dicho"
+          ],
+          "target": "El pluscuamperfecto, conmigo.",
+          "native": "The pluperfect, with me: had gone, had seen, had said.",
+          "en": "El pluscuamperfecto, conmigo.",
+          "es": "The pluperfect, with me: had gone, had seen, had said."
+        },
+        {
+          "kind": "SAY",
+          "target": "Es 'había' para todos: había ido, habías ido, habíamos ido.",
+          "native": "It's 'había' across the board: I had, you had, we had gone.",
+          "en": "Es 'había' para todos: había ido, habías ido, habíamos ido.",
+          "es": "It's 'había' across the board: I had, you had, we had gone."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya podés contar lo que ya había pasado antes de otro momento.",
+          "native": "You can tell what had already happened before another moment.",
+          "en": "Ya podés contar lo que ya había pasado antes de otro momento.",
+          "es": "You can tell what had already happened before another moment."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "había",
+            "target": "Decí qué ya había pasado cuando llegaste a casa.",
+            "native": "Say what had already happened when you got home: '...ya había...'.",
+            "en": "Decí qué ya había pasado cuando llegaste a casa.",
+            "es": "Say what had already happened when you got home: '...ya había...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "había",
+            "target": "Contame algo que ya habías hecho antes de los veinte.",
+            "native": "Tell me something you had already done before you were twenty.",
+            "en": "Contame algo que ya habías hecho antes de los veinte.",
+            "es": "Tell me something you had already done before you were twenty."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "day": 6,
+      "role": "COMBINE",
+      "focus": "Society, relationships and what could have been",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Ahora el arrepentimiento y lo imaginado: el imperfecto de subjuntivo.",
+          "native": "Now regret and the imagined: the imperfect subjunctive.",
+          "en": "Ahora el arrepentimiento y lo imaginado: el imperfecto de subjuntivo.",
+          "es": "Now regret and the imagined: the imperfect subjunctive."
+        },
+        {
+          "kind": "SAY",
+          "target": "Si tuviera tiempo, te ayudaría. No pasó, lo estás imaginando.",
+          "native": "'Si tuviera tiempo, te ayudaría' — if I had time, I'd help you. It's not real; you're imagining it.",
+          "en": "Si tuviera tiempo, te ayudaría. No pasó, lo estás imaginando.",
+          "es": "'Si tuviera tiempo, te ayudaría' — if I had time, I'd help you. It's not real; you're imagining it."
+        },
+        {
+          "kind": "SHOW",
+          "item": "reconciliación",
+          "phonetic": "reh-kon-see-lyah-SYON",
+          "target": "Reconciliación.",
+          "native": "Reconciliation — coming back together.",
+          "en": "Reconciliación.",
+          "es": "Reconciliation — coming back together."
+        },
+        {
+          "kind": "MODEL",
+          "item": "reconciliación",
+          "phonetic": "reh-kon-see-lyah-SYON"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "reconciliación",
+          "phonetic": "reh-kon-see-lyah-SYON",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SAY",
+          "target": "Ojalá viniera a pedir perdón. Un deseo difícil, casi imposible.",
+          "native": "'Ojalá viniera a pedir perdón' — I wish he'd come to apologise. A hard, unlikely wish.",
+          "en": "Ojalá viniera a pedir perdón. Un deseo difícil, casi imposible.",
+          "es": "'Ojalá viniera a pedir perdón' — I wish he'd come to apologise. A hard, unlikely wish."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "si tuviera",
+            "si pudiera",
+            "si fuera"
+          ],
+          "target": "El imperfecto de subjuntivo, conmigo.",
+          "native": "The imperfect subjunctive, with me: if I had, if I could, if I were.",
+          "en": "El imperfecto de subjuntivo, conmigo.",
+          "es": "The imperfect subjunctive, with me: if I had, if I could, if I were."
+        },
+        {
+          "kind": "SAY",
+          "target": "Ojo con los irregulares: tener da 'tuviera', poder da 'pudiera', ser da 'fuera'.",
+          "native": "Watch the irregulars: 'tener' gives 'tuviera', 'poder' gives 'pudiera', 'ser' gives 'fuera'.",
+          "en": "Ojo con los irregulares: tener da 'tuviera', poder da 'pudiera', ser da 'fuera'.",
+          "es": "Watch the irregulars: 'tener' gives 'tuviera', 'poder' gives 'pudiera', 'ser' gives 'fuera'."
+        },
+        {
+          "kind": "SAY",
+          "target": "Me llamo Capy, y si pudiera, hablaría todos los idiomas.",
+          "native": "'Me llamo Capy, y si pudiera, hablaría todos los idiomas' — you introduce yourself and imagine.",
+          "en": "Me llamo Capy, y si pudiera, hablaría todos los idiomas.",
+          "es": "'Me llamo Capy, y si pudiera, hablaría todos los idiomas' — you introduce yourself and imagine."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya podés hablar de lo que harías, pero no es real.",
+          "native": "You can talk about what you would do, but isn't real.",
+          "en": "Ya podés hablar de lo que harías, pero no es real.",
+          "es": "You can talk about what you would do, but isn't real."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "si tuviera",
+            "target": "Completá: si tuviera más tiempo, ...",
+            "native": "Finish: 'Si tuviera más tiempo, ...'.",
+            "en": "Completá: si tuviera más tiempo, ...",
+            "es": "Finish: 'Si tuviera más tiempo, ...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "si pudiera",
+            "target": "Contame una cosa que harías si pudieras.",
+            "native": "Tell me one thing you'd do if you could.",
+            "en": "Contame una cosa que harías si pudieras.",
+            "es": "Tell me one thing you'd do if you could."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "day": 8,
+      "role": "PRESENT",
+      "focus": "Society, relationships and what could have been",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "De dos personas al grupo entero: la sociedad.",
+          "native": "From two people to the whole group: society.",
+          "en": "De dos personas al grupo entero: la sociedad.",
+          "es": "From two people to the whole group: society."
+        },
+        {
+          "kind": "SHOW",
+          "item": "comunidad",
+          "phonetic": "koh-moo-nee-DAHD",
+          "target": "Comunidad.",
+          "native": "Community — the people around you, together.",
+          "en": "Comunidad.",
+          "es": "Community — the people around you, together."
+        },
+        {
+          "kind": "MODEL",
+          "item": "comunidad",
+          "phonetic": "koh-moo-nee-DAHD"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "comunidad",
+          "phonetic": "koh-moo-nee-DAHD",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "desigualdad",
+          "phonetic": "des-ee-gwahl-DAHD",
+          "target": "Desigualdad.",
+          "native": "Inequality — when some have far more than others.",
+          "en": "Desigualdad.",
+          "es": "Inequality — when some have far more than others."
+        },
+        {
+          "kind": "MODEL",
+          "item": "desigualdad",
+          "phonetic": "des-ee-gwahl-DAHD"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "desigualdad",
+          "phonetic": "des-ee-gwahl-DAHD",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "soledad",
+          "phonetic": "soh-leh-DAHD",
+          "target": "Soledad.",
+          "native": "Loneliness — feeling alone, even among people.",
+          "en": "Soledad.",
+          "es": "Loneliness — feeling alone, even among people."
+        },
+        {
+          "kind": "MODEL",
+          "item": "soledad",
+          "phonetic": "soh-leh-DAHD"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "soledad",
+          "phonetic": "soh-leh-DAHD",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "empatía",
+          "phonetic": "em-pah-TEE-ah",
+          "target": "Empatía.",
+          "native": "Empathy — feeling what another feels.",
+          "en": "Empatía.",
+          "es": "Empathy — feeling what another feels."
+        },
+        {
+          "kind": "MODEL",
+          "item": "empatía",
+          "phonetic": "em-pah-TEE-ah"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "empatía",
+          "phonetic": "em-pah-TEE-ah",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya podés nombrar de qué está hecha una sociedad.",
+          "native": "You can name what a society is made of.",
+          "en": "Ya podés nombrar de qué está hecha una sociedad.",
+          "es": "You can name what a society is made of."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "mi comunidad",
+            "target": "Decí una cosa de tu comunidad.",
+            "native": "Say one thing about your community: 'Mi comunidad...'.",
+            "en": "Decí una cosa de tu comunidad.",
+            "es": "Say one thing about your community: 'Mi comunidad...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "desigualdad",
+            "target": "Contame un ejemplo de desigualdad que viste.",
+            "native": "Tell me one example of inequality you've seen.",
+            "en": "Contame un ejemplo de desigualdad que viste.",
+            "es": "Tell me one example of inequality you've seen."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "day": 11,
+      "role": "PRACTISE",
+      "focus": "Society, relationships and what could have been",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "La duda y la negación también piden subjuntivo, en pasado.",
+          "native": "Doubt and denial also ask for the subjunctive — in the past.",
+          "en": "La duda y la negación también piden subjuntivo, en pasado.",
+          "es": "Doubt and denial also ask for the subjunctive — in the past."
+        },
+        {
+          "kind": "SAY",
+          "target": "No creía que fuera verdad. La duda en pasado: 'fuera', no 'era'.",
+          "native": "'No creía que fuera verdad' — I didn't think it was true. Past doubt: 'fuera', not 'era'.",
+          "en": "No creía que fuera verdad. La duda en pasado: 'fuera', no 'era'.",
+          "es": "'No creía que fuera verdad' — I didn't think it was true. Past doubt: 'fuera', not 'era'."
+        },
+        {
+          "kind": "SAY",
+          "target": "Negó que hubiera un problema. Negar también lo pide.",
+          "native": "'Negó que hubiera un problema' — he denied there was a problem. Denial asks for it too.",
+          "en": "Negó que hubiera un problema. Negar también lo pide.",
+          "es": "'Negó que hubiera un problema' — he denied there was a problem. Denial asks for it too."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "que fuera",
+            "que tuviera",
+            "que pudiera"
+          ],
+          "target": "La duda en pasado, conmigo.",
+          "native": "Past doubt, with me: that it were, that it had, that it could.",
+          "en": "La duda en pasado, conmigo.",
+          "es": "Past doubt, with me: that it were, that it had, that it could."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "no creía que",
+            "dudaba que",
+            "negó que"
+          ],
+          "target": "Los que disparan la duda, conmigo.",
+          "native": "The triggers of doubt, with me: I didn't think that, I doubted that, he denied that.",
+          "en": "Los que disparan la duda, conmigo.",
+          "es": "The triggers of doubt, with me: I didn't think that, I doubted that, he denied that."
+        },
+        {
+          "kind": "SAY",
+          "target": "Compará: 'sabía que era verdad' es un hecho; 'dudaba que fuera verdad' es una duda.",
+          "native": "Compare: 'sabía que era verdad' is a fact; 'dudaba que fuera verdad' is a doubt.",
+          "en": "Compará: 'sabía que era verdad' es un hecho; 'dudaba que fuera verdad' es una duda.",
+          "es": "Compare: 'sabía que era verdad' is a fact; 'dudaba que fuera verdad' is a doubt."
+        },
+        {
+          "kind": "SAY",
+          "target": "La certeza va normal; la duda va subjuntivo. Esa es la línea.",
+          "native": "Certainty goes normal; doubt goes subjunctive. That's the line.",
+          "en": "La certeza va normal; la duda va subjuntivo. Esa es la línea.",
+          "es": "Certainty goes normal; doubt goes subjunctive. That's the line."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya distinguís el hecho de la duda en el pasado.",
+          "native": "You can tell a fact from a doubt in the past.",
+          "en": "Ya distinguís el hecho de la duda en el pasado.",
+          "es": "You can tell a fact from a doubt in the past."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "no creía que",
+            "target": "Expresá una duda sobre algo del pasado.",
+            "native": "Express a doubt about the past: 'No creía que...'.",
+            "en": "Expresá una duda sobre algo del pasado.",
+            "es": "Express a doubt about the past: 'No creía que...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "dudaba que",
+            "target": "Contame algo que dudabas de chico.",
+            "native": "Tell me something you doubted as a kid, with 'dudaba que...'.",
+            "en": "Contame algo que dudabas de chico.",
+            "es": "Tell me something you doubted as a kid, with 'dudaba que...'."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "day": 13,
+      "role": "COMBINE",
+      "focus": "Society, relationships and what could have been",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Último día. Los conectores para contrastar ideas.",
+          "native": "Last day. The connectors that contrast ideas.",
+          "en": "Último día. Los conectores para contrastar ideas.",
+          "es": "Last day. The connectors that contrast ideas."
+        },
+        {
+          "kind": "SAY",
+          "target": "Confiaba en él; sin embargo, me traicionó.",
+          "native": "'Confiaba en él; sin embargo, me traicionó' — I trusted him; however, he betrayed me.",
+          "en": "Confiaba en él; sin embargo, me traicionó.",
+          "es": "'Confiaba en él; sin embargo, me traicionó' — I trusted him; however, he betrayed me."
+        },
+        {
+          "kind": "SAY",
+          "target": "Quería quedarme; en cambio, me fui.",
+          "native": "'Quería quedarme; en cambio, me fui' — I wanted to stay; instead, I left.",
+          "en": "Quería quedarme; en cambio, me fui.",
+          "es": "'Quería quedarme; en cambio, me fui' — I wanted to stay; instead, I left."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "sin embargo",
+            "en cambio",
+            "no obstante"
+          ],
+          "target": "Los conectores de contraste, conmigo.",
+          "native": "The contrast connectors, with me: however, instead, nevertheless.",
+          "en": "Los conectores de contraste, conmigo.",
+          "es": "The contrast connectors, with me: however, instead, nevertheless."
+        },
+        {
+          "kind": "SAY",
+          "target": "Marcan un giro: lo que esperabas, y lo que pasó en cambio.",
+          "native": "They mark a turn: what you expected, and what happened instead.",
+          "en": "Marcan un giro: lo que esperabas, y lo que pasó en cambio.",
+          "es": "They mark a turn: what you expected, and what happened instead."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "aunque",
+            "a pesar de",
+            "por otro lado"
+          ],
+          "target": "Más conectores de contraste, conmigo.",
+          "native": "More contrast connectors, with me: although, despite, on the other hand.",
+          "en": "Más conectores de contraste, conmigo.",
+          "es": "More contrast connectors, with me: although, despite, on the other hand."
+        },
+        {
+          "kind": "SAY",
+          "target": "Todo junto: si me hubiera pedido perdón, todo sería distinto; sin embargo, no lo hizo.",
+          "native": "All together: 'Si me hubiera pedido perdón, todo sería distinto; sin embargo, no lo hizo'.",
+          "en": "Todo junto: si me hubiera pedido perdón, todo sería distinto; sin embargo, no lo hizo.",
+          "es": "All together: 'Si me hubiera pedido perdón, todo sería distinto; sin embargo, no lo hizo'."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya podés hablar de la gente, del pasado y contrastar ideas. Eso ya es B1 de verdad.",
+          "native": "You can talk about people, the past, and contrast ideas. That's real B1.",
+          "en": "Ya podés hablar de la gente, del pasado y contrastar ideas. Eso ya es B1 de verdad.",
+          "es": "You can talk about people, the past, and contrast ideas. That's real B1."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "sin embargo",
+            "target": "Contrastá dos ideas: quería X; sin embargo, ...",
+            "native": "Contrast two ideas: 'Quería X; sin embargo, ...'.",
+            "en": "Contrastá dos ideas: quería X; sin embargo, ...",
+            "es": "Contrast two ideas: 'Quería X; sin embargo, ...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "en cambio",
+            "target": "Contame algo que esperabas y lo que pasó en cambio.",
+            "native": "Tell me something you expected and what happened instead.",
+            "en": "Contame algo que esperabas y lo que pasó en cambio.",
+            "es": "Tell me something you expected and what happened instead."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 14,
+      "day": 1,
+      "role": "PRESENT",
+      "focus": "Technology: what changes and how to talk about it",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Unidad catorce. El mundo funciona con tecnología.",
+          "native": "Unit fourteen. The world runs on technology.",
+          "en": "Unidad catorce. El mundo funciona con tecnología.",
+          "es": "Unit fourteen. The world runs on technology."
+        },
+        {
+          "kind": "SHOW",
+          "item": "algoritmo",
+          "phonetic": "ahl-goh-REET-moh",
+          "target": "Algoritmo.",
+          "native": "Algorithm — the steps a machine follows to decide.",
+          "en": "Algoritmo.",
+          "es": "Algorithm — the steps a machine follows to decide."
+        },
+        {
+          "kind": "MODEL",
+          "item": "algoritmo",
+          "phonetic": "ahl-goh-REET-moh"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "algoritmo",
+          "phonetic": "ahl-goh-REET-moh",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "automatización",
+          "phonetic": "ow-toh-mah-tee-sah-SYON",
+          "target": "Automatización.",
+          "native": "Automation — machines doing what people did.",
+          "en": "Automatización.",
+          "es": "Automation — machines doing what people did."
+        },
+        {
+          "kind": "MODEL",
+          "item": "automatización",
+          "phonetic": "ow-toh-mah-tee-sah-SYON"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "automatización",
+          "phonetic": "ow-toh-mah-tee-sah-SYON",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SAY",
+          "target": "El algoritmo decide; la automatización lo hace sin nosotros.",
+          "native": "The algorithm decides; automation does it without us.",
+          "en": "El algoritmo decide; la automatización lo hace sin nosotros.",
+          "es": "The algorithm decides; automation does it without us."
+        },
+        {
+          "kind": "SHOW",
+          "item": "sesgo",
+          "phonetic": "SES-goh",
+          "target": "Sesgo.",
+          "native": "Bias — an unfair leaning built into the data.",
+          "en": "Sesgo.",
+          "es": "Bias — an unfair leaning built into the data."
+        },
+        {
+          "kind": "MODEL",
+          "item": "sesgo",
+          "phonetic": "SES-goh"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "sesgo",
+          "phonetic": "SES-goh",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "autónomo",
+          "phonetic": "ow-TOH-noh-moh",
+          "target": "Autónomo.",
+          "native": "Autonomous — able to work on its own.",
+          "en": "Autónomo.",
+          "es": "Autonomous — able to work on its own."
+        },
+        {
+          "kind": "MODEL",
+          "item": "autónomo",
+          "phonetic": "ow-TOH-noh-moh"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "autónomo",
+          "phonetic": "ow-TOH-noh-moh",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya podés nombrar las ideas centrales de la tecnología.",
+          "native": "You can name the core ideas of modern technology.",
+          "en": "Ya podés nombrar las ideas centrales de la tecnología.",
+          "es": "You can name the core ideas of modern technology."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "el algoritmo",
+            "target": "Decí qué hace un algoritmo.",
+            "native": "Say what an algorithm does: 'El algoritmo...'.",
+            "en": "Decí qué hace un algoritmo.",
+            "es": "Say what an algorithm does: 'El algoritmo...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "automatización",
+            "target": "Contame un trabajo que la automatización cambió.",
+            "native": "Tell me one job automation has changed.",
+            "en": "Contame un trabajo que la automatización cambió.",
+            "es": "Tell me one job automation has changed."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 14,
+      "day": 3,
+      "role": "PRACTISE",
+      "focus": "Technology: what changes and how to talk about it",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Reportar en pasado: el verbo se corre para atrás.",
+          "native": "Reporting in the past: the verb backshifts.",
+          "en": "Reportar en pasado: el verbo se corre para atrás.",
+          "es": "Reporting in the past: the verb backshifts."
+        },
+        {
+          "kind": "SHOW",
+          "item": "ciberseguridad",
+          "phonetic": "see-ber-seh-goo-ree-DAHD",
+          "target": "Ciberseguridad.",
+          "native": "Cybersecurity — keeping systems safe.",
+          "en": "Ciberseguridad.",
+          "es": "Cybersecurity — keeping systems safe."
+        },
+        {
+          "kind": "MODEL",
+          "item": "ciberseguridad",
+          "phonetic": "see-ber-seh-goo-ree-DAHD"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "ciberseguridad",
+          "phonetic": "see-ber-seh-goo-ree-DAHD",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SAY",
+          "target": "Directo: 'terminé'. Reportado: dijo que había terminado.",
+          "native": "Direct: 'I finished.' Reported: 'dijo que había terminado' — he said he had finished.",
+          "en": "Directo: 'terminé'. Reportado: dijo que había terminado.",
+          "es": "Direct: 'I finished.' Reported: 'dijo que había terminado' — he said he had finished."
+        },
+        {
+          "kind": "SAY",
+          "target": "Presente pasa a imperfecto, y pasado a pluscuamperfecto. Todo un paso atrás.",
+          "native": "Present becomes imperfect, and past becomes pluperfect. Everything steps back.",
+          "en": "Presente pasa a imperfecto, y pasado a pluscuamperfecto. Todo un paso atrás.",
+          "es": "Present becomes imperfect, and past becomes pluperfect. Everything steps back."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "dijo que había",
+            "contó que era",
+            "explicó que iba"
+          ],
+          "target": "El estilo indirecto en pasado, conmigo.",
+          "native": "Reported speech in the past, with me: said he had, said it was, said he was going.",
+          "en": "El estilo indirecto en pasado, conmigo.",
+          "es": "Reported speech in the past, with me: said he had, said it was, said he was going."
+        },
+        {
+          "kind": "SAY",
+          "target": "El presente 'es' se vuelve 'era'; el pasado 'hizo' se vuelve 'había hecho'.",
+          "native": "The present 'es' becomes 'era'; the past 'hizo' becomes 'había hecho'.",
+          "en": "El presente 'es' se vuelve 'era'; el pasado 'hizo' se vuelve 'había hecho'.",
+          "es": "The present 'es' becomes 'era'; the past 'hizo' becomes 'había hecho'."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya podés reportar en pasado corriendo el verbo.",
+          "native": "You can report in the past by backshifting the verb.",
+          "en": "Ya podés reportar en pasado corriendo el verbo.",
+          "es": "You can report in the past by backshifting the verb."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "dijo que había",
+            "target": "Reportá lo que alguien había hecho.",
+            "native": "Report what someone had done: '...dijo que había...'.",
+            "en": "Reportá lo que alguien había hecho.",
+            "es": "Report what someone had done: '...dijo que había...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "dijo que",
+            "target": "Contame algo que un amigo te contó ayer, en pasado.",
+            "native": "Tell me something a friend told you yesterday, backshifted.",
+            "en": "Contame algo que un amigo te contó ayer, en pasado.",
+            "es": "Tell me something a friend told you yesterday, backshifted."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 14,
+      "day": 6,
+      "role": "COMBINE",
+      "focus": "Technology: what changes and how to talk about it",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Ahora unir ideas con precisión: los relativos.",
+          "native": "Now joining ideas with precision: relative pronouns.",
+          "en": "Ahora unir ideas con precisión: los relativos.",
+          "es": "Now joining ideas with precision: relative pronouns."
+        },
+        {
+          "kind": "SHOW",
+          "item": "cifrado",
+          "phonetic": "see-FRAH-doh",
+          "target": "Cifrado.",
+          "native": "Encryption — turning a message into a secret code.",
+          "en": "Cifrado.",
+          "es": "Encryption — turning a message into a secret code."
+        },
+        {
+          "kind": "MODEL",
+          "item": "cifrado",
+          "phonetic": "see-FRAH-doh"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "cifrado",
+          "phonetic": "see-FRAH-doh",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SAY",
+          "target": "El cifrado que nos protege. 'Que' sirve para casi todo.",
+          "native": "'El cifrado que nos protege' — the encryption that protects us. 'Que' covers almost everything.",
+          "en": "El cifrado que nos protege. 'Que' sirve para casi todo.",
+          "es": "'El cifrado que nos protege' — the encryption that protects us. 'Que' covers almost everything."
+        },
+        {
+          "kind": "SAY",
+          "target": "La empresa cuyo algoritmo falló. 'Cuyo' es 'whose', y concuerda con lo que sigue.",
+          "native": "'La empresa cuyo algoritmo falló' — the company whose algorithm failed. 'Cuyo' is 'whose'.",
+          "en": "La empresa cuyo algoritmo falló. 'Cuyo' es 'whose', y concuerda con lo que sigue.",
+          "es": "'La empresa cuyo algoritmo falló' — the company whose algorithm failed. 'Cuyo' is 'whose'."
+        },
+        {
+          "kind": "SAY",
+          "target": "Perdió los datos, lo cual fue grave. 'Lo cual' se refiere a toda la idea anterior.",
+          "native": "'...lo cual fue grave' — which was serious. 'Lo cual' refers to the whole previous idea.",
+          "en": "Perdió los datos, lo cual fue grave. 'Lo cual' se refiere a toda la idea anterior.",
+          "es": "'...lo cual fue grave' — which was serious. 'Lo cual' refers to the whole previous idea."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "que",
+            "quien",
+            "cuyo"
+          ],
+          "target": "Los relativos, conmigo.",
+          "native": "The relatives, with me: that/which, who, whose.",
+          "en": "Los relativos, conmigo.",
+          "es": "The relatives, with me: that/which, who, whose."
+        },
+        {
+          "kind": "SAY",
+          "target": "Me llamo Capy, cuyo trabajo es enseñarte, lo cual me encanta.",
+          "native": "'Me llamo Capy, cuyo trabajo es enseñarte, lo cual me encanta' — you introduce yourself with relatives.",
+          "en": "Me llamo Capy, cuyo trabajo es enseñarte, lo cual me encanta.",
+          "es": "'Me llamo Capy, cuyo trabajo es enseñarte, lo cual me encanta' — you introduce yourself with relatives."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya podés unir ideas con que, quien, cuyo y lo cual.",
+          "native": "You can join ideas with que, quien, cuyo and lo cual.",
+          "en": "Ya podés unir ideas con que, quien, cuyo y lo cual.",
+          "es": "You can join ideas with que, quien, cuyo and lo cual."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "que",
+            "target": "Describí el algoritmo que usás.",
+            "native": "Describe the algorithm you use: 'El algoritmo que...'.",
+            "en": "Describí el algoritmo que usás.",
+            "es": "Describe the algorithm you use: 'El algoritmo que...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "lo cual",
+            "target": "Contame algo que pasó, y agregá 'lo cual...' con tu opinión.",
+            "native": "Tell me something that happened, then add 'lo cual...' with your take.",
+            "en": "Contame algo que pasó, y agregá 'lo cual...' con tu opinión.",
+            "es": "Tell me something that happened, then add 'lo cual...' with your take."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 14,
+      "day": 8,
+      "role": "PRESENT",
+      "focus": "Technology: what changes and how to talk about it",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "La tecnología corta de los dos lados. Nombremos los filos.",
+          "native": "Technology cuts both ways. Let's name the sharp edges.",
+          "en": "La tecnología corta de los dos lados. Nombremos los filos.",
+          "es": "Technology cuts both ways. Let's name the sharp edges."
+        },
+        {
+          "kind": "SHOW",
+          "item": "polarización",
+          "phonetic": "poh-lah-ree-sah-SYON",
+          "target": "Polarización.",
+          "native": "Polarisation — people splitting into angry camps.",
+          "en": "Polarización.",
+          "es": "Polarisation — people splitting into angry camps."
+        },
+        {
+          "kind": "MODEL",
+          "item": "polarización",
+          "phonetic": "poh-lah-ree-sah-SYON"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "polarización",
+          "phonetic": "poh-lah-ree-sah-SYON",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "genoma",
+          "phonetic": "heh-NOH-mah",
+          "target": "Genoma.",
+          "native": "Genome — the full set of genes.",
+          "en": "Genoma.",
+          "es": "Genome — the full set of genes."
+        },
+        {
+          "kind": "MODEL",
+          "item": "genoma",
+          "phonetic": "heh-NOH-mah"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "genoma",
+          "phonetic": "heh-NOH-mah",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "diagnóstico",
+          "phonetic": "dyahg-NOHS-tee-koh",
+          "target": "Diagnóstico.",
+          "native": "Diagnostic — a test that finds what's wrong.",
+          "en": "Diagnóstico.",
+          "es": "Diagnostic — a test that finds what's wrong."
+        },
+        {
+          "kind": "MODEL",
+          "item": "diagnóstico",
+          "phonetic": "dyahg-NOHS-tee-koh"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "diagnóstico",
+          "phonetic": "dyahg-NOHS-tee-koh",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "infraestructura",
+          "phonetic": "een-frah-es-trook-TOO-rah",
+          "target": "Infraestructura.",
+          "native": "Infrastructure — the base everything runs on.",
+          "en": "Infraestructura.",
+          "es": "Infrastructure — the base everything runs on."
+        },
+        {
+          "kind": "MODEL",
+          "item": "infraestructura",
+          "phonetic": "een-frah-es-trook-TOO-rah"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "infraestructura",
+          "phonetic": "een-frah-es-trook-TOO-rah",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya podés nombrar las promesas y los riesgos de la tecnología.",
+          "native": "You can name the promises and risks of new tech.",
+          "en": "Ya podés nombrar las promesas y los riesgos de la tecnología.",
+          "es": "You can name the promises and risks of new tech."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "polarización",
+            "target": "Decí una causa de la polarización en línea.",
+            "native": "Say one cause of polarisation online: 'La polarización viene de...'.",
+            "en": "Decí una causa de la polarización en línea.",
+            "es": "Say one cause of polarisation online: 'La polarización viene de...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "diagnóstico",
+            "target": "Contame cómo la tecnología ayuda a un médico.",
+            "native": "Tell me how technology helps a doctor.",
+            "en": "Contame cómo la tecnología ayuda a un médico.",
+            "es": "Tell me how technology helps a doctor."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 14,
+      "day": 11,
+      "role": "PRACTISE",
+      "focus": "Technology: what changes and how to talk about it",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Hoy, dos herramientas del español formal: el gerundio y la nominalización.",
+          "native": "Today, two tools of formal Spanish: the gerund and nominalisation.",
+          "en": "Hoy, dos herramientas del español formal: el gerundio y la nominalización.",
+          "es": "Today, two tools of formal Spanish: the gerund and nominalisation."
+        },
+        {
+          "kind": "SAY",
+          "target": "Usando datos, la máquina aprende. El gerundio dice 'cómo' o 'mientras'.",
+          "native": "'Usando datos, la máquina aprende' — using data, the machine learns. The gerund says 'how' or 'while'.",
+          "en": "Usando datos, la máquina aprende. El gerundio dice 'cómo' o 'mientras'.",
+          "es": "'Usando datos, la máquina aprende' — using data, the machine learns. The gerund says 'how' or 'while'."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "usando",
+            "siendo",
+            "creando"
+          ],
+          "target": "Los gerundios, conmigo.",
+          "native": "The gerunds, with me: using, being, creating.",
+          "en": "Los gerundios, conmigo.",
+          "es": "The gerunds, with me: using, being, creating."
+        },
+        {
+          "kind": "SAY",
+          "target": "Nominalizar: convertir el verbo en sustantivo. 'Implementar' se vuelve 'la implementación'.",
+          "native": "Nominalising: turning the verb into a noun. 'Implementar' becomes 'la implementación'.",
+          "en": "Nominalizar: convertir el verbo en sustantivo. 'Implementar' se vuelve 'la implementación'.",
+          "es": "Nominalising: turning the verb into a noun. 'Implementar' becomes 'la implementación'."
+        },
+        {
+          "kind": "SAY",
+          "target": "Suena más formal: no 'cuando lo usan' sino 'el uso de la herramienta'.",
+          "native": "It sounds more formal: not 'when they use it' but 'the use of the tool'.",
+          "en": "Suena más formal: no 'cuando lo usan' sino 'el uso de la herramienta'.",
+          "es": "It sounds more formal: not 'when they use it' but 'the use of the tool'."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "el uso",
+            "la creación",
+            "el desarrollo"
+          ],
+          "target": "Los sustantivos, conmigo.",
+          "native": "The nouns, with me: the use, the creation, the development.",
+          "en": "Los sustantivos, conmigo.",
+          "es": "The nouns, with me: the use, the creation, the development."
+        },
+        {
+          "kind": "SAY",
+          "target": "El gerundio dinamiza; la nominalización formaliza. Dos registros distintos.",
+          "native": "The gerund adds motion; nominalisation adds formality. Two different registers.",
+          "en": "El gerundio dinamiza; la nominalización formaliza. Dos registros distintos.",
+          "es": "The gerund adds motion; nominalisation adds formality. Two different registers."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya manejás el gerundio y la nominalización.",
+          "native": "You can handle the gerund and nominalisation.",
+          "en": "Ya manejás el gerundio y la nominalización.",
+          "es": "You can handle the gerund and nominalisation."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "usando",
+            "target": "Decí cómo aprende una máquina, con gerundio.",
+            "native": "Say how a machine learns, using a gerund: 'Usando...'.",
+            "en": "Decí cómo aprende una máquina, con gerundio.",
+            "es": "Say how a machine learns, using a gerund: 'Usando...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "el uso",
+            "target": "Convertí un verbo en sustantivo y armá una frase formal.",
+            "native": "Turn a verb into a noun and build a formal phrase.",
+            "en": "Convertí un verbo en sustantivo y armá una frase formal.",
+            "es": "Turn a verb into a noun and build a formal phrase."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 14,
+      "day": 13,
+      "role": "COMBINE",
+      "focus": "Technology: what changes and how to talk about it",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Último día. Lo que habría pasado: el condicional compuesto.",
+          "native": "Last day. What would have happened: the compound conditional.",
+          "en": "Último día. Lo que habría pasado: el condicional compuesto.",
+          "es": "Last day. What would have happened: the compound conditional."
+        },
+        {
+          "kind": "SAY",
+          "target": "Sin cifrado, lo habrían robado todo. 'Habría' más participio.",
+          "native": "'Sin cifrado, lo habrían robado todo' — without encryption, they would have stolen everything. 'Habría' + participle.",
+          "en": "Sin cifrado, lo habrían robado todo. 'Habría' más participio.",
+          "es": "'Sin cifrado, lo habrían robado todo' — without encryption, they would have stolen everything. 'Habría' + participle."
+        },
+        {
+          "kind": "SAY",
+          "target": "Es lo imaginado en el pasado: no pasó, pero pudo haber pasado.",
+          "native": "It's the imagined past: it didn't happen, but it could have.",
+          "en": "Es lo imaginado en el pasado: no pasó, pero pudo haber pasado.",
+          "es": "It's the imagined past: it didn't happen, but it could have."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "habría cambiado",
+            "habría pasado",
+            "habría sido"
+          ],
+          "target": "El condicional compuesto, conmigo.",
+          "native": "The compound conditional, with me: would have changed, happened, been.",
+          "en": "El condicional compuesto, conmigo.",
+          "es": "The compound conditional, with me: would have changed, happened, been."
+        },
+        {
+          "kind": "SAY",
+          "target": "Se junta con el 'si': si hubiera sabido, lo habría evitado.",
+          "native": "It pairs with 'si': 'si hubiera sabido, lo habría evitado' — if I'd known, I'd have avoided it.",
+          "en": "Se junta con el 'si': si hubiera sabido, lo habría evitado.",
+          "es": "It pairs with 'si': 'si hubiera sabido, lo habría evitado' — if I'd known, I'd have avoided it."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "si hubiera sabido",
+            "lo habría evitado",
+            "todo habría cambiado"
+          ],
+          "target": "La frase entera, conmigo.",
+          "native": "The whole sentence, with me: if I'd known, I'd have avoided it, everything would have changed.",
+          "en": "La frase entera, conmigo.",
+          "es": "The whole sentence, with me: if I'd known, I'd have avoided it, everything would have changed."
+        },
+        {
+          "kind": "SAY",
+          "target": "Todo junto: dijo que, sin la tecnología que usamos, todo habría sido más lento.",
+          "native": "All together: 'Dijo que, sin la tecnología que usamos, todo habría sido más lento'.",
+          "en": "Todo junto: dijo que, sin la tecnología que usamos, todo habría sido más lento.",
+          "es": "All together: 'Dijo que, sin la tecnología que usamos, todo habría sido más lento'."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya podés hablar de tecnología con el español formal. Eso ya es terreno B2.",
+          "native": "You can talk about technology in formal Spanish. That's B2 territory.",
+          "en": "Ya podés hablar de tecnología con el español formal. Eso ya es terreno B2.",
+          "es": "You can talk about technology in formal Spanish. That's B2 territory."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "habría",
+            "target": "Completá: sin internet, mi vida habría sido...",
+            "native": "Finish: 'Sin internet, mi vida habría sido...'.",
+            "en": "Completá: sin internet, mi vida habría sido...",
+            "es": "Finish: 'Sin internet, mi vida habría sido...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "habría",
+            "target": "Contame qué habría pasado sin los celulares, en dos frases.",
+            "native": "Tell me what would have happened without phones, in two sentences.",
+            "en": "Contame qué habría pasado sin los celulares, en dos frases.",
+            "es": "Tell me what would have happened without phones, in two sentences."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 15,
+      "day": 1,
+      "role": "PRESENT",
+      "focus": "Culture, identity and how it is told",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Unidad quince. Quiénes somos y de dónde venimos: la cultura.",
+          "native": "Unit fifteen. Who we are and where we come from: culture.",
+          "en": "Unidad quince. Quiénes somos y de dónde venimos: la cultura.",
+          "es": "Unit fifteen. Who we are and where we come from: culture."
+        },
+        {
+          "kind": "SHOW",
+          "item": "patrimonio",
+          "phonetic": "pah-tree-MOH-nyoh",
+          "target": "Patrimonio.",
+          "native": "Heritage — what a group passes down.",
+          "en": "Patrimonio.",
+          "es": "Heritage — what a group passes down."
+        },
+        {
+          "kind": "MODEL",
+          "item": "patrimonio",
+          "phonetic": "pah-tree-MOH-nyoh"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "patrimonio",
+          "phonetic": "pah-tree-MOH-nyoh",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "identidad",
+          "phonetic": "ee-den-tee-DAHD",
+          "target": "Identidad.",
+          "native": "Identity — what makes you you.",
+          "en": "Identidad.",
+          "es": "Identity — what makes you you."
+        },
+        {
+          "kind": "MODEL",
+          "item": "identidad",
+          "phonetic": "ee-den-tee-DAHD"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "identidad",
+          "phonetic": "ee-den-tee-DAHD",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SAY",
+          "target": "El patrimonio es lo que heredás; la identidad es lo que hacés con eso.",
+          "native": "Heritage is what you inherit; identity is what you make of it.",
+          "en": "El patrimonio es lo que heredás; la identidad es lo que hacés con eso.",
+          "es": "Heritage is what you inherit; identity is what you make of it."
+        },
+        {
+          "kind": "SHOW",
+          "item": "narrativa",
+          "phonetic": "nah-rah-TEE-bah",
+          "target": "Narrativa.",
+          "native": "Narrative — the story a group tells about itself.",
+          "en": "Narrativa.",
+          "es": "Narrative — the story a group tells about itself."
+        },
+        {
+          "kind": "MODEL",
+          "item": "narrativa",
+          "phonetic": "nah-rah-TEE-bah"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "narrativa",
+          "phonetic": "nah-rah-TEE-bah",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "autenticidad",
+          "phonetic": "ow-ten-tee-see-DAHD",
+          "target": "Autenticidad.",
+          "native": "Authenticity — being real, true to what something is.",
+          "en": "Autenticidad.",
+          "es": "Authenticity — being real, true to what something is."
+        },
+        {
+          "kind": "MODEL",
+          "item": "autenticidad",
+          "phonetic": "ow-ten-tee-see-DAHD"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "autenticidad",
+          "phonetic": "ow-ten-tee-see-DAHD",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya podés nombrar de qué está hecha la cultura.",
+          "native": "You can name what culture and identity are built from.",
+          "en": "Ya podés nombrar de qué está hecha la cultura.",
+          "es": "You can name what culture and identity are built from."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "mi patrimonio",
+            "target": "Decí una cosa de tu patrimonio.",
+            "native": "Say one thing from your heritage: 'Mi patrimonio...'.",
+            "en": "Decí una cosa de tu patrimonio.",
+            "es": "Say one thing from your heritage: 'Mi patrimonio...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "identidad",
+            "target": "Contame una cosa que es parte de tu identidad.",
+            "native": "Tell me one thing that's part of your identity.",
+            "en": "Contame una cosa que es parte de tu identidad.",
+            "es": "Tell me one thing that's part of your identity."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 15,
+      "day": 3,
+      "role": "PRACTISE",
+      "focus": "Culture, identity and how it is told",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Hoy, exagerar con elegancia: el superlativo absoluto.",
+          "native": "Today, exaggerating with elegance: the absolute superlative.",
+          "en": "Hoy, exagerar con elegancia: el superlativo absoluto.",
+          "es": "Today, exaggerating with elegance: the absolute superlative."
+        },
+        {
+          "kind": "SHOW",
+          "item": "globalización",
+          "phonetic": "gloh-bah-lee-sah-SYON",
+          "target": "Globalización.",
+          "native": "Globalisation — the world into one connected market.",
+          "en": "Globalización.",
+          "es": "Globalisation — the world into one connected market."
+        },
+        {
+          "kind": "MODEL",
+          "item": "globalización",
+          "phonetic": "gloh-bah-lee-sah-SYON"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "globalización",
+          "phonetic": "gloh-bah-lee-sah-SYON",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SAY",
+          "target": "No 'muy grande', sino 'grandísimo'. El '-ísimo' sube todo al máximo.",
+          "native": "Not 'muy grande' but 'grandísimo'. The '-ísimo' cranks everything to the max.",
+          "en": "No 'muy grande', sino 'grandísimo'. El '-ísimo' sube todo al máximo.",
+          "es": "Not 'muy grande' but 'grandísimo'. The '-ísimo' cranks everything to the max."
+        },
+        {
+          "kind": "SAY",
+          "target": "Este festival es popularísimo. Suena más vivo que 'muy popular'.",
+          "native": "'Este festival es popularísimo' — extremely popular. It sounds more alive than 'muy popular'.",
+          "en": "Este festival es popularísimo. Suena más vivo que 'muy popular'.",
+          "es": "'Este festival es popularísimo' — extremely popular. It sounds more alive than 'muy popular'."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "grandísimo",
+            "buenísimo",
+            "carísimo"
+          ],
+          "target": "El superlativo absoluto, conmigo.",
+          "native": "The absolute superlative, with me: huge, great, super expensive.",
+          "en": "El superlativo absoluto, conmigo.",
+          "es": "The absolute superlative, with me: huge, great, super expensive."
+        },
+        {
+          "kind": "SAY",
+          "target": "Ojo con los cambios: 'rico' da 'riquísimo', 'largo' da 'larguísimo'.",
+          "native": "Watch the spelling shifts: 'rico' gives 'riquísimo', 'largo' gives 'larguísimo'.",
+          "en": "Ojo con los cambios: 'rico' da 'riquísimo', 'largo' da 'larguísimo'.",
+          "es": "Watch the spelling shifts: 'rico' gives 'riquísimo', 'largo' gives 'larguísimo'."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya podés subir un adjetivo al máximo con '-ísimo'.",
+          "native": "You can crank an adjective to the max with '-ísimo'.",
+          "en": "Ya podés subir un adjetivo al máximo con '-ísimo'.",
+          "es": "You can crank an adjective to the max with '-ísimo'."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "ísimo",
+            "target": "Convertí 'grande' en superlativo.",
+            "native": "Turn 'grande' into a superlative: '...ísimo'.",
+            "en": "Convertí 'grande' en superlativo.",
+            "es": "Turn 'grande' into a superlative: '...ísimo'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "ísimo",
+            "target": "Describí algo de tu cultura con un '-ísimo'.",
+            "native": "Describe something from your culture with an '-ísimo'.",
+            "en": "Describí algo de tu cultura con un '-ísimo'.",
+            "es": "Describe something from your culture with an '-ísimo'."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 15,
+      "day": 6,
+      "role": "COMBINE",
+      "focus": "Culture, identity and how it is told",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Comparar sin decir 'más bueno': los comparativos irregulares.",
+          "native": "Comparing without saying 'más bueno': the irregular comparatives.",
+          "en": "Comparar sin decir 'más bueno': los comparativos irregulares.",
+          "es": "Comparing without saying 'más bueno': the irregular comparatives."
+        },
+        {
+          "kind": "SHOW",
+          "item": "género",
+          "phonetic": "HEH-neh-roh",
+          "target": "Género.",
+          "native": "Genre — a type of art or story.",
+          "en": "Género.",
+          "es": "Genre — a type of art or story."
+        },
+        {
+          "kind": "MODEL",
+          "item": "género",
+          "phonetic": "HEH-neh-roh"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "género",
+          "phonetic": "HEH-neh-roh",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SAY",
+          "target": "No 'más bueno', sino 'mejor'. No 'más malo', sino 'peor'.",
+          "native": "Not 'más bueno' but 'mejor' (better). Not 'más malo' but 'peor' (worse).",
+          "en": "No 'más bueno', sino 'mejor'. No 'más malo', sino 'peor'.",
+          "es": "Not 'más bueno' but 'mejor' (better). Not 'más malo' but 'peor' (worse)."
+        },
+        {
+          "kind": "SAY",
+          "target": "Para la edad: 'mayor' y 'menor', no 'más viejo' o 'más joven'.",
+          "native": "For age: 'mayor' (older) and 'menor' (younger), not 'más viejo' or 'más joven'.",
+          "en": "Para la edad: 'mayor' y 'menor', no 'más viejo' o 'más joven'.",
+          "es": "For age: 'mayor' (older) and 'menor' (younger), not 'más viejo' or 'más joven'."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "mejor",
+            "peor",
+            "mayor"
+          ],
+          "target": "Los comparativos irregulares, conmigo.",
+          "native": "The irregular comparatives, with me: better, worse, older.",
+          "en": "Los comparativos irregulares, conmigo.",
+          "es": "The irregular comparatives, with me: better, worse, older."
+        },
+        {
+          "kind": "SAY",
+          "target": "Me llamo Capy y creo que la mejor cultura es la que se comparte.",
+          "native": "'Me llamo Capy y creo que la mejor cultura es la que se comparte' — you introduce yourself comparing.",
+          "en": "Me llamo Capy y creo que la mejor cultura es la que se comparte.",
+          "es": "'Me llamo Capy y creo que la mejor cultura es la que se comparte' — you introduce yourself comparing."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya podés comparar con mejor, peor, mayor y menor.",
+          "native": "You can compare with better, worse, older and younger.",
+          "en": "Ya podés comparar con mejor, peor, mayor y menor.",
+          "es": "You can compare with better, worse, older and younger."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "mejor",
+            "target": "Compará dos géneros de música.",
+            "native": "Compare two music genres: '... es mejor que ...'.",
+            "en": "Compará dos géneros de música.",
+            "es": "Compare two music genres: '... es mejor que ...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "mejor",
+            "target": "Decime qué es lo mejor de tu ciudad.",
+            "native": "Tell me the best thing about your city.",
+            "en": "Decime qué es lo mejor de tu ciudad.",
+            "es": "Tell me the best thing about your city."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 15,
+      "day": 8,
+      "role": "PRESENT",
+      "focus": "Culture, identity and how it is told",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "La cultura tiene su propio vocabulario. Vamos a afinarlo.",
+          "native": "Culture has its own vocabulary. Let's sharpen it.",
+          "en": "La cultura tiene su propio vocabulario. Vamos a afinarlo.",
+          "es": "Culture has its own vocabulary. Let's sharpen it."
+        },
+        {
+          "kind": "SHOW",
+          "item": "estética",
+          "phonetic": "es-TEH-tee-kah",
+          "target": "Estética.",
+          "native": "Aesthetic — the look and feel, the sense of beauty.",
+          "en": "Estética.",
+          "es": "Aesthetic — the look and feel, the sense of beauty."
+        },
+        {
+          "kind": "MODEL",
+          "item": "estética",
+          "phonetic": "es-TEH-tee-kah"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "estética",
+          "phonetic": "es-TEH-tee-kah",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SHOW",
+          "item": "interpretación",
+          "phonetic": "een-ter-preh-tah-SYON",
+          "target": "Interpretación.",
+          "native": "Interpretation — how you read a work's meaning.",
+          "en": "Interpretación.",
+          "es": "Interpretation — how you read a work's meaning."
+        },
+        {
+          "kind": "MODEL",
+          "item": "interpretación",
+          "phonetic": "een-ter-preh-tah-SYON"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "interpretación",
+          "phonetic": "een-ter-preh-tah-SYON",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "SAY",
+          "target": "El género pone las reglas; la estética pone el gusto.",
+          "native": "A genre sets the rules; the aesthetic sets the taste.",
+          "en": "El género pone las reglas; la estética pone el gusto.",
+          "es": "A genre sets the rules; the aesthetic sets the taste."
+        },
+        {
+          "kind": "SHOW",
+          "item": "erosión",
+          "phonetic": "eh-roh-SYON",
+          "target": "Erosión.",
+          "native": "Erosion — slow wearing away, of land or culture.",
+          "en": "Erosión.",
+          "es": "Erosion — slow wearing away, of land or culture."
+        },
+        {
+          "kind": "MODEL",
+          "item": "erosión",
+          "phonetic": "eh-roh-SYON"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "erosión",
+          "phonetic": "eh-roh-SYON",
+          "target": "Ahora vos.",
+          "native": "Now you.",
+          "en": "Ahora vos.",
+          "es": "Now you."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya podés hablar de arte y cultura con precisión.",
+          "native": "You can talk about art and culture with precision.",
+          "en": "Ya podés hablar de arte y cultura con precisión.",
+          "es": "You can talk about art and culture with precision."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "mi género favorito",
+            "target": "Nombrá tu género favorito de música o cine.",
+            "native": "Name your favourite genre: 'Mi género favorito es...'.",
+            "en": "Nombrá tu género favorito de música o cine.",
+            "es": "Name your favourite genre: 'Mi género favorito es...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "estética",
+            "target": "Describí la estética de algo que te gusta.",
+            "native": "Describe the aesthetic of something you like.",
+            "en": "Describí la estética de algo que te gusta.",
+            "es": "Describe the aesthetic of something you like."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 15,
+      "day": 11,
+      "role": "PRACTISE",
+      "focus": "Culture, identity and how it is told",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "La emoción pide subjuntivo, igual que el deseo y la duda.",
+          "native": "Emotion asks for the subjunctive, just like wishes and doubt.",
+          "en": "La emoción pide subjuntivo, igual que el deseo y la duda.",
+          "es": "Emotion asks for the subjunctive, just like wishes and doubt."
+        },
+        {
+          "kind": "SAY",
+          "target": "Me alegra que estés acá. La alegría lo dispara: 'estés', no 'estás'.",
+          "native": "'Me alegra que estés acá' — I'm glad you're here. Joy triggers it: 'estés', not 'estás'.",
+          "en": "Me alegra que estés acá. La alegría lo dispara: 'estés', no 'estás'.",
+          "es": "'Me alegra que estés acá' — I'm glad you're here. Joy triggers it: 'estés', not 'estás'."
+        },
+        {
+          "kind": "SAY",
+          "target": "Me molesta que se pierda la tradición. La molestia también.",
+          "native": "'Me molesta que se pierda la tradición' — it bothers me that the tradition is lost. Annoyance too.",
+          "en": "Me molesta que se pierda la tradición. La molestia también.",
+          "es": "'Me molesta que se pierda la tradición' — it bothers me that the tradition is lost. Annoyance too."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "que estés",
+            "que venga",
+            "que sepa"
+          ],
+          "target": "El subjuntivo de la emoción, conmigo.",
+          "native": "The subjunctive of emotion, with me: that you be, that it come, that it know.",
+          "en": "El subjuntivo de la emoción, conmigo.",
+          "es": "The subjunctive of emotion, with me: that you be, that it come, that it know."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "me alegra que",
+            "me molesta que",
+            "me da pena que"
+          ],
+          "target": "Los disparadores de emoción, conmigo.",
+          "native": "The emotion triggers, with me: I'm glad that, it bothers me that, it saddens me that.",
+          "en": "Los disparadores de emoción, conmigo.",
+          "es": "The emotion triggers, with me: I'm glad that, it bothers me that, it saddens me that."
+        },
+        {
+          "kind": "SAY",
+          "target": "Cualquier emoción antes —alegría, pena, miedo— y el verbo cambia.",
+          "native": "Any emotion before it — joy, sadness, fear — and the verb changes.",
+          "en": "Cualquier emoción antes —alegría, pena, miedo— y el verbo cambia.",
+          "es": "Any emotion before it — joy, sadness, fear — and the verb changes."
+        },
+        {
+          "kind": "SAY",
+          "target": "Compará: 'sé que estás' es un hecho; 'me alegra que estés' es una emoción.",
+          "native": "Compare: 'sé que estás' is a fact; 'me alegra que estés' is an emotion.",
+          "en": "Compará: 'sé que estás' es un hecho; 'me alegra que estés' es una emoción.",
+          "es": "Compare: 'sé que estás' is a fact; 'me alegra que estés' is an emotion."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya reconocés la emoción como disparador del subjuntivo.",
+          "native": "You can recognise emotion as a subjunctive trigger.",
+          "en": "Ya reconocés la emoción como disparador del subjuntivo.",
+          "es": "You can recognise emotion as a subjunctive trigger."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "me alegra que",
+            "target": "Expresá alegría por algo de tu cultura.",
+            "native": "Express joy about something in your culture: 'Me alegra que...'.",
+            "en": "Expresá alegría por algo de tu cultura.",
+            "es": "Express joy about something in your culture: 'Me alegra que...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "me molesta que",
+            "target": "Contame algo que te molesta que se pierda.",
+            "native": "Tell me something you're bothered to see lost.",
+            "en": "Contame algo que te molesta que se pierda.",
+            "es": "Tell me something you're bothered to see lost."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 15,
+      "day": 13,
+      "role": "COMBINE",
+      "focus": "Culture, identity and how it is told",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Último día de B1. El deseo imposible sobre el pasado.",
+          "native": "Last day of B1. The impossible wish about the past.",
+          "en": "Último día de B1. El deseo imposible sobre el pasado.",
+          "es": "Last day of B1. The impossible wish about the past."
+        },
+        {
+          "kind": "SAY",
+          "target": "Si hubiera sabido, habría venido. El pluscuamperfecto de subjuntivo.",
+          "native": "'Si hubiera sabido, habría venido' — if I had known, I'd have come. The pluperfect subjunctive.",
+          "en": "Si hubiera sabido, habría venido. El pluscuamperfecto de subjuntivo.",
+          "es": "'Si hubiera sabido, habría venido' — if I had known, I'd have come. The pluperfect subjunctive."
+        },
+        {
+          "kind": "SAY",
+          "target": "Ojalá hubiera aprendido antes. Un lamento sobre lo que ya no se puede cambiar.",
+          "native": "'Ojalá hubiera aprendido antes' — I wish I had learned earlier. A regret about what can't change.",
+          "en": "Ojalá hubiera aprendido antes. Un lamento sobre lo que ya no se puede cambiar.",
+          "es": "'Ojalá hubiera aprendido antes' — I wish I had learned earlier. A regret about what can't change."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "hubiera sabido",
+            "hubiera venido",
+            "hubiera aprendido"
+          ],
+          "target": "El deseo imposible, conmigo.",
+          "native": "The impossible wish, with me: had I known, had I come, had I learned.",
+          "en": "El deseo imposible, conmigo.",
+          "es": "The impossible wish, with me: had I known, had I come, had I learned."
+        },
+        {
+          "kind": "SAY",
+          "target": "También el tiempo futuro pide subjuntivo: cuando entiendas esto, hablás B1.",
+          "native": "Future time asks for it too: 'cuando entiendas esto, hablás B1' — when you understand this, you speak B1.",
+          "en": "También el tiempo futuro pide subjuntivo: cuando entiendas esto, hablás B1.",
+          "es": "Future time asks for it too: 'cuando entiendas esto, hablás B1' — when you understand this, you speak B1."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "cuando termines",
+            "antes de que llegue",
+            "hasta que entiendas"
+          ],
+          "target": "Las conjunciones de tiempo, conmigo.",
+          "native": "The time conjunctions, with me: when you finish, before it arrives, until you understand.",
+          "en": "Las conjunciones de tiempo, conmigo.",
+          "es": "The time conjunctions, with me: when you finish, before it arrives, until you understand."
+        },
+        {
+          "kind": "SAY",
+          "target": "Todo junto: ojalá hubiera empezado antes, pero cuando termines, vas a estar listo.",
+          "native": "All together: 'Ojalá hubiera empezado antes, pero cuando termines, vas a estar listo'.",
+          "en": "Todo junto: ojalá hubiera empezado antes, pero cuando termines, vas a estar listo.",
+          "es": "All together: 'Ojalá hubiera empezado antes, pero cuando termines, vas a estar listo'."
+        },
+        {
+          "kind": "RECAP",
+          "target": "Ya podés hablar de cultura, del pasado imposible y del futuro. Con eso cerrás B1: listo para B2.",
+          "native": "You can talk about culture, the impossible past and the future. That closes B1 — you're ready for B2.",
+          "en": "Ya podés hablar de cultura, del pasado imposible y del futuro. Con eso cerrás B1: listo para B2.",
+          "es": "You can talk about culture, the impossible past and the future. That closes B1 — you're ready for B2."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "hubiera",
+            "target": "Completá: si hubiera sabido español antes, ...",
+            "native": "Finish: 'Si hubiera sabido español antes, ...'.",
+            "en": "Completá: si hubiera sabido español antes, ...",
+            "es": "Finish: 'Si hubiera sabido español antes, ...'."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "ojalá hubiera",
+            "target": "Contame un lamento sobre el pasado, con 'ojalá hubiera'.",
+            "native": "Tell me a regret about the past, with 'ojalá hubiera'.",
+            "en": "Contame un lamento sobre el pasado, con 'ojalá hubiera'.",
+            "es": "Tell me a regret about the past, with 'ojalá hubiera'."
+          }
+        ]
+      ]
     }
   ]
 }
