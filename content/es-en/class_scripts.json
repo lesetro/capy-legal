@@ -11177,6 +11177,3402 @@
           }
         ]
       ]
+    },
+    {
+      "unit": 16,
+      "day": 1,
+      "role": "PRESENT",
+      "focus": "Business: money, deals and risk",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Unit sixteen. Welcome to B2: the language of work, money and ideas.",
+          "native": "Unidad dieciséis. Bienvenido a B2: el idioma del trabajo, la plata y las ideas.",
+          "en": "Unit sixteen. Welcome to B2: the language of work, money and ideas.",
+          "es": "Unidad dieciséis. Bienvenido a B2: el idioma del trabajo, la plata y las ideas."
+        },
+        {
+          "kind": "SHOW",
+          "item": "stakeholder",
+          "phonetic": "STEIK-joul-dor",
+          "target": "Anyone with an interest in a business.",
+          "native": "parte interesada",
+          "en": "Anyone with an interest in a business.",
+          "es": "parte interesada"
+        },
+        {
+          "kind": "MODEL",
+          "item": "stakeholder",
+          "phonetic": "STEIK-joul-dor"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "stakeholder",
+          "phonetic": "STEIK-joul-dor",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "shareholder",
+          "phonetic": "SHER-joul-dor",
+          "target": "Someone who owns a piece of the company.",
+          "native": "accionista",
+          "en": "Someone who owns a piece of the company.",
+          "es": "accionista"
+        },
+        {
+          "kind": "MODEL",
+          "item": "shareholder",
+          "phonetic": "SHER-joul-dor"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "shareholder",
+          "phonetic": "SHER-joul-dor",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "Every shareholder is a stakeholder, but not the other way round.",
+          "native": "Todo accionista es un interesado, pero no al revés.",
+          "en": "Every shareholder is a stakeholder, but not the other way round.",
+          "es": "Todo accionista es un interesado, pero no al revés."
+        },
+        {
+          "kind": "SHOW",
+          "item": "revenue",
+          "phonetic": "RE-ve-nuu",
+          "target": "All the money coming in, before costs.",
+          "native": "ingresos / facturación",
+          "en": "All the money coming in, before costs.",
+          "es": "ingresos / facturación"
+        },
+        {
+          "kind": "MODEL",
+          "item": "revenue",
+          "phonetic": "RE-ve-nuu"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "revenue",
+          "phonetic": "RE-ve-nuu",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "profit margin",
+          "phonetic": "PRO-fit-MAR-yin",
+          "target": "What's left after costs, as a share.",
+          "native": "margen de beneficio",
+          "en": "What's left after costs, as a share.",
+          "es": "margen de beneficio"
+        },
+        {
+          "kind": "MODEL",
+          "item": "profit margin",
+          "phonetic": "PRO-fit-MAR-yin"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "profit margin",
+          "phonetic": "PRO-fit-MAR-yin",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "supply chain",
+          "phonetic": "su-PLAI-CHEIN",
+          "target": "Every step from raw material to the customer.",
+          "native": "cadena de suministro",
+          "en": "Every step from raw material to the customer.",
+          "es": "cadena de suministro"
+        },
+        {
+          "kind": "MODEL",
+          "item": "supply chain",
+          "phonetic": "su-PLAI-CHEIN"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "supply chain",
+          "phonetic": "su-PLAI-CHEIN",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can name the pieces of a business.",
+          "native": "Ya podés nombrar las piezas de un negocio.",
+          "en": "You can name the pieces of a business.",
+          "es": "Ya podés nombrar las piezas de un negocio."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "the stakeholders",
+            "target": "Say who the stakeholders are.",
+            "native": "Decí quiénes son los interesados: «The stakeholders are...».",
+            "en": "Say who the stakeholders are.",
+            "es": "Decí quiénes son los interesados: «The stakeholders are...»."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "revenue",
+            "target": "Tell me the difference between revenue and profit.",
+            "native": "Contame la diferencia entre ingresos y ganancia.",
+            "en": "Tell me the difference between revenue and profit.",
+            "es": "Contame la diferencia entre ingresos y ganancia."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 16,
+      "day": 3,
+      "role": "PRACTISE",
+      "focus": "Business: money, deals and risk",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today, the language of risk: hypothetical structures.",
+          "native": "Hoy, el idioma del riesgo: las estructuras hipotéticas.",
+          "en": "Today, the language of risk: hypothetical structures.",
+          "es": "Hoy, el idioma del riesgo: las estructuras hipotéticas."
+        },
+        {
+          "kind": "SHOW",
+          "item": "startup",
+          "phonetic": "STAR-tap",
+          "target": "A young company chasing fast growth.",
+          "native": "empresa emergente",
+          "en": "A young company chasing fast growth.",
+          "es": "empresa emergente"
+        },
+        {
+          "kind": "MODEL",
+          "item": "startup",
+          "phonetic": "STAR-tap"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "startup",
+          "phonetic": "STAR-tap",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "leverage",
+          "phonetic": "LE-ve-rach",
+          "target": "Using something you have to gain more.",
+          "native": "apalancamiento / influencia",
+          "en": "Using something you have to gain more.",
+          "es": "apalancamiento / influencia"
+        },
+        {
+          "kind": "MODEL",
+          "item": "leverage",
+          "phonetic": "LE-ve-rach"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "leverage",
+          "phonetic": "LE-ve-rach",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "If the deal were to fail, we would lose everything. More formal than plain 'if'.",
+          "native": "«If the deal were to fail, we would lose everything» — más formal que un «if» pelado.",
+          "en": "If the deal were to fail, we would lose everything. More formal than plain 'if'.",
+          "es": "«If the deal were to fail, we would lose everything» — más formal que un «if» pelado."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "were it to fail",
+            "should it succeed",
+            "had we known"
+          ],
+          "target": "The formal hypotheticals, with me.",
+          "native": "Los hipotéticos formales, conmigo.",
+          "en": "The formal hypotheticals, with me.",
+          "es": "Los hipotéticos formales, conmigo."
+        },
+        {
+          "kind": "SAY",
+          "target": "Business English leans on these: they sound measured, not dramatic.",
+          "native": "El inglés de negocios se apoya en esto: suena medido, no dramático.",
+          "en": "Business English leans on these: they sound measured, not dramatic.",
+          "es": "El inglés de negocios se apoya en esto: suena medido, no dramático."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can talk about what might happen, formally.",
+          "native": "Ya podés hablar de lo que podría pasar, de manera formal.",
+          "en": "You can talk about what might happen, formally.",
+          "es": "Ya podés hablar de lo que podría pasar, de manera formal."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "were it to",
+            "target": "Finish: were the market to crash, we would...",
+            "native": "Completá: «Were the market to crash, we would...».",
+            "en": "Finish: were the market to crash, we would...",
+            "es": "Completá: «Were the market to crash, we would...»."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "if",
+            "target": "Tell me a business risk and its consequence.",
+            "native": "Contame un riesgo de negocio y su consecuencia.",
+            "en": "Tell me a business risk and its consequence.",
+            "es": "Contame un riesgo de negocio y su consecuencia."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 16,
+      "day": 6,
+      "role": "COMBINE",
+      "focus": "Business: money, deals and risk",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Now conceding a point before you counter it: advanced concession.",
+          "native": "Ahora conceder algo antes de contraatacar: la concesión avanzada.",
+          "en": "Now conceding a point before you counter it: advanced concession.",
+          "es": "Ahora conceder algo antes de contraatacar: la concesión avanzada."
+        },
+        {
+          "kind": "SHOW",
+          "item": "negotiation",
+          "phonetic": "ne-gou-shi-EI-shan",
+          "target": "Talking to reach a deal both sides accept.",
+          "native": "negociación",
+          "en": "Talking to reach a deal both sides accept.",
+          "es": "negociación"
+        },
+        {
+          "kind": "MODEL",
+          "item": "negotiation",
+          "phonetic": "ne-gou-shi-EI-shan"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "negotiation",
+          "phonetic": "ne-gou-shi-EI-shan",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "Much as I respect the offer, I must decline. 'Much as' concedes and turns.",
+          "native": "«Much as I respect the offer, I must decline». «Much as» concede y gira.",
+          "en": "Much as I respect the offer, I must decline. 'Much as' concedes and turns.",
+          "es": "«Much as I respect the offer, I must decline». «Much as» concede y gira."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "much as",
+            "even though",
+            "despite the fact that"
+          ],
+          "target": "The concession openers, with me.",
+          "native": "Las aperturas de concesión, conmigo.",
+          "en": "The concession openers, with me.",
+          "es": "Las aperturas de concesión, conmigo."
+        },
+        {
+          "kind": "SAY",
+          "target": "My name is Capy, and much as I love teaching, I also love a good deal.",
+          "native": "«My name is Capy, and much as I love teaching, I also love a good deal».",
+          "en": "My name is Capy, and much as I love teaching, I also love a good deal.",
+          "es": "«My name is Capy, and much as I love teaching, I also love a good deal»."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can concede a point and still make yours.",
+          "native": "Ya podés conceder un punto y aun así defender el tuyo.",
+          "en": "You can concede a point and still make yours.",
+          "es": "Ya podés conceder un punto y aun así defender el tuyo."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "much as",
+            "target": "Concede then counter: much as I like it, ...",
+            "native": "Concedé y contraatacá: «Much as I like it, ...».",
+            "en": "Concede then counter: much as I like it, ...",
+            "es": "Concedé y contraatacá: «Much as I like it, ...»."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "even though",
+            "target": "Tell me a deal you'd take even though it has a risk.",
+            "native": "Contame un trato que aceptarías aunque tenga un riesgo.",
+            "en": "Tell me a deal you'd take even though it has a risk.",
+            "es": "Contame un trato que aceptarías aunque tenga un riesgo."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 16,
+      "day": 8,
+      "role": "PRESENT",
+      "focus": "Business: money, deals and risk",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "The new economy has its own words. Let's name them.",
+          "native": "La nueva economía tiene sus propias palabras. Vamos a nombrarlas.",
+          "en": "The new economy has its own words. Let's name them.",
+          "es": "La nueva economía tiene sus propias palabras. Vamos a nombrarlas."
+        },
+        {
+          "kind": "SHOW",
+          "item": "gig economy",
+          "phonetic": "GIG-e-KO-no-mi",
+          "target": "Work paid job by job, no fixed employer.",
+          "native": "economía gig / de plataformas",
+          "en": "Work paid job by job, no fixed employer.",
+          "es": "economía gig / de plataformas"
+        },
+        {
+          "kind": "MODEL",
+          "item": "gig economy",
+          "phonetic": "GIG-e-KO-no-mi"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "gig economy",
+          "phonetic": "GIG-e-KO-no-mi",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "contractor",
+          "phonetic": "KON-trak-tor",
+          "target": "Someone hired for a job, not on staff.",
+          "native": "contratista",
+          "en": "Someone hired for a job, not on staff.",
+          "es": "contratista"
+        },
+        {
+          "kind": "MODEL",
+          "item": "contractor",
+          "phonetic": "KON-trak-tor"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "contractor",
+          "phonetic": "KON-trak-tor",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "pivot",
+          "phonetic": "PI-vot",
+          "target": "Changing the business direction sharply.",
+          "native": "pivotar / cambiar de estrategia",
+          "en": "Changing the business direction sharply.",
+          "es": "pivotar / cambiar de estrategia"
+        },
+        {
+          "kind": "MODEL",
+          "item": "pivot",
+          "phonetic": "PI-vot"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "pivot",
+          "phonetic": "PI-vot",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "greenwashing",
+          "phonetic": "GRIIN-uo-shing",
+          "target": "Faking being eco-friendly to look good.",
+          "native": "lavado verde / ecoimpostura",
+          "en": "Faking being eco-friendly to look good.",
+          "es": "lavado verde / ecoimpostura"
+        },
+        {
+          "kind": "MODEL",
+          "item": "greenwashing",
+          "phonetic": "GRIIN-uo-shing"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "greenwashing",
+          "phonetic": "GRIIN-uo-shing",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can name how modern work really runs.",
+          "native": "Ya podés nombrar cómo funciona el trabajo moderno.",
+          "en": "You can name how modern work really runs.",
+          "es": "Ya podés nombrar cómo funciona el trabajo moderno."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "the gig economy",
+            "target": "Say one thing about the gig economy.",
+            "native": "Decí una cosa de la economía de changas: «The gig economy...».",
+            "en": "Say one thing about the gig economy.",
+            "es": "Decí una cosa de la economía de changas: «The gig economy...»."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "pivot",
+            "target": "Tell me why a startup might pivot.",
+            "native": "Contame por qué una startup podría cambiar de rumbo.",
+            "en": "Tell me why a startup might pivot.",
+            "es": "Contame por qué una startup podría cambiar de rumbo."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 16,
+      "day": 11,
+      "role": "PRACTISE",
+      "focus": "Business: money, deals and risk",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "A formal trick: turn verbs into nouns. Nominalization.",
+          "native": "Un recurso formal: convertir verbos en sustantivos. La nominalización.",
+          "en": "A formal trick: turn verbs into nouns. Nominalization.",
+          "es": "Un recurso formal: convertir verbos en sustantivos. La nominalización."
+        },
+        {
+          "kind": "SHOW",
+          "item": "profit margin",
+          "phonetic": "PRO-fit-MAR-yin",
+          "target": "What's left after costs, as a share.",
+          "native": "margen de beneficio",
+          "en": "What's left after costs, as a share.",
+          "es": "margen de beneficio"
+        },
+        {
+          "kind": "MODEL",
+          "item": "profit margin",
+          "phonetic": "PRO-fit-MAR-yin"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "profit margin",
+          "phonetic": "PRO-fit-MAR-yin",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "Not 'they decided', but 'the decision was made'. It sounds like a report.",
+          "native": "No «they decided», sino «the decision was made». Suena a informe.",
+          "en": "Not 'they decided', but 'the decision was made'. It sounds like a report.",
+          "es": "No «they decided», sino «the decision was made». Suena a informe."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "the decision",
+            "the expansion",
+            "the reduction"
+          ],
+          "target": "The nouns from verbs, with me.",
+          "native": "Los sustantivos desde verbos, conmigo.",
+          "en": "The nouns from verbs, with me.",
+          "es": "Los sustantivos desde verbos, conmigo."
+        },
+        {
+          "kind": "SAY",
+          "target": "Not 'we grew fast', but 'rapid growth'. Business writing loves it.",
+          "native": "No «we grew fast», sino «rapid growth». La escritura de negocios lo adora.",
+          "en": "Not 'we grew fast', but 'rapid growth'. Business writing loves it.",
+          "es": "No «we grew fast», sino «rapid growth». La escritura de negocios lo adora."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "the growth",
+            "the investment",
+            "the negotiation"
+          ],
+          "target": "More nouns, with me.",
+          "native": "Más sustantivos, conmigo.",
+          "en": "More nouns, with me.",
+          "es": "Más sustantivos, conmigo."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can write the formal, report style.",
+          "native": "Ya podés escribir en el estilo formal de informe.",
+          "en": "You can write the formal, report style.",
+          "es": "Ya podés escribir en el estilo formal de informe."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "the decision",
+            "target": "Turn 'they decided' into a noun phrase.",
+            "native": "Convertí «they decided» en una frase con sustantivo.",
+            "en": "Turn 'they decided' into a noun phrase.",
+            "es": "Convertí «they decided» en una frase con sustantivo."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "the growth",
+            "target": "Describe a company's success using nouns, not verbs.",
+            "native": "Describí el éxito de una empresa con sustantivos, no verbos.",
+            "en": "Describe a company's success using nouns, not verbs.",
+            "es": "Describí el éxito de una empresa con sustantivos, no verbos."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 16,
+      "day": 13,
+      "role": "COMBINE",
+      "focus": "Business: money, deals and risk",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Last day. Let's sound like a boardroom: hypothetical, concession, nouns.",
+          "native": "Último día. Sonemos como una sala de directorio: hipotético, concesión, sustantivos.",
+          "en": "Last day. Let's sound like a boardroom: hypothetical, concession, nouns.",
+          "es": "Último día. Sonemos como una sala de directorio: hipotético, concesión, sustantivos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "supply chain",
+          "phonetic": "su-PLAI-CHEIN",
+          "target": "Every step from raw material to the customer.",
+          "native": "cadena de suministro",
+          "en": "Every step from raw material to the customer.",
+          "es": "cadena de suministro"
+        },
+        {
+          "kind": "MODEL",
+          "item": "supply chain",
+          "phonetic": "su-PLAI-CHEIN"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "supply chain",
+          "phonetic": "su-PLAI-CHEIN",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "Much as the expansion is tempting, were the supply chain to break, the loss would be huge.",
+          "native": "«Much as the expansion is tempting, were the supply chain to break, the loss would be huge».",
+          "en": "Much as the expansion is tempting, were the supply chain to break, the loss would be huge.",
+          "es": "«Much as the expansion is tempting, were the supply chain to break, the loss would be huge»."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "much as",
+            "were it to",
+            "the expansion"
+          ],
+          "target": "The three B2 tools, with me.",
+          "native": "Las tres herramientas B2, conmigo.",
+          "en": "The three B2 tools, with me.",
+          "es": "Las tres herramientas B2, conmigo."
+        },
+        {
+          "kind": "SAY",
+          "target": "Put it together: despite strong revenue, should the market shift, a pivot would be wise.",
+          "native": "Todo junto: «Despite strong revenue, should the market shift, a pivot would be wise».",
+          "en": "Put it together: despite strong revenue, should the market shift, a pivot would be wise.",
+          "es": "Todo junto: «Despite strong revenue, should the market shift, a pivot would be wise»."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can discuss business like a professional. That's B2.",
+          "native": "Ya podés discutir de negocios como un profesional. Eso es B2.",
+          "en": "You can discuss business like a professional. That's B2.",
+          "es": "Ya podés discutir de negocios como un profesional. Eso es B2."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "were it to",
+            "target": "Give a business risk formally.",
+            "native": "Planteá un riesgo de negocio de manera formal: «Were it to...».",
+            "en": "Give a business risk formally.",
+            "es": "Planteá un riesgo de negocio de manera formal: «Were it to...»."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "much as",
+            "target": "Argue for a decision, conceding one downside first.",
+            "native": "Defendé una decisión, concediendo primero una contra.",
+            "en": "Argue for a decision, conceding one downside first.",
+            "es": "Defendé una decisión, concediendo primero una contra."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "day": 1,
+      "role": "PRESENT",
+      "focus": "The planet and power: climate and geopolitics",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Unit seventeen. The biggest topics: the climate and who holds power.",
+          "native": "Unidad diecisiete. Los temas más grandes: el clima y quién tiene el poder.",
+          "en": "Unit seventeen. The biggest topics: the climate and who holds power.",
+          "es": "Unidad diecisiete. Los temas más grandes: el clima y quién tiene el poder."
+        },
+        {
+          "kind": "SHOW",
+          "item": "emissions",
+          "phonetic": "e-MI-shons",
+          "target": "Gases released into the air.",
+          "native": "emisiones",
+          "en": "Gases released into the air.",
+          "es": "emisiones"
+        },
+        {
+          "kind": "MODEL",
+          "item": "emissions",
+          "phonetic": "e-MI-shons"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "emissions",
+          "phonetic": "e-MI-shons",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "mitigation",
+          "phonetic": "mi-ti-GEI-shon",
+          "target": "Cutting the damage before it happens.",
+          "native": "mitigación",
+          "en": "Cutting the damage before it happens.",
+          "es": "mitigación"
+        },
+        {
+          "kind": "MODEL",
+          "item": "mitigation",
+          "phonetic": "mi-ti-GEI-shon"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "mitigation",
+          "phonetic": "mi-ti-GEI-shon",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "adaptation",
+          "phonetic": "a-dap-TEI-shon",
+          "target": "Adjusting to damage already here.",
+          "native": "adaptación",
+          "en": "Adjusting to damage already here.",
+          "es": "adaptación"
+        },
+        {
+          "kind": "MODEL",
+          "item": "adaptation",
+          "phonetic": "a-dap-TEI-shon"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "adaptation",
+          "phonetic": "a-dap-TEI-shon",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "Mitigation stops it; adaptation lives with it. Two different fights.",
+          "native": "La mitigación lo frena; la adaptación convive con eso. Dos peleas distintas.",
+          "en": "Mitigation stops it; adaptation lives with it. Two different fights.",
+          "es": "La mitigación lo frena; la adaptación convive con eso. Dos peleas distintas."
+        },
+        {
+          "kind": "SHOW",
+          "item": "carbon footprint",
+          "phonetic": "KAR-bon-FUT-print",
+          "target": "The total emissions you cause.",
+          "native": "huella de carbono",
+          "en": "The total emissions you cause.",
+          "es": "huella de carbono"
+        },
+        {
+          "kind": "MODEL",
+          "item": "carbon footprint",
+          "phonetic": "KAR-bon-FUT-print"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "carbon footprint",
+          "phonetic": "KAR-bon-FUT-print",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can name the language of the climate debate.",
+          "native": "Ya podés nombrar el idioma del debate climático.",
+          "en": "You can name the language of the climate debate.",
+          "es": "Ya podés nombrar el idioma del debate climático."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "emissions",
+            "target": "Say one source of emissions.",
+            "native": "Decí una fuente de emisiones: «Emissions come from...».",
+            "en": "Say one source of emissions.",
+            "es": "Decí una fuente de emisiones: «Emissions come from...»."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "mitigation",
+            "target": "Tell me the difference between mitigation and adaptation.",
+            "native": "Contame la diferencia entre mitigación y adaptación.",
+            "en": "Tell me the difference between mitigation and adaptation.",
+            "es": "Contame la diferencia entre mitigación y adaptación."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "day": 3,
+      "role": "PRACTISE",
+      "focus": "The planet and power: climate and geopolitics",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today, the voice of reports and news: the complex passive.",
+          "native": "Hoy, la voz de los informes y las noticias: la pasiva compleja.",
+          "en": "Today, the voice of reports and news: the complex passive.",
+          "es": "Hoy, la voz de los informes y las noticias: la pasiva compleja."
+        },
+        {
+          "kind": "SHOW",
+          "item": "renewable energy",
+          "phonetic": "ri-NUU-a-bel-E-ner-yi",
+          "target": "Energy that doesn't run out: sun, wind, water.",
+          "native": "energía renovable",
+          "en": "Energy that doesn't run out: sun, wind, water.",
+          "es": "energía renovable"
+        },
+        {
+          "kind": "MODEL",
+          "item": "renewable energy",
+          "phonetic": "ri-NUU-a-bel-E-ner-yi"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "renewable energy",
+          "phonetic": "ri-NUU-a-bel-E-ner-yi",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "It is thought to have been caused by emissions. A double, formal passive.",
+          "native": "«It is thought to have been caused by emissions» — una pasiva doble, formal.",
+          "en": "It is thought to have been caused by emissions. A double, formal passive.",
+          "es": "«It is thought to have been caused by emissions» — una pasiva doble, formal."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "it is believed to",
+            "it is said to have",
+            "it is thought to be"
+          ],
+          "target": "The formal passives, with me.",
+          "native": "Las pasivas formales, conmigo.",
+          "en": "The formal passives, with me.",
+          "es": "Las pasivas formales, conmigo."
+        },
+        {
+          "kind": "SAY",
+          "target": "No 'who'. The idea floats on its own — which is exactly the point.",
+          "native": "Sin «quién». La idea flota sola — que es justamente el punto.",
+          "en": "No 'who'. The idea floats on its own — which is exactly the point.",
+          "es": "Sin «quién». La idea flota sola — que es justamente el punto."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can report ideas the impersonal, formal way.",
+          "native": "Ya podés reportar ideas de manera impersonal y formal.",
+          "en": "You can report ideas the impersonal, formal way.",
+          "es": "Ya podés reportar ideas de manera impersonal y formal."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "it is believed to",
+            "target": "Say what is believed about the climate.",
+            "native": "Decí qué se cree sobre el clima: «It is believed to...».",
+            "en": "Say what is believed about the climate.",
+            "es": "Decí qué se cree sobre el clima: «It is believed to...»."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "it is thought",
+            "target": "State a common claim, impersonally.",
+            "native": "Enunciá una afirmación común, de manera impersonal.",
+            "en": "State a common claim, impersonally.",
+            "es": "Enunciá una afirmación común, de manera impersonal."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "day": 6,
+      "role": "COMBINE",
+      "focus": "The planet and power: climate and geopolitics",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Now geopolitics: nations, borders and power.",
+          "native": "Ahora la geopolítica: naciones, fronteras y poder.",
+          "en": "Now geopolitics: nations, borders and power.",
+          "es": "Ahora la geopolítica: naciones, fronteras y poder."
+        },
+        {
+          "kind": "SHOW",
+          "item": "refugee",
+          "phonetic": "REF-iu-yi",
+          "target": "Someone forced to flee their country.",
+          "native": "refugiado",
+          "en": "Someone forced to flee their country.",
+          "es": "refugiado"
+        },
+        {
+          "kind": "MODEL",
+          "item": "refugee",
+          "phonetic": "REF-iu-yi"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "refugee",
+          "phonetic": "REF-iu-yi",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "sovereignty",
+          "phonetic": "SOV-ren-ti",
+          "target": "A nation's right to rule itself.",
+          "native": "soberanía",
+          "en": "A nation's right to rule itself.",
+          "es": "soberanía"
+        },
+        {
+          "kind": "MODEL",
+          "item": "sovereignty",
+          "phonetic": "SOV-ren-ti"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "sovereignty",
+          "phonetic": "SOV-ren-ti",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "A refugee crosses a border; sovereignty is what that border defends.",
+          "native": "Un refugiado cruza una frontera; la soberanía es lo que esa frontera defiende.",
+          "en": "A refugee crosses a border; sovereignty is what that border defends.",
+          "es": "Un refugiado cruza una frontera; la soberanía es lo que esa frontera defiende."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "sovereignty",
+            "asylum",
+            "sanctions"
+          ],
+          "target": "The words of power, with me.",
+          "native": "Las palabras del poder, conmigo.",
+          "en": "The words of power, with me.",
+          "es": "Las palabras del poder, conmigo."
+        },
+        {
+          "kind": "SAY",
+          "target": "My name is Capy, and I believe sovereignty ends where cruelty begins.",
+          "native": "«My name is Capy, and I believe sovereignty ends where cruelty begins».",
+          "en": "My name is Capy, and I believe sovereignty ends where cruelty begins.",
+          "es": "«My name is Capy, and I believe sovereignty ends where cruelty begins»."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can name the forces that move the world.",
+          "native": "Ya podés nombrar las fuerzas que mueven el mundo.",
+          "en": "You can name the forces that move the world.",
+          "es": "Ya podés nombrar las fuerzas que mueven el mundo."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "sovereignty",
+            "target": "Say what sovereignty means to you.",
+            "native": "Decí qué significa la soberanía para vos: «Sovereignty is...».",
+            "en": "Say what sovereignty means to you.",
+            "es": "Decí qué significa la soberanía para vos: «Sovereignty is...»."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "refugee",
+            "target": "Tell me why someone becomes a refugee.",
+            "native": "Contame por qué alguien se vuelve refugiado.",
+            "en": "Tell me why someone becomes a refugee.",
+            "es": "Contame por qué alguien se vuelve refugiado."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "day": 8,
+      "role": "PRESENT",
+      "focus": "The planet and power: climate and geopolitics",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "The tools nations use on each other. Let's name them.",
+          "native": "Las herramientas que las naciones usan entre sí. Vamos a nombrarlas.",
+          "en": "The tools nations use on each other. Let's name them.",
+          "es": "Las herramientas que las naciones usan entre sí. Vamos a nombrarlas."
+        },
+        {
+          "kind": "SHOW",
+          "item": "sanctions",
+          "phonetic": "SANK-shons",
+          "target": "Punishing a country by cutting trade.",
+          "native": "sanciones",
+          "en": "Punishing a country by cutting trade.",
+          "es": "sanciones"
+        },
+        {
+          "kind": "MODEL",
+          "item": "sanctions",
+          "phonetic": "SANK-shons"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "sanctions",
+          "phonetic": "SANK-shons",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "multilateralism",
+          "phonetic": "mal-ti-LA-te-ra-li-sam",
+          "target": "Many nations acting together.",
+          "native": "multilateralismo",
+          "en": "Many nations acting together.",
+          "es": "multilateralismo"
+        },
+        {
+          "kind": "MODEL",
+          "item": "multilateralism",
+          "phonetic": "mal-ti-LA-te-ra-li-sam"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "multilateralism",
+          "phonetic": "mal-ti-LA-te-ra-li-sam",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "deterrence",
+          "phonetic": "de-TER-ens",
+          "target": "Stopping an attack by threatening to strike back.",
+          "native": "disuasión",
+          "en": "Stopping an attack by threatening to strike back.",
+          "es": "disuasión"
+        },
+        {
+          "kind": "MODEL",
+          "item": "deterrence",
+          "phonetic": "de-TER-ens"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "deterrence",
+          "phonetic": "de-TER-ens",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "displacement",
+          "phonetic": "dis-PLEIS-ment",
+          "target": "People forced to leave their homes.",
+          "native": "desplazamiento",
+          "en": "People forced to leave their homes.",
+          "es": "desplazamiento"
+        },
+        {
+          "kind": "MODEL",
+          "item": "displacement",
+          "phonetic": "dis-PLEIS-ment"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "displacement",
+          "phonetic": "dis-PLEIS-ment",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can name how power is used between nations.",
+          "native": "Ya podés nombrar cómo se usa el poder entre naciones.",
+          "en": "You can name how power is used between nations.",
+          "es": "Ya podés nombrar cómo se usa el poder entre naciones."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "sanctions",
+            "target": "Say what sanctions do to a country.",
+            "native": "Decí qué le hacen las sanciones a un país.",
+            "en": "Say what sanctions do to a country.",
+            "es": "Decí qué le hacen las sanciones a un país."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "deterrence",
+            "target": "Tell me how deterrence is meant to work.",
+            "native": "Contame cómo se supone que funciona la disuasión.",
+            "en": "Tell me how deterrence is meant to work.",
+            "es": "Contame cómo se supone que funciona la disuasión."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "day": 11,
+      "role": "PRACTISE",
+      "focus": "The planet and power: climate and geopolitics",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today, throwing the spotlight to the front: fronting.",
+          "native": "Hoy, mandar el reflector al frente: el fronting.",
+          "en": "Today, throwing the spotlight to the front: fronting.",
+          "es": "Hoy, mandar el reflector al frente: el fronting."
+        },
+        {
+          "kind": "SHOW",
+          "item": "fossil fuels",
+          "phonetic": "FO-sil-FIU-als",
+          "target": "Coal, oil and gas — the old, dirty energy.",
+          "native": "combustibles fósiles",
+          "en": "Coal, oil and gas — the old, dirty energy.",
+          "es": "combustibles fósiles"
+        },
+        {
+          "kind": "MODEL",
+          "item": "fossil fuels",
+          "phonetic": "FO-sil-FIU-als"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "fossil fuels",
+          "phonetic": "FO-sil-FIU-als",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "What we need is action. 'What... is' pushes the key idea to the front.",
+          "native": "«What we need is action». «What... is» empuja la idea clave al frente.",
+          "en": "What we need is action. 'What... is' pushes the key idea to the front.",
+          "es": "«What we need is action». «What... is» empuja la idea clave al frente."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "what matters is",
+            "what we need is",
+            "what they fear is"
+          ],
+          "target": "The fronting frames, with me.",
+          "native": "Los marcos de fronting, conmigo.",
+          "en": "The fronting frames, with me.",
+          "es": "Los marcos de fronting, conmigo."
+        },
+        {
+          "kind": "SAY",
+          "target": "Never before has the danger been clearer. Negative first, then invert.",
+          "native": "«Never before has the danger been clearer». Negativo al frente, después invertís.",
+          "en": "Never before has the danger been clearer. Negative first, then invert.",
+          "es": "«Never before has the danger been clearer». Negativo al frente, después invertís."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "never before has",
+            "only now do we",
+            "not until then did"
+          ],
+          "target": "The emphatic openings, with me.",
+          "native": "Las aperturas enfáticas, conmigo.",
+          "en": "The emphatic openings, with me.",
+          "es": "Las aperturas enfáticas, conmigo."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can put the weight where you want it.",
+          "native": "Ya podés poner el peso donde vos querés.",
+          "en": "You can put the weight where you want it.",
+          "es": "Ya podés poner el peso donde vos querés."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "what matters is",
+            "target": "Stress what matters about the climate.",
+            "native": "Resaltá lo que importa del clima: «What matters is...».",
+            "en": "Stress what matters about the climate.",
+            "es": "Resaltá lo que importa del clima: «What matters is...»."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "never before",
+            "target": "Open a sentence with 'never before has'.",
+            "native": "Abrí una oración con «Never before has».",
+            "en": "Open a sentence with 'never before has'.",
+            "es": "Abrí una oración con «Never before has»."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "day": 13,
+      "role": "COMBINE",
+      "focus": "The planet and power: climate and geopolitics",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Last day. Let's speak like a summit: passive, formal, emphatic.",
+          "native": "Último día. Hablemos como una cumbre: pasiva, formal, enfática.",
+          "en": "Last day. Let's speak like a summit: passive, formal, emphatic.",
+          "es": "Último día. Hablemos como una cumbre: pasiva, formal, enfática."
+        },
+        {
+          "kind": "SHOW",
+          "item": "climate change",
+          "phonetic": "KLAI-mat-CHEINCH",
+          "target": "The long shift in the planet's weather.",
+          "native": "cambio climático",
+          "en": "The long shift in the planet's weather.",
+          "es": "cambio climático"
+        },
+        {
+          "kind": "MODEL",
+          "item": "climate change",
+          "phonetic": "KLAI-mat-CHEINCH"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "climate change",
+          "phonetic": "KLAI-mat-CHEINCH",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "What is needed is action, yet it is believed to be too late by many.",
+          "native": "«What is needed is action, yet it is believed to be too late by many».",
+          "en": "What is needed is action, yet it is believed to be too late by many.",
+          "es": "«What is needed is action, yet it is believed to be too late by many»."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "what is needed is",
+            "it is believed to",
+            "never before has"
+          ],
+          "target": "The three B2 tools, with me.",
+          "native": "Las tres herramientas B2, conmigo.",
+          "en": "The three B2 tools, with me.",
+          "es": "Las tres herramientas B2, conmigo."
+        },
+        {
+          "kind": "SAY",
+          "target": "Put it together: never before has cooperation mattered more, yet sovereignty still divides us.",
+          "native": "Todo junto: «Never before has cooperation mattered more, yet sovereignty still divides us».",
+          "en": "Put it together: never before has cooperation mattered more, yet sovereignty still divides us.",
+          "es": "Todo junto: «Never before has cooperation mattered more, yet sovereignty still divides us»."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can debate the world's hardest issues in formal English. That's B2.",
+          "native": "Ya podés debatir los temas más difíciles del mundo en inglés formal. Eso es B2.",
+          "en": "You can debate the world's hardest issues in formal English. That's B2.",
+          "es": "Ya podés debatir los temas más difíciles del mundo en inglés formal. Eso es B2."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "what is needed is",
+            "target": "State what the planet needs, with fronting.",
+            "native": "Enunciá qué necesita el planeta, con fronting.",
+            "en": "State what the planet needs, with fronting.",
+            "es": "Enunciá qué necesita el planeta, con fronting."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "it is believed",
+            "target": "Give a claim about the future, impersonally.",
+            "native": "Dá una afirmación sobre el futuro, de manera impersonal.",
+            "en": "Give a claim about the future, impersonally.",
+            "es": "Dá una afirmación sobre el futuro, de manera impersonal."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "day": 1,
+      "role": "PRESENT",
+      "focus": "Science: the mind, life and evidence",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Unit eighteen. How science thinks, and the words it thinks with.",
+          "native": "Unidad dieciocho. Cómo piensa la ciencia, y las palabras con que piensa.",
+          "en": "Unit eighteen. How science thinks, and the words it thinks with.",
+          "es": "Unidad dieciocho. Cómo piensa la ciencia, y las palabras con que piensa."
+        },
+        {
+          "kind": "SHOW",
+          "item": "consciousness",
+          "phonetic": "KON-shis-nes",
+          "target": "Being aware — the hardest problem of all.",
+          "native": "conciencia / consciencia",
+          "en": "Being aware — the hardest problem of all.",
+          "es": "conciencia / consciencia"
+        },
+        {
+          "kind": "MODEL",
+          "item": "consciousness",
+          "phonetic": "KON-shis-nes"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "consciousness",
+          "phonetic": "KON-shis-nes",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "neuroscience",
+          "phonetic": "NIU-rou-sai-ens",
+          "target": "The study of the brain.",
+          "native": "neurociencia",
+          "en": "The study of the brain.",
+          "es": "neurociencia"
+        },
+        {
+          "kind": "MODEL",
+          "item": "neuroscience",
+          "phonetic": "NIU-rou-sai-ens"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "neuroscience",
+          "phonetic": "NIU-rou-sai-ens",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "Neuroscience studies the brain; consciousness is what we still can't explain.",
+          "native": "La neurociencia estudia el cerebro; la conciencia es lo que todavía no podemos explicar.",
+          "en": "Neuroscience studies the brain; consciousness is what we still can't explain.",
+          "es": "La neurociencia estudia el cerebro; la conciencia es lo que todavía no podemos explicar."
+        },
+        {
+          "kind": "SHOW",
+          "item": "empirical",
+          "phonetic": "em-PI-ri-kal",
+          "target": "Based on evidence, not opinion.",
+          "native": "empírico",
+          "en": "Based on evidence, not opinion.",
+          "es": "empírico"
+        },
+        {
+          "kind": "MODEL",
+          "item": "empirical",
+          "phonetic": "em-PI-ri-kal"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "empirical",
+          "phonetic": "em-PI-ri-kal",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "cognitive",
+          "phonetic": "KOG-ni-tiv",
+          "target": "About thinking and knowing.",
+          "native": "cognitivo",
+          "en": "About thinking and knowing.",
+          "es": "cognitivo"
+        },
+        {
+          "kind": "MODEL",
+          "item": "cognitive",
+          "phonetic": "KOG-ni-tiv"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "cognitive",
+          "phonetic": "KOG-ni-tiv",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can name the core ideas of the mind sciences.",
+          "native": "Ya podés nombrar las ideas centrales de las ciencias de la mente.",
+          "en": "You can name the core ideas of the mind sciences.",
+          "es": "Ya podés nombrar las ideas centrales de las ciencias de la mente."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "empirical",
+            "target": "Say what makes a claim empirical.",
+            "native": "Decí qué hace que una afirmación sea empírica.",
+            "en": "Say what makes a claim empirical.",
+            "es": "Decí qué hace que una afirmación sea empírica."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "consciousness",
+            "target": "Tell me why consciousness is hard to explain.",
+            "native": "Contame por qué la conciencia es difícil de explicar.",
+            "en": "Tell me why consciousness is hard to explain.",
+            "es": "Contame por qué la conciencia es difícil de explicar."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "day": 3,
+      "role": "PRACTISE",
+      "focus": "Science: the mind, life and evidence",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today, looking ahead from a point in the future: the future perfect.",
+          "native": "Hoy, mirar hacia adelante desde un punto futuro: el futuro perfecto.",
+          "en": "Today, looking ahead from a point in the future: the future perfect.",
+          "es": "Hoy, mirar hacia adelante desde un punto futuro: el futuro perfecto."
+        },
+        {
+          "kind": "SHOW",
+          "item": "longevity",
+          "phonetic": "lon-YE-vi-ti",
+          "target": "Living longer; a long lifespan.",
+          "native": "longevidad",
+          "en": "Living longer; a long lifespan.",
+          "es": "longevidad"
+        },
+        {
+          "kind": "MODEL",
+          "item": "longevity",
+          "phonetic": "lon-YE-vi-ti"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "longevity",
+          "phonetic": "lon-YE-vi-ti",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "By 2050, science will have doubled human longevity. Done, seen from the future.",
+          "native": "«By 2050, science will have doubled human longevity» — hecho, visto desde el futuro.",
+          "en": "By 2050, science will have doubled human longevity. Done, seen from the future.",
+          "es": "«By 2050, science will have doubled human longevity» — hecho, visto desde el futuro."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "will have found",
+            "will have changed",
+            "will have proven"
+          ],
+          "target": "The future perfect, with me.",
+          "native": "El futuro perfecto, conmigo.",
+          "en": "The future perfect, with me.",
+          "es": "El futuro perfecto, conmigo."
+        },
+        {
+          "kind": "SAY",
+          "target": "It marks something finished before a future moment. Very common in forecasts.",
+          "native": "Marca algo terminado antes de un momento futuro. Muy común en pronósticos.",
+          "en": "It marks something finished before a future moment. Very common in forecasts.",
+          "es": "Marca algo terminado antes de un momento futuro. Muy común en pronósticos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can say what will be done by a future point.",
+          "native": "Ya podés decir qué estará hecho para un momento futuro.",
+          "en": "You can say what will be done by a future point.",
+          "es": "Ya podés decir qué estará hecho para un momento futuro."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "will have",
+            "target": "Finish: by 2040, we will have...",
+            "native": "Completá: «By 2040, we will have...».",
+            "en": "Finish: by 2040, we will have...",
+            "es": "Completá: «By 2040, we will have...»."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "will have",
+            "target": "Predict what science will have achieved in your lifetime.",
+            "native": "Predecí qué habrá logrado la ciencia en tu vida.",
+            "en": "Predict what science will have achieved in your lifetime.",
+            "es": "Predecí qué habrá logrado la ciencia en tu vida."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "day": 6,
+      "role": "COMBINE",
+      "focus": "Science: the mind, life and evidence",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Now reporting research precisely: advanced reported speech.",
+          "native": "Ahora reportar investigación con precisión: el estilo indirecto avanzado.",
+          "en": "Now reporting research precisely: advanced reported speech.",
+          "es": "Ahora reportar investigación con precisión: el estilo indirecto avanzado."
+        },
+        {
+          "kind": "SHOW",
+          "item": "replication",
+          "phonetic": "re-pli-KEI-shon",
+          "target": "Repeating a study to check it holds.",
+          "native": "replicación",
+          "en": "Repeating a study to check it holds.",
+          "es": "replicación"
+        },
+        {
+          "kind": "MODEL",
+          "item": "replication",
+          "phonetic": "re-pli-KEI-shon"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "replication",
+          "phonetic": "re-pli-KEI-shon",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "The study claims to have shown a link. 'Claims to have' reports and doubts at once.",
+          "native": "«The study claims to have shown a link». «Claims to have» reporta y duda a la vez.",
+          "en": "The study claims to have shown a link. 'Claims to have' reports and doubts at once.",
+          "es": "«The study claims to have shown a link». «Claims to have» reporta y duda a la vez."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "claims to have",
+            "is reported to",
+            "appears to have"
+          ],
+          "target": "The careful reporting, with me.",
+          "native": "El reporte cuidadoso, conmigo.",
+          "en": "The careful reporting, with me.",
+          "es": "El reporte cuidadoso, conmigo."
+        },
+        {
+          "kind": "SAY",
+          "target": "My name is Capy, and I'm said to have taught a few people English.",
+          "native": "«My name is Capy, and I'm said to have taught a few people English».",
+          "en": "My name is Capy, and I'm said to have taught a few people English.",
+          "es": "«My name is Capy, and I'm said to have taught a few people English»."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can report findings without fully endorsing them.",
+          "native": "Ya podés reportar hallazgos sin respaldarlos del todo.",
+          "en": "You can report findings without fully endorsing them.",
+          "es": "Ya podés reportar hallazgos sin respaldarlos del todo."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "claims to have",
+            "target": "Report a study's finding, with care.",
+            "native": "Reportá el hallazgo de un estudio, con cuidado: «The study claims to have...».",
+            "en": "Report a study's finding, with care.",
+            "es": "Reportá el hallazgo de un estudio, con cuidado: «The study claims to have...»."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "is said to",
+            "target": "Report a common belief, keeping your distance.",
+            "native": "Reportá una creencia común, guardando distancia.",
+            "en": "Report a common belief, keeping your distance.",
+            "es": "Reportá una creencia común, guardando distancia."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "day": 8,
+      "role": "PRESENT",
+      "focus": "Science: the mind, life and evidence",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Science has a vocabulary of doubt and proof. Let's sharpen it.",
+          "native": "La ciencia tiene un vocabulario de duda y prueba. Vamos a afinarlo.",
+          "en": "Science has a vocabulary of doubt and proof. Let's sharpen it.",
+          "es": "La ciencia tiene un vocabulario de duda y prueba. Vamos a afinarlo."
+        },
+        {
+          "kind": "SHOW",
+          "item": "paradigm",
+          "phonetic": "PE-ra-daim",
+          "target": "The shared frame a field works inside.",
+          "native": "paradigma",
+          "en": "The shared frame a field works inside.",
+          "es": "paradigma"
+        },
+        {
+          "kind": "MODEL",
+          "item": "paradigm",
+          "phonetic": "PE-ra-daim"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "paradigm",
+          "phonetic": "PE-ra-daim",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "biomarker",
+          "phonetic": "bai-ou-MAR-ker",
+          "target": "A measurable sign of a condition.",
+          "native": "biomarcador",
+          "en": "A measurable sign of a condition.",
+          "es": "biomarcador"
+        },
+        {
+          "kind": "MODEL",
+          "item": "biomarker",
+          "phonetic": "bai-ou-MAR-ker"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "biomarker",
+          "phonetic": "bai-ou-MAR-ker",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "probabilistic",
+          "phonetic": "pro-ba-bi-LIS-tik",
+          "target": "Based on odds, not certainty.",
+          "native": "probabilístico",
+          "en": "Based on odds, not certainty.",
+          "es": "probabilístico"
+        },
+        {
+          "kind": "MODEL",
+          "item": "probabilistic",
+          "phonetic": "pro-ba-bi-LIS-tik"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "probabilistic",
+          "phonetic": "pro-ba-bi-LIS-tik",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "forecasting",
+          "phonetic": "FOR-kas-tang",
+          "target": "Predicting from data and trends.",
+          "native": "pronóstico / previsión",
+          "en": "Predicting from data and trends.",
+          "es": "pronóstico / previsión"
+        },
+        {
+          "kind": "MODEL",
+          "item": "forecasting",
+          "phonetic": "FOR-kas-tang"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "forecasting",
+          "phonetic": "FOR-kas-tang",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can name how science measures and predicts.",
+          "native": "Ya podés nombrar cómo la ciencia mide y predice.",
+          "en": "You can name how science measures and predicts.",
+          "es": "Ya podés nombrar cómo la ciencia mide y predice."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "a paradigm",
+            "target": "Say what a paradigm shift is.",
+            "native": "Decí qué es un cambio de paradigma.",
+            "en": "Say what a paradigm shift is.",
+            "es": "Decí qué es un cambio de paradigma."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "probabilistic",
+            "target": "Tell me why forecasts are probabilistic.",
+            "native": "Contame por qué los pronósticos son probabilísticos.",
+            "en": "Tell me why forecasts are probabilistic.",
+            "es": "Contame por qué los pronósticos son probabilísticos."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "day": 11,
+      "role": "PRACTISE",
+      "focus": "Science: the mind, life and evidence",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today, the moves of academic writing: hedging and signposting.",
+          "native": "Hoy, los recursos de la escritura académica: matizar y señalizar.",
+          "en": "Today, the moves of academic writing: hedging and signposting.",
+          "es": "Hoy, los recursos de la escritura académica: matizar y señalizar."
+        },
+        {
+          "kind": "SHOW",
+          "item": "empirical",
+          "phonetic": "em-PI-ri-kal",
+          "target": "Based on evidence, not opinion.",
+          "native": "empírico",
+          "en": "Based on evidence, not opinion.",
+          "es": "empírico"
+        },
+        {
+          "kind": "MODEL",
+          "item": "empirical",
+          "phonetic": "em-PI-ri-kal"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "empirical",
+          "phonetic": "em-PI-ri-kal",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "Not 'this proves', but 'this suggests'. Science rarely says 'proves'.",
+          "native": "No «this proves», sino «this suggests». La ciencia casi nunca dice «proves».",
+          "en": "Not 'this proves', but 'this suggests'. Science rarely says 'proves'.",
+          "es": "No «this proves», sino «this suggests». La ciencia casi nunca dice «proves»."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "this suggests that",
+            "the data indicate",
+            "it may be that"
+          ],
+          "target": "The hedges, with me.",
+          "native": "Los matices, conmigo.",
+          "en": "The hedges, with me.",
+          "es": "Los matices, conmigo."
+        },
+        {
+          "kind": "SAY",
+          "target": "And signpost the reader: firstly, however, in conclusion.",
+          "native": "Y señalizá para quien lee: «firstly», «however», «in conclusion».",
+          "en": "And signpost the reader: firstly, however, in conclusion.",
+          "es": "Y señalizá para quien lee: «firstly», «however», «in conclusion»."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "firstly",
+            "however",
+            "in conclusion"
+          ],
+          "target": "The signposts, with me.",
+          "native": "Las señales, conmigo.",
+          "en": "The signposts, with me.",
+          "es": "Las señales, conmigo."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can write with academic caution and clarity.",
+          "native": "Ya podés escribir con la cautela y la claridad académicas.",
+          "en": "You can write with academic caution and clarity.",
+          "es": "Ya podés escribir con la cautela y la claridad académicas."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "this suggests that",
+            "target": "Hedge a claim instead of proving it.",
+            "native": "Matizá una afirmación en vez de probarla: «This suggests that...».",
+            "en": "Hedge a claim instead of proving it.",
+            "es": "Matizá una afirmación en vez de probarla: «This suggests that...»."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "however",
+            "target": "Give one finding, then a caution, with 'however'.",
+            "native": "Dá un hallazgo y después una advertencia, con «however».",
+            "en": "Give one finding, then a caution, with 'however'.",
+            "es": "Dá un hallazgo y después una advertencia, con «however»."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "day": 13,
+      "role": "COMBINE",
+      "focus": "Science: the mind, life and evidence",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Last day. Let's write like a paper: future, careful reporting, hedging.",
+          "native": "Último día. Escribamos como un paper: futuro, reporte cuidadoso, matices.",
+          "en": "Last day. Let's write like a paper: future, careful reporting, hedging.",
+          "es": "Último día. Escribamos como un paper: futuro, reporte cuidadoso, matices."
+        },
+        {
+          "kind": "SHOW",
+          "item": "cognitive",
+          "phonetic": "KOG-ni-tiv",
+          "target": "About thinking and knowing.",
+          "native": "cognitivo",
+          "en": "About thinking and knowing.",
+          "es": "cognitivo"
+        },
+        {
+          "kind": "MODEL",
+          "item": "cognitive",
+          "phonetic": "KOG-ni-tiv"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "cognitive",
+          "phonetic": "KOG-ni-tiv",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "The research claims to have found a cognitive effect, though replication may prove otherwise.",
+          "native": "«The research claims to have found a cognitive effect, though replication may prove otherwise».",
+          "en": "The research claims to have found a cognitive effect, though replication may prove otherwise.",
+          "es": "«The research claims to have found a cognitive effect, though replication may prove otherwise»."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "claims to have",
+            "will have shown",
+            "this suggests"
+          ],
+          "target": "The three B2 tools, with me.",
+          "native": "Las tres herramientas B2, conmigo.",
+          "en": "The three B2 tools, with me.",
+          "es": "Las tres herramientas B2, conmigo."
+        },
+        {
+          "kind": "SAY",
+          "target": "Put it together: by 2040 the paradigm will have shifted, though it is said to be uncertain.",
+          "native": "Todo junto: «By 2040 the paradigm will have shifted, though it is said to be uncertain».",
+          "en": "Put it together: by 2040 the paradigm will have shifted, though it is said to be uncertain.",
+          "es": "Todo junto: «By 2040 the paradigm will have shifted, though it is said to be uncertain»."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can discuss science with the caution of a scientist. That's B2.",
+          "native": "Ya podés discutir ciencia con la cautela de un científico. Eso es B2.",
+          "en": "You can discuss science with the caution of a scientist. That's B2.",
+          "es": "Ya podés discutir ciencia con la cautela de un científico. Eso es B2."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "will have",
+            "target": "Make a scientific prediction, hedged.",
+            "native": "Hacé una predicción científica, matizada.",
+            "en": "Make a scientific prediction, hedged.",
+            "es": "Hacé una predicción científica, matizada."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "this suggests",
+            "target": "Report a finding and its limit, in two sentences.",
+            "native": "Reportá un hallazgo y su límite, en dos frases.",
+            "en": "Report a finding and its limit, in two sentences.",
+            "es": "Reportá un hallazgo y su límite, en dos frases."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "day": 1,
+      "role": "PRESENT",
+      "focus": "Politics: power, rule and rhetoric",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Unit nineteen. How power is organised, and how it's abused.",
+          "native": "Unidad diecinueve. Cómo se organiza el poder, y cómo se abusa de él.",
+          "en": "Unit nineteen. How power is organised, and how it's abused.",
+          "es": "Unidad diecinueve. Cómo se organiza el poder, y cómo se abusa de él."
+        },
+        {
+          "kind": "SHOW",
+          "item": "governance",
+          "phonetic": "GO-ver-nans",
+          "target": "How a place is run and decisions are made.",
+          "native": "gobernanza",
+          "en": "How a place is run and decisions are made.",
+          "es": "gobernanza"
+        },
+        {
+          "kind": "MODEL",
+          "item": "governance",
+          "phonetic": "GO-ver-nans"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "governance",
+          "phonetic": "GO-ver-nans",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "legislation",
+          "phonetic": "le-yis-LEI-shon",
+          "target": "The laws a government passes.",
+          "native": "legislación",
+          "en": "The laws a government passes.",
+          "es": "legislación"
+        },
+        {
+          "kind": "MODEL",
+          "item": "legislation",
+          "phonetic": "le-yis-LEI-shon"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "legislation",
+          "phonetic": "le-yis-LEI-shon",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "Governance is the how; legislation is the what.",
+          "native": "La gobernanza es el cómo; la legislación es el qué.",
+          "en": "Governance is the how; legislation is the what.",
+          "es": "La gobernanza es el cómo; la legislación es el qué."
+        },
+        {
+          "kind": "SHOW",
+          "item": "constituency",
+          "phonetic": "kons-TI-chuu-an-si",
+          "target": "The voters a politician represents.",
+          "native": "circunscripción electoral",
+          "en": "The voters a politician represents.",
+          "es": "circunscripción electoral"
+        },
+        {
+          "kind": "MODEL",
+          "item": "constituency",
+          "phonetic": "kons-TI-chuu-an-si"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "constituency",
+          "phonetic": "kons-TI-chuu-an-si",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "amendment",
+          "phonetic": "a-MEND-ment",
+          "target": "A change added to a law.",
+          "native": "enmienda",
+          "en": "A change added to a law.",
+          "es": "enmienda"
+        },
+        {
+          "kind": "MODEL",
+          "item": "amendment",
+          "phonetic": "a-MEND-ment"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "amendment",
+          "phonetic": "a-MEND-ment",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can name the machinery of government.",
+          "native": "Ya podés nombrar la maquinaria del gobierno.",
+          "en": "You can name the machinery of government.",
+          "es": "Ya podés nombrar la maquinaria del gobierno."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "governance",
+            "target": "Say what good governance looks like.",
+            "native": "Decí cómo se ve una buena gobernanza.",
+            "en": "Say what good governance looks like.",
+            "es": "Decí cómo se ve una buena gobernanza."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "legislation",
+            "target": "Tell me one law you'd pass and why.",
+            "native": "Contame una ley que aprobarías y por qué.",
+            "en": "Tell me one law you'd pass and why.",
+            "es": "Contame una ley que aprobarías y por qué."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "day": 3,
+      "role": "PRACTISE",
+      "focus": "Politics: power, rule and rhetoric",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today, the most dramatic sentence in English: inversion.",
+          "native": "Hoy, la oración más dramática del inglés: la inversión.",
+          "en": "Today, the most dramatic sentence in English: inversion.",
+          "es": "Hoy, la oración más dramática del inglés: la inversión."
+        },
+        {
+          "kind": "SHOW",
+          "item": "rhetoric",
+          "phonetic": "RE-to-rik",
+          "target": "The art of persuading with words.",
+          "native": "retórica",
+          "en": "The art of persuading with words.",
+          "es": "retórica"
+        },
+        {
+          "kind": "MODEL",
+          "item": "rhetoric",
+          "phonetic": "RE-to-rik"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "rhetoric",
+          "phonetic": "RE-to-rik",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "Not only did they lie, but they knew it. 'Not only... but' inverts and hits hard.",
+          "native": "«Not only did they lie, but they knew it». «Not only... but» invierte y golpea.",
+          "en": "Not only did they lie, but they knew it. 'Not only... but' inverts and hits hard.",
+          "es": "«Not only did they lie, but they knew it». «Not only... but» invierte y golpea."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "not only did",
+            "no sooner had",
+            "little did they know"
+          ],
+          "target": "The dramatic inversions, with me.",
+          "native": "Las inversiones dramáticas, conmigo.",
+          "en": "The dramatic inversions, with me.",
+          "es": "Las inversiones dramáticas, conmigo."
+        },
+        {
+          "kind": "SAY",
+          "target": "Political speech lives on these — they sound grave and final.",
+          "native": "El discurso político vive de esto — suena grave y definitivo.",
+          "en": "Political speech lives on these — they sound grave and final.",
+          "es": "El discurso político vive de esto — suena grave y definitivo."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can open a sentence for maximum weight.",
+          "native": "Ya podés abrir una oración con el máximo peso.",
+          "en": "You can open a sentence for maximum weight.",
+          "es": "Ya podés abrir una oración con el máximo peso."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "not only did",
+            "target": "Accuse with force: not only did they..., but...",
+            "native": "Acusá con fuerza: «Not only did they..., but...».",
+            "en": "Accuse with force: not only did they..., but...",
+            "es": "Acusá con fuerza: «Not only did they..., but...»."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "little did",
+            "target": "Start a sentence with 'little did they know'.",
+            "native": "Empezá una oración con «Little did they know».",
+            "en": "Start a sentence with 'little did they know'.",
+            "es": "Empezá una oración con «Little did they know»."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "day": 6,
+      "role": "COMBINE",
+      "focus": "Politics: power, rule and rhetoric",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Now saying it without owning it: distancing structures.",
+          "native": "Ahora decirlo sin hacerse cargo: las estructuras de distanciamiento.",
+          "en": "Now saying it without owning it: distancing structures.",
+          "es": "Ahora decirlo sin hacerse cargo: las estructuras de distanciamiento."
+        },
+        {
+          "kind": "SHOW",
+          "item": "populism",
+          "phonetic": "POP-iu-li-sam",
+          "target": "Politics that pits 'the people' against elites.",
+          "native": "populismo",
+          "en": "Politics that pits 'the people' against elites.",
+          "es": "populismo"
+        },
+        {
+          "kind": "MODEL",
+          "item": "populism",
+          "phonetic": "POP-iu-li-sam"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "populism",
+          "phonetic": "POP-iu-li-sam",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "It could be argued that populism thrives on fear. You raise it, but not as your view.",
+          "native": "«It could be argued that populism thrives on fear». Lo planteás, pero no como tu postura.",
+          "en": "It could be argued that populism thrives on fear. You raise it, but not as your view.",
+          "es": "«It could be argued that populism thrives on fear». Lo planteás, pero no como tu postura."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "it could be argued",
+            "some would say",
+            "one might claim"
+          ],
+          "target": "The distancing frames, with me.",
+          "native": "Los marcos de distanciamiento, conmigo.",
+          "en": "The distancing frames, with me.",
+          "es": "Los marcos de distanciamiento, conmigo."
+        },
+        {
+          "kind": "SAY",
+          "target": "My name is Capy, and it could be said that I'm rather fond of grammar.",
+          "native": "«My name is Capy, and it could be said that I'm rather fond of grammar».",
+          "en": "My name is Capy, and it could be said that I'm rather fond of grammar.",
+          "es": "«My name is Capy, and it could be said that I'm rather fond of grammar»."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can raise an idea without committing to it.",
+          "native": "Ya podés plantear una idea sin comprometerte con ella.",
+          "en": "You can raise an idea without committing to it.",
+          "es": "Ya podés plantear una idea sin comprometerte con ella."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "it could be argued",
+            "target": "Raise a political claim at arm's length.",
+            "native": "Planteá una afirmación política con distancia: «It could be argued that...».",
+            "en": "Raise a political claim at arm's length.",
+            "es": "Planteá una afirmación política con distancia: «It could be argued that...»."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "some would say",
+            "target": "Give a view you don't fully share.",
+            "native": "Dá una postura que no compartís del todo.",
+            "en": "Give a view you don't fully share.",
+            "es": "Dá una postura que no compartís del todo."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "day": 8,
+      "role": "PRESENT",
+      "focus": "Politics: power, rule and rhetoric",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "When power goes wrong, there are words for it. Let's name them.",
+          "native": "Cuando el poder sale mal, hay palabras para eso. Vamos a nombrarlas.",
+          "en": "When power goes wrong, there are words for it. Let's name them.",
+          "es": "Cuando el poder sale mal, hay palabras para eso. Vamos a nombrarlas."
+        },
+        {
+          "kind": "SHOW",
+          "item": "autocracy",
+          "phonetic": "o-TO-kra-si",
+          "target": "Rule by one, with no real check.",
+          "native": "autocracia",
+          "en": "Rule by one, with no real check.",
+          "es": "autocracia"
+        },
+        {
+          "kind": "MODEL",
+          "item": "autocracy",
+          "phonetic": "o-TO-kra-si"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "autocracy",
+          "phonetic": "o-TO-kra-si",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "oligarchy",
+          "phonetic": "O-li-gar-ki",
+          "target": "Rule by a small, rich few.",
+          "native": "oligarquía",
+          "en": "Rule by a small, rich few.",
+          "es": "oligarquía"
+        },
+        {
+          "kind": "MODEL",
+          "item": "oligarchy",
+          "phonetic": "O-li-gar-ki"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "oligarchy",
+          "phonetic": "O-li-gar-ki",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "demagogue",
+          "phonetic": "DE-ma-gog",
+          "target": "A leader who stirs fear to gain power.",
+          "native": "demagogo",
+          "en": "A leader who stirs fear to gain power.",
+          "es": "demagogo"
+        },
+        {
+          "kind": "MODEL",
+          "item": "demagogue",
+          "phonetic": "DE-ma-gog"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "demagogue",
+          "phonetic": "DE-ma-gog",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "populism",
+          "phonetic": "POP-iu-li-sam",
+          "target": "Politics that pits 'the people' against elites.",
+          "native": "populismo",
+          "en": "Politics that pits 'the people' against elites.",
+          "es": "populismo"
+        },
+        {
+          "kind": "MODEL",
+          "item": "populism",
+          "phonetic": "POP-iu-li-sam"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "populism",
+          "phonetic": "POP-iu-li-sam",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can name the ways power decays.",
+          "native": "Ya podés nombrar las formas en que el poder se pudre.",
+          "en": "You can name the ways power decays.",
+          "es": "Ya podés nombrar las formas en que el poder se pudre."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "autocracy",
+            "target": "Say the difference between autocracy and democracy.",
+            "native": "Decí la diferencia entre autocracia y democracia.",
+            "en": "Say the difference between autocracy and democracy.",
+            "es": "Decí la diferencia entre autocracia y democracia."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "demagogue",
+            "target": "Tell me how a demagogue gains power.",
+            "native": "Contame cómo un demagogo gana poder.",
+            "en": "Tell me how a demagogue gains power.",
+            "es": "Contame cómo un demagogo gana poder."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "day": 11,
+      "role": "PRACTISE",
+      "focus": "Politics: power, rule and rhetoric",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today, the formal subjunctive of demands and motions.",
+          "native": "Hoy, el subjuntivo formal de las exigencias y las mociones.",
+          "en": "Today, the formal subjunctive of demands and motions.",
+          "es": "Hoy, el subjuntivo formal de las exigencias y las mociones."
+        },
+        {
+          "kind": "SHOW",
+          "item": "ratification",
+          "phonetic": "ra-ti-fi-KEI-shon",
+          "target": "Formally approving a treaty or law.",
+          "native": "ratificación",
+          "en": "Formally approving a treaty or law.",
+          "es": "ratificación"
+        },
+        {
+          "kind": "MODEL",
+          "item": "ratification",
+          "phonetic": "ra-ti-fi-KEI-shon"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "ratification",
+          "phonetic": "ra-ti-fi-KEI-shon",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "We demand that he resign. Not 'resigns' — the bare form. Very formal.",
+          "native": "«We demand that he resign». No «resigns» — la forma pelada. Muy formal.",
+          "en": "We demand that he resign. Not 'resigns' — the bare form. Very formal.",
+          "es": "«We demand that he resign». No «resigns» — la forma pelada. Muy formal."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "that he resign",
+            "that it be passed",
+            "that they comply"
+          ],
+          "target": "The formal subjunctive, with me.",
+          "native": "El subjuntivo formal, conmigo.",
+          "en": "The formal subjunctive, with me.",
+          "es": "El subjuntivo formal, conmigo."
+        },
+        {
+          "kind": "SAY",
+          "target": "After 'demand, insist, propose, require' — the verb stays bare.",
+          "native": "Después de «demand, insist, propose, require» — el verbo queda pelado.",
+          "en": "After 'demand, insist, propose, require' — the verb stays bare.",
+          "es": "Después de «demand, insist, propose, require» — el verbo queda pelado."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "insist that",
+            "propose that",
+            "require that"
+          ],
+          "target": "The triggers, with me.",
+          "native": "Los disparadores, conmigo.",
+          "en": "The triggers, with me.",
+          "es": "Los disparadores, conmigo."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can make formal demands the English way.",
+          "native": "Ya podés hacer exigencias formales a la manera inglesa.",
+          "en": "You can make formal demands the English way.",
+          "es": "Ya podés hacer exigencias formales a la manera inglesa."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "demand that",
+            "target": "Make a formal demand: we demand that he...",
+            "native": "Hacé una exigencia formal: «We demand that he...».",
+            "en": "Make a formal demand: we demand that he...",
+            "es": "Hacé una exigencia formal: «We demand that he...»."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "propose that",
+            "target": "Propose a motion formally.",
+            "native": "Proponé una moción de manera formal.",
+            "en": "Propose a motion formally.",
+            "es": "Proponé una moción de manera formal."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "day": 13,
+      "role": "COMBINE",
+      "focus": "Politics: power, rule and rhetoric",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Last day. Let's speak like a parliament: inversion, distance, subjunctive.",
+          "native": "Último día. Hablemos como un parlamento: inversión, distancia, subjuntivo.",
+          "en": "Last day. Let's speak like a parliament: inversion, distance, subjunctive.",
+          "es": "Último día. Hablemos como un parlamento: inversión, distancia, subjuntivo."
+        },
+        {
+          "kind": "SHOW",
+          "item": "bipartisan",
+          "phonetic": "bai-PAR-ti-san",
+          "target": "Backed by both main parties.",
+          "native": "bipartidista",
+          "en": "Backed by both main parties.",
+          "es": "bipartidista"
+        },
+        {
+          "kind": "MODEL",
+          "item": "bipartisan",
+          "phonetic": "bai-PAR-ti-san"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "bipartisan",
+          "phonetic": "bai-PAR-ti-san",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "It could be argued that, not only has trust collapsed, but reform requires that all sides compromise.",
+          "native": "«It could be argued that, not only has trust collapsed, but reform requires that all sides compromise».",
+          "en": "It could be argued that, not only has trust collapsed, but reform requires that all sides compromise.",
+          "es": "«It could be argued that, not only has trust collapsed, but reform requires that all sides compromise»."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "not only has",
+            "it could be argued",
+            "we demand that"
+          ],
+          "target": "The three B2 tools, with me.",
+          "native": "Las tres herramientas B2, conmigo.",
+          "en": "The three B2 tools, with me.",
+          "es": "Las tres herramientas B2, conmigo."
+        },
+        {
+          "kind": "SAY",
+          "target": "Put it together: little did they know that some would demand the amendment be withdrawn.",
+          "native": "Todo junto: «Little did they know that some would demand the amendment be withdrawn».",
+          "en": "Put it together: little did they know that some would demand the amendment be withdrawn.",
+          "es": "Todo junto: «Little did they know that some would demand the amendment be withdrawn»."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can debate politics with the weight of formal English. That's B2.",
+          "native": "Ya podés debatir política con el peso del inglés formal. Eso es B2.",
+          "en": "You can debate politics with the weight of formal English. That's B2.",
+          "es": "Ya podés debatir política con el peso del inglés formal. Eso es B2."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "not only has",
+            "target": "Make a grave political claim, inverted.",
+            "native": "Hacé una afirmación política grave, invertida.",
+            "en": "Make a grave political claim, inverted.",
+            "es": "Hacé una afirmación política grave, invertida."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "it could be argued",
+            "target": "Raise a claim, then demand a change formally.",
+            "native": "Planteá una afirmación y después exigí un cambio, formalmente.",
+            "en": "Raise a claim, then demand a change formally.",
+            "es": "Planteá una afirmación y después exigí un cambio, formalmente."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "day": 1,
+      "role": "PRESENT",
+      "focus": "Philosophy: knowing, being and meaning",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Unit twenty. The oldest questions, and the words to ask them.",
+          "native": "Unidad veinte. Las preguntas más viejas, y las palabras para hacerlas.",
+          "en": "Unit twenty. The oldest questions, and the words to ask them.",
+          "es": "Unidad veinte. Las preguntas más viejas, y las palabras para hacerlas."
+        },
+        {
+          "kind": "SHOW",
+          "item": "epistemology",
+          "phonetic": "e-pis-te-MO-lo-yii",
+          "target": "The study of what we can know.",
+          "native": "epistemología",
+          "en": "The study of what we can know.",
+          "es": "epistemología"
+        },
+        {
+          "kind": "MODEL",
+          "item": "epistemology",
+          "phonetic": "e-pis-te-MO-lo-yii"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "epistemology",
+          "phonetic": "e-pis-te-MO-lo-yii",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "ontology",
+          "phonetic": "on-TO-lo-yi",
+          "target": "The study of what exists.",
+          "native": "ontología",
+          "en": "The study of what exists.",
+          "es": "ontología"
+        },
+        {
+          "kind": "MODEL",
+          "item": "ontology",
+          "phonetic": "on-TO-lo-yi"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "ontology",
+          "phonetic": "on-TO-lo-yi",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "Epistemology asks 'how do you know?'; ontology asks 'what is real?'.",
+          "native": "La epistemología pregunta «¿cómo sabés?»; la ontología, «¿qué es real?».",
+          "en": "Epistemology asks 'how do you know?'; ontology asks 'what is real?'.",
+          "es": "La epistemología pregunta «¿cómo sabés?»; la ontología, «¿qué es real?»."
+        },
+        {
+          "kind": "SHOW",
+          "item": "metaphysics",
+          "phonetic": "me-ta-FI-siks",
+          "target": "What lies beyond the physical.",
+          "native": "metafísica",
+          "en": "What lies beyond the physical.",
+          "es": "metafísica"
+        },
+        {
+          "kind": "MODEL",
+          "item": "metaphysics",
+          "phonetic": "me-ta-FI-siks"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "metaphysics",
+          "phonetic": "me-ta-FI-siks",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "premise",
+          "phonetic": "PRE-mis",
+          "target": "A starting claim an argument rests on.",
+          "native": "premisa",
+          "en": "A starting claim an argument rests on.",
+          "es": "premisa"
+        },
+        {
+          "kind": "MODEL",
+          "item": "premise",
+          "phonetic": "PRE-mis"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "premise",
+          "phonetic": "PRE-mis",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can name the great branches of philosophy.",
+          "native": "Ya podés nombrar las grandes ramas de la filosofía.",
+          "en": "You can name the great branches of philosophy.",
+          "es": "Ya podés nombrar las grandes ramas de la filosofía."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "epistemology",
+            "target": "Say what epistemology studies.",
+            "native": "Decí qué estudia la epistemología.",
+            "en": "Say what epistemology studies.",
+            "es": "Decí qué estudia la epistemología."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "premise",
+            "target": "Give me a premise and a conclusion.",
+            "native": "Dame una premisa y una conclusión.",
+            "en": "Give me a premise and a conclusion.",
+            "es": "Dame una premisa y una conclusión."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "day": 3,
+      "role": "PRACTISE",
+      "focus": "Philosophy: knowing, being and meaning",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today, a trap: some verbs change meaning with -ing or to.",
+          "native": "Hoy, una trampa: algunos verbos cambian de significado con «-ing» o «to».",
+          "en": "Today, a trap: some verbs change meaning with -ing or to.",
+          "es": "Hoy, una trampa: algunos verbos cambian de significado con «-ing» o «to»."
+        },
+        {
+          "kind": "SHOW",
+          "item": "determinism",
+          "phonetic": "de-TER-mi-ni-sam",
+          "target": "The view that everything is already fixed.",
+          "native": "determinismo",
+          "en": "The view that everything is already fixed.",
+          "es": "determinismo"
+        },
+        {
+          "kind": "MODEL",
+          "item": "determinism",
+          "phonetic": "de-TER-mi-ni-sam"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "determinism",
+          "phonetic": "de-TER-mi-ni-sam",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "Stop to think: you pause in order to think. Stop thinking: you quit.",
+          "native": "«Stop to think»: te frenás para pensar. «Stop thinking»: dejás de hacerlo.",
+          "en": "Stop to think: you pause in order to think. Stop thinking: you quit.",
+          "es": "«Stop to think»: te frenás para pensar. «Stop thinking»: dejás de hacerlo."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "stop to think",
+            "stop thinking",
+            "remember to ask"
+          ],
+          "target": "The meaning shifts, with me.",
+          "native": "Los cambios de sentido, conmigo.",
+          "en": "The meaning shifts, with me.",
+          "es": "Los cambios de sentido, conmigo."
+        },
+        {
+          "kind": "SAY",
+          "target": "Remember to lock it: a task ahead. Remember locking it: a memory.",
+          "native": "«Remember to lock it»: una tarea por delante. «Remember locking it»: un recuerdo.",
+          "en": "Remember to lock it: a task ahead. Remember locking it: a memory.",
+          "es": "«Remember to lock it»: una tarea por delante. «Remember locking it»: un recuerdo."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "remember to lock",
+            "remember locking",
+            "try to open"
+          ],
+          "target": "More shifts, with me.",
+          "native": "Más cambios, conmigo.",
+          "en": "More shifts, with me.",
+          "es": "Más cambios, conmigo."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can pick -ing or to, and mean exactly what you want.",
+          "native": "Ya podés elegir «-ing» o «to», y decir exactamente lo que querés.",
+          "en": "You can pick -ing or to, and mean exactly what you want.",
+          "es": "Ya podés elegir «-ing» o «to», y decir exactamente lo que querés."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "stop to",
+            "target": "Say you paused to think: I stopped to...",
+            "native": "Decí que te frenaste a pensar: «I stopped to...».",
+            "en": "Say you paused to think: I stopped to...",
+            "es": "Decí que te frenaste a pensar: «I stopped to...»."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "remember",
+            "target": "Tell me the difference between 'remember to call' and 'remember calling'.",
+            "native": "Contame la diferencia entre «remember to call» y «remember calling».",
+            "en": "Tell me the difference between 'remember to call' and 'remember calling'.",
+            "es": "Contame la diferencia entre «remember to call» y «remember calling»."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "day": 6,
+      "role": "COMBINE",
+      "focus": "Philosophy: knowing, being and meaning",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Now looking back at an action: the perfect infinitive.",
+          "native": "Ahora mirar atrás a una acción: el infinitivo perfecto.",
+          "en": "Now looking back at an action: the perfect infinitive.",
+          "es": "Ahora mirar atrás a una acción: el infinitivo perfecto."
+        },
+        {
+          "kind": "SHOW",
+          "item": "rationalism",
+          "phonetic": "RA-sha-na-li-sem",
+          "target": "The view that reason is the source of knowledge.",
+          "native": "racionalismo",
+          "en": "The view that reason is the source of knowledge.",
+          "es": "racionalismo"
+        },
+        {
+          "kind": "MODEL",
+          "item": "rationalism",
+          "phonetic": "RA-sha-na-li-sem"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "rationalism",
+          "phonetic": "RA-sha-na-li-sem",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "He seems to have known. 'To have known' points to a finished past.",
+          "native": "«He seems to have known». «To have known» apunta a un pasado terminado.",
+          "en": "He seems to have known. 'To have known' points to a finished past.",
+          "es": "«He seems to have known». «To have known» apunta a un pasado terminado."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "to have known",
+            "to have been",
+            "to have done"
+          ],
+          "target": "The perfect infinitive, with me.",
+          "native": "El infinitivo perfecto, conmigo.",
+          "en": "The perfect infinitive, with me.",
+          "es": "El infinitivo perfecto, conmigo."
+        },
+        {
+          "kind": "SAY",
+          "target": "My name is Capy, and I'm glad to have taught you this far.",
+          "native": "«My name is Capy, and I'm glad to have taught you this far».",
+          "en": "My name is Capy, and I'm glad to have taught you this far.",
+          "es": "«My name is Capy, and I'm glad to have taught you this far»."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can point back to a completed action, elegantly.",
+          "native": "Ya podés señalar hacia atrás a una acción terminada, con elegancia.",
+          "en": "You can point back to a completed action, elegantly.",
+          "es": "Ya podés señalar hacia atrás a una acción terminada, con elegancia."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "to have",
+            "target": "Finish: she seems to have...",
+            "native": "Completá: «She seems to have...».",
+            "en": "Finish: she seems to have...",
+            "es": "Completá: «She seems to have...»."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "glad to have",
+            "target": "Tell me one thing you're glad to have done.",
+            "native": "Contame una cosa que te alegra haber hecho.",
+            "en": "Tell me one thing you're glad to have done.",
+            "es": "Contame una cosa que te alegra haber hecho."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "day": 8,
+      "role": "PRESENT",
+      "focus": "Philosophy: knowing, being and meaning",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Philosophy names whole ways of seeing the world. Let's learn a few.",
+          "native": "La filosofía nombra maneras enteras de ver el mundo. Aprendamos algunas.",
+          "en": "Philosophy names whole ways of seeing the world. Let's learn a few.",
+          "es": "La filosofía nombra maneras enteras de ver el mundo. Aprendamos algunas."
+        },
+        {
+          "kind": "SHOW",
+          "item": "empiricism",
+          "phonetic": "em-PI-ri-si-sam",
+          "target": "Knowledge comes from the senses and evidence.",
+          "native": "empirismo",
+          "en": "Knowledge comes from the senses and evidence.",
+          "es": "empirismo"
+        },
+        {
+          "kind": "MODEL",
+          "item": "empiricism",
+          "phonetic": "em-PI-ri-si-sam"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "empiricism",
+          "phonetic": "em-PI-ri-si-sam",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "utilitarianism",
+          "phonetic": "iu-ti-la-TE-ri-a-ni-sem",
+          "target": "The right act brings the most good to the most people.",
+          "native": "utilitarismo",
+          "en": "The right act brings the most good to the most people.",
+          "es": "utilitarismo"
+        },
+        {
+          "kind": "MODEL",
+          "item": "utilitarianism",
+          "phonetic": "iu-ti-la-TE-ri-a-ni-sem"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "utilitarianism",
+          "phonetic": "iu-ti-la-TE-ri-a-ni-sem",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "nihilism",
+          "phonetic": "NAI-i-li-sam",
+          "target": "The view that nothing has inherent meaning.",
+          "native": "nihilismo",
+          "en": "The view that nothing has inherent meaning.",
+          "es": "nihilismo"
+        },
+        {
+          "kind": "MODEL",
+          "item": "nihilism",
+          "phonetic": "NAI-i-li-sam"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "nihilism",
+          "phonetic": "NAI-i-li-sam",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SHOW",
+          "item": "existentialism",
+          "phonetic": "eg-si-STEN-sha-li-sem",
+          "target": "You create your own meaning through choice.",
+          "native": "existencialismo",
+          "en": "You create your own meaning through choice.",
+          "es": "existencialismo"
+        },
+        {
+          "kind": "MODEL",
+          "item": "existentialism",
+          "phonetic": "eg-si-STEN-sha-li-sem"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "existentialism",
+          "phonetic": "eg-si-STEN-sha-li-sem",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can name the great -isms and what they claim.",
+          "native": "Ya podés nombrar los grandes «-ismos» y qué afirman.",
+          "en": "You can name the great -isms and what they claim.",
+          "es": "Ya podés nombrar los grandes «-ismos» y qué afirman."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "empiricism",
+            "target": "Say what empiricism trusts.",
+            "native": "Decí en qué confía el empirismo.",
+            "en": "Say what empiricism trusts.",
+            "es": "Decí en qué confía el empirismo."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "existentialism",
+            "target": "Tell me what existentialism says about meaning.",
+            "native": "Contame qué dice el existencialismo sobre el sentido.",
+            "en": "Tell me what existentialism says about meaning.",
+            "es": "Contame qué dice el existencialismo sobre el sentido."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "day": 11,
+      "role": "PRACTISE",
+      "focus": "Philosophy: knowing, being and meaning",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Today, arguing like a philosopher: premises and conclusions.",
+          "native": "Hoy, argumentar como un filósofo: premisas y conclusiones.",
+          "en": "Today, arguing like a philosopher: premises and conclusions.",
+          "es": "Hoy, argumentar como un filósofo: premisas y conclusiones."
+        },
+        {
+          "kind": "SHOW",
+          "item": "dialectic",
+          "phonetic": "dai-e-LEK-tik",
+          "target": "Reaching truth by opposing ideas.",
+          "native": "dialéctica",
+          "en": "Reaching truth by opposing ideas.",
+          "es": "dialéctica"
+        },
+        {
+          "kind": "MODEL",
+          "item": "dialectic",
+          "phonetic": "dai-e-LEK-tik"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "dialectic",
+          "phonetic": "dai-e-LEK-tik",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "If we accept the premise, then the conclusion follows. That's the shape of an argument.",
+          "native": "«If we accept the premise, then the conclusion follows». Esa es la forma de un argumento.",
+          "en": "If we accept the premise, then the conclusion follows. That's the shape of an argument.",
+          "es": "«If we accept the premise, then the conclusion follows». Esa es la forma de un argumento."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "it follows that",
+            "given that",
+            "therefore"
+          ],
+          "target": "The logical links, with me.",
+          "native": "Los enlaces lógicos, conmigo.",
+          "en": "The logical links, with me.",
+          "es": "Los enlaces lógicos, conmigo."
+        },
+        {
+          "kind": "SAY",
+          "target": "And question the premise itself: but does that assumption hold?",
+          "native": "Y cuestioná la premisa misma: «but does that assumption hold?».",
+          "en": "And question the premise itself: but does that assumption hold?",
+          "es": "Y cuestioná la premisa misma: «but does that assumption hold?»."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "one could object",
+            "but suppose",
+            "on what grounds"
+          ],
+          "target": "The objections, with me.",
+          "native": "Las objeciones, conmigo.",
+          "en": "The objections, with me.",
+          "es": "Las objeciones, conmigo."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can build and challenge an argument.",
+          "native": "Ya podés construir y cuestionar un argumento.",
+          "en": "You can build and challenge an argument.",
+          "es": "Ya podés construir y cuestionar un argumento."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "it follows that",
+            "target": "Draw a conclusion from a premise.",
+            "native": "Sacá una conclusión de una premisa: «It follows that...».",
+            "en": "Draw a conclusion from a premise.",
+            "es": "Sacá una conclusión de una premisa: «It follows that...»."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "one could object",
+            "target": "Raise an objection to an idea.",
+            "native": "Planteá una objeción a una idea.",
+            "en": "Raise an objection to an idea.",
+            "es": "Planteá una objeción a una idea."
+          }
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "day": 13,
+      "role": "COMBINE",
+      "focus": "Philosophy: knowing, being and meaning",
+      "moves": [
+        {
+          "kind": "SAY",
+          "target": "Last day of B2. Let's argue like a thinker: shifts, perfect infinitive, logic.",
+          "native": "Último día de B2. Argumentemos como un pensador: cambios, infinitivo perfecto, lógica.",
+          "en": "Last day of B2. Let's argue like a thinker: shifts, perfect infinitive, logic.",
+          "es": "Último día de B2. Argumentemos como un pensador: cambios, infinitivo perfecto, lógica."
+        },
+        {
+          "kind": "SHOW",
+          "item": "phenomenology",
+          "phonetic": "fe-NO-me-no-lo-gii",
+          "target": "The study of experience as it appears.",
+          "native": "fenomenología",
+          "en": "The study of experience as it appears.",
+          "es": "fenomenología"
+        },
+        {
+          "kind": "MODEL",
+          "item": "phenomenology",
+          "phonetic": "fe-NO-me-no-lo-gii"
+        },
+        {
+          "kind": "REPEAT",
+          "item": "phenomenology",
+          "phonetic": "fe-NO-me-no-lo-gii",
+          "target": "Now you.",
+          "native": "Ahora vos.",
+          "en": "Now you.",
+          "es": "Ahora vos."
+        },
+        {
+          "kind": "SAY",
+          "target": "He claims to have proven it; but one could object that the premise fails.",
+          "native": "«He claims to have proven it; but one could object that the premise fails».",
+          "en": "He claims to have proven it; but one could object that the premise fails.",
+          "es": "«He claims to have proven it; but one could object that the premise fails»."
+        },
+        {
+          "kind": "CHORUS",
+          "chorus": [
+            "to have proven",
+            "it follows that",
+            "one could object"
+          ],
+          "target": "The three B2 tools, with me.",
+          "native": "Las tres herramientas B2, conmigo.",
+          "en": "The three B2 tools, with me.",
+          "es": "Las tres herramientas B2, conmigo."
+        },
+        {
+          "kind": "SAY",
+          "target": "Put it together: given the premise, it follows that free will seems to have been an illusion.",
+          "native": "Todo junto: «Given the premise, it follows that free will seems to have been an illusion».",
+          "en": "Put it together: given the premise, it follows that free will seems to have been an illusion.",
+          "es": "Todo junto: «Given the premise, it follows that free will seems to have been an illusion»."
+        },
+        {
+          "kind": "RECAP",
+          "target": "You can hold a philosophical argument in English. That closes B2 — C1 is next.",
+          "native": "Ya podés sostener un argumento filosófico en inglés. Con eso cerrás B2: sigue C1.",
+          "en": "You can hold a philosophical argument in English. That closes B2 — C1 is next.",
+          "es": "Ya podés sostener un argumento filosófico en inglés. Con eso cerrás B2: sigue C1."
+        }
+      ],
+      "practice": [
+        [
+          {
+            "kind": "SUBSTITUTE",
+            "expected": "it follows that",
+            "target": "Draw a conclusion about free will.",
+            "native": "Sacá una conclusión sobre el libre albedrío.",
+            "en": "Draw a conclusion about free will.",
+            "es": "Sacá una conclusión sobre el libre albedrío."
+          }
+        ],
+        [
+          {
+            "kind": "PRODUCE",
+            "expected": "one could object",
+            "target": "State a philosophical claim, then object to it.",
+            "native": "Enunciá una afirmación filosófica y después objetala.",
+            "en": "State a philosophical claim, then object to it.",
+            "es": "Enunciá una afirmación filosófica y después objetala."
+          }
+        ]
+      ]
     }
   ]
 }

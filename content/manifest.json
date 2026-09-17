@@ -4,27 +4,27 @@
   "pairs": [
     {
       "id": "en-es",
-      "version": 5,
+      "version": 6,
       "l1": "en",
       "l2": "es",
       "l1_name": "English",
       "l2_name": "Español",
       "title": "English → Español",
       "units": 30,
-      "size_kb": 2485,
+      "size_kb": 2558,
       "status": "ready",
       "missing_modules": []
     },
     {
       "id": "es-en",
-      "version": 12,
+      "version": 13,
       "l1": "es",
       "l2": "en",
       "l1_name": "Español",
       "l2_name": "English",
       "title": "Español → Inglés",
       "units": 30,
-      "size_kb": 4344,
+      "size_kb": 4415,
       "status": "ready",
       "missing_modules": []
     }
