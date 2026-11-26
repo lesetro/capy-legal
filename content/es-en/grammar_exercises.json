@@ -703,6 +703,94 @@
       "explanation": "Las respuestas afirmativas cortas con 'to be' NO se contraen."
     },
     {
+      "topic": "short",
+      "unit": 3,
+      "type": "fill",
+      "question": "Does your sister drive? (no) — No, she _____.",
+      "answer": "doesn't",
+      "alternatives": [
+        "does not"
+      ],
+      "explanation": "Preguntó con does: No, she doesn't."
+    },
+    {
+      "topic": "short",
+      "unit": 3,
+      "type": "fill",
+      "question": "Have you got a car? (no) — No, I _____.",
+      "answer": "haven't",
+      "alternatives": [
+        "have not"
+      ],
+      "explanation": "Preguntó con have: No, I haven't."
+    },
+    {
+      "topic": "short",
+      "unit": 3,
+      "type": "fill",
+      "question": "Can they speak French? (no) — No, they _____.",
+      "answer": "can't",
+      "alternatives": [
+        "cannot",
+        "can not"
+      ],
+      "explanation": "Preguntó con can: No, they can't."
+    },
+    {
+      "topic": "short",
+      "unit": 3,
+      "type": "fill",
+      "question": "Is it cold today? (sí) — Yes, it _____.",
+      "answer": "is",
+      "explanation": "Preguntó con is: Yes, it is (sin contraer)."
+    },
+    {
+      "topic": "short",
+      "unit": 3,
+      "type": "fill",
+      "question": "Do you work here? (sí) — Yes, I _____.",
+      "answer": "do",
+      "explanation": "Preguntó con do: Yes, I do."
+    },
+    {
+      "topic": "short",
+      "unit": 3,
+      "type": "fill",
+      "question": "Are you from Chile? (no) — _____",
+      "answer": "No, I'm not.",
+      "alternatives": [
+        "No, I am not."
+      ],
+      "explanation": "Preguntó con are: No, I'm not."
+    },
+    {
+      "topic": "short",
+      "unit": 3,
+      "type": "error",
+      "question": "Does he play football? — Yes, he plays.",
+      "answer": "Does he play football? — Yes, he does.",
+      "explanation": "Se repite el auxiliar: does."
+    },
+    {
+      "topic": "short",
+      "unit": 3,
+      "type": "error",
+      "question": "Can you swim? — No, I don't.",
+      "answer": "Can you swim? — No, I can't.",
+      "alternatives": [
+        "Can you swim? — No, I cannot."
+      ],
+      "explanation": "Preguntó con can: se contesta con can't."
+    },
+    {
+      "topic": "short",
+      "unit": 3,
+      "type": "error",
+      "question": "Is she at home? — Yes, she's.",
+      "answer": "Is she at home? — Yes, she is.",
+      "explanation": "En la afirmativa no se contrae: she is."
+    },
+    {
       "topic": "greetings",
       "unit": 1,
       "type": "choose",
@@ -2243,6 +2331,138 @@
       "explanation": "'Behind' = detrás de. 'In front of' = delante de."
     },
     {
+      "topic": "places_prepositions",
+      "unit": 3,
+      "type": "fill",
+      "question": "The bank is next _____ the supermarket.",
+      "answer": "to",
+      "explanation": "Al lado de: next to."
+    },
+    {
+      "topic": "places_prepositions",
+      "unit": 3,
+      "type": "fill",
+      "question": "The school is _____ the park, on the other side of the street.",
+      "answer": "opposite",
+      "explanation": "Enfrente, del otro lado: opposite."
+    },
+    {
+      "topic": "places_prepositions",
+      "unit": 3,
+      "type": "fill",
+      "question": "My keys are _____ my bag, not in my pocket.",
+      "answer": "in",
+      "explanation": "Adentro de algo: in."
+    },
+    {
+      "topic": "places_prepositions",
+      "unit": 3,
+      "type": "fill",
+      "question": "There's a man _____ the door. Can you open it?",
+      "answer": "at",
+      "explanation": "Un punto de referencia: at the door."
+    },
+    {
+      "topic": "places_prepositions",
+      "unit": 3,
+      "type": "fill",
+      "question": "I live _____ Buenos Aires.",
+      "answer": "in",
+      "explanation": "Ciudades y países: in."
+    },
+    {
+      "topic": "places_prepositions",
+      "unit": 3,
+      "type": "error",
+      "question": "The book is in the table.",
+      "answer": "The book is on the table.",
+      "explanation": "Sobre una superficie: on."
+    },
+    {
+      "topic": "places_prepositions",
+      "unit": 3,
+      "type": "error",
+      "question": "She is waiting on the bus stop.",
+      "answer": "She is waiting at the bus stop.",
+      "explanation": "Un punto: at the bus stop."
+    },
+    {
+      "topic": "places_prepositions",
+      "unit": 3,
+      "type": "error",
+      "question": "The café is next the bank.",
+      "answer": "The café is next to the bank.",
+      "explanation": "Siempre next to."
+    },
+    {
+      "topic": "places_prepositions",
+      "unit": 3,
+      "type": "write",
+      "question": "El gato está debajo de la mesa.",
+      "answer": "The cat is under the table.",
+      "explanation": "Debajo: under."
+    },
+    {
+      "topic": "places_prepositions",
+      "unit": 3,
+      "type": "write",
+      "question": "Mi casa está al lado del parque.",
+      "answer": "My house is next to the park.",
+      "explanation": "Al lado de: next to."
+    },
+    {
+      "topic": "places_prepositions",
+      "unit": 3,
+      "type": "write",
+      "question": "Las llaves están sobre la mesa.",
+      "answer": "The keys are on the table.",
+      "explanation": "Sobre una superficie: on."
+    },
+    {
+      "topic": "places_prepositions",
+      "unit": 3,
+      "type": "write",
+      "question": "El banco está enfrente del hospital.",
+      "answer": "The bank is opposite the hospital.",
+      "alternatives": [
+        "The bank is across from the hospital."
+      ],
+      "explanation": "Enfrente: opposite."
+    },
+    {
+      "topic": "places_prepositions",
+      "unit": 3,
+      "type": "translate",
+      "question": "The phone is in my bag.",
+      "answer": "El teléfono está en mi bolso.",
+      "alternatives": [
+        "El celular está en mi bolso.",
+        "El teléfono está en mi cartera.",
+        "El celular está en mi cartera.",
+        "El teléfono está dentro de mi bolso."
+      ]
+    },
+    {
+      "topic": "places_prepositions",
+      "unit": 3,
+      "type": "translate",
+      "question": "The pharmacy is next to the bank.",
+      "answer": "La farmacia está al lado del banco.",
+      "alternatives": [
+        "La farmacia está junto al banco."
+      ]
+    },
+    {
+      "topic": "places_prepositions",
+      "unit": 3,
+      "type": "translate",
+      "question": "She is at the door.",
+      "answer": "Ella está en la puerta.",
+      "alternatives": [
+        "Está en la puerta."
+      ]
+    },
+    {
       "topic": "there_is_there_are",
       "unit": 3,
       "type": "choose",
@@ -2381,6 +2601,166 @@
       ],
       "answer": "there isn't",
       "explanation": "Respuesta corta negativa: 'No, there isn't'. Singular → isn't."
+    },
+    {
+      "topic": "there_is_there_are",
+      "unit": 3,
+      "type": "fill",
+      "question": "There _____ three bedrooms in the flat.",
+      "answer": "are",
+      "explanation": "Tres dormitorios es plural: there are."
+    },
+    {
+      "topic": "there_is_there_are",
+      "unit": 3,
+      "type": "fill",
+      "question": "There _____ a bank here. (no)",
+      "answer": "isn't",
+      "alternatives": [
+        "is not"
+      ],
+      "explanation": "Negativa en singular: there isn't."
+    },
+    {
+      "topic": "there_is_there_are",
+      "unit": 3,
+      "type": "fill",
+      "question": "There _____ any shops in the village. (no)",
+      "answer": "aren't",
+      "alternatives": [
+        "are not"
+      ],
+      "explanation": "Negativa en plural: there aren't any."
+    },
+    {
+      "topic": "there_is_there_are",
+      "unit": 3,
+      "type": "fill",
+      "question": "_____ there a pharmacy near here?",
+      "answer": "Is",
+      "explanation": "Para preguntar se da vuelta: Is there...?"
+    },
+    {
+      "topic": "there_is_there_are",
+      "unit": 3,
+      "type": "fill",
+      "question": "Are there any parks? — No, there _____.",
+      "answer": "aren't",
+      "alternatives": [
+        "are not"
+      ],
+      "explanation": "La respuesta corta repite el verbo: No, there aren't."
+    },
+    {
+      "topic": "there_is_there_are",
+      "unit": 3,
+      "type": "error",
+      "question": "There is two cars in the garage.",
+      "answer": "There are two cars in the garage.",
+      "explanation": "Dos autos es plural: there are."
+    },
+    {
+      "topic": "there_is_there_are",
+      "unit": 3,
+      "type": "error",
+      "question": "There aren't a hospital in my town.",
+      "answer": "There isn't a hospital in my town.",
+      "alternatives": [
+        "There is not a hospital in my town."
+      ],
+      "explanation": "Un hospital es singular: there isn't."
+    },
+    {
+      "topic": "there_is_there_are",
+      "unit": 3,
+      "type": "error",
+      "question": "Is there any buses on Sunday?",
+      "answer": "Are there any buses on Sunday?",
+      "explanation": "Buses es plural: Are there...?"
+    },
+    {
+      "topic": "there_is_there_are",
+      "unit": 3,
+      "type": "write",
+      "question": "Hay un perro en el jardín.",
+      "answer": "There is a dog in the garden.",
+      "alternatives": [
+        "There's a dog in the garden."
+      ],
+      "explanation": "Un perro, singular: there is."
+    },
+    {
+      "topic": "there_is_there_are",
+      "unit": 3,
+      "type": "write",
+      "question": "Hay tres ventanas en mi cuarto.",
+      "answer": "There are three windows in my room.",
+      "alternatives": [
+        "There are three windows in my bedroom."
+      ],
+      "explanation": "Tres ventanas, plural: there are."
+    },
+    {
+      "topic": "there_is_there_are",
+      "unit": 3,
+      "type": "write",
+      "question": "No hay leche en la heladera.",
+      "answer": "There isn't any milk in the fridge.",
+      "alternatives": [
+        "There is no milk in the fridge.",
+        "There's no milk in the fridge.",
+        "There isn't milk in the fridge.",
+        "There is not any milk in the fridge."
+      ],
+      "explanation": "Negativa: there isn't any (milk no se cuenta)."
+    },
+    {
+      "topic": "there_is_there_are",
+      "unit": 3,
+      "type": "write",
+      "question": "¿Hay un banco cerca de acá?",
+      "answer": "Is there a bank near here?",
+      "alternatives": [
+        "Is there a bank nearby?",
+        "Is there a bank close to here?"
+      ],
+      "explanation": "Pregunta: Is there...?"
+    },
+    {
+      "topic": "there_is_there_are",
+      "unit": 3,
+      "type": "translate",
+      "question": "There are two cats on the sofa.",
+      "answer": "Hay dos gatos en el sillón.",
+      "alternatives": [
+        "Hay dos gatos en el sofá.",
+        "Hay dos gatos sobre el sillón.",
+        "Hay dos gatos sobre el sofá."
+      ]
+    },
+    {
+      "topic": "there_is_there_are",
+      "unit": 3,
+      "type": "translate",
+      "question": "There isn't a supermarket in my street.",
+      "answer": "No hay un supermercado en mi calle.",
+      "alternatives": [
+        "No hay supermercado en mi calle.",
+        "No hay ningún supermercado en mi calle."
+      ]
+    },
+    {
+      "topic": "there_is_there_are",
+      "unit": 3,
+      "type": "translate",
+      "question": "Are there any good restaurants here?",
+      "answer": "¿Hay buenos restaurantes acá?",
+      "alternatives": [
+        "¿Hay buenos restaurantes aquí?",
+        "¿Hay algún buen restaurante acá?",
+        "¿Hay algún buen restaurante aquí?",
+        "¿Hay restaurantes buenos acá?"
+      ]
     },
     {
       "topic": "daily_routines_verbs",
@@ -2523,6 +2903,153 @@
       "explanation": "'Go to bed' = irse a la cama. Tercera persona: 'go' → 'goes'."
     },
     {
+      "topic": "daily_routines_verbs",
+      "unit": 3,
+      "type": "fill",
+      "question": "I _____ up at seven every day.",
+      "answer": "get",
+      "explanation": "Levantarse: get up."
+    },
+    {
+      "topic": "daily_routines_verbs",
+      "unit": 3,
+      "type": "fill",
+      "question": "We _____ breakfast at home.",
+      "answer": "have",
+      "explanation": "Bloque fijo: have breakfast."
+    },
+    {
+      "topic": "daily_routines_verbs",
+      "unit": 3,
+      "type": "fill",
+      "question": "He _____ a shower after the gym.",
+      "answer": "takes",
+      "alternatives": [
+        "has"
+      ],
+      "explanation": "take a shower, con he lleva -s."
+    },
+    {
+      "topic": "daily_routines_verbs",
+      "unit": 3,
+      "type": "fill",
+      "question": "They go _____ bed at eleven.",
+      "answer": "to",
+      "explanation": "Bloque fijo: go to bed."
+    },
+    {
+      "topic": "daily_routines_verbs",
+      "unit": 3,
+      "type": "fill",
+      "question": "My dad _____ home at six. (come)",
+      "answer": "comes",
+      "explanation": "come home, con he lleva -s."
+    },
+    {
+      "topic": "daily_routines_verbs",
+      "unit": 3,
+      "type": "error",
+      "question": "I make a shower every morning.",
+      "answer": "I take a shower every morning.",
+      "alternatives": [
+        "I have a shower every morning."
+      ],
+      "explanation": "Ducharse es take a shower."
+    },
+    {
+      "topic": "daily_routines_verbs",
+      "unit": 3,
+      "type": "error",
+      "question": "She go to bed at ten.",
+      "answer": "She goes to bed at ten.",
+      "explanation": "Con she: goes."
+    },
+    {
+      "topic": "daily_routines_verbs",
+      "unit": 3,
+      "type": "error",
+      "question": "He get up at six.",
+      "answer": "He gets up at six.",
+      "explanation": "Con he: gets up."
+    },
+    {
+      "topic": "daily_routines_verbs",
+      "unit": 3,
+      "type": "write",
+      "question": "Me levanto a las siete.",
+      "answer": "I get up at seven.",
+      "alternatives": [
+        "I get up at seven o'clock.",
+        "I get up at 7."
+      ],
+      "explanation": "Levantarse: get up; la hora con at."
+    },
+    {
+      "topic": "daily_routines_verbs",
+      "unit": 3,
+      "type": "write",
+      "question": "Desayuno en casa.",
+      "answer": "I have breakfast at home.",
+      "explanation": "Desayunar: have breakfast."
+    },
+    {
+      "topic": "daily_routines_verbs",
+      "unit": 3,
+      "type": "write",
+      "question": "Ella se ducha a la noche.",
+      "answer": "She takes a shower at night.",
+      "alternatives": [
+        "She has a shower at night.",
+        "She showers at night.",
+        "She takes a shower in the evening."
+      ],
+      "explanation": "Ducharse: take a shower; con she, takes."
+    },
+    {
+      "topic": "daily_routines_verbs",
+      "unit": 3,
+      "type": "write",
+      "question": "Nos acostamos tarde.",
+      "answer": "We go to bed late.",
+      "explanation": "Acostarse: go to bed."
+    },
+    {
+      "topic": "daily_routines_verbs",
+      "unit": 3,
+      "type": "translate",
+      "question": "I go to work by bus.",
+      "answer": "Voy al trabajo en colectivo.",
+      "alternatives": [
+        "Voy a trabajar en colectivo.",
+        "Voy al trabajo en autobús.",
+        "Voy a trabajar en autobús.",
+        "Voy al trabajo en bus.",
+        "Voy al trabajo en micro."
+      ]
+    },
+    {
+      "topic": "daily_routines_verbs",
+      "unit": 3,
+      "type": "translate",
+      "question": "He comes home at six.",
+      "answer": "Él vuelve a casa a las seis.",
+      "alternatives": [
+        "Vuelve a casa a las seis.",
+        "Él llega a casa a las seis.",
+        "Llega a casa a las seis."
+      ]
+    },
+    {
+      "topic": "daily_routines_verbs",
+      "unit": 3,
+      "type": "translate",
+      "question": "She has breakfast at eight.",
+      "answer": "Ella desayuna a las ocho.",
+      "alternatives": [
+        "Desayuna a las ocho."
+      ]
+    },
+    {
       "topic": "time",
       "unit": 3,
       "type": "choose",
@@ -2661,6 +3188,150 @@
       ],
       "answer": "at",
       "explanation": "'At' se usa siempre con horas específicas: at half past three, at quarter to four."
+    },
+    {
+      "topic": "time",
+      "unit": 3,
+      "type": "fill",
+      "question": "What time _____ it?",
+      "answer": "is",
+      "explanation": "La pregunta fija: What time is it?"
+    },
+    {
+      "topic": "time",
+      "unit": 3,
+      "type": "fill",
+      "question": "It's five _____. (5:00)",
+      "answer": "o'clock",
+      "explanation": "La hora en punto: o'clock."
+    },
+    {
+      "topic": "time",
+      "unit": 3,
+      "type": "fill",
+      "question": "It's half _____ six. (6:30)",
+      "answer": "past",
+      "explanation": "Y media: half past."
+    },
+    {
+      "topic": "time",
+      "unit": 3,
+      "type": "fill",
+      "question": "It's quarter _____ three. (2:45)",
+      "answer": "to",
+      "explanation": "Menos cuarto: quarter to."
+    },
+    {
+      "topic": "time",
+      "unit": 3,
+      "type": "fill",
+      "question": "The film starts _____ eight.",
+      "answer": "at",
+      "explanation": "A una hora: at."
+    },
+    {
+      "topic": "time",
+      "unit": 3,
+      "type": "error",
+      "question": "It's five thirty o'clock.",
+      "answer": "It's five thirty.",
+      "alternatives": [
+        "It is five thirty.",
+        "It's half past five."
+      ],
+      "explanation": "o'clock solo va con la hora exacta."
+    },
+    {
+      "topic": "time",
+      "unit": 3,
+      "type": "error",
+      "question": "What time it is?",
+      "answer": "What time is it?",
+      "explanation": "En la pregunta el verbo va antes: is it."
+    },
+    {
+      "topic": "time",
+      "unit": 3,
+      "type": "error",
+      "question": "The class is in nine o'clock.",
+      "answer": "The class is at nine o'clock.",
+      "explanation": "A una hora: at."
+    },
+    {
+      "topic": "time",
+      "unit": 3,
+      "type": "write",
+      "question": "¿Qué hora es?",
+      "answer": "What time is it?",
+      "explanation": "La pregunta fija: What time is it?"
+    },
+    {
+      "topic": "time",
+      "unit": 3,
+      "type": "write",
+      "question": "Son las tres y media.",
+      "answer": "It's half past three.",
+      "alternatives": [
+        "It is half past three.",
+        "It's three thirty.",
+        "It is three thirty."
+      ],
+      "explanation": "Y media: half past."
+    },
+    {
+      "topic": "time",
+      "unit": 3,
+      "type": "write",
+      "question": "La clase es a las nueve.",
+      "answer": "The class is at nine.",
+      "alternatives": [
+        "The class is at nine o'clock.",
+        "The lesson is at nine.",
+        "The lesson is at nine o'clock.",
+        "Class is at nine."
+      ],
+      "explanation": "A una hora: at."
+    },
+    {
+      "topic": "time",
+      "unit": 3,
+      "type": "write",
+      "question": "Son las ocho menos cuarto.",
+      "answer": "It's quarter to eight.",
+      "alternatives": [
+        "It is quarter to eight.",
+        "It's a quarter to eight.",
+        "It's seven forty-five.",
+        "It is seven forty-five."
+      ],
+      "explanation": "Menos cuarto: quarter to."
+    },
+    {
+      "topic": "time",
+      "unit": 3,
+      "type": "translate",
+      "question": "It's ten past four.",
+      "answer": "Son las cuatro y diez."
+    },
+    {
+      "topic": "time",
+      "unit": 3,
+      "type": "translate",
+      "question": "The shop opens at nine o'clock.",
+      "answer": "El negocio abre a las nueve.",
+      "alternatives": [
+        "La tienda abre a las nueve.",
+        "El negocio abre a las nueve en punto.",
+        "La tienda abre a las nueve en punto.",
+        "El local abre a las nueve."
+      ]
+    },
+    {
+      "topic": "time",
+      "unit": 3,
+      "type": "translate",
+      "question": "It's quarter past one.",
+      "answer": "Es la una y cuarto."
     },
     {
       "topic": "present_simple_basic",
@@ -2912,6 +3583,117 @@
       ],
       "answer": "She plays the guitar every day.",
       "explanation": "Tercera persona: play → plays."
+    },
+    {
+      "topic": "present_simple_basic",
+      "unit": 3,
+      "type": "fill",
+      "question": "She _____ a big family. (have)",
+      "answer": "has",
+      "explanation": "have con she es has."
+    },
+    {
+      "topic": "present_simple_basic",
+      "unit": 3,
+      "type": "fill",
+      "question": "My dad _____ coffee. (no / like)",
+      "answer": "doesn't like",
+      "alternatives": [
+        "does not like"
+      ],
+      "explanation": "Negativa con he: doesn't + verbo sin s."
+    },
+    {
+      "topic": "present_simple_basic",
+      "unit": 3,
+      "type": "fill",
+      "question": "_____ your parents live in the city?",
+      "answer": "Do",
+      "explanation": "Your parents = they: do."
+    },
+    {
+      "topic": "present_simple_basic",
+      "unit": 3,
+      "type": "error",
+      "question": "He have a new phone.",
+      "answer": "He has a new phone.",
+      "explanation": "have con he es has."
+    },
+    {
+      "topic": "present_simple_basic",
+      "unit": 3,
+      "type": "error",
+      "question": "Does she likes pizza?",
+      "answer": "Does she like pizza?",
+      "explanation": "Con does el verbo pierde la s."
+    },
+    {
+      "topic": "present_simple_basic",
+      "unit": 3,
+      "type": "write",
+      "question": "Ella trabaja en un hospital.",
+      "answer": "She works in a hospital.",
+      "alternatives": [
+        "She works at a hospital."
+      ],
+      "explanation": "Con she el verbo lleva -s."
+    },
+    {
+      "topic": "present_simple_basic",
+      "unit": 3,
+      "type": "write",
+      "question": "Él tiene un auto rojo.",
+      "answer": "He has a red car.",
+      "alternatives": [
+        "He's got a red car.",
+        "He has got a red car."
+      ],
+      "explanation": "have con he es has; el adjetivo va antes."
+    },
+    {
+      "topic": "present_simple_basic",
+      "unit": 3,
+      "type": "write",
+      "question": "No me gusta el café.",
+      "answer": "I don't like coffee.",
+      "explanation": "Negativa con I: don't."
+    },
+    {
+      "topic": "present_simple_basic",
+      "unit": 3,
+      "type": "write",
+      "question": "¿Tu hermano vive acá?",
+      "answer": "Does your brother live here?",
+      "explanation": "Pregunta con he: does, y live sin s."
+    },
+    {
+      "topic": "present_simple_basic",
+      "unit": 3,
+      "type": "translate",
+      "question": "My sister doesn't eat meat.",
+      "answer": "Mi hermana no come carne."
+    },
+    {
+      "topic": "present_simple_basic",
+      "unit": 3,
+      "type": "translate",
+      "question": "Do you speak Portuguese?",
+      "answer": "¿Hablás portugués?",
+      "alternatives": [
+        "¿Hablas portugués?",
+        "¿Habla portugués?",
+        "¿Ustedes hablan portugués?"
+      ]
+    },
+    {
+      "topic": "present_simple_basic",
+      "unit": 3,
+      "type": "translate",
+      "question": "He has two dogs.",
+      "answer": "Él tiene dos perros.",
+      "alternatives": [
+        "Tiene dos perros."
+      ]
     },
     {
       "topic": "have",

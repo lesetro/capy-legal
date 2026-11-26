@@ -29,7 +29,78 @@
           "es": "Es Anna, con doble N."
         }
       ],
-      "watch_out": "E e I son la trampa clásica: E suena /i/ e I suena /ai/, justo al revés de lo que parece."
+      "watch_out": "E e I son la trampa clásica: E suena /i/ e I suena /ai/, justo al revés de lo que parece.",
+      "pattern": {
+        "cols": [
+          "",
+          "Sounds like",
+          "Spell it"
+        ],
+        "rows": [
+          [
+            "A",
+            "like **hey**",
+            "**A**-N-A"
+          ],
+          [
+            "E",
+            "like **me**",
+            "P-**E**-N"
+          ],
+          [
+            "I",
+            "like **eye**",
+            "**I**-T"
+          ],
+          [
+            "G",
+            "like **gee**",
+            "**G**-O"
+          ],
+          [
+            "J",
+            "like **jay**",
+            "**J**-O-B"
+          ],
+          [
+            "H",
+            "like **aitch**",
+            "**H**-I"
+          ],
+          [
+            "Y",
+            "like **why**",
+            "**Y**-E-S"
+          ],
+          [
+            "NN",
+            "**double** N",
+            "A-**double N**-A"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "¿Cómo suena la letra E?",
+          "options": [
+            "like \"me\"",
+            "like \"eye\"",
+            "like \"hey\""
+          ],
+          "answer": "like \"me\"",
+          "explanation": "La E se dice /i/, como en me. La I es la que suena /ai/."
+        },
+        {
+          "question": "Anna se deletrea: A - ___ - A",
+          "options": [
+            "double N",
+            "two N",
+            "N N"
+          ],
+          "answer": "double N",
+          "explanation": "Cuando una letra se repite se dice double."
+        }
+      ]
     },
     {
       "topic": "days_months",
@@ -59,7 +130,67 @@
           "es": "La clase empieza a las diez."
         }
       ],
-      "watch_out": "En español escribimos \"lunes\" en minúscula; en inglés Monday siempre va con mayúscula."
+      "watch_out": "En español escribimos \"lunes\" en minúscula; en inglés Monday siempre va con mayúscula.",
+      "pattern": {
+        "cols": [
+          "",
+          "For",
+          "Example"
+        ],
+        "rows": [
+          [
+            "in",
+            "months, years",
+            "**in** July, **in** 2026"
+          ],
+          [
+            "on",
+            "days, dates",
+            "**on** Monday, **on** May 5th"
+          ],
+          [
+            "at",
+            "times",
+            "**at** 9 o'clock"
+          ],
+          [
+            "Aa",
+            "capital letter",
+            "**M**onday, **J**anuary"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "My birthday is ___ March.",
+          "options": [
+            "in",
+            "on",
+            "at"
+          ],
+          "answer": "in",
+          "explanation": "Meses: in."
+        },
+        {
+          "question": "See you ___ Friday!",
+          "options": [
+            "on",
+            "in",
+            "at"
+          ],
+          "answer": "on",
+          "explanation": "Días: on."
+        },
+        {
+          "question": "¿Cuál está bien escrito?",
+          "options": [
+            "Monday",
+            "monday"
+          ],
+          "answer": "Monday",
+          "explanation": "Días y meses van siempre con mayúscula."
+        }
+      ]
     },
     {
       "topic": "greetings",
@@ -89,7 +220,68 @@
           "es": "Buenas noches, nos vemos mañana."
         }
       ],
-      "watch_out": "\"Good night\" despide, no saluda. Si llegás a una reunión de noche, va \"good evening\"."
+      "watch_out": "\"Good night\" despide, no saluda. Si llegás a una reunión de noche, va \"good evening\".",
+      "pattern": {
+        "cols": [
+          "",
+          "Hello",
+          "Goodbye"
+        ],
+        "rows": [
+          [
+            "☀️",
+            "Good **morning**!",
+            "Have a nice day!"
+          ],
+          [
+            "🌤️",
+            "Good **afternoon**!",
+            "See you later!"
+          ],
+          [
+            "🌆",
+            "Good **evening**!",
+            "Good**bye**!"
+          ],
+          [
+            "🌙",
+            "—",
+            "Good **night**!"
+          ],
+          [
+            "👋",
+            "**Hi!** / **Hey!**",
+            "**Bye!**"
+          ],
+          [
+            "🤝",
+            "Hello, **I'm** Ana. **Nice to meet you.**",
+            "Nice to meet you **too**."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "Llegás a una cena a las 21. Decís: ___",
+          "options": [
+            "Good evening",
+            "Good night",
+            "Good morning"
+          ],
+          "answer": "Good evening",
+          "explanation": "Good night solo se usa para despedirse."
+        },
+        {
+          "question": "Nice to meet you. — ___",
+          "options": [
+            "Nice to meet you too.",
+            "Good night.",
+            "Me too nice."
+          ],
+          "answer": "Nice to meet you too.",
+          "explanation": "La respuesta de siempre agrega too."
+        }
+      ]
     },
     {
       "topic": "numbers",
@@ -119,7 +311,83 @@
           "es": "Hay veinticinco estudiantes."
         }
       ],
-      "watch_out": "La edad se dice con el verbo to be, no con have: \"I am 30\", nunca \"I have 30\"."
+      "watch_out": "La edad se dice con el verbo to be, no con have: \"I am 30\", nunca \"I have 30\".",
+      "pattern": {
+        "cols": [
+          "",
+          "-teen (13-19)",
+          "-ty (×10)"
+        ],
+        "rows": [
+          [
+            "3",
+            "thir**teen**",
+            "thir**ty**"
+          ],
+          [
+            "4",
+            "four**teen**",
+            "for**ty**"
+          ],
+          [
+            "5",
+            "fif**teen**",
+            "fif**ty**"
+          ],
+          [
+            "6",
+            "six**teen**",
+            "six**ty**"
+          ],
+          [
+            "9",
+            "nine**teen**",
+            "nine**ty**"
+          ],
+          [
+            "🔊",
+            "fif-**TEEN**",
+            "**FIF**-ty"
+          ],
+          [
+            "21+",
+            "twenty**-one**",
+            "thirty**-five**"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "50 = ___",
+          "options": [
+            "fifty",
+            "fifteen",
+            "fivety"
+          ],
+          "answer": "fifty",
+          "explanation": "Las decenas llevan -ty: fifty."
+        },
+        {
+          "question": "40 = ___",
+          "options": [
+            "forty",
+            "fourty",
+            "fourteen"
+          ],
+          "answer": "forty",
+          "explanation": "Ojo: forty se escribe sin u."
+        },
+        {
+          "question": "I ___ 30 years old.",
+          "options": [
+            "am",
+            "have",
+            "is"
+          ],
+          "answer": "am",
+          "explanation": "La edad va con to be: I am 30."
+        }
+      ]
     },
     {
       "topic": "to_be_basic",
@@ -149,7 +417,83 @@
           "es": "Ellos son de España."
         }
       ],
-      "watch_out": "El sujeto nunca se omite: se dice \"I am tired\", no \"am tired\". En español \"estoy cansado\" se entiende sin el yo; en inglés no."
+      "watch_out": "El sujeto nunca se omite: se dice \"I am tired\", no \"am tired\". En español \"estoy cansado\" se entiende sin el yo; en inglés no.",
+      "pattern": {
+        "cols": [
+          "",
+          "Full",
+          "Short"
+        ],
+        "rows": [
+          [
+            "I",
+            "I **am** tired.",
+            "**I'm** tired."
+          ],
+          [
+            "he",
+            "He **is** a teacher.",
+            "**He's** a teacher."
+          ],
+          [
+            "she",
+            "She **is** here.",
+            "**She's** here."
+          ],
+          [
+            "it",
+            "It **is** cold.",
+            "**It's** cold."
+          ],
+          [
+            "you",
+            "You **are** late.",
+            "**You're** late."
+          ],
+          [
+            "we",
+            "We **are** friends.",
+            "**We're** friends."
+          ],
+          [
+            "they",
+            "They **are** at home.",
+            "**They're** at home."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "She ___ my sister.",
+          "options": [
+            "is",
+            "am",
+            "are"
+          ],
+          "answer": "is",
+          "explanation": "he / she / it van con is."
+        },
+        {
+          "question": "They ___ happy.",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "answer": "are",
+          "explanation": "you / we / they van con are."
+        },
+        {
+          "question": "\"Estoy cansado\" = ___ tired.",
+          "options": [
+            "I am",
+            "Am",
+            "I"
+          ],
+          "answer": "I am",
+          "explanation": "En inglés el sujeto no se omite: I am tired."
+        }
+      ]
     },
     {
       "topic": "family",
@@ -179,7 +523,73 @@
           "es": "La madre de Ana es médica."
         }
       ],
-      "watch_out": "\"Parents\" son los padres, no los parientes. Parientes en general se dice relatives."
+      "watch_out": "\"Parents\" son los padres, no los parientes. Parientes en general se dice relatives.",
+      "pattern": {
+        "cols": [
+          "",
+          "Male",
+          "Female"
+        ],
+        "rows": [
+          [
+            "👪",
+            "**father**",
+            "**mother**"
+          ],
+          [
+            "👫",
+            "**brother**",
+            "**sister**"
+          ],
+          [
+            "👶",
+            "**son**",
+            "**daughter**"
+          ],
+          [
+            "🧓",
+            "**grandfather**",
+            "**grandmother**"
+          ],
+          [
+            "🧑",
+            "**uncle**",
+            "**aunt**"
+          ],
+          [
+            "💍",
+            "father**-in-law**",
+            "mother**-in-law**"
+          ],
+          [
+            "Σ",
+            "**parents** (padres)",
+            "**children** (hijos)"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "My mother's sister is my ___.",
+          "options": [
+            "aunt",
+            "uncle",
+            "cousin"
+          ],
+          "answer": "aunt",
+          "explanation": "La hermana de tu mamá es tu tía: aunt."
+        },
+        {
+          "question": "\"Parents\" quiere decir ___",
+          "options": [
+            "padres",
+            "parientes",
+            "abuelos"
+          ],
+          "answer": "padres",
+          "explanation": "Parientes en general se dice relatives."
+        }
+      ]
     },
     {
       "topic": "nationalities",
@@ -209,7 +619,73 @@
           "es": "Me encanta la comida japonesa."
         }
       ],
-      "watch_out": "No se mezclan las dos formas: o \"I am from Italy\" o \"I am Italian\", nunca \"I am from Italian\"."
+      "watch_out": "No se mezclan las dos formas: o \"I am from Italy\" o \"I am Italian\", nunca \"I am from Italian\".",
+      "pattern": {
+        "cols": [
+          "",
+          "I'm from…",
+          "I'm…"
+        ],
+        "rows": [
+          [
+            "🇦🇷",
+            "I'm from **Argentina**.",
+            "I'm **Argentinian**."
+          ],
+          [
+            "🇪🇸",
+            "I'm from **Spain**.",
+            "I'm **Spanish**."
+          ],
+          [
+            "🇫🇷",
+            "I'm from **France**.",
+            "I'm **French**."
+          ],
+          [
+            "🇯🇵",
+            "I'm from **Japan**.",
+            "I'm **Japanese**."
+          ],
+          [
+            "🇧🇷",
+            "I'm from **Brazil**.",
+            "I'm **Brazilian**."
+          ],
+          [
+            "🇮🇹",
+            "I'm from **Italy**.",
+            "I'm **Italian**."
+          ],
+          [
+            "🇲🇽",
+            "I'm from **Mexico**.",
+            "I'm **Mexican**."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "She's from France. She's ___.",
+          "options": [
+            "French",
+            "France",
+            "Frenchian"
+          ],
+          "answer": "French",
+          "explanation": "El país es France; la nacionalidad, French."
+        },
+        {
+          "question": "I am ___ Italy.",
+          "options": [
+            "from",
+            "of",
+            "in"
+          ],
+          "answer": "from",
+          "explanation": "Con el país va from."
+        }
+      ]
     },
     {
       "topic": "possessive_adjectives",
@@ -239,7 +715,73 @@
           "es": "Sus autos son nuevos."
         }
       ],
-      "watch_out": "his/her se elige por quién posee, no por lo poseído: \"Ana and her father\", \"Juan and his mother\"."
+      "watch_out": "his/her se elige por quién posee, no por lo poseído: \"Ana and her father\", \"Juan and his mother\".",
+      "pattern": {
+        "cols": [
+          "",
+          "Possessive",
+          "Example"
+        ],
+        "rows": [
+          [
+            "I",
+            "**my**",
+            "**my** car"
+          ],
+          [
+            "you",
+            "**your**",
+            "**your** bag"
+          ],
+          [
+            "he",
+            "**his**",
+            "Juan and **his** mother"
+          ],
+          [
+            "she",
+            "**her**",
+            "Ana and **her** father"
+          ],
+          [
+            "it",
+            "**its**",
+            "the dog and **its** bed"
+          ],
+          [
+            "we",
+            "**our**",
+            "**our** house"
+          ],
+          [
+            "they",
+            "**their**",
+            "**their** kids"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "Ana loves ___ dog.",
+          "options": [
+            "her",
+            "his",
+            "its"
+          ],
+          "answer": "her",
+          "explanation": "El perro es de Ana: her."
+        },
+        {
+          "question": "Juan and ___ sisters.",
+          "options": [
+            "his",
+            "her",
+            "their"
+          ],
+          "answer": "his",
+          "explanation": "Son de Juan: his. No cambia aunque sean varias hermanas."
+        }
+      ]
     },
     {
       "topic": "professions",
@@ -269,7 +811,68 @@
           "es": "¿A qué te dedicás?"
         }
       ],
-      "watch_out": "Va \"I am a doctor\", nunca \"I am doctor\". Y ante sonido de vocal, an: an engineer, an architect."
+      "watch_out": "Va \"I am a doctor\", nunca \"I am doctor\". Y ante sonido de vocal, an: an engineer, an architect.",
+      "pattern": {
+        "cols": [
+          "",
+          "Job",
+          "I'm…"
+        ],
+        "rows": [
+          [
+            "-er",
+            "teach → teach**er**",
+            "I'm **a** teacher."
+          ],
+          [
+            "-er",
+            "drive → driv**er**",
+            "He's **a** driver."
+          ],
+          [
+            "-or",
+            "act → act**or**",
+            "She's **an** actor."
+          ],
+          [
+            "-ist",
+            "art → art**ist**",
+            "I'm **an** artist."
+          ],
+          [
+            "-ist",
+            "dentist",
+            "She's **a** dentist."
+          ],
+          [
+            "?",
+            "**What do you do?**",
+            "I'm **a** nurse."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "She is ___ engineer.",
+          "options": [
+            "an",
+            "a",
+            "—"
+          ],
+          "answer": "an",
+          "explanation": "Va artículo siempre, y an delante de sonido de vocal."
+        },
+        {
+          "question": "What ___ you do?",
+          "options": [
+            "do",
+            "are",
+            "is"
+          ],
+          "answer": "do",
+          "explanation": "La pregunta fija es What do you do?"
+        }
+      ]
     },
     {
       "topic": "to_be_questions",
@@ -299,7 +902,58 @@
           "es": "Sí, lo soy. / No, no lo soy."
         }
       ],
-      "watch_out": "Con to be NO se usa do: es \"Are you tired?\", no \"Do you are tired?\"."
+      "watch_out": "Con to be NO se usa do: es \"Are you tired?\", no \"Do you are tired?\".",
+      "pattern": {
+        "cols": [
+          "",
+          "he / she / it",
+          "you / we / they"
+        ],
+        "rows": [
+          [
+            "+",
+            "She **is** tired.",
+            "They **are** tired."
+          ],
+          [
+            "−",
+            "She **isn't** tired.",
+            "They **aren't** tired."
+          ],
+          [
+            "?",
+            "**Is she** tired?",
+            "**Are they** tired?"
+          ],
+          [
+            "↩",
+            "Yes, she **is**. / No, she **isn't**.",
+            "Yes, they **are**. / No, they **aren't**."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "___ you a student?",
+          "options": [
+            "Are",
+            "Do",
+            "Is"
+          ],
+          "answer": "Are",
+          "explanation": "Con to be no va do: Are you…?"
+        },
+        {
+          "question": "Are you tired? — Yes, ___.",
+          "options": [
+            "I am",
+            "I'm",
+            "I do"
+          ],
+          "answer": "I am",
+          "explanation": "En la respuesta corta afirmativa no se contrae."
+        }
+      ]
     },
     {
       "topic": "daily_routines_verbs",
@@ -329,7 +983,68 @@
           "es": "Nos acostamos tarde."
         }
       ],
-      "watch_out": "Son bloques fijos: have breakfast, take a shower, go to bed. Cambiar el verbo suena raro aunque la traducción cierre."
+      "watch_out": "Son bloques fijos: have breakfast, take a shower, go to bed. Cambiar el verbo suena raro aunque la traducción cierre.",
+      "pattern": {
+        "cols": [
+          "",
+          "I",
+          "She"
+        ],
+        "rows": [
+          [
+            "☀️",
+            "I **get up** at seven.",
+            "She **gets up** at seven."
+          ],
+          [
+            "🍳",
+            "I **have** breakfast.",
+            "She **has** breakfast."
+          ],
+          [
+            "🚿",
+            "I **take** a shower.",
+            "She **takes** a shower."
+          ],
+          [
+            "🚌",
+            "I **go** to work.",
+            "She **goes** to work."
+          ],
+          [
+            "🏠",
+            "I **come** home.",
+            "She **comes** home."
+          ],
+          [
+            "🌙",
+            "I **go** to bed.",
+            "She **goes** to bed."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "I ___ breakfast at eight.",
+          "options": [
+            "have",
+            "eat",
+            "take"
+          ],
+          "answer": "have",
+          "explanation": "Es un bloque fijo: have breakfast."
+        },
+        {
+          "question": "She ___ a shower every morning.",
+          "options": [
+            "takes",
+            "makes",
+            "does"
+          ],
+          "answer": "takes",
+          "explanation": "take a shower, y con she lleva -s: takes."
+        }
+      ]
     },
     {
       "topic": "places_prepositions",
@@ -359,7 +1074,75 @@
           "es": "Te veo en la puerta."
         }
       ],
-      "watch_out": "\"En\" del español se reparte entre in, on y at: \"en la mesa\" es on, \"en la cocina\" es in."
+      "watch_out": "\"En\" del español se reparte entre in, on y at: \"en la mesa\" es on, \"en la cocina\" es in.",
+      "pattern": {
+        "cols": [
+          "Preposition",
+          "Example"
+        ],
+        "rows": [
+          [
+            "**in** (adentro)",
+            "The keys are **in** the bag."
+          ],
+          [
+            "**on** (sobre)",
+            "The book is **on** the table."
+          ],
+          [
+            "**at** (en un punto)",
+            "She is **at** the door."
+          ],
+          [
+            "**under** (debajo)",
+            "The cat is **under** the bed."
+          ],
+          [
+            "**next to** (al lado)",
+            "The bank is **next to** the café."
+          ],
+          [
+            "**opposite** (enfrente)",
+            "The school is **opposite** the park."
+          ],
+          [
+            "**between** (entre)",
+            "The shop is **between** the bank and the café."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "The picture is ___ the wall.",
+          "options": [
+            "on",
+            "in",
+            "at"
+          ],
+          "answer": "on",
+          "explanation": "Sobre una superficie, aunque sea una pared: on the wall."
+        },
+        {
+          "question": "My mum is ___ the kitchen.",
+          "options": [
+            "in",
+            "on",
+            "at"
+          ],
+          "answer": "in",
+          "explanation": "Adentro de una habitación: in."
+        },
+        {
+          "question": "The pharmacy is ___ the bank and the school.",
+          "options": [
+            "between",
+            "next",
+            "opposite"
+          ],
+          "answer": "between",
+          "explanation": "Entre dos cosas: between ... and ..."
+        }
+      ]
     },
     {
       "topic": "present_simple_basic",
@@ -389,7 +1172,68 @@
           "es": "¿Ella vive acá?"
         }
       ],
-      "watch_out": "La s aparece una sola vez: o en el verbo (\"she works\") o en el auxiliar (\"does she work?\"), nunca en los dos."
+      "watch_out": "La s aparece una sola vez: o en el verbo (\"she works\") o en el auxiliar (\"does she work?\"), nunca en los dos.",
+      "pattern": {
+        "cols": [
+          "",
+          "I / you / we / they",
+          "he / she / it"
+        ],
+        "rows": [
+          [
+            "+",
+            "I **work**.",
+            "She **works**."
+          ],
+          [
+            "−",
+            "I **don't** work.",
+            "She **doesn't** work."
+          ],
+          [
+            "?",
+            "**Do** you work?",
+            "**Does** she work?"
+          ],
+          [
+            "have",
+            "I **have** a car.",
+            "He **has** a car."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "My brother ___ in a bank.",
+          "options": [
+            "works",
+            "work",
+            "working"
+          ],
+          "answer": "works",
+          "explanation": "Con he/she/it el verbo lleva -s."
+        },
+        {
+          "question": "___ she live here?",
+          "options": [
+            "Does",
+            "Do",
+            "Is"
+          ],
+          "answer": "Does",
+          "explanation": "Pregunta con she: does, y live queda sin s."
+        },
+        {
+          "question": "He ___ two sisters.",
+          "options": [
+            "has",
+            "have",
+            "haves"
+          ],
+          "answer": "has",
+          "explanation": "have con he/she/it es has."
+        }
+      ]
     },
     {
       "topic": "short",
@@ -418,6 +1262,62 @@
           "native": "¿Sabés nadar? — Sí.",
           "en": "Can you swim? — Yes, I can.",
           "es": "¿Sabés nadar? — Sí."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Question",
+          "Answer"
+        ],
+        "rows": [
+          [
+            "be",
+            "**Are** you tired?",
+            "Yes, I **am**. / No, I'**m not**."
+          ],
+          [
+            "do",
+            "**Do** you like tea?",
+            "Yes, I **do**. / No, I **don't**."
+          ],
+          [
+            "does",
+            "**Does** she work?",
+            "Yes, she **does**. / No, she **doesn't**."
+          ],
+          [
+            "can",
+            "**Can** he swim?",
+            "Yes, he **can**. / No, he **can't**."
+          ],
+          [
+            "have",
+            "**Have** you got a car?",
+            "Yes, I **have**. / No, I **haven't**."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "Do you like pizza? — Yes, ___.",
+          "options": [
+            "I do",
+            "I like",
+            "I am"
+          ],
+          "answer": "I do",
+          "explanation": "Se repite el auxiliar de la pregunta: do."
+        },
+        {
+          "question": "Is he your brother? — Yes, ___.",
+          "options": [
+            "he is",
+            "he's",
+            "he does"
+          ],
+          "answer": "he is",
+          "explanation": "En la afirmativa no se contrae: he is, nunca he's."
         }
       ]
     },
@@ -449,7 +1349,67 @@
           "es": "¿Hay un baño acá?"
         }
       ],
-      "watch_out": "El verbo concuerda con lo que sigue: \"There are three books\", no \"There is three books\"."
+      "watch_out": "El verbo concuerda con lo que sigue: \"There are three books\", no \"There is three books\".",
+      "pattern": {
+        "cols": [
+          "",
+          "Singular",
+          "Plural"
+        ],
+        "rows": [
+          [
+            "+",
+            "There **is** a bank.",
+            "There **are** two banks."
+          ],
+          [
+            "−",
+            "There **isn't** a bank.",
+            "There **aren't** any banks."
+          ],
+          [
+            "?",
+            "**Is there** a bank?",
+            "**Are there** any banks?"
+          ],
+          [
+            "↩",
+            "Yes, there **is**. / No, there **isn't**.",
+            "Yes, there **are**. / No, there **aren't**."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "___ three chairs in the kitchen.",
+          "options": [
+            "There is",
+            "There are"
+          ],
+          "answer": "There are",
+          "explanation": "Tres sillas es plural: there are."
+        },
+        {
+          "question": "___ a bathroom here?",
+          "options": [
+            "There is",
+            "Is there",
+            "Are there"
+          ],
+          "answer": "Is there",
+          "explanation": "Para preguntar se da vuelta: is there."
+        },
+        {
+          "question": "There aren't ___ eggs.",
+          "options": [
+            "any",
+            "a",
+            "one"
+          ],
+          "answer": "any",
+          "explanation": "En negativa con plural va any."
+        }
+      ]
     },
     {
       "topic": "time",
@@ -479,7 +1439,68 @@
           "es": "¿Qué hora es?"
         }
       ],
-      "watch_out": "\"o'clock\" solo va con la hora exacta: \"five o'clock\", nunca \"five thirty o'clock\"."
+      "watch_out": "\"o'clock\" solo va con la hora exacta: \"five o'clock\", nunca \"five thirty o'clock\".",
+      "pattern": {
+        "cols": [
+          "",
+          "Direct",
+          "Traditional"
+        ],
+        "rows": [
+          [
+            "8:00",
+            "eight **o'clock**",
+            "eight **o'clock**"
+          ],
+          [
+            "8:10",
+            "eight ten",
+            "ten **past** eight"
+          ],
+          [
+            "8:15",
+            "eight fifteen",
+            "**quarter past** eight"
+          ],
+          [
+            "8:30",
+            "eight thirty",
+            "**half past** eight"
+          ],
+          [
+            "8:45",
+            "eight forty-five",
+            "**quarter to** nine"
+          ],
+          [
+            "8:50",
+            "eight fifty",
+            "ten **to** nine"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "7:30",
+          "options": [
+            "half past seven",
+            "half past eight",
+            "seven half"
+          ],
+          "answer": "half past seven",
+          "explanation": "half past + la hora que ya pasó: siete y media."
+        },
+        {
+          "question": "9:45",
+          "options": [
+            "quarter to ten",
+            "quarter past nine",
+            "quarter to nine"
+          ],
+          "answer": "quarter to ten",
+          "explanation": "to cuenta lo que falta para la hora siguiente: las diez."
+        }
+      ]
     },
     {
       "topic": "can",
@@ -509,7 +1530,63 @@
           "es": "¿Me podés ayudar?"
         }
       ],
-      "watch_out": "Después de can el verbo va desnudo: \"I can go\", nunca \"I can to go\"."
+      "watch_out": "Después de can el verbo va desnudo: \"I can go\", nunca \"I can to go\".",
+      "pattern": {
+        "cols": [
+          "",
+          "Use",
+          "Example"
+        ],
+        "rows": [
+          [
+            "+",
+            "ability",
+            "I **can** swim."
+          ],
+          [
+            "+",
+            "permission",
+            "You **can** go now."
+          ],
+          [
+            "?",
+            "request",
+            "**Can** you help me?"
+          ],
+          [
+            "−",
+            "no ability",
+            "She **can't** drive."
+          ],
+          [
+            "↩",
+            "short answer",
+            "Yes, I **can**. / No, I **can't**."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "He ___ play the guitar.",
+          "options": [
+            "can",
+            "cans",
+            "can to"
+          ],
+          "answer": "can",
+          "explanation": "can no cambia con el sujeto."
+        },
+        {
+          "question": "I can ___ English.",
+          "options": [
+            "speak",
+            "to speak",
+            "speaks"
+          ],
+          "answer": "speak",
+          "explanation": "Después de can, el verbo va solo, sin to."
+        }
+      ]
     },
     {
       "topic": "directions",
@@ -538,6 +1615,64 @@
           "native": "Está enfrente de la plaza.",
           "en": "It's opposite the park.",
           "es": "Está enfrente de la plaza."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Phrase"
+        ],
+        "rows": [
+          [
+            "❓",
+            "Excuse me, **where is** the station?"
+          ],
+          [
+            "❓",
+            "Excuse me, **how do I get to** the station?"
+          ],
+          [
+            "⬆️",
+            "Go **straight** on."
+          ],
+          [
+            "⬅️",
+            "Turn **left**."
+          ],
+          [
+            "➡️",
+            "Turn **right**."
+          ],
+          [
+            "🔢",
+            "Go **two blocks** and turn right."
+          ],
+          [
+            "📍",
+            "It's **on your left**, **next to** the bank."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "Excuse me, ___ do I get to the bank?",
+          "options": [
+            "how",
+            "where",
+            "what"
+          ],
+          "answer": "how",
+          "explanation": "La forma cortés: how do I get to…?"
+        },
+        {
+          "question": "Go ___ on and turn left.",
+          "options": [
+            "straight",
+            "right",
+            "direct"
+          ],
+          "answer": "straight",
+          "explanation": "Seguir derecho: go straight on."
         }
       ]
     },
@@ -569,7 +1704,73 @@
           "es": "¿Tenés una lapicera?"
         }
       ],
-      "watch_out": "No se mezclan: o \"Do you have...?\" o \"Have you got...?\", nunca \"Do you have got...?\"."
+      "watch_out": "No se mezclan: o \"Do you have...?\" o \"Have you got...?\", nunca \"Do you have got...?\".",
+      "pattern": {
+        "cols": [
+          "",
+          "have",
+          "have got"
+        ],
+        "rows": [
+          [
+            "I",
+            "I **have** a car.",
+            "I**'ve got** a car."
+          ],
+          [
+            "she",
+            "She **has** a car.",
+            "She**'s got** a car."
+          ],
+          [
+            "−",
+            "I **don't have** a car.",
+            "I **haven't got** a car."
+          ],
+          [
+            "?",
+            "**Do** you **have** a car?",
+            "**Have** you **got** a car?"
+          ],
+          [
+            "↩",
+            "Yes, I **do**. / No, I **don't**.",
+            "Yes, I **have**. / No, I **haven't**."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "___ you got a pen?",
+          "options": [
+            "Have",
+            "Do",
+            "Has"
+          ],
+          "answer": "Have",
+          "explanation": "Con have got no va do."
+        },
+        {
+          "question": "She ___ a dog.",
+          "options": [
+            "has",
+            "have",
+            "haves"
+          ],
+          "answer": "has",
+          "explanation": "Con she, have pasa a has."
+        },
+        {
+          "question": "___ he have a car?",
+          "options": [
+            "Does",
+            "Has",
+            "Have"
+          ],
+          "answer": "Does",
+          "explanation": "Con have solo, la pregunta lleva does."
+        }
+      ]
     },
     {
       "topic": "prepositions",
@@ -578,7 +1779,7 @@
       "title": "Preposiciones de tiempo y lugar",
       "title_target": "Prepositions of time and place",
       "summary": "in, on y at siguen la misma lógica para el tiempo que para el espacio: de lo grande a lo puntual.",
-      "body": "Las mismas tres preposiciones ordenan el tiempo con la misma lógica que el espacio — de lo más amplio a lo más puntual:\n\n- **in** para períodos largos: *in 2026*, *in July*, *in the morning*\n- **on** para días y fechas: *on Monday*, *on May 5th*\n- **at** para momentos exactos: *at 9 o'clock*, *at night*, *at the weekend*\n\nVer las dos series juntas ayuda a fijarlas, porque el criterio es el mismo:\n\n| | Tiempo | Lugar |\n|---|---|---|\n| **in** | in July | in the room |\n| **on** | on Monday | on the table |\n| **at** | at 9 | at the door |\n\nHay excepciones que se memorizan sueltas: **at night** pero **in the morning**.",
+      "body": "Las mismas tres preposiciones ordenan el tiempo con la misma lógica que el espacio — de lo más amplio a lo más puntual:\n\n- **in** para períodos largos: *in 2026*, *in July*, *in the morning*\n- **on** para días y fechas: *on Monday*, *on May 5th*\n- **at** para momentos exactos: *at 9 o'clock*, *at night*, *at the weekend*\n\nVer las dos series juntas ayuda a fijarlas, porque el criterio es el mismo: mirá la tabla de abajo.\n\nHay excepciones que se memorizan sueltas: **at night** pero **in the morning**.",
       "examples": [
         {
           "target": "I was born in 1995.",
@@ -599,7 +1800,63 @@
           "es": "Estudio de noche."
         }
       ],
-      "watch_out": "\"in the morning\" pero \"at night\": esa no sigue la regla, va de memoria."
+      "watch_out": "\"in the morning\" pero \"at night\": esa no sigue la regla, va de memoria.",
+      "pattern": {
+        "cols": [
+          "",
+          "Time",
+          "Place"
+        ],
+        "rows": [
+          [
+            "in",
+            "**in** July / **in** the morning",
+            "**in** the room"
+          ],
+          [
+            "on",
+            "**on** Monday / **on** May 5th",
+            "**on** the table"
+          ],
+          [
+            "at",
+            "**at** 9 o'clock / **at** night",
+            "**at** the door"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "I was born ___ 1995.",
+          "options": [
+            "in",
+            "on",
+            "at"
+          ],
+          "answer": "in",
+          "explanation": "Años: in."
+        },
+        {
+          "question": "The keys are ___ the table.",
+          "options": [
+            "on",
+            "in",
+            "at"
+          ],
+          "answer": "on",
+          "explanation": "Sobre una superficie: on."
+        },
+        {
+          "question": "See you ___ night.",
+          "options": [
+            "at",
+            "in",
+            "on"
+          ],
+          "answer": "at",
+          "explanation": "at night va de memoria (in the morning, pero at night)."
+        }
+      ]
     },
     {
       "topic": "prices",
@@ -629,6 +1886,56 @@
           "en": "How many tickets do you want?",
           "es": "¿Cuántas entradas querés?"
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Question",
+          "Answer"
+        ],
+        "rows": [
+          [
+            "1",
+            "How much **is** this jacket?",
+            "It**'s** fifteen dollars."
+          ],
+          [
+            "2+",
+            "How much **are** these shoes?",
+            "They**'re** forty dollars."
+          ],
+          [
+            "🛒",
+            "How much **is it**?",
+            "That**'ll be** ten dollars."
+          ],
+          [
+            "#",
+            "How **many** apples?",
+            "Six apples."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "How much ___ these jeans?",
+          "options": [
+            "are",
+            "is",
+            "do"
+          ],
+          "answer": "are",
+          "explanation": "Jeans es plural: are."
+        },
+        {
+          "question": "How ___ people are there?",
+          "options": [
+            "many",
+            "much"
+          ],
+          "answer": "many",
+          "explanation": "Las personas se cuentan: many."
+        }
       ]
     },
     {
@@ -638,7 +1945,7 @@
       "title": "This, that, these, those",
       "title_target": "This, that, these, those",
       "summary": "Cuatro palabras que combinan dos ejes: cerca o lejos, uno o varios.",
-      "body": "Los demostrativos cruzan distancia y número:\n\n| | Cerca | Lejos |\n|---|---|---|\n| **Uno** | this | that |\n| **Varios** | these | those |\n\n*This book* es este libro, acá. *That book* es aquel, allá. *These books* son estos, *those books* aquellos.\n\nLa distancia no siempre es física: también sirve para lo que se acaba de mencionar. *That's a good idea* se dice de algo que alguien dijo recién.\n\nAl teléfono se usan de forma fija: **This is Ana** para presentarse, **Is that Ana?** para preguntar quién está del otro lado.",
+      "body": "Los demostrativos cruzan dos cosas: distancia (cerca o lejos) y número (uno o varios). La tabla de abajo los pone juntos.\n\n*This book* es este libro, acá. *That book* es aquel, allá. *These books* son estos, *those books* aquellos.\n\nLa distancia no siempre es física: también sirve para lo que se acaba de mencionar. *That's a good idea* se dice de algo que alguien dijo recién.\n\nAl teléfono se usan de forma fija: **This is Ana** para presentarse, **Is that Ana?** para preguntar quién está del otro lado.",
       "examples": [
         {
           "target": "This is my book.",
@@ -659,7 +1966,53 @@
           "es": "Esa es una buena idea."
         }
       ],
-      "watch_out": "this/that van con singular y these/those con plural: \"these books\", nunca \"this books\"."
+      "watch_out": "this/that van con singular y these/those con plural: \"these books\", nunca \"this books\".",
+      "pattern": {
+        "cols": [
+          "",
+          "Near (acá)",
+          "Far (allá)"
+        ],
+        "rows": [
+          [
+            "1",
+            "**this** book",
+            "**that** book"
+          ],
+          [
+            "2+",
+            "**these** books",
+            "**those** books"
+          ],
+          [
+            "📞",
+            "**This is** Ana.",
+            "**Is that** Ana?"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "___ shoes over there are nice.",
+          "options": [
+            "Those",
+            "These",
+            "That"
+          ],
+          "answer": "Those",
+          "explanation": "Varios y lejos: those."
+        },
+        {
+          "question": "Look at ___ photo here.",
+          "options": [
+            "this",
+            "these",
+            "those"
+          ],
+          "answer": "this",
+          "explanation": "Uno y cerca: this."
+        }
+      ]
     },
     {
       "topic": "like",
@@ -689,7 +2042,63 @@
           "es": "¿Te gusta esta canción?"
         }
       ],
-      "watch_out": "El sujeto es quien gusta: \"I like it\", nunca \"me like\" ni \"it likes me\"."
+      "watch_out": "El sujeto es quien gusta: \"I like it\", nunca \"me like\" ni \"it likes me\".",
+      "pattern": {
+        "cols": [
+          "",
+          "I / you / we / they",
+          "he / she"
+        ],
+        "rows": [
+          [
+            "+",
+            "I **like** coffee.",
+            "She **likes** coffee."
+          ],
+          [
+            "−",
+            "I **don't like** tea.",
+            "He **doesn't like** tea."
+          ],
+          [
+            "?",
+            "**Do** you **like** pizza?",
+            "**Does** she **like** pizza?"
+          ],
+          [
+            "-ing",
+            "I like **swimming**.",
+            "He likes **reading**."
+          ],
+          [
+            "❤️",
+            "I **love** it. / I **hate** it.",
+            "She **loves** it."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "\"Me gusta el chocolate\" = ___ like chocolate.",
+          "options": [
+            "I",
+            "Me",
+            "My"
+          ],
+          "answer": "I",
+          "explanation": "El que gusta es el sujeto: I like…"
+        },
+        {
+          "question": "She ___ dancing.",
+          "options": [
+            "likes",
+            "like",
+            "is like"
+          ],
+          "answer": "likes",
+          "explanation": "Con she, like lleva -s."
+        }
+      ]
     },
     {
       "topic": "adjectives",
@@ -719,7 +2128,58 @@
           "es": "La casa es grande."
         }
       ],
-      "watch_out": "El adjetivo no lleva plural: \"two big houses\", nunca \"two bigs houses\"."
+      "watch_out": "El adjetivo no lleva plural: \"two big houses\", nunca \"two bigs houses\".",
+      "pattern": {
+        "cols": [
+          "",
+          "One",
+          "Two or more"
+        ],
+        "rows": [
+          [
+            "adj",
+            "a **big** house",
+            "two **big** houses"
+          ],
+          [
+            "adj",
+            "an **old** car",
+            "three **old** cars"
+          ],
+          [
+            "be",
+            "The house **is big**.",
+            "The houses **are big**."
+          ],
+          [
+            "++",
+            "a **nice red** car",
+            "two **nice red** cars"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "I have two ___.",
+          "options": [
+            "red cars",
+            "reds cars",
+            "cars red"
+          ],
+          "answer": "red cars",
+          "explanation": "El adjetivo va antes y no lleva plural."
+        },
+        {
+          "question": "The room is ___.",
+          "options": [
+            "small",
+            "smalls",
+            "a small"
+          ],
+          "answer": "small",
+          "explanation": "Después de be, el adjetivo solo."
+        }
+      ]
     },
     {
       "topic": "frequency",
@@ -749,7 +2209,67 @@
           "es": "¿Cada cuánto hacés ejercicio?"
         }
       ],
-      "watch_out": "Con to be el adverbio va después: \"He is always tired\", no \"He always is tired\"."
+      "watch_out": "Con to be el adverbio va después: \"He is always tired\", no \"He always is tired\".",
+      "pattern": {
+        "cols": [
+          "",
+          "Verb",
+          "be"
+        ],
+        "rows": [
+          [
+            "100%",
+            "I **always** walk.",
+            "I **am always** late."
+          ],
+          [
+            "90%",
+            "I **usually** cook.",
+            "She **is usually** happy."
+          ],
+          [
+            "70%",
+            "We **often** eat out.",
+            "We **are often** tired."
+          ],
+          [
+            "50%",
+            "I **sometimes** run.",
+            "He **is sometimes** rude."
+          ],
+          [
+            "10%",
+            "He **rarely** calls.",
+            "It **is rarely** cold."
+          ],
+          [
+            "0%",
+            "I **never** smoke.",
+            "She **is never** late."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "¿Cuál está bien?",
+          "options": [
+            "He is always tired.",
+            "He always is tired."
+          ],
+          "answer": "He is always tired.",
+          "explanation": "Con to be, el adverbio va después."
+        },
+        {
+          "question": "How ___ do you go to the gym?",
+          "options": [
+            "often",
+            "much",
+            "many"
+          ],
+          "answer": "often",
+          "explanation": "Para preguntar la frecuencia: how often."
+        }
+      ]
     },
     {
       "topic": "comparatives",
@@ -778,6 +2298,72 @@
           "native": "Mi inglés está mejor que el año pasado.",
           "en": "My English is better than last year.",
           "es": "Mi inglés está mejor que el año pasado."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Comparative",
+          "Superlative"
+        ],
+        "rows": [
+          [
+            "1",
+            "cheap → cheap**er** than",
+            "the cheap**est**"
+          ],
+          [
+            "-y",
+            "happy → happ**ier** than",
+            "the happ**iest**"
+          ],
+          [
+            "3+",
+            "**more** expensive than",
+            "the **most** expensive"
+          ],
+          [
+            "!",
+            "good → **better**",
+            "the **best**"
+          ],
+          [
+            "!",
+            "bad → **worse**",
+            "the **worst**"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "This phone is ___ than that one.",
+          "options": [
+            "cheaper",
+            "more cheaper",
+            "cheapest"
+          ],
+          "answer": "cheaper",
+          "explanation": "No se acumulan: cheaper a secas."
+        },
+        {
+          "question": "She is the ___ student in the class.",
+          "options": [
+            "best",
+            "better",
+            "goodest"
+          ],
+          "answer": "best",
+          "explanation": "good → better → the best."
+        },
+        {
+          "question": "Madrid is bigger ___ Rosario.",
+          "options": [
+            "than",
+            "then",
+            "that"
+          ],
+          "answer": "than",
+          "explanation": "Para comparar va than."
         }
       ]
     },
@@ -809,6 +2395,57 @@
           "en": "They aren't going to come.",
           "es": "Ellos no van a venir."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "he / she",
+          "you / we / they"
+        ],
+        "rows": [
+          [
+            "+",
+            "She**'s going to** travel.",
+            "We**'re going to** travel."
+          ],
+          [
+            "−",
+            "She **isn't going to** travel.",
+            "We **aren't going to** travel."
+          ],
+          [
+            "?",
+            "**Is** she **going to** travel?",
+            "**Are** you **going to** travel?"
+          ],
+          [
+            "👀",
+            "Look! It**'s going to** rain.",
+            "They**'re going to** win."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "I ___ going to call her.",
+          "options": [
+            "am",
+            "is",
+            "—"
+          ],
+          "answer": "am",
+          "explanation": "Cambia el be según el sujeto: I am."
+        },
+        {
+          "question": "Look at those clouds! ___",
+          "options": [
+            "It's going to rain.",
+            "It rains.",
+            "It going to rain."
+          ],
+          "answer": "It's going to rain.",
+          "explanation": "Predicción con evidencia a la vista: going to."
+        }
       ]
     },
     {
@@ -838,6 +2475,62 @@
           "native": "¿Alguna vez fuiste a Londres?",
           "en": "Have you ever been to London?",
           "es": "¿Alguna vez fuiste a Londres?"
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "I / you / we / they",
+          "he / she / it"
+        ],
+        "rows": [
+          [
+            "+",
+            "I**'ve finished**.",
+            "She**'s finished**."
+          ],
+          [
+            "−",
+            "I **haven't finished**.",
+            "She **hasn't finished**."
+          ],
+          [
+            "?",
+            "**Have** you **finished**?",
+            "**Has** she **finished**?"
+          ],
+          [
+            "for",
+            "I've lived here **for** five years.",
+            "He's worked here **for** a year."
+          ],
+          [
+            "since",
+            "I've lived here **since** 2019.",
+            "She's been here **since** Monday."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "I have lived here ___ 2019.",
+          "options": [
+            "since",
+            "for",
+            "from"
+          ],
+          "answer": "since",
+          "explanation": "Desde cuándo: since."
+        },
+        {
+          "question": "___ you ever been to Peru?",
+          "options": [
+            "Have",
+            "Did",
+            "Are"
+          ],
+          "answer": "Have",
+          "explanation": "Experiencia de vida, sin momento: present perfect."
         }
       ]
     },
@@ -869,6 +2562,67 @@
           "en": "They can swim, can't they?",
           "es": "Ellos saben nadar, ¿no?"
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Sentence",
+          "Tag"
+        ],
+        "rows": [
+          [
+            "be +",
+            "She **is** tired,",
+            "**isn't** she?"
+          ],
+          [
+            "be −",
+            "She **isn't** tired,",
+            "**is** she?"
+          ],
+          [
+            "do +",
+            "You **like** coffee,",
+            "**don't** you?"
+          ],
+          [
+            "do −",
+            "He **doesn't** smoke,",
+            "**does** he?"
+          ],
+          [
+            "can",
+            "They **can** swim,",
+            "**can't** they?"
+          ],
+          [
+            "past",
+            "You **went** out,",
+            "**didn't** you?"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "You like tea, ___?",
+          "options": [
+            "don't you",
+            "do you",
+            "isn't it"
+          ],
+          "answer": "don't you",
+          "explanation": "Afirmativa sin auxiliar: la etiqueta usa don't."
+        },
+        {
+          "question": "She isn't here, ___?",
+          "options": [
+            "is she",
+            "isn't she",
+            "does she"
+          ],
+          "answer": "is she",
+          "explanation": "Si la oración es negativa, la etiqueta va afirmativa."
+        }
       ]
     },
     {
@@ -898,6 +2652,57 @@
           "native": "¿Debería llamarla?",
           "en": "Should I call her?",
           "es": "¿Debería llamarla?"
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Example",
+          "Strength"
+        ],
+        "rows": [
+          [
+            "+",
+            "You **should** see a doctor.",
+            "advice"
+          ],
+          [
+            "−",
+            "You **shouldn't** eat so much.",
+            "advice"
+          ],
+          [
+            "?",
+            "**Should** we start?",
+            "suggestion"
+          ],
+          [
+            "must",
+            "You **must** stop here.",
+            "obligation"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "She ___ see a doctor.",
+          "options": [
+            "should",
+            "shoulds",
+            "should to"
+          ],
+          "answer": "should",
+          "explanation": "Modal: sin -s y sin to."
+        },
+        {
+          "question": "You look tired. You ___ go to bed.",
+          "options": [
+            "should",
+            "must to",
+            "shouldn't"
+          ],
+          "answer": "should",
+          "explanation": "Es un consejo: should."
         }
       ]
     },
@@ -929,6 +2734,62 @@
           "en": "You don't have to pay, it's free.",
           "es": "No hace falta que pagues, es gratis."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "must",
+          "have to"
+        ],
+        "rows": [
+          [
+            "+",
+            "I **must** study.",
+            "I **have to** wear a uniform."
+          ],
+          [
+            "she",
+            "She **must** go.",
+            "She **has to** go."
+          ],
+          [
+            "−",
+            "You **mustn't** smoke. (prohibido)",
+            "You **don't have to** come. (no hace falta)"
+          ],
+          [
+            "?",
+            "**Must** I go?",
+            "**Do** I **have to** go?"
+          ],
+          [
+            "past",
+            "—",
+            "I **had to** work."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "You ___ smoke here. It's forbidden.",
+          "options": [
+            "mustn't",
+            "don't have to",
+            "must"
+          ],
+          "answer": "mustn't",
+          "explanation": "Prohibición: mustn't."
+        },
+        {
+          "question": "It's Sunday. You ___ get up early.",
+          "options": [
+            "don't have to",
+            "mustn't",
+            "must"
+          ],
+          "answer": "don't have to",
+          "explanation": "No es obligatorio: don't have to."
+        }
       ]
     },
     {
@@ -958,6 +2819,57 @@
           "native": "Este libro lo escribió un amigo.",
           "en": "This book was written by a friend.",
           "es": "Este libro lo escribió un amigo."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Active",
+          "Passive"
+        ],
+        "rows": [
+          [
+            "now",
+            "They **clean** the office.",
+            "The office **is cleaned**."
+          ],
+          [
+            "past",
+            "Someone **stole** my bike.",
+            "My bike **was stolen**."
+          ],
+          [
+            "will",
+            "They **will send** it.",
+            "It **will be sent**."
+          ],
+          [
+            "by",
+            "Ana **wrote** the report.",
+            "The report was written **by** Ana."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "The office ___ every day.",
+          "options": [
+            "is cleaned",
+            "cleans",
+            "is clean"
+          ],
+          "answer": "is cleaned",
+          "explanation": "Pasiva: be + participio."
+        },
+        {
+          "question": "My bike ___ last night.",
+          "options": [
+            "was stolen",
+            "stole",
+            "is stolen"
+          ],
+          "answer": "was stolen",
+          "explanation": "El tiempo lo marca be: was."
         }
       ]
     },
@@ -989,6 +2901,67 @@
           "en": "They said they had finished.",
           "es": "Dijeron que habían terminado."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Direct",
+          "Reported"
+        ],
+        "rows": [
+          [
+            "now",
+            "\"I **am** tired.\"",
+            "She said she **was** tired."
+          ],
+          [
+            "past",
+            "\"I **saw** him.\"",
+            "He said he **had seen** him."
+          ],
+          [
+            "will",
+            "\"I **will** call.\"",
+            "She said she **would** call."
+          ],
+          [
+            "can",
+            "\"I **can** help.\"",
+            "He said he **could** help."
+          ],
+          [
+            "time",
+            "today / tomorrow",
+            "**that day** / **the next day**"
+          ],
+          [
+            "tell",
+            "He **said** that…",
+            "He **told me** that…"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "\"I'm hungry,\" he said. → He said he ___ hungry.",
+          "options": [
+            "was",
+            "is",
+            "were"
+          ],
+          "answer": "was",
+          "explanation": "El presente retrocede a pasado."
+        },
+        {
+          "question": "She ___ me the truth.",
+          "options": [
+            "told",
+            "said",
+            "say"
+          ],
+          "answer": "told",
+          "explanation": "tell pide a quién; say no."
+        }
       ]
     },
     {
@@ -1018,6 +2991,57 @@
           "native": "¿Qué harías si perdieras el trabajo?",
           "en": "What would you do if you lost your job?",
           "es": "¿Qué harías si perdieras el trabajo?"
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "If + past",
+          "would + verb"
+        ],
+        "rows": [
+          [
+            "+",
+            "If I **had** more time,",
+            "I **would travel**."
+          ],
+          [
+            "−",
+            "If I **didn't work**,",
+            "I**'d sleep** more."
+          ],
+          [
+            "?",
+            "If you **won** the lottery,",
+            "what **would** you **do**?"
+          ],
+          [
+            "be",
+            "If I **were** you,",
+            "I**'d take** the job."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "If I ___ rich, I would buy a boat.",
+          "options": [
+            "were",
+            "am",
+            "will be"
+          ],
+          "answer": "were",
+          "explanation": "Situación imaginaria: pasado (were)."
+        },
+        {
+          "question": "If she had time, she ___ help.",
+          "options": [
+            "would",
+            "will",
+            "would to"
+          ],
+          "answer": "would",
+          "explanation": "La consecuencia va con would."
         }
       ]
     },
@@ -1049,6 +3073,62 @@
           "en": "I'll call you when I arrive.",
           "es": "Te llamo cuando llegue."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "If + present",
+          "will + verb"
+        ],
+        "rows": [
+          [
+            "+",
+            "If it **rains**,",
+            "we**'ll stay** home."
+          ],
+          [
+            "−",
+            "If you **don't hurry**,",
+            "you**'ll miss** the bus."
+          ],
+          [
+            "?",
+            "If she **calls**,",
+            "**will** you **answer**?"
+          ],
+          [
+            "!",
+            "If you **see** her,",
+            "**tell** her."
+          ],
+          [
+            "when",
+            "When I **arrive**,",
+            "I**'ll call** you."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "If it ___ tomorrow, we will stay home.",
+          "options": [
+            "rains",
+            "will rain",
+            "rained"
+          ],
+          "answer": "rains",
+          "explanation": "Después de if nunca va will."
+        },
+        {
+          "question": "If you study, you ___ pass.",
+          "options": [
+            "will",
+            "would",
+            "are"
+          ],
+          "answer": "will",
+          "explanation": "Consecuencia real: will."
+        }
       ]
     },
     {
@@ -1078,6 +3158,57 @@
           "native": "¿Puedo hacer una pregunta?",
           "en": "May I ask a question?",
           "es": "¿Puedo hacer una pregunta?"
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Example",
+          "Meaning"
+        ],
+        "rows": [
+          [
+            "+",
+            "It **may** rain.",
+            "possible"
+          ],
+          [
+            "+",
+            "It **might** rain.",
+            "possible, less sure"
+          ],
+          [
+            "−",
+            "She **might not** come.",
+            "possibly not"
+          ],
+          [
+            "?",
+            "**May** I come in?",
+            "polite permission"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "She ___ come later.",
+          "options": [
+            "might",
+            "mights",
+            "might to"
+          ],
+          "answer": "might",
+          "explanation": "Modal: sin -s y sin to."
+        },
+        {
+          "question": "___ I use your phone?",
+          "options": [
+            "May",
+            "Might",
+            "Must"
+          ],
+          "answer": "May",
+          "explanation": "Permiso cortés: may."
         }
       ]
     },
@@ -1109,6 +3240,62 @@
           "en": "You shouldn't eat so late.",
           "es": "No deberías comer tan tarde."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Problem",
+          "Advice"
+        ],
+        "rows": [
+          [
+            "🤕",
+            "I have a **headache**.",
+            "You **should** rest."
+          ],
+          [
+            "🤒",
+            "I have a **fever**.",
+            "You **should** stay in bed."
+          ],
+          [
+            "😷",
+            "I have a **sore throat**.",
+            "You **shouldn't** shout."
+          ],
+          [
+            "🤧",
+            "I have a **cold**.",
+            "**Why don't you** drink tea?"
+          ],
+          [
+            "🤢",
+            "I have a **stomachache**.",
+            "You **shouldn't** eat now."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "My head hurts. I have a ___.",
+          "options": [
+            "headache",
+            "head pain",
+            "headhurt"
+          ],
+          "answer": "headache",
+          "explanation": "Dolor de cabeza: headache."
+        },
+        {
+          "question": "___ you see a doctor?",
+          "options": [
+            "Why don't",
+            "Why not",
+            "What about"
+          ],
+          "answer": "Why don't",
+          "explanation": "Sugerencia suave: Why don't you…?"
+        }
       ]
     },
     {
@@ -1138,6 +3325,57 @@
           "native": "¿Antes vivías acá?",
           "en": "Did you use to live here?",
           "es": "¿Antes vivías acá?"
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Past habit",
+          "Now"
+        ],
+        "rows": [
+          [
+            "+",
+            "I **used to** smoke.",
+            "I **don't** smoke now."
+          ],
+          [
+            "−",
+            "I **didn't use to** like coffee.",
+            "Now I love it."
+          ],
+          [
+            "?",
+            "**Did** you **use to** play?",
+            "Do you play now?"
+          ],
+          [
+            "≠",
+            "I**'m used to** working at night.",
+            "(= estoy acostumbrado)"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "I ___ live in Córdoba, but now I live in Rosario.",
+          "options": [
+            "used to",
+            "use to",
+            "am used to"
+          ],
+          "answer": "used to",
+          "explanation": "Hábito que se terminó: used to."
+        },
+        {
+          "question": "Did you ___ play football?",
+          "options": [
+            "use to",
+            "used to",
+            "using to"
+          ],
+          "answer": "use to",
+          "explanation": "Con did, used pierde la d."
         }
       ]
     },
@@ -1169,6 +3407,62 @@
           "en": "We should recycle more.",
           "es": "Deberíamos reciclar más."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Example",
+          "Meaning"
+        ],
+        "rows": [
+          [
+            "✅",
+            "We **must** reduce plastic.",
+            "obligation"
+          ],
+          [
+            "📜",
+            "Companies **have to** recycle.",
+            "obligation (rule)"
+          ],
+          [
+            "💡",
+            "We **should** use the bus.",
+            "advice"
+          ],
+          [
+            "🚫",
+            "You **mustn't** throw batteries away.",
+            "forbidden"
+          ],
+          [
+            "🆓",
+            "You **don't have to** buy organic.",
+            "not necessary"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "You ___ throw batteries in the bin. It's illegal.",
+          "options": [
+            "mustn't",
+            "don't have to",
+            "should"
+          ],
+          "answer": "mustn't",
+          "explanation": "Prohibido: mustn't."
+        },
+        {
+          "question": "Recycling is a good idea. We ___ recycle more.",
+          "options": [
+            "should",
+            "mustn't",
+            "don't have to"
+          ],
+          "answer": "should",
+          "explanation": "Recomendación: should."
+        }
       ]
     },
     {
@@ -1198,6 +3492,62 @@
           "native": "El informe fue publicado por la ONU.",
           "en": "The report was published by the UN.",
           "es": "El informe fue publicado por la ONU."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Passive",
+          "Example"
+        ],
+        "rows": [
+          [
+            "now",
+            "**is recycled**",
+            "Plastic **is recycled** here."
+          ],
+          [
+            "past",
+            "**were cut down**",
+            "Trees **were cut down**."
+          ],
+          [
+            "will",
+            "**will be passed**",
+            "The law **will be passed**."
+          ],
+          [
+            "-ing",
+            "**are being reduced**",
+            "Emissions **are being reduced**."
+          ],
+          [
+            "by",
+            "… **by** + who",
+            "It was published **by** the UN."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "Thousands of trees ___ last year.",
+          "options": [
+            "were cut down",
+            "cut down",
+            "are cut down"
+          ],
+          "answer": "were cut down",
+          "explanation": "Pasado de la pasiva: was/were + participio."
+        },
+        {
+          "question": "Emissions ___ right now.",
+          "options": [
+            "are being reduced",
+            "are reducing",
+            "reduced"
+          ],
+          "answer": "are being reduced",
+          "explanation": "En curso: is/are being + participio."
         }
       ]
     },
@@ -1229,6 +3579,67 @@
           "en": "The city where I was born is small.",
           "es": "La ciudad donde nací es chica."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "For",
+          "Example"
+        ],
+        "rows": [
+          [
+            "who",
+            "people",
+            "The man **who** lives here is a doctor."
+          ],
+          [
+            "which",
+            "things",
+            "The book **which** I read was great."
+          ],
+          [
+            "that",
+            "both",
+            "The car **that** I bought is red."
+          ],
+          [
+            "whose",
+            "owner",
+            "The girl **whose** dog barks…"
+          ],
+          [
+            "where",
+            "places",
+            "The town **where** I was born."
+          ],
+          [
+            "(—)",
+            "object",
+            "The book **(that)** I read."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "The woman ___ called you is my aunt.",
+          "options": [
+            "who",
+            "which",
+            "where"
+          ],
+          "answer": "who",
+          "explanation": "Persona: who."
+        },
+        {
+          "question": "This is the house ___ I grew up.",
+          "options": [
+            "where",
+            "which",
+            "who"
+          ],
+          "answer": "where",
+          "explanation": "Lugar: where."
+        }
       ]
     },
     {
@@ -1258,6 +3669,57 @@
           "native": "El planeta estaría mejor si consumiéramos menos.",
           "en": "The planet would be better if we consumed less.",
           "es": "El planeta estaría mejor si consumiéramos menos."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "If + past",
+          "would / could / might"
+        ],
+        "rows": [
+          [
+            "+",
+            "If we **recycled** more,",
+            "we **would produce** less waste."
+          ],
+          [
+            "+",
+            "If everyone **used** the bus,",
+            "the air **would be** cleaner."
+          ],
+          [
+            "−",
+            "If we **didn't waste** water,",
+            "we **wouldn't have** shortages."
+          ],
+          [
+            "~",
+            "If cities **planted** more trees,",
+            "it **might be** cooler."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "If people ___ less meat, emissions would fall.",
+          "options": [
+            "ate",
+            "eat",
+            "will eat"
+          ],
+          "answer": "ate",
+          "explanation": "Hipótesis: if + pasado."
+        },
+        {
+          "question": "If we used solar power, we ___ save money.",
+          "options": [
+            "could",
+            "can",
+            "will"
+          ],
+          "answer": "could",
+          "explanation": "Consecuencia hipotética: would, could o might."
         }
       ]
     },
@@ -1289,6 +3751,52 @@
           "en": "He is believed to be innocent.",
           "es": "Se cree que es inocente."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "It + passive + that",
+          "Subject + passive + to"
+        ],
+        "rows": [
+          [
+            "say",
+            "It **is said that** he is rich.",
+            "He **is said to be** rich."
+          ],
+          [
+            "think",
+            "It **is thought that** they won.",
+            "They **are thought to have won**."
+          ],
+          [
+            "rep.",
+            "It **is reported that** he resigned.",
+            "He **is reported to have resigned**."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "He ___ to be the best candidate.",
+          "options": [
+            "is said",
+            "says",
+            "said"
+          ],
+          "answer": "is said",
+          "explanation": "Pasiva impersonal: is said to be."
+        },
+        {
+          "question": "The minister is reported ___ resigned.",
+          "options": [
+            "to have",
+            "to",
+            "having"
+          ],
+          "answer": "to have",
+          "explanation": "Algo anterior: to have + participio."
+        }
       ]
     },
     {
@@ -1318,6 +3826,57 @@
           "native": "Está lloviendo desde la mañana.",
           "en": "It's been raining since morning.",
           "es": "Está lloviendo desde la mañana."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Simple (result)",
+          "Continuous (activity)"
+        ],
+        "rows": [
+          [
+            "+",
+            "I**'ve read** three books.",
+            "I**'ve been reading** all day."
+          ],
+          [
+            "she",
+            "She**'s written** two emails.",
+            "She**'s been writing** since nine."
+          ],
+          [
+            "−",
+            "I **haven't finished**.",
+            "I **haven't been sleeping** well."
+          ],
+          [
+            "?",
+            "**Have** you **finished**?",
+            "How long **have** you **been waiting**?"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "I'm tired. ___ all morning.",
+          "options": [
+            "I have been running",
+            "I have run",
+            "I run"
+          ],
+          "answer": "I have been running",
+          "explanation": "La actividad y su duración: have been + -ing."
+        },
+        {
+          "question": "She has been studying English ___ two years.",
+          "options": [
+            "for",
+            "since",
+            "during"
+          ],
+          "answer": "for",
+          "explanation": "Duración: for."
         }
       ]
     },
@@ -1349,6 +3908,52 @@
           "en": "This is the studio where they film the show.",
           "es": "Este es el estudio donde graban el programa."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Defining (no commas)",
+          "Non-defining (commas)"
+        ],
+        "rows": [
+          [
+            "who",
+            "The director **who** won the Oscar…",
+            "The director**, who** won an Oscar**,** …"
+          ],
+          [
+            "which",
+            "The film **that** won the prize…",
+            "The film**, which** won a prize**,** …"
+          ],
+          [
+            "that",
+            "The film **that** won…",
+            "✗ (no that)"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "Messi, ___ was born in Rosario, …",
+          "options": [
+            "who",
+            "that",
+            "which"
+          ],
+          "answer": "who",
+          "explanation": "Entre comas no va that; persona: who."
+        },
+        {
+          "question": "The museum, ___ opened in 1990, is free.",
+          "options": [
+            "which",
+            "that",
+            "who"
+          ],
+          "answer": "which",
+          "explanation": "Entre comas y cosa: which."
+        }
       ]
     },
     {
@@ -1378,6 +3983,67 @@
           "native": "Sugirió ir a la policía.",
           "en": "She suggested going to the police.",
           "es": "Sugirió ir a la policía."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Verb",
+          "Example"
+        ],
+        "rows": [
+          [
+            "-ing",
+            "**deny**",
+            "He **denied taking** the money."
+          ],
+          [
+            "-ing",
+            "**admit**",
+            "She **admitted being** there."
+          ],
+          [
+            "that",
+            "**claim**",
+            "He **claimed that** he was innocent."
+          ],
+          [
+            "that",
+            "**announce**",
+            "They **announced that** prices would rise."
+          ],
+          [
+            "+obj",
+            "**warn**",
+            "She **warned** us **against going**."
+          ],
+          [
+            "-ing",
+            "**suggest**",
+            "He **suggested waiting**."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "He denied ___ the money.",
+          "options": [
+            "taking",
+            "to take",
+            "take"
+          ],
+          "answer": "taking",
+          "explanation": "deny va con -ing."
+        },
+        {
+          "question": "She warned us ___ going there.",
+          "options": [
+            "against",
+            "for",
+            "to"
+          ],
+          "answer": "against",
+          "explanation": "warn against + -ing."
         }
       ]
     },
@@ -1409,6 +4075,57 @@
           "en": "We'll leave when the rain stops.",
           "es": "Salimos cuando pare la lluvia."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "If + present",
+          "will / might / can"
+        ],
+        "rows": [
+          [
+            "will",
+            "If I **get** the job,",
+            "I**'ll move** to Córdoba."
+          ],
+          [
+            "might",
+            "If I **get** the job,",
+            "I **might move**."
+          ],
+          [
+            "can",
+            "If I **get** the job,",
+            "I **can move**."
+          ],
+          [
+            "−",
+            "I **won't go**",
+            "**unless** you come with me."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "If she ___ the exam, she will study medicine.",
+          "options": [
+            "passes",
+            "will pass",
+            "passed"
+          ],
+          "answer": "passes",
+          "explanation": "Después de if, presente."
+        },
+        {
+          "question": "I won't go ___ you come.",
+          "options": [
+            "unless",
+            "if",
+            "when"
+          ],
+          "answer": "unless",
+          "explanation": "A menos que: unless."
+        }
       ]
     },
     {
@@ -1438,6 +4155,72 @@
           "native": "Es bueno resolviendo problemas.",
           "en": "He's good at solving problems.",
           "es": "Es bueno resolviendo problemas."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "After…",
+          "Example"
+        ],
+        "rows": [
+          [
+            "-ing",
+            "enjoy, avoid, finish, mind",
+            "I **enjoy reading**."
+          ],
+          [
+            "to",
+            "want, need, decide, hope",
+            "I **want to travel**."
+          ],
+          [
+            "prep",
+            "in, at, before, after",
+            "I'm good **at cooking**."
+          ],
+          [
+            "both",
+            "start, begin, continue",
+            "It **started raining** / **to rain**."
+          ],
+          [
+            "1st",
+            "start of sentence",
+            "**Smoking** is bad for you."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "I enjoy ___.",
+          "options": [
+            "swimming",
+            "to swim",
+            "swim"
+          ],
+          "answer": "swimming",
+          "explanation": "enjoy va con -ing."
+        },
+        {
+          "question": "We decided ___ a car.",
+          "options": [
+            "to buy",
+            "buying",
+            "buy"
+          ],
+          "answer": "to buy",
+          "explanation": "decide va con to."
+        },
+        {
+          "question": "She's interested in ___.",
+          "options": [
+            "learning",
+            "to learn",
+            "learn"
+          ],
+          "answer": "learning",
+          "explanation": "Después de preposición, siempre -ing."
         }
       ]
     },
@@ -1469,6 +4252,52 @@
           "en": "Unless you hurry, you'll miss the train.",
           "es": "Si no te apurás, vas a perder el tren."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "if … not",
+          "unless"
+        ],
+        "rows": [
+          [
+            "=",
+            "I won't go **if** you **don't come**.",
+            "I won't go **unless** you **come**."
+          ],
+          [
+            "=",
+            "You'll fail **if** you **don't study**.",
+            "You'll fail **unless** you **study**."
+          ],
+          [
+            "=",
+            "We'll start **if** it **doesn't rain**.",
+            "We'll start **unless** it **rains**."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "I'll be late unless I ___ now.",
+          "options": [
+            "leave",
+            "don't leave",
+            "will leave"
+          ],
+          "answer": "leave",
+          "explanation": "unless ya niega: el verbo va afirmativo."
+        },
+        {
+          "question": "unless = ___",
+          "options": [
+            "if not",
+            "even if",
+            "because"
+          ],
+          "answer": "if not",
+          "explanation": "unless equivale a if not."
+        }
       ]
     },
     {
@@ -1498,6 +4327,57 @@
           "native": "Me encuentro con Ana a las seis.",
           "en": "I'm meeting Ana at six.",
           "es": "Me encuentro con Ana a las seis."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "will",
+          "going to"
+        ],
+        "rows": [
+          [
+            "when",
+            "decided **now**",
+            "decided **before**"
+          ],
+          [
+            "🎤",
+            "The phone's ringing — I**'ll get** it.",
+            "I**'m going to buy** a car next month."
+          ],
+          [
+            "🔮",
+            "I think it **will** rain tomorrow.",
+            "Look at the sky! It**'s going to** rain."
+          ],
+          [
+            "−",
+            "He **won't** listen.",
+            "I**'m not going to** buy it."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "— There's no milk. — Oh, really? ___",
+          "options": [
+            "I'll buy some.",
+            "I'm going to buy some.",
+            "I buy some."
+          ],
+          "answer": "I'll buy some.",
+          "explanation": "Lo decidís en el momento: will."
+        },
+        {
+          "question": "Look at those clouds! ___",
+          "options": [
+            "It's going to rain.",
+            "It will rain.",
+            "It rains."
+          ],
+          "answer": "It's going to rain.",
+          "explanation": "Predicción con evidencia: going to."
         }
       ]
     },
@@ -1529,6 +4409,52 @@
           "en": "If I had saved money, I wouldn't be broke today.",
           "es": "Si hubiera ahorrado, hoy no estaría sin plata."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "If…",
+          "Result"
+        ],
+        "rows": [
+          [
+            "⏪→⏺",
+            "If I **had studied** medicine,",
+            "I **would be** a doctor **now**."
+          ],
+          [
+            "⏪→⏺",
+            "If she **hadn't missed** the plane,",
+            "she **would be** here **today**."
+          ],
+          [
+            "⏺→⏪",
+            "If I **were** more organised,",
+            "I **would have finished** on time."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "If I had taken the job, I ___ in London now.",
+          "options": [
+            "would live",
+            "would have lived",
+            "will live"
+          ],
+          "answer": "would live",
+          "explanation": "Condición pasada, resultado hoy (now): would + verbo."
+        },
+        {
+          "question": "If he were braver, he ___ her yesterday.",
+          "options": [
+            "would have asked",
+            "would ask",
+            "asked"
+          ],
+          "answer": "would have asked",
+          "explanation": "Rasgo actual, resultado pasado (yesterday): would have + participio."
+        }
       ]
     },
     {
@@ -1558,6 +4484,57 @@
           "native": "Podríamos haber ganado si hubiéramos jugado mejor.",
           "en": "We could have won if we had played better.",
           "es": "Podríamos haber ganado si hubiéramos jugado mejor."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "If + had + participle",
+          "would have + participle"
+        ],
+        "rows": [
+          [
+            "+",
+            "If I **had studied**,",
+            "I **would have passed**."
+          ],
+          [
+            "−",
+            "If I **hadn't missed** the bus,",
+            "I **wouldn't have been** late."
+          ],
+          [
+            "?",
+            "If you **had known**,",
+            "**would** you **have come**?"
+          ],
+          [
+            "~",
+            "If we **had left** earlier,",
+            "we **could have** caught it."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "If I had known, I ___ you.",
+          "options": [
+            "would have told",
+            "would tell",
+            "will tell"
+          ],
+          "answer": "would have told",
+          "explanation": "Pasado que no ocurrió: would have + participio."
+        },
+        {
+          "question": "If she ___ harder, she would have won.",
+          "options": [
+            "had trained",
+            "trained",
+            "would train"
+          ],
+          "answer": "had trained",
+          "explanation": "La condición va en past perfect: had + participio."
         }
       ]
     },
@@ -1589,6 +4566,57 @@
           "en": "I wish he would listen.",
           "es": "Ojalá escuchara."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "I wish…",
+          "Reality"
+        ],
+        "rows": [
+          [
+            "now",
+            "I wish I **had** more time.",
+            "I don't have time."
+          ],
+          [
+            "past",
+            "I wish I **had studied** more.",
+            "I didn't study."
+          ],
+          [
+            "other",
+            "I wish he **would stop** talking.",
+            "He keeps talking."
+          ],
+          [
+            "be",
+            "I wish I **were** taller.",
+            "I'm not tall."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "I wish I ___ more money. (ahora)",
+          "options": [
+            "had",
+            "have",
+            "would have"
+          ],
+          "answer": "had",
+          "explanation": "Deseo sobre el presente: pasado simple."
+        },
+        {
+          "question": "I wish I ___ to the party. (ayer)",
+          "options": [
+            "had gone",
+            "went",
+            "would go"
+          ],
+          "answer": "had gone",
+          "explanation": "Arrepentimiento sobre el pasado: past perfect."
+        }
       ]
     },
     {
@@ -1618,6 +4646,57 @@
           "native": "No fui yo el que lo rompió.",
           "en": "It wasn't me who broke it.",
           "es": "No fui yo el que lo rompió."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Normal",
+          "Cleft (focus)"
+        ],
+        "rows": [
+          [
+            "it",
+            "Ana called.",
+            "**It was Ana who** called."
+          ],
+          [
+            "it",
+            "We met yesterday.",
+            "**It was yesterday that** we met."
+          ],
+          [
+            "what",
+            "I need a holiday.",
+            "**What I need is** a holiday."
+          ],
+          [
+            "−",
+            "I didn't break it.",
+            "**It wasn't me who** broke it."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "It was Ana ___ called.",
+          "options": [
+            "who",
+            "what",
+            "which"
+          ],
+          "answer": "who",
+          "explanation": "Molde con it: It was X who…"
+        },
+        {
+          "question": "___ I need is a coffee.",
+          "options": [
+            "What",
+            "That",
+            "It"
+          ],
+          "answer": "What",
+          "explanation": "Molde con what: What I need is…"
         }
       ]
     },
@@ -1649,6 +4728,56 @@
           "en": "No sooner had we arrived than it started raining.",
           "es": "Apenas llegamos, empezó a llover."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "Normal",
+          "Inverted"
+        ],
+        "rows": [
+          [
+            "I have **never** seen such a mess.",
+            "**Never have I** seen such a mess."
+          ],
+          [
+            "He **rarely** complains.",
+            "**Rarely does he** complain."
+          ],
+          [
+            "We **seldom** go out.",
+            "**Seldom do we** go out."
+          ],
+          [
+            "She sings and also dances.",
+            "**Not only does she** sing, **but** she **also** dances."
+          ],
+          [
+            "I had just arrived when it rained.",
+            "**No sooner had I** arrived **than** it rained."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "Never ___ such a beautiful view.",
+          "options": [
+            "have I seen",
+            "I have seen",
+            "I saw"
+          ],
+          "answer": "have I seen",
+          "explanation": "Negativo adelante: auxiliar + sujeto, como en una pregunta."
+        },
+        {
+          "question": "Rarely ___ late.",
+          "options": [
+            "is he",
+            "he is",
+            "does he"
+          ],
+          "answer": "is he",
+          "explanation": "Con to be se invierte el propio be."
+        }
       ]
     },
     {
@@ -1678,6 +4807,62 @@
           "native": "Llegó tarde, lo cual molestó a todos.",
           "en": "He arrived late, which annoyed everyone.",
           "es": "Llegó tarde, lo cual molestó a todos."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Defining (no commas)",
+          "Non-defining (commas)"
+        ],
+        "rows": [
+          [
+            "who",
+            "My brother **who** lives in Spain… (tengo otros)",
+            "My brother**, who** lives in Spain**,** … (tengo uno)"
+          ],
+          [
+            "which",
+            "The car **that** I bought…",
+            "My car**, which** is red**,** …"
+          ],
+          [
+            "that",
+            "The book **that** I read…",
+            "✗ (no that)"
+          ],
+          [
+            "omit",
+            "The book **(that)** I read…",
+            "✗ (no se omite)"
+          ],
+          [
+            "all",
+            "—",
+            "He was late**, which** annoyed everyone."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "Paris, ___ is the capital of France, is beautiful.",
+          "options": [
+            "which",
+            "that",
+            "what"
+          ],
+          "answer": "which",
+          "explanation": "Entre comas no va that: which."
+        },
+        {
+          "question": "He forgot my birthday, ___ upset me.",
+          "options": [
+            "which",
+            "that",
+            "what"
+          ],
+          "answer": "which",
+          "explanation": "which puede referirse a toda la oración anterior."
         }
       ]
     },
@@ -1709,6 +4894,57 @@
           "en": "He is thought to have left the country.",
           "es": "Se cree que se fue del país."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Active",
+          "Passive"
+        ],
+        "rows": [
+          [
+            "2 obj",
+            "They gave **me** a prize.",
+            "**I was given** a prize."
+          ],
+          [
+            "rep.",
+            "They think he left.",
+            "He **is thought to have left**."
+          ],
+          [
+            "-ing",
+            "They are repairing the road.",
+            "The road **is being repaired**."
+          ],
+          [
+            "perf.",
+            "They have made a decision.",
+            "A decision **has been made**."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "They gave her a medal. → She ___ a medal.",
+          "options": [
+            "was given",
+            "gave",
+            "was give"
+          ],
+          "answer": "was given",
+          "explanation": "La persona pasa a sujeto: She was given…"
+        },
+        {
+          "question": "The bridge ___ at the moment.",
+          "options": [
+            "is being repaired",
+            "is repaired",
+            "is repairing"
+          ],
+          "answer": "is being repaired",
+          "explanation": "Proceso en curso: is being + participio."
+        }
       ]
     },
     {
@@ -1738,6 +4974,62 @@
           "native": "Además, el costo era demasiado alto.",
           "en": "Moreover, the cost was too high.",
           "es": "Además, el costo era demasiado alto."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Use",
+          "Markers"
+        ],
+        "rows": [
+          [
+            "≠",
+            "contrast",
+            "**however**, **nevertheless**, **whereas**"
+          ],
+          [
+            "→",
+            "result",
+            "**therefore**, **as a result**, **consequently**"
+          ],
+          [
+            "+",
+            "addition",
+            "**moreover**, **furthermore**, **in addition**"
+          ],
+          [
+            "e.g.",
+            "example",
+            "**for instance**, **namely**"
+          ],
+          [
+            "∎",
+            "conclusion",
+            "**overall**, **in short**, **to sum up**"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "It was expensive. ___, we bought it.",
+          "options": [
+            "However",
+            "Therefore",
+            "Moreover"
+          ],
+          "answer": "However",
+          "explanation": "Contraste: however."
+        },
+        {
+          "question": "He was ill. ___, he missed the exam.",
+          "options": [
+            "As a result",
+            "However",
+            "For instance"
+          ],
+          "answer": "As a result",
+          "explanation": "Consecuencia: as a result."
         }
       ]
     },
@@ -1769,6 +5061,62 @@
           "en": "He can't have known about it.",
           "es": "No puede haberlo sabido."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Example",
+          "Meaning"
+        ],
+        "rows": [
+          [
+            "✔️",
+            "She **must have** forgotten.",
+            "almost certain"
+          ],
+          [
+            "✖️",
+            "He **can't have** known.",
+            "impossible"
+          ],
+          [
+            "❓",
+            "They **might have** missed the train.",
+            "maybe"
+          ],
+          [
+            "😔",
+            "I **should have** called.",
+            "I didn't — a mistake"
+          ],
+          [
+            "🤷",
+            "We **could have** won.",
+            "possible, but it didn't happen"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "He isn't answering. He ___ his phone.",
+          "options": [
+            "must have lost",
+            "must lost",
+            "can have lost"
+          ],
+          "answer": "must have lost",
+          "explanation": "Deducción casi segura: must have + participio."
+        },
+        {
+          "question": "You ___ told me! I'd have helped.",
+          "options": [
+            "should have",
+            "must have",
+            "might have"
+          ],
+          "answer": "should have",
+          "explanation": "Reproche: should have."
+        }
       ]
     },
     {
@@ -1798,6 +5146,56 @@
           "native": "Las ventas subieron en Europa, mientras que cayeron en Asia.",
           "en": "Sales rose in Europe, whereas they fell in Asia.",
           "es": "Las ventas subieron en Europa, mientras que cayeron en Asia."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "Word + …",
+          "Example"
+        ],
+        "rows": [
+          [
+            "**although** + clause",
+            "**Although** it was expensive, it worked."
+          ],
+          [
+            "**despite** + noun / -ing",
+            "**Despite** the cost… / **Despite being** expensive…"
+          ],
+          [
+            "**despite the fact that** + clause",
+            "**Despite the fact that** it rained, …"
+          ],
+          [
+            "**whereas** (contraste paralelo)",
+            "Sales rose in Europe, **whereas** they fell in Asia."
+          ],
+          [
+            "**however** (oración nueva)",
+            "It was late. **However**, we stayed."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "___ the rain, we went out.",
+          "options": [
+            "Despite",
+            "Although",
+            "However"
+          ],
+          "answer": "Despite",
+          "explanation": "Con sustantivo: despite."
+        },
+        {
+          "question": "___ it was raining, we went out.",
+          "options": [
+            "Although",
+            "Despite",
+            "In spite of"
+          ],
+          "answer": "Although",
+          "explanation": "Con oración completa: although."
         }
       ]
     },
@@ -1829,6 +5227,52 @@
           "en": "It's time we left.",
           "es": "Ya deberíamos irnos."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "Structure",
+          "Example"
+        ],
+        "rows": [
+          [
+            "**suppose** + past",
+            "**Suppose** you **won** the lottery…"
+          ],
+          [
+            "**what if** + present / past",
+            "**What if** it **rains**? / **What if** it **rained**?"
+          ],
+          [
+            "**as if** + past",
+            "He talks **as if** he **knew** everything."
+          ],
+          [
+            "**it's time** + past",
+            "**It's time** we **left**."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "It's time we ___ home.",
+          "options": [
+            "went",
+            "go",
+            "will go"
+          ],
+          "answer": "went",
+          "explanation": "It's time + pasado: ya deberíamos."
+        },
+        {
+          "question": "He acts as if he ___ the boss.",
+          "options": [
+            "were",
+            "is being",
+            "will be"
+          ],
+          "answer": "were",
+          "explanation": "Comparación irreal: pasado (were)."
+        }
       ]
     },
     {
@@ -1858,6 +5302,72 @@
           "native": "Hubo una reducción de personal.",
           "en": "There has been a reduction in staff.",
           "es": "Hubo una reducción de personal."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Verb / adjective",
+          "Noun"
+        ],
+        "rows": [
+          [
+            "-tion",
+            "inform",
+            "informa**tion**"
+          ],
+          [
+            "-sion",
+            "decide",
+            "deci**sion**"
+          ],
+          [
+            "-ment",
+            "develop",
+            "develop**ment**"
+          ],
+          [
+            "-ance",
+            "perform",
+            "perform**ance**"
+          ],
+          [
+            "-ity",
+            "able",
+            "abil**ity**"
+          ],
+          [
+            "-ness",
+            "dark",
+            "dark**ness**"
+          ],
+          [
+            "→",
+            "They **decided** quickly.",
+            "Their **decision** was quick."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "improve → ___",
+          "options": [
+            "improvement",
+            "improvation",
+            "improveness"
+          ],
+          "answer": "improvement",
+          "explanation": "improve toma -ment."
+        },
+        {
+          "question": "happy → ___",
+          "options": [
+            "happiness",
+            "happity",
+            "happyment"
+          ],
+          "answer": "happiness",
+          "explanation": "happy toma -ness (y → i)."
         }
       ]
     },
@@ -1889,6 +5399,56 @@
           "en": "He wants to be told the truth.",
           "es": "Quiere que le digan la verdad."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Example"
+        ],
+        "rows": [
+          [
+            "modal",
+            "The report **must be finished** by Friday."
+          ],
+          [
+            "perf.",
+            "The decision **has been made**."
+          ],
+          [
+            "-ing",
+            "The road **is being repaired**."
+          ],
+          [
+            "inf.",
+            "He wants **to be told** the truth."
+          ],
+          [
+            "inf.",
+            "The painting is believed **to have been stolen**."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "The work ___ by tomorrow.",
+          "options": [
+            "must be done",
+            "must done",
+            "must be do"
+          ],
+          "answer": "must be done",
+          "explanation": "Modal + be + participio."
+        },
+        {
+          "question": "She hopes ___ promoted.",
+          "options": [
+            "to be",
+            "being",
+            "to"
+          ],
+          "answer": "to be",
+          "explanation": "Infinitivo pasivo: to be + participio."
+        }
       ]
     },
     {
@@ -1918,6 +5478,77 @@
           "native": "Le agradecería que confirmara.",
           "en": "I would be grateful if you could confirm.",
           "es": "Le agradecería que confirmara."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Informal",
+          "Formal"
+        ],
+        "rows": [
+          [
+            "verb",
+            "find out",
+            "**discover**"
+          ],
+          [
+            "verb",
+            "put off",
+            "**postpone**"
+          ],
+          [
+            "verb",
+            "go up",
+            "**increase**"
+          ],
+          [
+            "n't",
+            "don't",
+            "**do not**"
+          ],
+          [
+            "✉️",
+            "I want to ask about…",
+            "**I am writing to enquire about…**"
+          ],
+          [
+            "✉️",
+            "Can you…?",
+            "**I would be grateful if you could…**"
+          ],
+          [
+            "end",
+            "Dear Mr Smith…",
+            "**Yours sincerely**"
+          ],
+          [
+            "end",
+            "Dear Sir or Madam…",
+            "**Yours faithfully**"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "Formal de \"find out\":",
+          "options": [
+            "discover",
+            "look up",
+            "get"
+          ],
+          "answer": "discover",
+          "explanation": "En registro formal, verbo latino en vez de phrasal verb."
+        },
+        {
+          "question": "Dear Sir or Madam, … ___",
+          "options": [
+            "Yours faithfully",
+            "Yours sincerely",
+            "Cheers"
+          ],
+          "answer": "Yours faithfully",
+          "explanation": "Si no sabés el nombre: Yours faithfully."
         }
       ]
     },
@@ -1949,6 +5580,62 @@
           "en": "What surprised me was the ending.",
           "es": "Lo que me sorprendió fue el final."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Normal",
+          "Fronted"
+        ],
+        "rows": [
+          [
+            "obj",
+            "I've read **that book** three times.",
+            "**That book** I've read three times."
+          ],
+          [
+            "place",
+            "A parade came down the street.",
+            "**Down the street came** a parade."
+          ],
+          [
+            "neg",
+            "I have never seen…",
+            "**Never have I** seen…"
+          ],
+          [
+            "only",
+            "He understood only then.",
+            "**Only then did he** understand."
+          ],
+          [
+            "what",
+            "The ending surprised me.",
+            "**What surprised me was** the ending."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "Only then ___.",
+          "options": [
+            "did he understand",
+            "he understood",
+            "he did understand"
+          ],
+          "answer": "did he understand",
+          "explanation": "Negativo o restrictivo adelante: se invierte."
+        },
+        {
+          "question": "Down the street ___.",
+          "options": [
+            "came a parade",
+            "a parade did come",
+            "did come a parade"
+          ],
+          "answer": "came a parade",
+          "explanation": "Lugar adelante: el verbo va antes del sujeto, sin auxiliar."
+        }
       ]
     },
     {
@@ -1978,6 +5665,62 @@
           "native": "Mientras los críticos sostienen X, los partidarios mantienen Y.",
           "en": "While critics argue X, supporters maintain Y.",
           "es": "Mientras los críticos sostienen X, los partidarios mantienen Y."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Function",
+          "Phrase"
+        ],
+        "rows": [
+          [
+            "1",
+            "position",
+            "This essay **argues that**…"
+          ],
+          [
+            "2",
+            "hedging",
+            "X **tends to** / **is likely to**…"
+          ],
+          [
+            "3",
+            "source",
+            "**According to** Smith (2020)…"
+          ],
+          [
+            "4",
+            "contrast",
+            "**While** X argues…, Y **maintains**…"
+          ],
+          [
+            "5",
+            "conclusion",
+            "**Overall, the evidence indicates**…"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "¿Cuál está matizada?",
+          "options": [
+            "Social media tends to affect sleep.",
+            "Social media destroys sleep.",
+            "Social media is bad."
+          ],
+          "answer": "Social media tends to affect sleep.",
+          "explanation": "tends to matiza: es más difícil de refutar."
+        },
+        {
+          "question": "___ Smith (2020), the effect is small.",
+          "options": [
+            "According to",
+            "In my opinion",
+            "Firstly"
+          ],
+          "answer": "According to",
+          "explanation": "Para atribuir a una fuente: according to."
         }
       ]
     },
@@ -2009,6 +5752,67 @@
           "en": "He asked me where I lived.",
           "es": "Me preguntó dónde vivía."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Verbs",
+          "Example"
+        ],
+        "rows": [
+          [
+            "-ing",
+            "admit, deny, suggest",
+            "He **admitted taking** it."
+          ],
+          [
+            "to",
+            "agree, refuse, promise",
+            "She **refused to sign**."
+          ],
+          [
+            "sb to",
+            "advise, warn, remind",
+            "He **advised me to wait**."
+          ],
+          [
+            "that",
+            "claim, explain, argue",
+            "He **argued that** it was unfair."
+          ],
+          [
+            "prep",
+            "accuse of, apologise for",
+            "She **apologised for being** late."
+          ],
+          [
+            "?",
+            "ask + statement order",
+            "He asked **where I lived**."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "She refused ___ the contract.",
+          "options": [
+            "to sign",
+            "signing",
+            "sign"
+          ],
+          "answer": "to sign",
+          "explanation": "refuse + to."
+        },
+        {
+          "question": "He asked me where ___.",
+          "options": [
+            "I lived",
+            "did I live",
+            "do I live"
+          ],
+          "answer": "I lived",
+          "explanation": "En la pregunta reportada, orden de afirmación."
+        }
       ]
     },
     {
@@ -2038,6 +5842,57 @@
           "native": "Para cuando llegues ya vamos a haber comido.",
           "en": "By the time you arrive, we will have eaten.",
           "es": "Para cuando llegues ya vamos a haber comido."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Form",
+          "Example"
+        ],
+        "rows": [
+          [
+            "perf.",
+            "will have + participle",
+            "By 2030 I **will have finished** my degree."
+          ],
+          [
+            "cont.",
+            "will be + -ing",
+            "This time tomorrow I **will be flying**."
+          ],
+          [
+            "both",
+            "will have been + -ing",
+            "By then I **will have been working** here for ten years."
+          ],
+          [
+            "by",
+            "by the time + present",
+            "**By the time** you **arrive**, we'll have eaten."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "By Friday I ___ the report.",
+          "options": [
+            "will have finished",
+            "will finish",
+            "finished"
+          ],
+          "answer": "will have finished",
+          "explanation": "Terminado antes de un momento futuro: will have + participio."
+        },
+        {
+          "question": "By the time she ___, we will have left.",
+          "options": [
+            "arrives",
+            "will arrive",
+            "arrived"
+          ],
+          "answer": "arrives",
+          "explanation": "Después de by the time va presente."
         }
       ]
     },
@@ -2069,6 +5924,62 @@
           "en": "Under no circumstances should you sign this.",
           "es": "Bajo ninguna circunstancia deberías firmar esto."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Normal",
+          "Inverted"
+        ],
+        "rows": [
+          [
+            "had",
+            "If I had known,",
+            "**Had I** known,"
+          ],
+          [
+            "were",
+            "If I were you,",
+            "**Were I** you,"
+          ],
+          [
+            "🆘",
+            "If you need help,",
+            "**Should you** need help,"
+          ],
+          [
+            "neg",
+            "He didn't know at all.",
+            "**Little did he** know."
+          ],
+          [
+            "so",
+            "The demand was so great that…",
+            "**So great was** the demand that…"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "___ known, I would have come.",
+          "options": [
+            "Had I",
+            "If had I",
+            "Have I"
+          ],
+          "answer": "Had I",
+          "explanation": "Sin if: se invierte el auxiliar."
+        },
+        {
+          "question": "___ you need anything, call me.",
+          "options": [
+            "Should",
+            "Would",
+            "Had"
+          ],
+          "answer": "Should",
+          "explanation": "Should you… = if you…"
+        }
       ]
     },
     {
@@ -2098,6 +6009,62 @@
           "native": "Se sabe que visitó el lugar.",
           "en": "She is known to have visited the site.",
           "es": "Se sabe que visitó el lugar."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Structure",
+          "Example"
+        ],
+        "rows": [
+          [
+            "it",
+            "It is said / believed that…",
+            "**It is believed that** he left."
+          ],
+          [
+            "to",
+            "be thought / known to…",
+            "He **is thought to be** abroad."
+          ],
+          [
+            "seem",
+            "seem / appear to…",
+            "He **appears to be** ill."
+          ],
+          [
+            "-ly",
+            "allegedly, reportedly",
+            "He **allegedly** took the money."
+          ],
+          [
+            "must",
+            "deduction",
+            "That **must be** the reason."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "He ___ to have stolen it.",
+          "options": [
+            "is alleged",
+            "alleges",
+            "allegedly"
+          ],
+          "answer": "is alleged",
+          "explanation": "Acusación sin confirmar: is alleged to have…"
+        },
+        {
+          "question": "The minister ___ resigned. (no confirmado)",
+          "options": [
+            "has reportedly",
+            "reportedly has to",
+            "is reporting"
+          ],
+          "answer": "has reportedly",
+          "explanation": "reportedly marca que es lo que se informa, no un hecho confirmado."
         }
       ]
     },
@@ -2129,6 +6096,52 @@
           "en": "They demanded that the report be submitted.",
           "es": "Exigieron que se presentara el informe."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "Formal (US)",
+          "British"
+        ],
+        "rows": [
+          [
+            "I suggest that he **go**.",
+            "I suggest that he **should go**."
+          ],
+          [
+            "It is essential that she **be** told.",
+            "It is essential that she **should be** told."
+          ],
+          [
+            "They insisted that he **leave**.",
+            "They insisted that he **should leave**."
+          ],
+          [
+            "**Be** that as it may.",
+            "Long **live** the King."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "I recommend that she ___ a lawyer.",
+          "options": [
+            "see",
+            "sees",
+            "saw"
+          ],
+          "answer": "see",
+          "explanation": "Subjuntivo: forma base, sin -s."
+        },
+        {
+          "question": "It is vital that he ___ on time.",
+          "options": [
+            "be",
+            "is",
+            "was"
+          ],
+          "answer": "be",
+          "explanation": "Con vital/essential: be."
+        }
       ]
     },
     {
@@ -2158,6 +6171,54 @@
           "native": "Lamento informarle que no podemos continuar.",
           "en": "I regret to inform you that we cannot proceed.",
           "es": "Lamento informarle que no podemos continuar."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "+ -ing (mira atrás)",
+          "+ to (mira adelante)"
+        ],
+        "rows": [
+          [
+            "I remember **locking** the door.",
+            "Remember **to lock** the door."
+          ],
+          [
+            "He stopped **smoking**. (dejó)",
+            "He stopped **to smoke**. (para fumar)"
+          ],
+          [
+            "Try **restarting** it. (probá)",
+            "Try **to open** it. (esforzate)"
+          ],
+          [
+            "I regret **telling** you.",
+            "I regret **to tell** you…"
+          ],
+          [
+            "I'll never forget **meeting** her.",
+            "Don't forget **to call**."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "He stopped ___ a cigarette. (se detuvo para fumar)",
+          "options": [
+            "to smoke",
+            "smoking"
+          ],
+          "answer": "to smoke",
+          "explanation": "Para hacer otra cosa: stop + to."
+        },
+        {
+          "question": "I remember ___ the door. I'm sure!",
+          "options": [
+            "locking",
+            "to lock"
+          ],
+          "answer": "locking",
+          "explanation": "Recuerdo algo ya hecho: -ing mira atrás."
         }
       ]
     },
@@ -2189,6 +6250,57 @@
           "en": "He is said to have won twice.",
           "es": "Se dice que ganó dos veces."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Same time",
+          "Earlier"
+        ],
+        "rows": [
+          [
+            "glad",
+            "I'm glad **to meet** you.",
+            "I'm glad **to have met** you."
+          ],
+          [
+            "seem",
+            "He seems **to be** tired.",
+            "He seems **to have been** ill."
+          ],
+          [
+            "said",
+            "He is said **to be** rich.",
+            "He is said **to have won** twice."
+          ],
+          [
+            "must",
+            "She must **be** at home.",
+            "She must **have left**."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "She seems ___ her keys. She can't find them.",
+          "options": [
+            "to have lost",
+            "to lose",
+            "having lost"
+          ],
+          "answer": "to have lost",
+          "explanation": "Algo anterior: to have + participio."
+        },
+        {
+          "question": "I'm sorry ___ you waiting.",
+          "options": [
+            "to have kept",
+            "to keep",
+            "having keep"
+          ],
+          "answer": "to have kept",
+          "explanation": "La espera fue antes de la disculpa."
+        }
       ]
     },
     {
@@ -2218,6 +6330,62 @@
           "native": "Hay que admitir que la muestra era chica. Aun así, la tendencia es clara.",
           "en": "Admittedly, the sample was small. Nonetheless, the trend is clear.",
           "es": "Hay que admitir que la muestra era chica. Aun así, la tendencia es clara."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Function",
+          "Markers"
+        ],
+        "rows": [
+          [
+            "1-2-3",
+            "sequence",
+            "**firstly**, **subsequently**, **finally**"
+          ],
+          [
+            "i.e.",
+            "clarify",
+            "**namely**, **that is to say**, **in other words**"
+          ],
+          [
+            "≠",
+            "concede & turn",
+            "**admittedly** … **nonetheless**"
+          ],
+          [
+            "∵",
+            "cause",
+            "**given that**, **owing to**, **insofar as**"
+          ],
+          [
+            "∴",
+            "conclusion",
+            "**hence**, **it follows that**, **thereby**"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "Admittedly, the sample was small. ___, the results are clear.",
+          "options": [
+            "Nonetheless",
+            "Hence",
+            "Namely"
+          ],
+          "answer": "Nonetheless",
+          "explanation": "Conceder y girar: admittedly… nonetheless."
+        },
+        {
+          "question": "___ the rise in prices, demand fell.",
+          "options": [
+            "Owing to",
+            "Hence",
+            "Namely"
+          ],
+          "answer": "Owing to",
+          "explanation": "Causa: owing to + sustantivo."
         }
       ]
     },
@@ -2249,6 +6417,57 @@
           "en": "I haven't finished, but she has.",
           "es": "Yo no terminé, pero ella sí."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Full",
+          "With ellipsis"
+        ],
+        "rows": [
+          [
+            "and",
+            "She can sing and she can dance.",
+            "She can sing and **dance**."
+          ],
+          [
+            "reply",
+            "— Who wants tea? — I want tea.",
+            "— Who wants tea? — I **do**."
+          ],
+          [
+            "to",
+            "I'd like to come, but I'm not able to come.",
+            "I'd like to come, but I'm not able **to**."
+          ],
+          [
+            "aux",
+            "I haven't finished, but she has finished.",
+            "I haven't finished, but she **has**."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "I didn't go, but my sister ___.",
+          "options": [
+            "did",
+            "went",
+            "did go there"
+          ],
+          "answer": "did",
+          "explanation": "Queda solo el auxiliar."
+        },
+        {
+          "question": "— Can you come? — I'd love ___.",
+          "options": [
+            "to",
+            "to it",
+            "it"
+          ],
+          "answer": "to",
+          "explanation": "Queda solo to."
+        }
       ]
     },
     {
@@ -2278,6 +6497,67 @@
           "native": "Me pidió que me fuera y lo hice.",
           "en": "She asked me to leave and I did.",
           "es": "Me pidió que me fuera y lo hice."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Replaces",
+          "Example"
+        ],
+        "rows": [
+          [
+            "one",
+            "a noun",
+            "I'll take the red **one**."
+          ],
+          [
+            "ones",
+            "plural noun",
+            "I like the blue **ones**."
+          ],
+          [
+            "so",
+            "a clause",
+            "— Is it raining? — I think **so**."
+          ],
+          [
+            "not",
+            "negative clause",
+            "— Will it rain? — I hope **not**."
+          ],
+          [
+            "do",
+            "verb + rest",
+            "She asked me to leave and I **did**."
+          ],
+          [
+            "such",
+            "an idea",
+            "**Such** behaviour is unacceptable."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "— Is he coming? — I don't think ___.",
+          "options": [
+            "so",
+            "it",
+            "that"
+          ],
+          "answer": "so",
+          "explanation": "so reemplaza la oración."
+        },
+        {
+          "question": "These shoes are old. I need new ___.",
+          "options": [
+            "ones",
+            "one",
+            "them"
+          ],
+          "answer": "ones",
+          "explanation": "Sustantivo plural contable: ones."
         }
       ]
     },
@@ -2309,6 +6589,62 @@
           "en": "What she did was resign.",
           "es": "Lo que hizo fue renunciar."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Normal",
+          "Cleft"
+        ],
+        "rows": [
+          [
+            "all",
+            "I only want a coffee.",
+            "**All I want is** a coffee."
+          ],
+          [
+            "why",
+            "I called to apologise.",
+            "**The reason I called was** to apologise."
+          ],
+          [
+            "rev.",
+            "I need a coffee.",
+            "A coffee **is what I need**."
+          ],
+          [
+            "verb",
+            "She resigned.",
+            "**What she did was** resign."
+          ],
+          [
+            "place",
+            "We met here.",
+            "**This is where** we met."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "___ I want is some peace.",
+          "options": [
+            "All",
+            "Every",
+            "That"
+          ],
+          "answer": "All",
+          "explanation": "Restrictivo: All I want is…"
+        },
+        {
+          "question": "What he did ___ leave.",
+          "options": [
+            "was",
+            "did",
+            "is to"
+          ],
+          "answer": "was",
+          "explanation": "Foco en la acción: What he did was…"
+        }
       ]
     },
     {
@@ -2338,6 +6674,61 @@
           "native": "Tan fuerte estaba la música que nos fuimos.",
           "en": "So loud was the music that we left.",
           "es": "Tan fuerte estaba la música que nos fuimos."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Fronted",
+          "Inverted?"
+        ],
+        "rows": [
+          [
+            "neg",
+            "**Only after** the meeting **did we** understand.",
+            "✔ yes"
+          ],
+          [
+            "place",
+            "**Down the hill came** the runners.",
+            "✔ yes (sustantivo)"
+          ],
+          [
+            "pron",
+            "**Down the hill they** came.",
+            "✗ no (pronombre)"
+          ],
+          [
+            "so",
+            "**So loud was** the music that we left.",
+            "✔ yes"
+          ],
+          [
+            "obj",
+            "**That book** I have read.",
+            "✗ no"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "Down the street ___.",
+          "options": [
+            "ran the children",
+            "did the children run",
+            "ran they"
+          ],
+          "answer": "ran the children",
+          "explanation": "Lugar + verbo de movimiento + sujeto sustantivo: se invierte sin auxiliar."
+        },
+        {
+          "question": "Here ___!",
+          "options": [
+            "she comes",
+            "comes she"
+          ],
+          "answer": "she comes",
+          "explanation": "Con pronombre no se invierte."
         }
       ]
     },
@@ -2369,6 +6760,62 @@
           "en": "He had his wallet stolen.",
           "es": "Le robaron la billetera."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Structure",
+          "Example"
+        ],
+        "rows": [
+          [
+            "have",
+            "have + thing + participle",
+            "I **had my car repaired**."
+          ],
+          [
+            "get",
+            "get + thing + participle",
+            "I **got my hair cut**."
+          ],
+          [
+            "😞",
+            "something bad happened",
+            "He **had his wallet stolen**."
+          ],
+          [
+            "have",
+            "have + person + verb",
+            "I **had the mechanic check** it."
+          ],
+          [
+            "get",
+            "get + person + to + verb",
+            "I **got him to help** me."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "I ___ my hair cut yesterday.",
+          "options": [
+            "had",
+            "made",
+            "did"
+          ],
+          "answer": "had",
+          "explanation": "Lo hizo otro: have + objeto + participio."
+        },
+        {
+          "question": "She got her brother ___ her.",
+          "options": [
+            "to help",
+            "help",
+            "helping"
+          ],
+          "answer": "to help",
+          "explanation": "get + persona + to + verbo."
+        }
       ]
     },
     {
@@ -2398,6 +6845,52 @@
           "native": "Se piensa que se fue del país.",
           "en": "He is thought to have left the country.",
           "es": "Se piensa que se fue del país."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "It + passive + that",
+          "Subject + passive + to"
+        ],
+        "rows": [
+          [
+            "now",
+            "It **is believed that** the site **is** old.",
+            "The site **is believed to be** old."
+          ],
+          [
+            "⏪",
+            "It **is thought that** he **left**.",
+            "He **is thought to have left**."
+          ],
+          [
+            "past",
+            "It **was said that** she **was** rich.",
+            "She **was said to be** rich."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "He is thought ___ the country last year.",
+          "options": [
+            "to have left",
+            "to leave",
+            "that he left"
+          ],
+          "answer": "to have left",
+          "explanation": "Lo reportado es anterior: to have + participio."
+        },
+        {
+          "question": "It ___ that the painting is a fake.",
+          "options": [
+            "is said",
+            "says",
+            "is saying"
+          ],
+          "answer": "is said",
+          "explanation": "Molde con it: It is said that…"
         }
       ]
     },
@@ -2429,6 +6922,59 @@
           "en": "For all his money, he isn't happy.",
           "es": "Con toda su plata, no es feliz."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "Structure",
+          "Example"
+        ],
+        "rows": [
+          [
+            "**whatever** / **however**",
+            "**Whatever** the cost, we will continue."
+          ],
+          [
+            "**no matter how**",
+            "**No matter how hard** he tried, he failed."
+          ],
+          [
+            "adjective + **as**",
+            "**Hard as** he tried, he failed."
+          ],
+          [
+            "**even if** (hipotético)",
+            "**Even if** it rains, we'll go."
+          ],
+          [
+            "**even though** (real)",
+            "**Even though** it's raining, we'll go."
+          ],
+          [
+            "**for all** + noun",
+            "**For all** his money, he isn't happy."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "___ it rains tomorrow, we'll play. (no sabemos)",
+          "options": [
+            "Even if",
+            "Even though"
+          ],
+          "answer": "Even if",
+          "explanation": "Hipotético: even if."
+        },
+        {
+          "question": "Strange ___ it may seem, it's true.",
+          "options": [
+            "as",
+            "if",
+            "so"
+          ],
+          "answer": "as",
+          "explanation": "Adjetivo + as/though adelante."
+        }
       ]
     },
     {
@@ -2458,6 +7004,60 @@
           "native": "Si no fuera por tu ayuda, habría fracasado.",
           "en": "But for your help, I would have failed.",
           "es": "Si no fuera por tu ayuda, habría fracasado."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "Word = meaning",
+          "Example"
+        ],
+        "rows": [
+          [
+            "**unless** = if not",
+            "I won't go **unless** you come."
+          ],
+          [
+            "**as long as** = only if",
+            "You can go **as long as** you're back by ten."
+          ],
+          [
+            "**in case** = por si acaso",
+            "Take an umbrella **in case** it rains."
+          ],
+          [
+            "**but for** = if it weren't for",
+            "**But for** your help, I would have failed."
+          ],
+          [
+            "**otherwise** = if not",
+            "Hurry, **otherwise** we'll be late."
+          ],
+          [
+            "**had I** = if I had",
+            "**Had I** known, I would have come."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "Take a jacket ___ it gets cold.",
+          "options": [
+            "in case",
+            "unless",
+            "as long as"
+          ],
+          "answer": "in case",
+          "explanation": "Por si acaso: in case."
+        },
+        {
+          "question": "___ your help, I would have failed.",
+          "options": [
+            "But for",
+            "Unless",
+            "In case"
+          ],
+          "answer": "But for",
+          "explanation": "Si no fuera por: but for."
         }
       ]
     },
@@ -3389,6 +7989,57 @@
           "en": "She realised she had been walking for hours without noticing the cold.",
           "es": "Se dio cuenta de que venía caminando hace horas sin notar el frío."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Tense",
+          "Example"
+        ],
+        "rows": [
+          [
+            "▶",
+            "past simple (la acción)",
+            "She **opened** the door and **left**."
+          ],
+          [
+            "🎞️",
+            "past continuous (el fondo)",
+            "Rain **was beating** against the window."
+          ],
+          [
+            "⏪",
+            "past perfect (antes)",
+            "She **had left** before the letter arrived."
+          ],
+          [
+            "⏳",
+            "past perfect continuous",
+            "She **had been waiting** for hours."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "When I arrived, the film ___. I missed the start.",
+          "options": [
+            "had started",
+            "started",
+            "was starting"
+          ],
+          "answer": "had started",
+          "explanation": "Pasó antes de llegar: past perfect."
+        },
+        {
+          "question": "I ___ dinner when the phone rang.",
+          "options": [
+            "was cooking",
+            "cooked",
+            "had cooked"
+          ],
+          "answer": "was cooking",
+          "explanation": "El fondo que se interrumpe: past continuous."
+        }
       ]
     },
     {
@@ -3418,6 +8069,57 @@
           "native": "De no ser por sus diarios, la historia se habría perdido.",
           "en": "Were it not for her diaries, the story would have been lost.",
           "es": "De no ser por sus diarios, la historia se habría perdido."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Normal",
+          "Inverted"
+        ],
+        "rows": [
+          [
+            "neg",
+            "There had never been such silence.",
+            "**Never before had there been** such silence."
+          ],
+          [
+            "so",
+            "His grief was so great that…",
+            "**So great was his grief** that…"
+          ],
+          [
+            "place",
+            "An old woman stood in the doorway.",
+            "**In the doorway stood** an old woman."
+          ],
+          [
+            "if",
+            "If it weren't for…",
+            "**Were it not for**…"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "In the corner ___.",
+          "options": [
+            "sat an old man",
+            "an old man did sit",
+            "did sit an old man"
+          ],
+          "answer": "sat an old man",
+          "explanation": "Lugar adelante: verbo antes del sujeto, sin auxiliar."
+        },
+        {
+          "question": "Seldom ___ such beauty.",
+          "options": [
+            "had she seen",
+            "she had seen",
+            "she saw"
+          ],
+          "answer": "had she seen",
+          "explanation": "Adverbio negativo adelante: auxiliar + sujeto."
         }
       ]
     },
@@ -3449,6 +8151,52 @@
           "en": "Written in prison, the letters were never delivered.",
           "es": "Escritas en la cárcel, las cartas nunca fueron entregadas."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Two clauses",
+          "Participle clause"
+        ],
+        "rows": [
+          [
+            "-ing",
+            "She walked through the house and felt…",
+            "**Walking** through the house, she felt…"
+          ],
+          [
+            "perf",
+            "She read the last page. Then she closed it.",
+            "**Having read** the last page, she closed it."
+          ],
+          [
+            "-ed",
+            "The letters were written in prison. They…",
+            "**Written** in prison, the letters…"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "___ the door, she went inside.",
+          "options": [
+            "Having opened",
+            "Opened",
+            "Having open"
+          ],
+          "answer": "Having opened",
+          "explanation": "Primero una cosa y después otra: having + participio."
+        },
+        {
+          "question": "___ in 1900, the house is very old.",
+          "options": [
+            "Built",
+            "Building",
+            "Having built"
+          ],
+          "answer": "Built",
+          "explanation": "Sentido pasivo: participio pasado."
+        }
       ]
     },
     {
@@ -3478,6 +8226,52 @@
           "native": "El hombre detenido anoche se negó a dar su nombre.",
           "en": "The man arrested last night refused to give his name.",
           "es": "El hombre detenido anoche se negó a dar su nombre."
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Full",
+          "Reduced"
+        ],
+        "rows": [
+          [
+            "pass.",
+            "the man **who was arrested** last night",
+            "the man **arrested** last night"
+          ],
+          [
+            "-ing",
+            "the woman **who is waiting** at the gate",
+            "the woman **waiting** at the gate"
+          ],
+          [
+            "pass.",
+            "the letters **that were written** in prison",
+            "the letters **written** in prison"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "The boy ___ by the window is my son.",
+          "options": [
+            "sitting",
+            "who sitting",
+            "sat"
+          ],
+          "answer": "sitting",
+          "explanation": "Activa continua: queda el -ing."
+        },
+        {
+          "question": "The cars ___ in Japan are reliable.",
+          "options": [
+            "made",
+            "making",
+            "who made"
+          ],
+          "answer": "made",
+          "explanation": "Pasiva: queda el participio."
         }
       ]
     },
@@ -5219,6 +10013,62 @@
           "en": "They aren't sleeping.",
           "es": "Ellos no están durmiendo."
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "he / she / it",
+          "you / we / they"
+        ],
+        "rows": [
+          [
+            "+",
+            "She **is working**.",
+            "They **are working**."
+          ],
+          [
+            "−",
+            "She **isn't working**.",
+            "They **aren't working**."
+          ],
+          [
+            "?",
+            "**Is** she **working**?",
+            "**Are** they **working**?"
+          ],
+          [
+            "↩",
+            "Yes, she **is**. / No, she **isn't**.",
+            "Yes, they **are**. / No, they **aren't**."
+          ],
+          [
+            "I",
+            "I**'m working** now.",
+            "**Am** I late?"
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "Look! It ___.",
+          "options": [
+            "is raining",
+            "rains",
+            "raining"
+          ],
+          "answer": "is raining",
+          "explanation": "Está pasando ahora: be + -ing."
+        },
+        {
+          "question": "I ___ to work every day.",
+          "options": [
+            "go",
+            "am going",
+            "going"
+          ],
+          "answer": "go",
+          "explanation": "Todos los días es rutina: presente simple."
+        }
       ]
     },
     {
@@ -5249,6 +10099,57 @@
           "en": "Did you see it?",
           "es": "¿Lo viste?"
         }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "Regular",
+          "Irregular"
+        ],
+        "rows": [
+          [
+            "+",
+            "I **worked**.",
+            "I **went**."
+          ],
+          [
+            "−",
+            "I **didn't work**.",
+            "I **didn't go**."
+          ],
+          [
+            "?",
+            "**Did** you **work**?",
+            "**Did** you **go**?"
+          ],
+          [
+            "↩",
+            "Yes, I **did**. / No, I **didn't**.",
+            "Yes, I **did**. / No, I **didn't**."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "Did you ___ to the party?",
+          "options": [
+            "go",
+            "went",
+            "goes"
+          ],
+          "answer": "go",
+          "explanation": "Con did el verbo vuelve a la forma base."
+        },
+        {
+          "question": "She ___ pizza yesterday.",
+          "options": [
+            "ate",
+            "eated",
+            "eat"
+          ],
+          "answer": "ate",
+          "explanation": "eat es irregular: ate."
+        }
       ]
     },
     {
@@ -5278,6 +10179,57 @@
           "native": "¿Qué estabas haciendo?",
           "en": "What were you doing?",
           "es": "¿Qué estabas haciendo?"
+        }
+      ],
+      "pattern": {
+        "cols": [
+          "",
+          "I / he / she / it",
+          "you / we / they"
+        ],
+        "rows": [
+          [
+            "+",
+            "I **was sleeping**.",
+            "They **were playing**."
+          ],
+          [
+            "−",
+            "She **wasn't working**.",
+            "We **weren't listening**."
+          ],
+          [
+            "?",
+            "**Was** he **cooking**?",
+            "**Were** you **sleeping**?"
+          ],
+          [
+            "⚡",
+            "I **was cooking**…",
+            "…when the phone **rang**."
+          ]
+        ]
+      },
+      "check": [
+        {
+          "question": "They ___ TV when I arrived.",
+          "options": [
+            "were watching",
+            "was watching",
+            "watched"
+          ],
+          "answer": "were watching",
+          "explanation": "They va con were; la acción de fondo en continuo."
+        },
+        {
+          "question": "I was reading when she ___.",
+          "options": [
+            "called",
+            "was calling",
+            "calls"
+          ],
+          "answer": "called",
+          "explanation": "La acción corta que interrumpe: pasado simple."
         }
       ]
     },
