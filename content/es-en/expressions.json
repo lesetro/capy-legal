@@ -1,0 +1,2532 @@
+{
+  "format_version": 1,
+  "groups": [
+    {
+      "id": "saludos",
+      "es": "Saludos",
+      "emoji": "👋"
+    },
+    {
+      "id": "despedidas",
+      "es": "Despedidas",
+      "emoji": "👋"
+    },
+    {
+      "id": "cortesia",
+      "es": "Cortesia",
+      "emoji": "🙏"
+    },
+    {
+      "id": "no_entendi",
+      "es": "No entendi",
+      "emoji": "🤔"
+    },
+    {
+      "id": "acuerdo",
+      "es": "Acuerdo y desacuerdo",
+      "emoji": "👍"
+    },
+    {
+      "id": "reacciones",
+      "es": "Reacciones",
+      "emoji": "😮"
+    },
+    {
+      "id": "conocerse",
+      "es": "Conocerse",
+      "emoji": "🤝"
+    },
+    {
+      "id": "gustos",
+      "es": "Gustos",
+      "emoji": "❤️"
+    },
+    {
+      "id": "rutina",
+      "es": "El dia a dia",
+      "emoji": "☀️"
+    },
+    {
+      "id": "estudiar",
+      "es": "Estudiar el idioma",
+      "emoji": "📚"
+    },
+    {
+      "id": "planes",
+      "es": "Planes",
+      "emoji": "📅"
+    },
+    {
+      "id": "sobre_mi",
+      "es": "Hablar de uno",
+      "emoji": "🙋"
+    },
+    {
+      "id": "cafe",
+      "es": "En la cafeteria",
+      "emoji": "☕"
+    },
+    {
+      "id": "restaurante",
+      "es": "En el restaurante",
+      "emoji": "🍽️"
+    },
+    {
+      "id": "compras",
+      "es": "De compras y pagar",
+      "emoji": "🛒"
+    },
+    {
+      "id": "direcciones",
+      "es": "Pedir direcciones",
+      "emoji": "🧭"
+    },
+    {
+      "id": "hotel",
+      "es": "En el hotel",
+      "emoji": "🏨"
+    },
+    {
+      "id": "aeropuerto",
+      "es": "Viajar y aeropuerto",
+      "emoji": "✈️"
+    },
+    {
+      "id": "transporte",
+      "es": "Taxi y transporte",
+      "emoji": "🚕"
+    },
+    {
+      "id": "salud",
+      "es": "Farmacia y salud",
+      "emoji": "💊"
+    },
+    {
+      "id": "a1",
+      "es": "Desafios A1",
+      "emoji": "🌱"
+    },
+    {
+      "id": "a2",
+      "es": "Desafios A2",
+      "emoji": "🌱"
+    },
+    {
+      "id": "b1",
+      "es": "Desafios B1",
+      "emoji": "🌳"
+    },
+    {
+      "id": "b2",
+      "es": "Desafios B2",
+      "emoji": "🌳"
+    },
+    {
+      "id": "c1",
+      "es": "Desafios C1",
+      "emoji": "🏆"
+    },
+    {
+      "id": "c2",
+      "es": "Desafios C2",
+      "emoji": "🏆"
+    }
+  ],
+  "phrases": [
+    {
+      "kind": "expresion",
+      "group": "saludos",
+      "native": "Hola",
+      "target": "Hi",
+      "phonetic": "JAI",
+      "en": "Hi",
+      "es": "Hola"
+    },
+    {
+      "kind": "expresion",
+      "group": "saludos",
+      "native": "Buen dia",
+      "target": "Good morning",
+      "phonetic": "GUD MOR-ning",
+      "en": "Good morning",
+      "es": "Buen dia"
+    },
+    {
+      "kind": "expresion",
+      "group": "saludos",
+      "native": "Buenas tardes",
+      "target": "Good afternoon",
+      "phonetic": "GUD af-ter-NUUN",
+      "en": "Good afternoon",
+      "es": "Buenas tardes"
+    },
+    {
+      "kind": "expresion",
+      "group": "saludos",
+      "native": "Buenas noches",
+      "target": "Good evening",
+      "phonetic": "GUD IIV-ning",
+      "en": "Good evening",
+      "es": "Buenas noches"
+    },
+    {
+      "kind": "expresion",
+      "group": "saludos",
+      "native": "Hola, como estas?",
+      "target": "Hi, how are you?",
+      "phonetic": "JAI jau ar iuu",
+      "en": "Hi, how are you?",
+      "es": "Hola, como estas?"
+    },
+    {
+      "kind": "expresion",
+      "group": "saludos",
+      "native": "Como va todo?",
+      "target": "How's it going?",
+      "phonetic": "JAUS it GOU-ing",
+      "en": "How's it going?",
+      "es": "Como va todo?"
+    },
+    {
+      "kind": "expresion",
+      "group": "saludos",
+      "native": "Que tal?",
+      "target": "What's up?",
+      "phonetic": "UATS AP",
+      "en": "What's up?",
+      "es": "Que tal?"
+    },
+    {
+      "kind": "expresion",
+      "group": "saludos",
+      "native": "Tanto tiempo!",
+      "target": "Long time no see!",
+      "phonetic": "LONG TAIM NOU SII",
+      "en": "Long time no see!",
+      "es": "Tanto tiempo!"
+    },
+    {
+      "kind": "expresion",
+      "group": "saludos",
+      "native": "Me alegra hablar con vos",
+      "target": "Nice to talk to you",
+      "phonetic": "NAIS tuu TOK tuu iuu",
+      "en": "Nice to talk to you",
+      "es": "Me alegra hablar con vos"
+    },
+    {
+      "kind": "expresion",
+      "group": "saludos",
+      "native": "Es un gusto conocerte",
+      "target": "Nice to meet you",
+      "phonetic": "NAIS tuu MIIT iuu",
+      "en": "Nice to meet you",
+      "es": "Es un gusto conocerte"
+    },
+    {
+      "kind": "expresion",
+      "group": "despedidas",
+      "native": "Chau",
+      "target": "Bye",
+      "phonetic": "BAI",
+      "en": "Bye",
+      "es": "Chau"
+    },
+    {
+      "kind": "expresion",
+      "group": "despedidas",
+      "native": "Nos vemos",
+      "target": "See you",
+      "phonetic": "SII iuu",
+      "en": "See you",
+      "es": "Nos vemos"
+    },
+    {
+      "kind": "expresion",
+      "group": "despedidas",
+      "native": "Hasta manana",
+      "target": "See you tomorrow",
+      "phonetic": "SII iuu ta-MO-rou",
+      "en": "See you tomorrow",
+      "es": "Hasta manana"
+    },
+    {
+      "kind": "expresion",
+      "group": "despedidas",
+      "native": "Hasta luego",
+      "target": "See you later",
+      "phonetic": "SII iuu LEI-ter",
+      "en": "See you later",
+      "es": "Hasta luego"
+    },
+    {
+      "kind": "expresion",
+      "group": "despedidas",
+      "native": "Que tengas un buen dia",
+      "target": "Have a good day",
+      "phonetic": "jav e GUD DEI",
+      "en": "Have a good day",
+      "es": "Que tengas un buen dia"
+    },
+    {
+      "kind": "expresion",
+      "group": "despedidas",
+      "native": "Que descanses",
+      "target": "Get some rest",
+      "phonetic": "GET SAM REST",
+      "en": "Get some rest",
+      "es": "Que descanses"
+    },
+    {
+      "kind": "expresion",
+      "group": "despedidas",
+      "native": "Me tengo que ir",
+      "target": "I have to go",
+      "phonetic": "ai jav tuu GOU",
+      "en": "I have to go",
+      "es": "Me tengo que ir"
+    },
+    {
+      "kind": "expresion",
+      "group": "despedidas",
+      "native": "Hablamos despues",
+      "target": "We'll talk later",
+      "phonetic": "UIIL TOK LEI-ter",
+      "en": "We'll talk later",
+      "es": "Hablamos despues"
+    },
+    {
+      "kind": "expresion",
+      "group": "despedidas",
+      "native": "Cuidate",
+      "target": "Take care",
+      "phonetic": "TEIK KER",
+      "en": "Take care",
+      "es": "Cuidate"
+    },
+    {
+      "kind": "expresion",
+      "group": "despedidas",
+      "native": "Fue un gusto",
+      "target": "It was nice",
+      "phonetic": "it uos NAIS",
+      "en": "It was nice",
+      "es": "Fue un gusto"
+    },
+    {
+      "kind": "expresion",
+      "group": "cortesia",
+      "native": "Por favor",
+      "target": "Please",
+      "phonetic": "PLIIS",
+      "en": "Please",
+      "es": "Por favor"
+    },
+    {
+      "kind": "expresion",
+      "group": "cortesia",
+      "native": "Gracias",
+      "target": "Thank you",
+      "phonetic": "ZANGK iuu",
+      "en": "Thank you",
+      "es": "Gracias"
+    },
+    {
+      "kind": "expresion",
+      "group": "cortesia",
+      "native": "Muchas gracias",
+      "target": "Thank you very much",
+      "phonetic": "ZANGK iuu VE-ri MACH",
+      "en": "Thank you very much",
+      "es": "Muchas gracias"
+    },
+    {
+      "kind": "expresion",
+      "group": "cortesia",
+      "native": "De nada",
+      "target": "You're welcome",
+      "phonetic": "IUR UEL-kem",
+      "en": "You're welcome",
+      "es": "De nada"
+    },
+    {
+      "kind": "expresion",
+      "group": "cortesia",
+      "native": "Perdon",
+      "target": "Sorry",
+      "phonetic": "SO-ri",
+      "en": "Sorry",
+      "es": "Perdon"
+    },
+    {
+      "kind": "expresion",
+      "group": "cortesia",
+      "native": "Perdon por la demora",
+      "target": "Sorry for the delay",
+      "phonetic": "SO-ri for de di-LEI",
+      "en": "Sorry for the delay",
+      "es": "Perdon por la demora"
+    },
+    {
+      "kind": "expresion",
+      "group": "cortesia",
+      "native": "No hay problema",
+      "target": "No problem",
+      "phonetic": "NOU PRO-blem",
+      "en": "No problem",
+      "es": "No hay problema"
+    },
+    {
+      "kind": "expresion",
+      "group": "cortesia",
+      "native": "Esta todo bien",
+      "target": "It's all good",
+      "phonetic": "ITS OL GUD",
+      "en": "It's all good",
+      "es": "Esta todo bien"
+    },
+    {
+      "kind": "expresion",
+      "group": "cortesia",
+      "native": "Con permiso",
+      "target": "Excuse me",
+      "phonetic": "iksk-IUUS mii",
+      "en": "Excuse me",
+      "es": "Con permiso"
+    },
+    {
+      "kind": "expresion",
+      "group": "cortesia",
+      "native": "Sos muy amable",
+      "target": "That's very kind of you",
+      "phonetic": "DATS VE-ri KAIND av iuu",
+      "en": "That's very kind of you",
+      "es": "Sos muy amable"
+    },
+    {
+      "kind": "expresion",
+      "group": "no_entendi",
+      "native": "No entendi",
+      "target": "I didn't understand",
+      "phonetic": "ai DI-dent an-der-STAND",
+      "en": "I didn't understand",
+      "es": "No entendi"
+    },
+    {
+      "kind": "expresion",
+      "group": "no_entendi",
+      "native": "Podes repetir?",
+      "target": "Can you repeat that?",
+      "phonetic": "kan iuu ri-PIIT dat",
+      "en": "Can you repeat that?",
+      "es": "Podes repetir?"
+    },
+    {
+      "kind": "expresion",
+      "group": "no_entendi",
+      "native": "Mas despacio, por favor",
+      "target": "Slower, please",
+      "phonetic": "SLOU-er PLIIS",
+      "en": "Slower, please",
+      "es": "Mas despacio, por favor"
+    },
+    {
+      "kind": "expresion",
+      "group": "no_entendi",
+      "native": "Como se dice esto en ingles?",
+      "target": "How do you say this in English?",
+      "phonetic": "jau duu iuu SEI dis in ING-glish",
+      "en": "How do you say this in English?",
+      "es": "Como se dice esto en ingles?"
+    },
+    {
+      "kind": "expresion",
+      "group": "no_entendi",
+      "native": "Que significa?",
+      "target": "What does it mean?",
+      "phonetic": "uat das it MIIN",
+      "en": "What does it mean?",
+      "es": "Que significa?"
+    },
+    {
+      "kind": "expresion",
+      "group": "no_entendi",
+      "native": "Como se escribe?",
+      "target": "How do you spell it?",
+      "phonetic": "jau duu iuu SPEL it",
+      "en": "How do you spell it?",
+      "es": "Como se escribe?"
+    },
+    {
+      "kind": "expresion",
+      "group": "no_entendi",
+      "native": "Perdon, mi ingles no es muy bueno",
+      "target": "Sorry, my English isn't very good",
+      "phonetic": "SO-ri mai ING-glish I-sent VE-ri GUD",
+      "en": "Sorry, my English isn't very good",
+      "es": "Perdon, mi ingles no es muy bueno"
+    },
+    {
+      "kind": "expresion",
+      "group": "no_entendi",
+      "native": "Estoy aprendiendo",
+      "target": "I'm learning",
+      "phonetic": "AIM LER-ning",
+      "en": "I'm learning",
+      "es": "Estoy aprendiendo"
+    },
+    {
+      "kind": "expresion",
+      "group": "no_entendi",
+      "native": "Lo dije bien?",
+      "target": "Did I say it right?",
+      "phonetic": "did ai SEI it RAIT",
+      "en": "Did I say it right?",
+      "es": "Lo dije bien?"
+    },
+    {
+      "kind": "expresion",
+      "group": "no_entendi",
+      "native": "Podes escribirlo?",
+      "target": "Can you write it?",
+      "phonetic": "kan iuu RAIT it",
+      "en": "Can you write it?",
+      "es": "Podes escribirlo?"
+    },
+    {
+      "kind": "expresion",
+      "group": "no_entendi",
+      "native": "Esperame un segundo",
+      "target": "Give me a second",
+      "phonetic": "GIV mii e SE-kend",
+      "en": "Give me a second",
+      "es": "Esperame un segundo"
+    },
+    {
+      "kind": "expresion",
+      "group": "no_entendi",
+      "native": "Ahora entiendo",
+      "target": "Now I understand",
+      "phonetic": "NAU ai an-der-STAND",
+      "en": "Now I understand",
+      "es": "Ahora entiendo"
+    },
+    {
+      "kind": "expresion",
+      "group": "acuerdo",
+      "native": "Si",
+      "target": "Yes",
+      "phonetic": "IES",
+      "en": "Yes",
+      "es": "Si"
+    },
+    {
+      "kind": "expresion",
+      "group": "acuerdo",
+      "native": "No",
+      "target": "No",
+      "phonetic": "NOU",
+      "en": "No",
+      "es": "No"
+    },
+    {
+      "kind": "expresion",
+      "group": "acuerdo",
+      "native": "Claro",
+      "target": "Sure",
+      "phonetic": "SHUR",
+      "en": "Sure",
+      "es": "Claro"
+    },
+    {
+      "kind": "expresion",
+      "group": "acuerdo",
+      "native": "Estoy de acuerdo",
+      "target": "I agree",
+      "phonetic": "ai a-GRII",
+      "en": "I agree",
+      "es": "Estoy de acuerdo"
+    },
+    {
+      "kind": "expresion",
+      "group": "acuerdo",
+      "native": "No estoy de acuerdo",
+      "target": "I don't agree",
+      "phonetic": "ai DOUNT a-GRII",
+      "en": "I don't agree",
+      "es": "No estoy de acuerdo"
+    },
+    {
+      "kind": "expresion",
+      "group": "acuerdo",
+      "native": "Puede ser",
+      "target": "Maybe",
+      "phonetic": "MEI-bi",
+      "en": "Maybe",
+      "es": "Puede ser"
+    },
+    {
+      "kind": "expresion",
+      "group": "acuerdo",
+      "native": "Depende",
+      "target": "It depends",
+      "phonetic": "it di-PENDS",
+      "en": "It depends",
+      "es": "Depende"
+    },
+    {
+      "kind": "expresion",
+      "group": "acuerdo",
+      "native": "No se",
+      "target": "I don't know",
+      "phonetic": "ai DOUNT NOU",
+      "en": "I don't know",
+      "es": "No se"
+    },
+    {
+      "kind": "expresion",
+      "group": "acuerdo",
+      "native": "Tenes razon",
+      "target": "You're right",
+      "phonetic": "IUR RAIT",
+      "en": "You're right",
+      "es": "Tenes razon"
+    },
+    {
+      "kind": "expresion",
+      "group": "acuerdo",
+      "native": "Yo pienso lo mismo",
+      "target": "I think the same",
+      "phonetic": "ai ZINGK de SEIM",
+      "en": "I think the same",
+      "es": "Yo pienso lo mismo"
+    },
+    {
+      "kind": "expresion",
+      "group": "acuerdo",
+      "native": "Prefiero que no",
+      "target": "I'd rather not",
+      "phonetic": "AID RA-der NOT",
+      "en": "I'd rather not",
+      "es": "Prefiero que no"
+    },
+    {
+      "kind": "expresion",
+      "group": "reacciones",
+      "native": "Que bueno!",
+      "target": "That's great!",
+      "phonetic": "DATS GREIT",
+      "en": "That's great!",
+      "es": "Que bueno!"
+    },
+    {
+      "kind": "expresion",
+      "group": "reacciones",
+      "native": "Que lastima",
+      "target": "That's too bad",
+      "phonetic": "DATS TUU BAD",
+      "en": "That's too bad",
+      "es": "Que lastima"
+    },
+    {
+      "kind": "expresion",
+      "group": "reacciones",
+      "native": "No puedo creerlo",
+      "target": "I can't believe it",
+      "phonetic": "ai KANT bi-LIIV it",
+      "en": "I can't believe it",
+      "es": "No puedo creerlo"
+    },
+    {
+      "kind": "expresion",
+      "group": "reacciones",
+      "native": "Me gusta",
+      "target": "I like it",
+      "phonetic": "ai LAIK it",
+      "en": "I like it",
+      "es": "Me gusta"
+    },
+    {
+      "kind": "expresion",
+      "group": "reacciones",
+      "native": "No me gusta",
+      "target": "I don't like it",
+      "phonetic": "ai DOUNT LAIK it",
+      "en": "I don't like it",
+      "es": "No me gusta"
+    },
+    {
+      "kind": "expresion",
+      "group": "reacciones",
+      "native": "Que raro",
+      "target": "That's weird",
+      "phonetic": "DATS UIRD",
+      "en": "That's weird",
+      "es": "Que raro"
+    },
+    {
+      "kind": "expresion",
+      "group": "reacciones",
+      "native": "Que divertido",
+      "target": "That's fun",
+      "phonetic": "DATS FAN",
+      "en": "That's fun",
+      "es": "Que divertido"
+    },
+    {
+      "kind": "expresion",
+      "group": "reacciones",
+      "native": "Estoy cansado",
+      "target": "I'm tired",
+      "phonetic": "AIM TAI-erd",
+      "en": "I'm tired",
+      "es": "Estoy cansado"
+    },
+    {
+      "kind": "expresion",
+      "group": "reacciones",
+      "native": "Estoy contento",
+      "target": "I'm happy",
+      "phonetic": "AIM JA-pi",
+      "en": "I'm happy",
+      "es": "Estoy contento"
+    },
+    {
+      "kind": "expresion",
+      "group": "reacciones",
+      "native": "Buenisimo",
+      "target": "Awesome",
+      "phonetic": "O-sem",
+      "en": "Awesome",
+      "es": "Buenisimo"
+    },
+    {
+      "kind": "expresion",
+      "group": "cafe",
+      "native": "Un cafe, por favor",
+      "target": "A coffee, please",
+      "phonetic": "e KO-fi PLIIS",
+      "en": "A coffee, please",
+      "es": "Un cafe, por favor"
+    },
+    {
+      "kind": "expresion",
+      "group": "cafe",
+      "native": "Un cafe con leche grande",
+      "target": "A large latte",
+      "phonetic": "e LARY LO-tei",
+      "en": "A large latte",
+      "es": "Un cafe con leche grande"
+    },
+    {
+      "kind": "expresion",
+      "group": "cafe",
+      "native": "Para llevar",
+      "target": "To go",
+      "phonetic": "tuu GOU",
+      "en": "To go",
+      "es": "Para llevar"
+    },
+    {
+      "kind": "expresion",
+      "group": "cafe",
+      "native": "Para tomar aca",
+      "target": "For here",
+      "phonetic": "for jiir",
+      "en": "For here",
+      "es": "Para tomar aca"
+    },
+    {
+      "kind": "expresion",
+      "group": "cafe",
+      "native": "Sin azucar, gracias",
+      "target": "No sugar, thanks",
+      "phonetic": "NOU SHU-ger ZANGKS",
+      "en": "No sugar, thanks",
+      "es": "Sin azucar, gracias"
+    },
+    {
+      "kind": "expresion",
+      "group": "cafe",
+      "native": "La cuenta, por favor",
+      "target": "The check, please",
+      "phonetic": "de CHEK PLIIS",
+      "en": "The check, please",
+      "es": "La cuenta, por favor"
+    },
+    {
+      "kind": "expresion",
+      "group": "cafe",
+      "native": "Quedate con el vuelto",
+      "target": "Keep the change",
+      "phonetic": "KIIP de CHEINY",
+      "en": "Keep the change",
+      "es": "Quedate con el vuelto"
+    },
+    {
+      "kind": "expresion",
+      "group": "restaurante",
+      "native": "Una mesa para dos, por favor",
+      "target": "A table for two, please",
+      "phonetic": "e TEI-bel for TUU PLIIS",
+      "en": "A table for two, please",
+      "es": "Una mesa para dos, por favor"
+    },
+    {
+      "kind": "expresion",
+      "group": "restaurante",
+      "native": "La carta, por favor",
+      "target": "The menu, please",
+      "phonetic": "de MEN-iu PLIIS",
+      "en": "The menu, please",
+      "es": "La carta, por favor"
+    },
+    {
+      "kind": "expresion",
+      "group": "restaurante",
+      "native": "Quiero pedir",
+      "target": "I'd like to order",
+      "phonetic": "AID LAIK tuu OR-der",
+      "en": "I'd like to order",
+      "es": "Quiero pedir"
+    },
+    {
+      "kind": "expresion",
+      "group": "restaurante",
+      "native": "Para mi, la pizza",
+      "target": "For me, the pizza",
+      "phonetic": "for mii de PIIT-se",
+      "en": "For me, the pizza",
+      "es": "Para mi, la pizza"
+    },
+    {
+      "kind": "expresion",
+      "group": "restaurante",
+      "native": "Soy alergico al mani",
+      "target": "I'm allergic to peanuts",
+      "phonetic": "AIM a-LER-yik tuu PII-nets",
+      "en": "I'm allergic to peanuts",
+      "es": "Soy alergico al mani"
+    },
+    {
+      "kind": "expresion",
+      "group": "restaurante",
+      "native": "Estaba todo muy rico",
+      "target": "Everything was delicious",
+      "phonetic": "EV-ri-zing uos di-LI-shes",
+      "en": "Everything was delicious",
+      "es": "Estaba todo muy rico"
+    },
+    {
+      "kind": "expresion",
+      "group": "restaurante",
+      "native": "La cuenta, por favor",
+      "target": "The check, please",
+      "phonetic": "de CHEK PLIIS",
+      "en": "The check, please",
+      "es": "La cuenta, por favor"
+    },
+    {
+      "kind": "expresion",
+      "group": "compras",
+      "native": "Solo estoy mirando, gracias",
+      "target": "I'm just looking, thanks",
+      "phonetic": "AIM YAST LU-king ZANGKS",
+      "en": "I'm just looking, thanks",
+      "es": "Solo estoy mirando, gracias"
+    },
+    {
+      "kind": "expresion",
+      "group": "compras",
+      "native": "Me llevo este",
+      "target": "I'll take this one",
+      "phonetic": "AIL TEIK dis UAN",
+      "en": "I'll take this one",
+      "es": "Me llevo este"
+    },
+    {
+      "kind": "expresion",
+      "group": "compras",
+      "native": "Pago con tarjeta",
+      "target": "I'll pay by card",
+      "phonetic": "AIL PEI BAI KARD",
+      "en": "I'll pay by card",
+      "es": "Pago con tarjeta"
+    },
+    {
+      "kind": "expresion",
+      "group": "compras",
+      "native": "Pago en efectivo",
+      "target": "I'll pay in cash",
+      "phonetic": "AIL PEI in KASH",
+      "en": "I'll pay in cash",
+      "es": "Pago en efectivo"
+    },
+    {
+      "kind": "expresion",
+      "group": "compras",
+      "native": "Es para regalo",
+      "target": "It's a gift",
+      "phonetic": "ITS e GIFT",
+      "en": "It's a gift",
+      "es": "Es para regalo"
+    },
+    {
+      "kind": "expresion",
+      "group": "compras",
+      "native": "Me queda grande",
+      "target": "It's too big for me",
+      "phonetic": "ITS TUU BIG for mii",
+      "en": "It's too big for me",
+      "es": "Me queda grande"
+    },
+    {
+      "kind": "expresion",
+      "group": "direcciones",
+      "native": "Estoy perdido",
+      "target": "I'm lost",
+      "phonetic": "AIM LOST",
+      "en": "I'm lost",
+      "es": "Estoy perdido"
+    },
+    {
+      "kind": "expresion",
+      "group": "direcciones",
+      "native": "Estoy buscando esta direccion",
+      "target": "I'm looking for this address",
+      "phonetic": "AIM LU-king for dis A-dres",
+      "en": "I'm looking for this address",
+      "es": "Estoy buscando esta direccion"
+    },
+    {
+      "kind": "expresion",
+      "group": "direcciones",
+      "native": "Perdon, una consulta",
+      "target": "Excuse me, a quick question",
+      "phonetic": "iksk-IUUS mii e KUIK KUES-chen",
+      "en": "Excuse me, a quick question",
+      "es": "Perdon, una consulta"
+    },
+    {
+      "kind": "expresion",
+      "group": "direcciones",
+      "native": "Gracias por la ayuda",
+      "target": "Thanks for your help",
+      "phonetic": "ZANGKS for ior JELP",
+      "en": "Thanks for your help",
+      "es": "Gracias por la ayuda"
+    },
+    {
+      "kind": "expresion",
+      "group": "hotel",
+      "native": "Tengo una reserva",
+      "target": "I have a reservation",
+      "phonetic": "ai jav e re-ser-VEI-shen",
+      "en": "I have a reservation",
+      "es": "Tengo una reserva"
+    },
+    {
+      "kind": "expresion",
+      "group": "hotel",
+      "native": "Quiero hacer el check-in",
+      "target": "I'd like to check in",
+      "phonetic": "AID LAIK tuu CHEK in",
+      "en": "I'd like to check in",
+      "es": "Quiero hacer el check-in"
+    },
+    {
+      "kind": "expresion",
+      "group": "hotel",
+      "native": "Quiero dejar la habitacion",
+      "target": "I'd like to check out",
+      "phonetic": "AID LAIK tuu CHEK AUT",
+      "en": "I'd like to check out",
+      "es": "Quiero dejar la habitacion"
+    },
+    {
+      "kind": "expresion",
+      "group": "hotel",
+      "native": "El aire no funciona",
+      "target": "The air conditioning isn't working",
+      "phonetic": "de ER kan-DI-sha-ning I-sent UER-king",
+      "en": "The air conditioning isn't working",
+      "es": "El aire no funciona"
+    },
+    {
+      "kind": "expresion",
+      "group": "hotel",
+      "native": "Necesito mas toallas",
+      "target": "I need more towels",
+      "phonetic": "ai NIID MOR TAU-els",
+      "en": "I need more towels",
+      "es": "Necesito mas toallas"
+    },
+    {
+      "kind": "expresion",
+      "group": "aeropuerto",
+      "native": "Aca esta mi pasaporte",
+      "target": "Here's my passport",
+      "phonetic": "JIRS mai PA-sport",
+      "en": "Here's my passport",
+      "es": "Aca esta mi pasaporte"
+    },
+    {
+      "kind": "expresion",
+      "group": "aeropuerto",
+      "native": "Solo llevo equipaje de mano",
+      "target": "I only have carry-on",
+      "phonetic": "ai OUN-li jav KA-ri-on",
+      "en": "I only have carry-on",
+      "es": "Solo llevo equipaje de mano"
+    },
+    {
+      "kind": "expresion",
+      "group": "aeropuerto",
+      "native": "Vengo de vacaciones",
+      "target": "I'm here on vacation",
+      "phonetic": "AIM jiir on vei-KEI-shen",
+      "en": "I'm here on vacation",
+      "es": "Vengo de vacaciones"
+    },
+    {
+      "kind": "expresion",
+      "group": "aeropuerto",
+      "native": "Perdi mi vuelo",
+      "target": "I missed my flight",
+      "phonetic": "ai MIST mai FLAIT",
+      "en": "I missed my flight",
+      "es": "Perdi mi vuelo"
+    },
+    {
+      "kind": "expresion",
+      "group": "transporte",
+      "native": "Al centro, por favor",
+      "target": "To downtown, please",
+      "phonetic": "tuu DAUN-taun PLIIS",
+      "en": "To downtown, please",
+      "es": "Al centro, por favor"
+    },
+    {
+      "kind": "expresion",
+      "group": "transporte",
+      "native": "A esta direccion, por favor",
+      "target": "To this address, please",
+      "phonetic": "tuu dis A-dres PLIIS",
+      "en": "To this address, please",
+      "es": "A esta direccion, por favor"
+    },
+    {
+      "kind": "expresion",
+      "group": "transporte",
+      "native": "Pare aca, por favor",
+      "target": "Stop here, please",
+      "phonetic": "STOP jiir PLIIS",
+      "en": "Stop here, please",
+      "es": "Pare aca, por favor"
+    },
+    {
+      "kind": "expresion",
+      "group": "transporte",
+      "native": "Estoy un poco apurado",
+      "target": "I'm in a bit of a hurry",
+      "phonetic": "AIM in e BIT av e JER-i",
+      "en": "I'm in a bit of a hurry",
+      "es": "Estoy un poco apurado"
+    },
+    {
+      "kind": "expresion",
+      "group": "salud",
+      "native": "Me duele la cabeza",
+      "target": "I have a headache",
+      "phonetic": "ai jav e JE-deik",
+      "en": "I have a headache",
+      "es": "Me duele la cabeza"
+    },
+    {
+      "kind": "expresion",
+      "group": "salud",
+      "native": "No me siento bien",
+      "target": "I don't feel well",
+      "phonetic": "ai DOUNT FIIL UEL",
+      "en": "I don't feel well",
+      "es": "No me siento bien"
+    },
+    {
+      "kind": "expresion",
+      "group": "salud",
+      "native": "Necesito algo para el dolor",
+      "target": "I need something for the pain",
+      "phonetic": "ai NIID SAM-zing for de PEIN",
+      "en": "I need something for the pain",
+      "es": "Necesito algo para el dolor"
+    },
+    {
+      "kind": "expresion",
+      "group": "salud",
+      "native": "Soy alergico a la penicilina",
+      "target": "I'm allergic to penicillin",
+      "phonetic": "AIM a-LER-yik tuu pe-na-SI-len",
+      "en": "I'm allergic to penicillin",
+      "es": "Soy alergico a la penicilina"
+    },
+    {
+      "kind": "pregunta",
+      "group": "conocerse",
+      "native": "De donde sos?",
+      "target": "Where are you from?",
+      "phonetic": "UER ar iuu fram",
+      "en": "Where are you from?",
+      "es": "De donde sos?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "conocerse",
+      "native": "En que ciudad vivis?",
+      "target": "What city do you live in?",
+      "phonetic": "uat SI-ti duu iuu LAIV in",
+      "en": "What city do you live in?",
+      "es": "En que ciudad vivis?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "conocerse",
+      "native": "Cuantos anios tenes?",
+      "target": "How old are you?",
+      "phonetic": "jau OULD ar iuu",
+      "en": "How old are you?",
+      "es": "Cuantos anios tenes?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "conocerse",
+      "native": "A que te dedicas?",
+      "target": "What do you do?",
+      "phonetic": "uat duu iuu duu",
+      "en": "What do you do?",
+      "es": "A que te dedicas?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "conocerse",
+      "native": "Como es tu familia?",
+      "target": "What is your family like?",
+      "phonetic": "uat is ior FA-ma-li LAIK",
+      "en": "What is your family like?",
+      "es": "Como es tu familia?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "conocerse",
+      "native": "Tenes hermanos?",
+      "target": "Do you have any siblings?",
+      "phonetic": "duu iuu jav E-ni SI-blings",
+      "en": "Do you have any siblings?",
+      "es": "Tenes hermanos?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "conocerse",
+      "native": "Como te llamas?",
+      "target": "What's your name?",
+      "phonetic": "UATS ior NEIM",
+      "en": "What's your name?",
+      "es": "Como te llamas?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "conocerse",
+      "native": "Contame algo de vos",
+      "target": "Tell me something about you",
+      "phonetic": "TEL mii SAM-zing a-BAUT iuu",
+      "en": "Tell me something about you",
+      "es": "Contame algo de vos"
+    },
+    {
+      "kind": "pregunta",
+      "group": "gustos",
+      "native": "Que musica te gusta?",
+      "target": "What music do you like?",
+      "phonetic": "uat MIUU-sik duu iuu LAIK",
+      "en": "What music do you like?",
+      "es": "Que musica te gusta?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "gustos",
+      "native": "Cual es tu pelicula favorita?",
+      "target": "What's your favorite movie?",
+      "phonetic": "UATS ior FEI-ver-it MUU-vi",
+      "en": "What's your favorite movie?",
+      "es": "Cual es tu pelicula favorita?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "gustos",
+      "native": "Que comida te gusta mas?",
+      "target": "What food do you like most?",
+      "phonetic": "uat FUUD duu iuu LAIK MOUST",
+      "en": "What food do you like most?",
+      "es": "Que comida te gusta mas?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "gustos",
+      "native": "Te gusta leer?",
+      "target": "Do you like reading?",
+      "phonetic": "duu iuu LAIK RII-ding",
+      "en": "Do you like reading?",
+      "es": "Te gusta leer?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "gustos",
+      "native": "Que hacer en tu tiempo libre?",
+      "target": "What do you do in your free time?",
+      "phonetic": "uat duu iuu duu in ior FRII TAIM",
+      "en": "What do you do in your free time?",
+      "es": "Que hacer en tu tiempo libre?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "gustos",
+      "native": "Preferis el mar o la montania?",
+      "target": "Do you prefer the sea or the mountains?",
+      "phonetic": "duu iuu pra-FER de SII or de MAUN-tens",
+      "en": "Do you prefer the sea or the mountains?",
+      "es": "Preferis el mar o la montania?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "gustos",
+      "native": "Que deporte te gusta?",
+      "target": "What sport do you like?",
+      "phonetic": "uat SPORT duu iuu LAIK",
+      "en": "What sport do you like?",
+      "es": "Que deporte te gusta?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "rutina",
+      "native": "Como estuvo tu dia?",
+      "target": "How was your day?",
+      "phonetic": "jau uos ior DEI",
+      "en": "How was your day?",
+      "es": "Como estuvo tu dia?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "rutina",
+      "native": "Que hiciste hoy?",
+      "target": "What did you do today?",
+      "phonetic": "uat did iuu duu ta-DEI",
+      "en": "What did you do today?",
+      "es": "Que hiciste hoy?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "rutina",
+      "native": "A que hora te levantas?",
+      "target": "What time do you get up?",
+      "phonetic": "uat TAIM duu iuu GET AP",
+      "en": "What time do you get up?",
+      "es": "A que hora te levantas?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "rutina",
+      "native": "Como es un dia normal para vos?",
+      "target": "What's a normal day like for you?",
+      "phonetic": "UATS e NOR-mel DEI LAIK for iuu",
+      "en": "What's a normal day like for you?",
+      "es": "Como es un dia normal para vos?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "rutina",
+      "native": "Estas ocupado esta semana?",
+      "target": "Are you busy this week?",
+      "phonetic": "ar iuu BI-si dis UIIK",
+      "en": "Are you busy this week?",
+      "es": "Estas ocupado esta semana?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "rutina",
+      "native": "Como esta el clima alla?",
+      "target": "What's the weather like there?",
+      "phonetic": "UATS de UE-der LAIK der",
+      "en": "What's the weather like there?",
+      "es": "Como esta el clima alla?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "estudiar",
+      "native": "Hace cuanto estudias ingles?",
+      "target": "How long have you been studying English?",
+      "phonetic": "jau LONG jav iuu bin STA-di-ing ING-glish",
+      "en": "How long have you been studying English?",
+      "es": "Hace cuanto estudias ingles?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "estudiar",
+      "native": "Por que estudias ingles?",
+      "target": "Why are you studying English?",
+      "phonetic": "UAI ar iuu STA-di-ing ING-glish",
+      "en": "Why are you studying English?",
+      "es": "Por que estudias ingles?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "estudiar",
+      "native": "Que es lo mas dificil para vos?",
+      "target": "What's the hardest part for you?",
+      "phonetic": "UATS de JAR-dest PART for iuu",
+      "en": "What's the hardest part for you?",
+      "es": "Que es lo mas dificil para vos?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "estudiar",
+      "native": "Como practicas?",
+      "target": "How do you practice?",
+      "phonetic": "jau duu iuu PRAK-tes",
+      "en": "How do you practice?",
+      "es": "Como practicas?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "estudiar",
+      "native": "Como se dice esto en ingles?",
+      "target": "How do you say this in English?",
+      "phonetic": "jau duu iuu SEI dis in ING-glish",
+      "en": "How do you say this in English?",
+      "es": "Como se dice esto en ingles?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "estudiar",
+      "native": "Me corregis si me equivoco?",
+      "target": "Can you correct me if I'm wrong?",
+      "phonetic": "kan iuu ker-EKT mii IF AIM RONG",
+      "en": "Can you correct me if I'm wrong?",
+      "es": "Me corregis si me equivoco?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "estudiar",
+      "native": "Estuvo bien dicho?",
+      "target": "Did I say that right?",
+      "phonetic": "did ai SEI dat RAIT",
+      "en": "Did I say that right?",
+      "es": "Estuvo bien dicho?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "planes",
+      "native": "Que vas a hacer el fin de semana?",
+      "target": "What are you doing this weekend?",
+      "phonetic": "uat ar iuu DUU-ing dis UII-kend",
+      "en": "What are you doing this weekend?",
+      "es": "Que vas a hacer el fin de semana?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "planes",
+      "native": "Tenes planes para hoy?",
+      "target": "Do you have plans for today?",
+      "phonetic": "duu iuu jav PLANS for ta-DEI",
+      "en": "Do you have plans for today?",
+      "es": "Tenes planes para hoy?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "planes",
+      "native": "Te gustaria viajar?",
+      "target": "Would you like to travel?",
+      "phonetic": "uud iuu LAIK tuu TRA-vel",
+      "en": "Would you like to travel?",
+      "es": "Te gustaria viajar?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "planes",
+      "native": "A donde te gustaria ir?",
+      "target": "Where would you like to go?",
+      "phonetic": "UER uud iuu LAIK tuu GOU",
+      "en": "Where would you like to go?",
+      "es": "A donde te gustaria ir?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "planes",
+      "native": "Hablamos maniana?",
+      "target": "Shall we talk tomorrow?",
+      "phonetic": "SHAL uii TOK ta-MO-rou",
+      "en": "Shall we talk tomorrow?",
+      "es": "Hablamos maniana?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "planes",
+      "native": "Cuando te queda comodo?",
+      "target": "When works for you?",
+      "phonetic": "UEN UERKS for iuu",
+      "en": "When works for you?",
+      "es": "Cuando te queda comodo?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "cafe",
+      "native": "Cuanto cuesta?",
+      "target": "How much is it?",
+      "phonetic": "jau MACH is it",
+      "en": "How much is it?",
+      "es": "Cuanto cuesta?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "cafe",
+      "native": "Tienen wifi?",
+      "target": "Do you have wifi?",
+      "phonetic": "duu iuu jav UAI-fai",
+      "en": "Do you have wifi?",
+      "es": "Tienen wifi?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "cafe",
+      "native": "Puedo pagar con tarjeta?",
+      "target": "Can I pay by card?",
+      "phonetic": "kan ai PEI BAI KARD",
+      "en": "Can I pay by card?",
+      "es": "Puedo pagar con tarjeta?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "cafe",
+      "native": "Donde esta el bano?",
+      "target": "Where's the bathroom?",
+      "phonetic": "UERS de BAZ-rum",
+      "en": "Where's the bathroom?",
+      "es": "Donde esta el bano?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "restaurante",
+      "native": "Que me recomendas?",
+      "target": "What do you recommend?",
+      "phonetic": "uat duu iuu re-ka-MEND",
+      "en": "What do you recommend?",
+      "es": "Que me recomendas?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "restaurante",
+      "native": "Tienen opciones sin gluten?",
+      "target": "Do you have gluten-free options?",
+      "phonetic": "duu iuu jav GLUU-tan-frii OP-shens",
+      "en": "Do you have gluten-free options?",
+      "es": "Tienen opciones sin gluten?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "restaurante",
+      "native": "Esta incluida la propina?",
+      "target": "Is the tip included?",
+      "phonetic": "is de TIP in-KLUU-ded",
+      "en": "Is the tip included?",
+      "es": "Esta incluida la propina?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "restaurante",
+      "native": "Me pasas la carta?",
+      "target": "Can I have the menu?",
+      "phonetic": "kan ai jav de MEN-iu",
+      "en": "Can I have the menu?",
+      "es": "Me pasas la carta?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "compras",
+      "native": "Cuanto cuesta?",
+      "target": "How much is it?",
+      "phonetic": "jau MACH is it",
+      "en": "How much is it?",
+      "es": "Cuanto cuesta?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "compras",
+      "native": "Tienen otro talle?",
+      "target": "Do you have another size?",
+      "phonetic": "duu iuu jav a-NA-der SAIS",
+      "en": "Do you have another size?",
+      "es": "Tienen otro talle?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "compras",
+      "native": "Me das el vuelto?",
+      "target": "Can I get my change?",
+      "phonetic": "kan ai GET mai CHEINY",
+      "en": "Can I get my change?",
+      "es": "Me das el vuelto?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "compras",
+      "native": "Hay algun descuento?",
+      "target": "Is there any discount?",
+      "phonetic": "is der E-ni di-SKAUNT",
+      "en": "Is there any discount?",
+      "es": "Hay algun descuento?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "compras",
+      "native": "Puedo probarmelo?",
+      "target": "Can I try it on?",
+      "phonetic": "kan ai TRAI it on",
+      "en": "Can I try it on?",
+      "es": "Puedo probarmelo?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "direcciones",
+      "native": "Como llego a la estacion?",
+      "target": "How do I get to the station?",
+      "phonetic": "jau duu ai GET tuu de STEI-shen",
+      "en": "How do I get to the station?",
+      "es": "Como llego a la estacion?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "direcciones",
+      "native": "Esta lejos de aca?",
+      "target": "Is it far from here?",
+      "phonetic": "is it FAR fram jiir",
+      "en": "Is it far from here?",
+      "es": "Esta lejos de aca?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "direcciones",
+      "native": "Es por aca?",
+      "target": "Is it this way?",
+      "phonetic": "is it dis UEI",
+      "en": "Is it this way?",
+      "es": "Es por aca?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "direcciones",
+      "native": "Me lo mostras en el mapa?",
+      "target": "Can you show me on the map?",
+      "phonetic": "kan iuu SHOU mii on de MAP",
+      "en": "Can you show me on the map?",
+      "es": "Me lo mostras en el mapa?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "hotel",
+      "native": "A que hora es el check-out?",
+      "target": "What time is check-out?",
+      "phonetic": "uat TAIM is CHE-kaut",
+      "en": "What time is check-out?",
+      "es": "A que hora es el check-out?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "hotel",
+      "native": "Esta incluido el desayuno?",
+      "target": "Is breakfast included?",
+      "phonetic": "is BREK-fest in-KLUU-ded",
+      "en": "Is breakfast included?",
+      "es": "Esta incluido el desayuno?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "hotel",
+      "native": "Hay wifi en la habitacion?",
+      "target": "Is there wifi in the room?",
+      "phonetic": "is der UAI-fai in de RUUM",
+      "en": "Is there wifi in the room?",
+      "es": "Hay wifi en la habitacion?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "hotel",
+      "native": "Me guardan las valijas?",
+      "target": "Can you keep my luggage?",
+      "phonetic": "kan iuu KIIP mai LA-gey",
+      "en": "Can you keep my luggage?",
+      "es": "Me guardan las valijas?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "aeropuerto",
+      "native": "Donde es el embarque?",
+      "target": "Where's the boarding gate?",
+      "phonetic": "UERS de BOR-ding GEIT",
+      "en": "Where's the boarding gate?",
+      "es": "Donde es el embarque?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "aeropuerto",
+      "native": "A que hora embarcamos?",
+      "target": "What time do we board?",
+      "phonetic": "uat TAIM duu uii BORD",
+      "en": "What time do we board?",
+      "es": "A que hora embarcamos?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "aeropuerto",
+      "native": "Donde retiro el equipaje?",
+      "target": "Where do I pick up my luggage?",
+      "phonetic": "UER duu ai PIK AP mai LA-gey",
+      "en": "Where do I pick up my luggage?",
+      "es": "Donde retiro el equipaje?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "aeropuerto",
+      "native": "El vuelo esta demorado?",
+      "target": "Is the flight delayed?",
+      "phonetic": "is de FLAIT di-LEID",
+      "en": "Is the flight delayed?",
+      "es": "El vuelo esta demorado?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "transporte",
+      "native": "Cuanto sale hasta el centro?",
+      "target": "How much is it to downtown?",
+      "phonetic": "jau MACH is it tuu DAUN-taun",
+      "en": "How much is it to downtown?",
+      "es": "Cuanto sale hasta el centro?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "transporte",
+      "native": "Cuanto tarda?",
+      "target": "How long does it take?",
+      "phonetic": "jau LONG das it TEIK",
+      "en": "How long does it take?",
+      "es": "Cuanto tarda?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "transporte",
+      "native": "Para en la estacion?",
+      "target": "Does it stop at the station?",
+      "phonetic": "das it STOP at de STEI-shen",
+      "en": "Does it stop at the station?",
+      "es": "Para en la estacion?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "transporte",
+      "native": "Donde me bajo?",
+      "target": "Where do I get off?",
+      "phonetic": "UER duu ai GET OF",
+      "en": "Where do I get off?",
+      "es": "Donde me bajo?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "salud",
+      "native": "Tenes algo para el dolor de cabeza?",
+      "target": "Do you have anything for a headache?",
+      "phonetic": "duu iuu jav E-ni-zing for e JE-deik",
+      "en": "Do you have anything for a headache?",
+      "es": "Tenes algo para el dolor de cabeza?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "salud",
+      "native": "Necesito receta?",
+      "target": "Do I need a prescription?",
+      "phonetic": "duu ai NIID e pras-KRIP-shen",
+      "en": "Do I need a prescription?",
+      "es": "Necesito receta?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "salud",
+      "native": "Como lo tomo?",
+      "target": "How do I take it?",
+      "phonetic": "jau duu ai TEIK it",
+      "en": "How do I take it?",
+      "es": "Como lo tomo?"
+    },
+    {
+      "kind": "pregunta",
+      "group": "salud",
+      "native": "Donde hay una farmacia?",
+      "target": "Where's a pharmacy?",
+      "phonetic": "UERS e FAR-ma-si",
+      "en": "Where's a pharmacy?",
+      "es": "Donde hay una farmacia?"
+    },
+    {
+      "kind": "respuesta",
+      "group": "sobre_mi",
+      "native": "Soy de Argentina",
+      "target": "I'm from Argentina",
+      "phonetic": "AIM fram ar-yan-TII-ne",
+      "en": "I'm from Argentina",
+      "es": "Soy de Argentina"
+    },
+    {
+      "kind": "respuesta",
+      "group": "sobre_mi",
+      "native": "Vivo en Buenos Aires",
+      "target": "I live in Buenos Aires",
+      "phonetic": "ai LAIV in BUEI-nous E-ris",
+      "en": "I live in Buenos Aires",
+      "es": "Vivo en Buenos Aires"
+    },
+    {
+      "kind": "respuesta",
+      "group": "sobre_mi",
+      "native": "Tengo veinte anios",
+      "target": "I'm twenty years old",
+      "phonetic": "AIM TUEN-ti IIRS OULD",
+      "en": "I'm twenty years old",
+      "es": "Tengo veinte anios"
+    },
+    {
+      "kind": "respuesta",
+      "group": "sobre_mi",
+      "native": "Soy estudiante",
+      "target": "I'm a student",
+      "phonetic": "AIM e STUU-dent",
+      "en": "I'm a student",
+      "es": "Soy estudiante"
+    },
+    {
+      "kind": "respuesta",
+      "group": "sobre_mi",
+      "native": "Trabajo en una oficina",
+      "target": "I work in an office",
+      "phonetic": "ai UERK in an O-fis",
+      "en": "I work in an office",
+      "es": "Trabajo en una oficina"
+    },
+    {
+      "kind": "respuesta",
+      "group": "sobre_mi",
+      "native": "Vivo con mi familia",
+      "target": "I live with my family",
+      "phonetic": "ai LAIV uid mai FA-ma-li",
+      "en": "I live with my family",
+      "es": "Vivo con mi familia"
+    },
+    {
+      "kind": "respuesta",
+      "group": "sobre_mi",
+      "native": "Tengo un hermano",
+      "target": "I have one brother",
+      "phonetic": "ai jav UAN BRA-der",
+      "en": "I have one brother",
+      "es": "Tengo un hermano"
+    },
+    {
+      "kind": "respuesta",
+      "group": "sobre_mi",
+      "native": "Encantado de conocerte",
+      "target": "Nice to meet you",
+      "phonetic": "NAIS tuu MIIT iuu",
+      "en": "Nice to meet you",
+      "es": "Encantado de conocerte"
+    },
+    {
+      "kind": "respuesta",
+      "group": "gustos",
+      "native": "Me encanta",
+      "target": "I love it",
+      "phonetic": "ai LAV it",
+      "en": "I love it",
+      "es": "Me encanta"
+    },
+    {
+      "kind": "respuesta",
+      "group": "gustos",
+      "native": "Me gusta mucho",
+      "target": "I like it a lot",
+      "phonetic": "ai LAIK it e LOT",
+      "en": "I like it a lot",
+      "es": "Me gusta mucho"
+    },
+    {
+      "kind": "respuesta",
+      "group": "gustos",
+      "native": "No me gusta tanto",
+      "target": "I don't like it that much",
+      "phonetic": "ai DOUNT LAIK it dat MACH",
+      "en": "I don't like it that much",
+      "es": "No me gusta tanto"
+    },
+    {
+      "kind": "respuesta",
+      "group": "gustos",
+      "native": "Prefiero el otro",
+      "target": "I prefer the other one",
+      "phonetic": "ai pra-FER de A-der UAN",
+      "en": "I prefer the other one",
+      "es": "Prefiero el otro"
+    },
+    {
+      "kind": "respuesta",
+      "group": "gustos",
+      "native": "Depende del dia",
+      "target": "It depends on the day",
+      "phonetic": "it di-PENDS on de DEI",
+      "en": "It depends on the day",
+      "es": "Depende del dia"
+    },
+    {
+      "kind": "respuesta",
+      "group": "gustos",
+      "native": "Nunca lo probe",
+      "target": "I've never tried it",
+      "phonetic": "AIV NE-ver TRAID it",
+      "en": "I've never tried it",
+      "es": "Nunca lo probe"
+    },
+    {
+      "kind": "respuesta",
+      "group": "gustos",
+      "native": "Es mi favorito",
+      "target": "It's my favorite",
+      "phonetic": "ITS mai FEI-ver-it",
+      "en": "It's my favorite",
+      "es": "Es mi favorito"
+    },
+    {
+      "kind": "respuesta",
+      "group": "rutina",
+      "native": "Estuvo bien, gracias",
+      "target": "It was good, thanks",
+      "phonetic": "it uos GUD ZANGKS",
+      "en": "It was good, thanks",
+      "es": "Estuvo bien, gracias"
+    },
+    {
+      "kind": "respuesta",
+      "group": "rutina",
+      "native": "Fue un dia largo",
+      "target": "It was a long day",
+      "phonetic": "it uos e LONG DEI",
+      "en": "It was a long day",
+      "es": "Fue un dia largo"
+    },
+    {
+      "kind": "respuesta",
+      "group": "rutina",
+      "native": "Estoy bastante ocupado",
+      "target": "I'm pretty busy",
+      "phonetic": "AIM PRI-ti BI-si",
+      "en": "I'm pretty busy",
+      "es": "Estoy bastante ocupado"
+    },
+    {
+      "kind": "respuesta",
+      "group": "rutina",
+      "native": "Hoy no hice mucho",
+      "target": "I didn't do much today",
+      "phonetic": "ai DI-dent duu MACH ta-DEI",
+      "en": "I didn't do much today",
+      "es": "Hoy no hice mucho"
+    },
+    {
+      "kind": "respuesta",
+      "group": "rutina",
+      "native": "Aca esta lindo",
+      "target": "The weather is nice here",
+      "phonetic": "de UE-der is NAIS jiir",
+      "en": "The weather is nice here",
+      "es": "Aca esta lindo"
+    },
+    {
+      "kind": "respuesta",
+      "group": "rutina",
+      "native": "Me levanto temprano",
+      "target": "I get up early",
+      "phonetic": "ai GET AP ER-li",
+      "en": "I get up early",
+      "es": "Me levanto temprano"
+    },
+    {
+      "kind": "respuesta",
+      "group": "estudiar",
+      "native": "Hace un anio que estudio",
+      "target": "I've been studying for a year",
+      "phonetic": "AIV bin STA-di-ing for e IIR",
+      "en": "I've been studying for a year",
+      "es": "Hace un anio que estudio"
+    },
+    {
+      "kind": "respuesta",
+      "group": "estudiar",
+      "native": "Lo estudio por trabajo",
+      "target": "I study it for work",
+      "phonetic": "ai STA-di it for UERK",
+      "en": "I study it for work",
+      "es": "Lo estudio por trabajo"
+    },
+    {
+      "kind": "respuesta",
+      "group": "estudiar",
+      "native": "Lo mas dificil es escuchar",
+      "target": "The hardest part is listening",
+      "phonetic": "de JAR-dest PART is LI-sa-ning",
+      "en": "The hardest part is listening",
+      "es": "Lo mas dificil es escuchar"
+    },
+    {
+      "kind": "respuesta",
+      "group": "estudiar",
+      "native": "Practico todos los dias",
+      "target": "I practice every day",
+      "phonetic": "ai PRAK-tes E-ver-i DEI",
+      "en": "I practice every day",
+      "es": "Practico todos los dias"
+    },
+    {
+      "kind": "respuesta",
+      "group": "estudiar",
+      "native": "Todavia me cuesta",
+      "target": "It's still hard for me",
+      "phonetic": "ITS STIL JARD for mii",
+      "en": "It's still hard for me",
+      "es": "Todavia me cuesta"
+    },
+    {
+      "kind": "respuesta",
+      "group": "estudiar",
+      "native": "Gracias por corregirme",
+      "target": "Thanks for correcting me",
+      "phonetic": "ZANGKS for ker-EK-ting mii",
+      "en": "Thanks for correcting me",
+      "es": "Gracias por corregirme"
+    },
+    {
+      "kind": "respuesta",
+      "group": "estudiar",
+      "native": "Recien empiezo",
+      "target": "I'm just starting",
+      "phonetic": "AIM YAST STAR-ting",
+      "en": "I'm just starting",
+      "es": "Recien empiezo"
+    },
+    {
+      "kind": "respuesta",
+      "group": "planes",
+      "native": "Todavia no se",
+      "target": "I don't know yet",
+      "phonetic": "ai DOUNT NOU IET",
+      "en": "I don't know yet",
+      "es": "Todavia no se"
+    },
+    {
+      "kind": "respuesta",
+      "group": "planes",
+      "native": "Me encantaria",
+      "target": "I'd love to",
+      "phonetic": "AID LAV tuu",
+      "en": "I'd love to",
+      "es": "Me encantaria"
+    },
+    {
+      "kind": "respuesta",
+      "group": "planes",
+      "native": "Hoy no puedo",
+      "target": "I can't today",
+      "phonetic": "ai KANT ta-DEI",
+      "en": "I can't today",
+      "es": "Hoy no puedo"
+    },
+    {
+      "kind": "respuesta",
+      "group": "planes",
+      "native": "Maniana me queda mejor",
+      "target": "Tomorrow works better for me",
+      "phonetic": "ta-MO-rou UERKS BE-ter for mii",
+      "en": "Tomorrow works better for me",
+      "es": "Maniana me queda mejor"
+    },
+    {
+      "kind": "respuesta",
+      "group": "planes",
+      "native": "Dale, hablamos",
+      "target": "Sure, let's talk",
+      "phonetic": "SHUR LETS TOK",
+      "en": "Sure, let's talk",
+      "es": "Dale, hablamos"
+    },
+    {
+      "kind": "respuesta",
+      "group": "planes",
+      "native": "Cuando quieras",
+      "target": "Whenever you want",
+      "phonetic": "ue-NE-ver iuu UONT",
+      "en": "Whenever you want",
+      "es": "Cuando quieras"
+    },
+    {
+      "kind": "desafio",
+      "group": "a1",
+      "native": "Manda un saludo sacado del #",
+      "target": "Hi, how are you?",
+      "phonetic": "JAI jau ar iuu",
+      "check": "frase:expresion",
+      "en": "Hi, how are you?",
+      "es": "Manda un saludo sacado del #"
+    },
+    {
+      "kind": "desafio",
+      "group": "a1",
+      "native": "Hacele una pregunta sacada del ?",
+      "target": "Where are you from?",
+      "phonetic": "UER ar iuu fram",
+      "check": "frase:pregunta",
+      "en": "Where are you from?",
+      "es": "Hacele una pregunta sacada del ?"
+    },
+    {
+      "kind": "desafio",
+      "group": "a1",
+      "native": "Contestale algo sacado del !",
+      "target": "I'm from Argentina",
+      "phonetic": "AIM fram ar-yan-TII-ne",
+      "check": "frase:respuesta",
+      "en": "I'm from Argentina",
+      "es": "Contestale algo sacado del !"
+    },
+    {
+      "kind": "desafio",
+      "group": "a1",
+      "native": "Saluda usando la palabra \"hi\"",
+      "target": "Hi! How are you?",
+      "phonetic": "JAI jau ar iuu",
+      "check": "contiene:hi|hello",
+      "en": "Hi! How are you?",
+      "es": "Saluda usando la palabra \"hi\""
+    },
+    {
+      "kind": "desafio",
+      "group": "a1",
+      "native": "Deletrea tu nombre, letra por letra",
+      "target": "A-N-A",
+      "phonetic": "a-E-ne",
+      "check": "deletreo",
+      "en": "A-N-A",
+      "es": "Deletrea tu nombre, letra por letra"
+    },
+    {
+      "kind": "desafio",
+      "group": "a1",
+      "native": "Escribi un numero cualquiera en ingles",
+      "target": "seven",
+      "phonetic": "SE-ven",
+      "check": "numero",
+      "en": "seven",
+      "es": "Escribi un numero cualquiera en ingles"
+    },
+    {
+      "kind": "desafio",
+      "group": "a1",
+      "native": "Deci de donde sos",
+      "target": "I'm from Argentina",
+      "phonetic": "AIM fram ar-yan-TII-ne",
+      "check": "contiene:from|i'm|im",
+      "en": "I'm from Argentina",
+      "es": "Deci de donde sos"
+    },
+    {
+      "kind": "desafio",
+      "group": "a1",
+      "native": "Deci una cosa que te gusta",
+      "target": "I like music",
+      "phonetic": "ai LAIK MIUU-sik",
+      "check": "contiene:like|love",
+      "en": "I like music",
+      "es": "Deci una cosa que te gusta"
+    },
+    {
+      "kind": "desafio",
+      "group": "a1",
+      "native": "Preguntale algo, lo que sea",
+      "target": "How are you?",
+      "phonetic": "jau ar iuu",
+      "check": "contiene:?",
+      "en": "How are you?",
+      "es": "Preguntale algo, lo que sea"
+    },
+    {
+      "kind": "desafio",
+      "group": "a1",
+      "native": "Mandale un audio diciendo \"hello\"",
+      "target": "Hello!",
+      "phonetic": "ja-LOU",
+      "check": "audio",
+      "en": "Hello!",
+      "es": "Mandale un audio diciendo \"hello\""
+    },
+    {
+      "kind": "desafio",
+      "group": "a1",
+      "native": "Deci un color que te guste",
+      "target": "I like blue",
+      "phonetic": "ai LAIK BLUU",
+      "check": "contiene:blue|red|green|black|white|yellow",
+      "en": "I like blue",
+      "es": "Deci un color que te guste"
+    },
+    {
+      "kind": "desafio",
+      "group": "a1",
+      "native": "Escribi tres palabras en ingles",
+      "target": "cat dog sun",
+      "phonetic": "KAT DOG SAN",
+      "check": "texto:9",
+      "en": "cat dog sun",
+      "es": "Escribi tres palabras en ingles"
+    },
+    {
+      "kind": "desafio",
+      "group": "a1",
+      "native": "Deci como te sentis hoy",
+      "target": "I'm happy today",
+      "phonetic": "AIM JA-pi ta-DEI",
+      "check": "contiene:i'm|im|i am",
+      "en": "I'm happy today",
+      "es": "Deci como te sentis hoy"
+    },
+    {
+      "kind": "desafio",
+      "group": "a2",
+      "native": "Usa una expresion del # en una charla",
+      "target": "Long time no see!",
+      "phonetic": "LONG TAIM NOU SII",
+      "check": "frase:expresion",
+      "en": "Long time no see!",
+      "es": "Usa una expresion del # en una charla"
+    },
+    {
+      "kind": "desafio",
+      "group": "a2",
+      "native": "Hacele una pregunta del ? y espera la respuesta",
+      "target": "What music do you like?",
+      "phonetic": "uat MIUU-sik duu iuu LAIK",
+      "check": "frase:pregunta",
+      "en": "What music do you like?",
+      "es": "Hacele una pregunta del ? y espera la respuesta"
+    },
+    {
+      "kind": "desafio",
+      "group": "a2",
+      "native": "Contestale con una del !",
+      "target": "I like it a lot",
+      "phonetic": "ai LAIK it e LOT",
+      "check": "frase:respuesta",
+      "en": "I like it a lot",
+      "es": "Contestale con una del !"
+    },
+    {
+      "kind": "desafio",
+      "group": "a2",
+      "native": "Conta que hiciste ayer",
+      "target": "Yesterday I went to the park",
+      "phonetic": "IE-ster-dei ai UENT tuu de PARK",
+      "check": "texto:25",
+      "en": "Yesterday I went to the park",
+      "es": "Conta que hiciste ayer"
+    },
+    {
+      "kind": "desafio",
+      "group": "a2",
+      "native": "Describi a alguien de tu familia",
+      "target": "My sister is tall and funny",
+      "phonetic": "mai SI-ster is TOL end FA-ni",
+      "check": "texto:25",
+      "en": "My sister is tall and funny",
+      "es": "Describi a alguien de tu familia"
+    },
+    {
+      "kind": "desafio",
+      "group": "a2",
+      "native": "Conta que vas a hacer maniana",
+      "target": "Tomorrow I'm going to work",
+      "phonetic": "ta-MO-rou AIM GOU-ing tuu UERK",
+      "check": "contiene:tomorrow|going",
+      "en": "Tomorrow I'm going to work",
+      "es": "Conta que vas a hacer maniana"
+    },
+    {
+      "kind": "desafio",
+      "group": "a2",
+      "native": "Deci que comida NO te gusta, y por que",
+      "target": "I don't like fish because of the smell",
+      "phonetic": "ai DOUNT LAIK FISH bi-KOS av de SMEL",
+      "check": "contiene:because",
+      "en": "I don't like fish because of the smell",
+      "es": "Deci que comida NO te gusta, y por que"
+    },
+    {
+      "kind": "desafio",
+      "group": "a2",
+      "native": "Pedi algo con educacion",
+      "target": "Could you help me, please?",
+      "phonetic": "kud iuu JELP mii PLIIS",
+      "check": "contiene:please|could",
+      "en": "Could you help me, please?",
+      "es": "Pedi algo con educacion"
+    },
+    {
+      "kind": "desafio",
+      "group": "a2",
+      "native": "Mandale un audio contando como estuvo tu dia",
+      "target": "My day was good",
+      "phonetic": "mai DEI uos GUD",
+      "check": "audio",
+      "en": "My day was good",
+      "es": "Mandale un audio contando como estuvo tu dia"
+    },
+    {
+      "kind": "desafio",
+      "group": "a2",
+      "native": "Conta como es tu casa",
+      "target": "My house is small but comfortable",
+      "phonetic": "mai JAUS is SMOL BAT KAM-fer-ta-bel",
+      "check": "texto:25",
+      "en": "My house is small but comfortable",
+      "es": "Conta como es tu casa"
+    },
+    {
+      "kind": "desafio",
+      "group": "a2",
+      "native": "Deci que tiempo hace hoy",
+      "target": "It's raining and it's cold",
+      "phonetic": "ITS REI-ning end ITS KOULD",
+      "check": "texto:15",
+      "en": "It's raining and it's cold",
+      "es": "Deci que tiempo hace hoy"
+    },
+    {
+      "kind": "desafio",
+      "group": "a2",
+      "native": "Escribi algo lindo para la otra persona",
+      "target": "You're doing great!",
+      "phonetic": "IUR DUU-ing GREIT",
+      "check": "texto:12",
+      "en": "You're doing great!",
+      "es": "Escribi algo lindo para la otra persona"
+    },
+    {
+      "kind": "desafio",
+      "group": "a2",
+      "native": "Usa la palabra \"but\" en una frase",
+      "target": "I'm tired but happy",
+      "phonetic": "AIM TAI-erd BAT JA-pi",
+      "check": "contiene:but",
+      "en": "I'm tired but happy",
+      "es": "Usa la palabra \"but\" en una frase"
+    },
+    {
+      "kind": "desafio",
+      "group": "a2",
+      "native": "Conta que hacer los fines de semana",
+      "target": "On weekends I visit my friends",
+      "phonetic": "on UII-kends ai VI-sit mai FRENDS",
+      "check": "texto:25",
+      "en": "On weekends I visit my friends",
+      "es": "Conta que hacer los fines de semana"
+    },
+    {
+      "kind": "desafio",
+      "group": "a2",
+      "native": "Escribi dos numeros seguidos",
+      "target": "twelve and thirty",
+      "phonetic": "TUELV end ZER-di",
+      "check": "numero",
+      "en": "twelve and thirty",
+      "es": "Escribi dos numeros seguidos"
+    },
+    {
+      "kind": "desafio",
+      "group": "a2",
+      "native": "Deletrea el nombre de tu ciudad",
+      "target": "R-O-S-A-R-I-O",
+      "phonetic": "O-rou-e-sa-o-rai-ou",
+      "check": "deletreo",
+      "en": "R-O-S-A-R-I-O",
+      "es": "Deletrea el nombre de tu ciudad"
+    },
+    {
+      "kind": "desafio",
+      "group": "a2",
+      "native": "Preguntale dos cosas en el mismo mensaje",
+      "target": "Where are you from? What do you do?",
+      "phonetic": "UER ar iuu fram uat duu iuu duu",
+      "check": "contiene:?",
+      "en": "Where are you from? What do you do?",
+      "es": "Preguntale dos cosas en el mismo mensaje"
+    },
+    {
+      "kind": "desafio",
+      "group": "a2",
+      "native": "Conta algo que te haya pasado esta semana",
+      "target": "This week I lost my keys",
+      "phonetic": "dis UIIK ai LOST mai KIIS",
+      "check": "texto:25",
+      "en": "This week I lost my keys",
+      "es": "Conta algo que te haya pasado esta semana"
+    },
+    {
+      "kind": "desafio",
+      "group": "a2",
+      "native": "Deci cual es tu dia favorito y por que",
+      "target": "Friday, because work ends",
+      "phonetic": "FRAI-di bi-KOS UERK ENDS",
+      "check": "contiene:because",
+      "en": "Friday, because work ends",
+      "es": "Deci cual es tu dia favorito y por que"
+    },
+    {
+      "kind": "desafio",
+      "group": "b1",
+      "native": "Conta una pelicula que viste",
+      "target": "I watched a movie about a lost dog",
+      "phonetic": "ai UOCHT e MUU-vi a-BAUT e LOST DOG",
+      "check": "texto:30",
+      "en": "I watched a movie about a lost dog",
+      "es": "Conta una pelicula que viste"
+    },
+    {
+      "kind": "desafio",
+      "group": "b1",
+      "native": "Explica por que estudias ingles",
+      "target": "I study English to get a better job",
+      "phonetic": "ai STA-di ING-glish tuu GET e BE-ter YOB",
+      "check": "contiene:because|to",
+      "en": "I study English to get a better job",
+      "es": "Explica por que estudias ingles"
+    },
+    {
+      "kind": "desafio",
+      "group": "b1",
+      "native": "Conta un problema y como lo resolviste",
+      "target": "My phone broke, so I took it to a shop",
+      "phonetic": "mai FOUN BROUK SOU ai TUK it tuu e SHOP",
+      "check": "texto:35",
+      "en": "My phone broke, so I took it to a shop",
+      "es": "Conta un problema y como lo resolviste"
+    },
+    {
+      "kind": "desafio",
+      "group": "b1",
+      "native": "Deci que harias con mas tiempo libre",
+      "target": "If I had more free time, I would travel",
+      "phonetic": "IF ai jad MOR FRII TAIM ai uud TRA-vel",
+      "check": "contiene:would",
+      "en": "If I had more free time, I would travel",
+      "es": "Deci que harias con mas tiempo libre"
+    },
+    {
+      "kind": "desafio",
+      "group": "b1",
+      "native": "Compara dos ciudades",
+      "target": "Buenos Aires is bigger but noisier than Cordoba",
+      "phonetic": "BUEI-nous E-ris is BI-ger BAT NOI-si-er DAN kor-DOU-be",
+      "check": "contiene:than",
+      "en": "Buenos Aires is bigger but noisier than Cordoba",
+      "es": "Compara dos ciudades"
+    },
+    {
+      "kind": "desafio",
+      "group": "b1",
+      "native": "Mandale un audio de al menos diez segundos",
+      "target": "Tell them about your week",
+      "phonetic": "TEL DEM a-BAUT ior UIIK",
+      "check": "audio",
+      "en": "Tell them about your week",
+      "es": "Mandale un audio de al menos diez segundos"
+    },
+    {
+      "kind": "desafio",
+      "group": "b1",
+      "native": "Conta un recuerdo de tu infancia",
+      "target": "When I was a child, I played in the street",
+      "phonetic": "UEN ai uos e CHAILD ai PLEID in de STRIIT",
+      "check": "contiene:when|was",
+      "en": "When I was a child, I played in the street",
+      "es": "Conta un recuerdo de tu infancia"
+    },
+    {
+      "kind": "desafio",
+      "group": "b1",
+      "native": "Deci algo que NUNCA hiciste",
+      "target": "I have never flown on a plane",
+      "phonetic": "ai jav NE-ver FLOUN on e PLEIN",
+      "check": "contiene:never",
+      "en": "I have never flown on a plane",
+      "es": "Deci algo que NUNCA hiciste"
+    },
+    {
+      "kind": "desafio",
+      "group": "b2",
+      "native": "Da tu opinion sobre las redes sociales",
+      "target": "Social media connects us but it also isolates us",
+      "phonetic": "SOU-shel MII-di-e ka-NEKTS as BAT it OL-sou AI-sa-leits as",
+      "check": "texto:40",
+      "en": "Social media connects us but it also isolates us",
+      "es": "Da tu opinion sobre las redes sociales"
+    },
+    {
+      "kind": "desafio",
+      "group": "b2",
+      "native": "Explica una ventaja y una desventaja del trabajo remoto",
+      "target": "Working from home saves time, although it blurs the line with rest",
+      "phonetic": "UER-king fram JOUM SEIVS TAIM ol-DOU it BLERS de LAIN uid REST",
+      "check": "contiene:although|however|but",
+      "en": "Working from home saves time, although it blurs the line with rest",
+      "es": "Explica una ventaja y una desventaja del trabajo remoto"
+    },
+    {
+      "kind": "desafio",
+      "group": "b2",
+      "native": "Conta algo que cambiarias de tu ciudad",
+      "target": "I would improve public transport first",
+      "phonetic": "ai uud im-PRUUV PA-blik tran-SPORT FERST",
+      "check": "contiene:would",
+      "en": "I would improve public transport first",
+      "es": "Conta algo que cambiarias de tu ciudad"
+    },
+    {
+      "kind": "desafio",
+      "group": "b2",
+      "native": "Explica por que algo te sorprendio",
+      "target": "What surprised me was how quickly people adapted",
+      "phonetic": "uat ser-PRAISD mii uos jau KUI-kli PII-pel a-DAP-tid",
+      "check": "texto:40",
+      "en": "What surprised me was how quickly people adapted",
+      "es": "Explica por que algo te sorprendio"
+    },
+    {
+      "kind": "desafio",
+      "group": "b2",
+      "native": "Defende una idea con la que no estas de acuerdo",
+      "target": "Even though I disagree, I can see the point",
+      "phonetic": "II-vin DOU ai di-sa-GRII ai kan SII de POINT",
+      "check": "texto:40",
+      "en": "Even though I disagree, I can see the point",
+      "es": "Defende una idea con la que no estas de acuerdo"
+    },
+    {
+      "kind": "desafio",
+      "group": "b2",
+      "native": "Mandale un audio explicando una opinion tuya",
+      "target": "Say what you think and why",
+      "phonetic": "SEI uat iuu ZINGK end UAI",
+      "check": "audio",
+      "en": "Say what you think and why",
+      "es": "Mandale un audio explicando una opinion tuya"
+    },
+    {
+      "kind": "desafio",
+      "group": "c1",
+      "native": "Explica una idea complicada en palabras simples",
+      "target": "Inflation means your money buys less than it did before",
+      "phonetic": "in-FLEI-shen MIINS ior MA-ni BAIS LES DAN it did bi-FOR",
+      "check": "texto:45",
+      "en": "Inflation means your money buys less than it did before",
+      "es": "Explica una idea complicada en palabras simples"
+    },
+    {
+      "kind": "desafio",
+      "group": "c1",
+      "native": "Conta como cambio tu forma de pensar sobre algo",
+      "target": "I used to think talent mattered most, but practice matters more",
+      "phonetic": "ai IUUSD tuu ZINGK TA-lent MA-terd MOUST BAT PRAK-tes MA-ters MOR",
+      "check": "contiene:used to",
+      "en": "I used to think talent mattered most, but practice matters more",
+      "es": "Conta como cambio tu forma de pensar sobre algo"
+    },
+    {
+      "kind": "desafio",
+      "group": "c1",
+      "native": "Argumenta a favor de algo impopular",
+      "target": "Boredom is undervalued: it's where most good ideas start",
+      "phonetic": "BOR-dem is undervalued: ITS UER MOUST GUD ai-DII-es START",
+      "check": "texto:45",
+      "en": "Boredom is undervalued: it's where most good ideas start",
+      "es": "Argumenta a favor de algo impopular"
+    },
+    {
+      "kind": "desafio",
+      "group": "c1",
+      "native": "Deci que consejo le darias a alguien que empieza",
+      "target": "Don't wait until you feel ready, you never will",
+      "phonetic": "DOUNT UEIT an-TIL iuu FIIL RE-di iuu NE-ver uil",
+      "check": "texto:40",
+      "en": "Don't wait until you feel ready, you never will",
+      "es": "Deci que consejo le darias a alguien que empieza"
+    },
+    {
+      "kind": "desafio",
+      "group": "c1",
+      "native": "Mandale un audio de un minuto sobre lo que quieras",
+      "target": "Just talk",
+      "phonetic": "YAST TOK",
+      "check": "audio",
+      "en": "Just talk",
+      "es": "Mandale un audio de un minuto sobre lo que quieras"
+    },
+    {
+      "kind": "desafio",
+      "group": "c2",
+      "native": "Explica una contradiccion que veas en tu pais",
+      "target": "We demand better services while resisting the taxes that fund them",
+      "phonetic": "uii di-MAND BE-ter SER-va-ses UAIL ri-SI-sting de TAK-ses dat FAND DEM",
+      "check": "texto:50",
+      "en": "We demand better services while resisting the taxes that fund them",
+      "es": "Explica una contradiccion que veas en tu pais"
+    },
+    {
+      "kind": "desafio",
+      "group": "c2",
+      "native": "Defende una postura y despues refutala vos mismo",
+      "target": "Remote work frees us, yet that same freedom erodes the boundary it promised",
+      "phonetic": "ri-MOUT UERK FRIIS as IET dat SEIM FRII-dem i-ROUDS de BAUN-der-i it PRO-mest",
+      "check": "texto:50",
+      "en": "Remote work frees us, yet that same freedom erodes the boundary it promised",
+      "es": "Defende una postura y despues refutala vos mismo"
+    },
+    {
+      "kind": "desafio",
+      "group": "c2",
+      "native": "Conta algo que aprendiste equivocandote",
+      "target": "I learned that being right early is worthless if nobody follows you",
+      "phonetic": "ai LERND dat BII-ing RAIT ER-li is UERZ-les IF NOU-bo-di FO-lous iuu",
+      "check": "texto:50",
+      "en": "I learned that being right early is worthless if nobody follows you",
+      "es": "Conta algo que aprendiste equivocandote"
+    },
+    {
+      "kind": "desafio",
+      "group": "c2",
+      "native": "Escribi algo usando una metafora",
+      "target": "Deadlines are a tide, not a wall",
+      "phonetic": "DED-lains ar e TAID NOT e UOL",
+      "check": "texto:30",
+      "en": "Deadlines are a tide, not a wall",
+      "es": "Escribi algo usando una metafora"
+    }
+  ]
+}

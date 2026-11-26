@@ -1,0 +1,109 @@
+{
+  "format_version": 2,
+  "canciones": [
+    {
+      "id": "cielito_lindo",
+      "titulo": "Cielito Lindo",
+      "estrofas": [
+        {
+          "texto": "Ay, ay, ay, ay,\ncanta y no llores,",
+          "traduccion": "Ay, ay, ay, ay,\nsing and don't cry,",
+          "fonetica": "eye, eye, eye, eye,\nKAHN-tah ee noh YOH-rehs,"
+        },
+        {
+          "texto": "Porque cantando se alegran,\ncielito lindo, los corazones.",
+          "traduccion": "Because by singing, hearts\nare cheered up, pretty darling.",
+          "fonetica": "pohr-KEH kahn-TAHN-doh seh ah-LEH-grahn,\nsee-eh-LEE-toh LEEN-doh, lohs koh-rah-SOH-nehs."
+        },
+        {
+          "texto": "De la Sierra Morena,\ncielito lindo, vienen bajando,",
+          "traduccion": "From the Sierra Morena,\npretty darling, they come down,",
+          "fonetica": "deh lah see-EH-rrah moh-REH-nah,\nsee-eh-LEE-toh LEEN-doh, bee-EH-nehn bah-HAHN-doh,"
+        },
+        {
+          "texto": "Un par de ojitos negros,\ncielito lindo, de contrabando.",
+          "traduccion": "A pair of little dark eyes,\npretty darling, smuggled in.",
+          "fonetica": "oon pahr deh oh-HEE-tohs NEH-grohs,\nsee-eh-LEE-toh LEEN-doh, deh kohn-trah-BAHN-doh."
+        }
+      ]
+    },
+    {
+      "id": "de_colores",
+      "titulo": "De Colores",
+      "estrofas": [
+        {
+          "texto": "De colores, de colores\nse visten los campos en la primavera,",
+          "traduccion": "In colors, in colors\nthe fields dress themselves in springtime,",
+          "fonetica": "deh koh-LOH-rehs, deh koh-LOH-rehs\nseh VEES-ten lohs KAHM-pohs ehn lah pree-mah-VEH-rah,"
+        },
+        {
+          "texto": "De colores, de colores\nson los pajaritos que vienen de afuera,",
+          "traduccion": "In colors, in colors\nare the little birds that come from outside,",
+          "fonetica": "deh koh-LOH-rehs, deh koh-LOH-rehs\nsohn lohs pah-hah-REE-tohs keh bee-EH-nehn deh ah-FWEH-rah,"
+        },
+        {
+          "texto": "De colores, de colores\nes el arco iris que vemos lucir,",
+          "traduccion": "In colors, in colors\nis the rainbow that we see shining,",
+          "fonetica": "deh koh-LOH-rehs, deh koh-LOH-rehs\nehs ehl AHR-koh EE-rees keh VEH-mohs loo-SEER,"
+        },
+        {
+          "texto": "Y por eso los grandes amores\nde muchos colores me gustan a mí.",
+          "traduccion": "And that's why great loves\nof many colors, I like.",
+          "fonetica": "ee pohr EH-soh lohs GRAHN-dehs ah-MOH-rehs\ndeh MOO-chohs koh-LOH-rehs meh GOOS-tahn ah MEE."
+        }
+      ]
+    },
+    {
+      "id": "las_mananitas",
+      "titulo": "Las Mañanitas",
+      "estrofas": [
+        {
+          "texto": "Estas son las mañanitas\nque cantaba el rey David,",
+          "traduccion": "These are the little morning songs\nthat King David used to sing,",
+          "fonetica": "EHS-tahs sohn lahs mah-nyah-NEE-tahs\nkeh kahn-TAH-bah ehl rray dah-VEED,"
+        },
+        {
+          "texto": "Hoy por ser día de tu santo\nte las cantamos a ti.",
+          "traduccion": "Today, because it's your saint's day,\nwe sing them to you.",
+          "fonetica": "oy pohr sehr DEE-ah deh too SAHN-toh\nteh lahs kahn-TAH-mohs ah TEE."
+        },
+        {
+          "texto": "Despierta, mi bien, despierta,\nmira que ya amaneció,",
+          "traduccion": "Wake up, my dear, wake up,\nlook, dawn has already broken,",
+          "fonetica": "dehs-pee-EHR-tah, mee bee-EHN, dehs-pee-EHR-tah,\nMEE-rah keh yah ah-mah-neh-see-OH,"
+        },
+        {
+          "texto": "Ya los pajarillos cantan,\nla luna ya se metió.",
+          "traduccion": "The little birds are already singing,\nthe moon has already set.",
+          "fonetica": "yah lohs pah-hah-REE-yohs KAHN-tahn,\nlah LOO-nah yah seh meh-tee-OH."
+        }
+      ]
+    },
+    {
+      "id": "arroz_con_leche",
+      "titulo": "Arroz con Leche",
+      "estrofas": [
+        {
+          "texto": "Arroz con leche,\nme quiero casar,",
+          "traduccion": "Rice pudding,\nI want to get married,",
+          "fonetica": "ah-RROHS kohn LEH-cheh,\nmeh kee-EH-roh kah-SAHR,"
+        },
+        {
+          "texto": "con una señorita\nde este lugar,",
+          "traduccion": "to a young lady\nfrom this town,",
+          "fonetica": "kohn OO-nah seh-nyoh-REE-tah\ndeh EHS-teh loo-GAHR,"
+        },
+        {
+          "texto": "que sepa coser,\nque sepa bordar,",
+          "traduccion": "who knows how to sew,\nwho knows how to embroider,",
+          "fonetica": "keh SEH-pah koh-SEHR,\nkeh SEH-pah bohr-DAHR,"
+        },
+        {
+          "texto": "que sepa abrir la puerta\npara ir a jugar.",
+          "traduccion": "who knows how to open the door\nto go out and play.",
+          "fonetica": "keh SEH-pah ah-BREER lah PWEHR-tah\nPAH-rah eer ah hoo-GAHR."
+        }
+      ]
+    }
+  ]
+}

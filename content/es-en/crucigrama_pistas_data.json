@@ -1,0 +1,225 @@
+{
+  "_comentario": "Pistas tipo 'definición' para el Crucigrama del chat de compañeros (conversación 2026-10-19: antes la pista era directamente la traducción de la palabra, 'no es como se juega un crucigrama de verdad'). No hay una definición propia por palabra en el banco de vocabulario -- se generan a partir de la categoría temática que ya trae cada palabra (vocabulary.json), más la cantidad de letras, puesta por código. 'nativo' es la frase en el idioma nativo de este par (español), 'meta' en el idioma que se estudia (inglés) -- la dirección del crucigrama (DireccionPicker) decide cuál de las dos se muestra. 'generica' es el resguardo para una categoría que no esté en esta lista.",
+  "categorias": {
+    "adjective": {
+      "nativo": "Una cualidad o característica",
+      "meta": "A quality or characteristic"
+    },
+    "animal": {
+      "nativo": "Un animal",
+      "meta": "An animal"
+    },
+    "appliance": {
+      "nativo": "Un aparato o electrodoméstico",
+      "meta": "An appliance"
+    },
+    "article": {
+      "nativo": "Una palabra pequeña que acompaña a un sustantivo",
+      "meta": "A small word that goes with a noun"
+    },
+    "business": {
+      "nativo": "Algo relacionado con los negocios",
+      "meta": "Something related to business"
+    },
+    "city": {
+      "nativo": "Algo que podés encontrar en una ciudad",
+      "meta": "Something you can find in a city"
+    },
+    "colour": {
+      "nativo": "Un color",
+      "meta": "A colour"
+    },
+    "connector": {
+      "nativo": "Una palabra que conecta ideas en una oración",
+      "meta": "A word that connects ideas in a sentence"
+    },
+    "culture": {
+      "nativo": "Algo relacionado con la cultura",
+      "meta": "Something related to culture"
+    },
+    "environment": {
+      "nativo": "Algo relacionado con el medio ambiente",
+      "meta": "Something related to the environment"
+    },
+    "family": {
+      "nativo": "Un miembro de la familia",
+      "meta": "A family member"
+    },
+    "food": {
+      "nativo": "Algo que se come",
+      "meta": "Something you eat"
+    },
+    "general": {
+      "nativo": "Una palabra de uso general",
+      "meta": "A general-use word"
+    },
+    "global": {
+      "nativo": "Algo relacionado con el mundo globalizado",
+      "meta": "Something related to the globalized world"
+    },
+    "globalisation": {
+      "nativo": "Algo relacionado con la globalización",
+      "meta": "Something related to globalisation"
+    },
+    "greeting": {
+      "nativo": "Una forma de saludar",
+      "meta": "A way of greeting someone"
+    },
+    "gym": {
+      "nativo": "Algo que ves en un gimnasio",
+      "meta": "Something you'd see at the gym"
+    },
+    "health": {
+      "nativo": "Algo relacionado con la salud",
+      "meta": "Something related to health"
+    },
+    "house": {
+      "nativo": "Algo que podés encontrar en una casa",
+      "meta": "Something you can find in a house"
+    },
+    "humour": {
+      "nativo": "Algo relacionado con el humor",
+      "meta": "Something related to humour"
+    },
+    "idioms": {
+      "nativo": "Una expresión idiomática",
+      "meta": "An idiomatic expression"
+    },
+    "interest": {
+      "nativo": "Un interés o afición",
+      "meta": "An interest or hobby"
+    },
+    "kitchen": {
+      "nativo": "Algo que se usa en la cocina",
+      "meta": "Something used in the kitchen"
+    },
+    "language_identity": {
+      "nativo": "Algo relacionado con el idioma o la identidad",
+      "meta": "Something related to language or identity"
+    },
+    "law": {
+      "nativo": "Algo relacionado con la ley",
+      "meta": "Something related to the law"
+    },
+    "literature": {
+      "nativo": "Algo relacionado con la literatura",
+      "meta": "Something related to literature"
+    },
+    "mastery": {
+      "nativo": "Algo relacionado con dominar una habilidad",
+      "meta": "Something related to mastering a skill"
+    },
+    "media": {
+      "nativo": "Algo relacionado con los medios de comunicación",
+      "meta": "Something related to the media"
+    },
+    "money": {
+      "nativo": "Algo relacionado con el dinero",
+      "meta": "Something related to money"
+    },
+    "nationality": {
+      "nativo": "Una nacionalidad",
+      "meta": "A nationality"
+    },
+    "nature": {
+      "nativo": "Algo de la naturaleza",
+      "meta": "Something from nature"
+    },
+    "number": {
+      "nativo": "Un número",
+      "meta": "A number"
+    },
+    "object": {
+      "nativo": "Un objeto",
+      "meta": "An object"
+    },
+    "philosophy": {
+      "nativo": "Algo relacionado con la filosofía",
+      "meta": "Something related to philosophy"
+    },
+    "place": {
+      "nativo": "Un lugar",
+      "meta": "A place"
+    },
+    "plans": {
+      "nativo": "Algo relacionado con hacer planes",
+      "meta": "Something related to making plans"
+    },
+    "politics": {
+      "nativo": "Algo relacionado con la política",
+      "meta": "Something related to politics"
+    },
+    "preposition": {
+      "nativo": "Una palabra que indica posición o relación",
+      "meta": "A word that shows position or relationship"
+    },
+    "pronoun": {
+      "nativo": "Una palabra que reemplaza a un sustantivo",
+      "meta": "A word that replaces a noun"
+    },
+    "question": {
+      "nativo": "Una palabra para preguntar",
+      "meta": "A question word"
+    },
+    "registers": {
+      "nativo": "Algo relacionado con el registro del lenguaje (formal/informal)",
+      "meta": "Something related to language register (formal/informal)"
+    },
+    "research": {
+      "nativo": "Algo relacionado con la investigación",
+      "meta": "Something related to research"
+    },
+    "rhetoric": {
+      "nativo": "Algo relacionado con la forma de argumentar o hablar",
+      "meta": "Something related to rhetoric"
+    },
+    "school": {
+      "nativo": "Algo relacionado con la escuela",
+      "meta": "Something related to school"
+    },
+    "science": {
+      "nativo": "Algo relacionado con la ciencia",
+      "meta": "Something related to science"
+    },
+    "society": {
+      "nativo": "Algo relacionado con la sociedad",
+      "meta": "Something related to society"
+    },
+    "sport": {
+      "nativo": "Algo relacionado con el deporte",
+      "meta": "Something related to sports"
+    },
+    "technology": {
+      "nativo": "Algo relacionado con la tecnología",
+      "meta": "Something related to technology"
+    },
+    "transport": {
+      "nativo": "Un medio de transporte o algo relacionado",
+      "meta": "A means of transport or something related"
+    },
+    "travel": {
+      "nativo": "Algo relacionado con viajar",
+      "meta": "Something related to travelling"
+    },
+    "vehicle": {
+      "nativo": "Un vehículo",
+      "meta": "A vehicle"
+    },
+    "verb": {
+      "nativo": "Una acción",
+      "meta": "An action"
+    },
+    "weather": {
+      "nativo": "Algo relacionado con el clima",
+      "meta": "Something related to the weather"
+    },
+    "work": {
+      "nativo": "Algo relacionado con el trabajo",
+      "meta": "Something related to work"
+    }
+  },
+  "generica": {
+    "nativo": "Una palabra del vocabulario",
+    "meta": "A vocabulary word"
+  }
+}

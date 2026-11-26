@@ -1,0 +1,109 @@
+{
+  "format_version": 2,
+  "canciones": [
+    {
+      "id": "oh_susanna",
+      "titulo": "Oh! Susanna",
+      "estrofas": [
+        {
+          "texto": "I come from Alabama with my banjo on my knee,\nI'm going to Louisiana, my true love for to see.",
+          "traduccion": "Vengo de Alabama con mi banjo en la rodilla,\nVoy a Luisiana a ver a mi amor verdadero.",
+          "fonetica": "ai cam from álabama güiz mai banyo on mai ni,\naim going tu luisiana, mai tru lav for tu si."
+        },
+        {
+          "texto": "It rained all night the day I left, the weather it was dry,\nThe sun so hot I froze to death, Susanna don't you cry.",
+          "traduccion": "Llovió toda la noche el día que me fui, el clima estaba seco,\nEl sol tan caliente que me congelé, Susana no llores.",
+          "fonetica": "it reind ol nait de dei ai left, de güéder it güaz drai,\nde san sou hat ai frouz tu dez, susana dont yu krai."
+        },
+        {
+          "texto": "Oh, Susanna, don't you cry for me,\nFor I come from Alabama with my banjo on my knee.",
+          "traduccion": "Oh, Susana, no llores por mí,\nPorque vengo de Alabama con mi banjo en la rodilla.",
+          "fonetica": "ou, susana, dont yu krai for mi,\nfor ai cam from álabama güiz mai banyo on mai ni."
+        },
+        {
+          "texto": "I had a dream the other night when everything was still,\nI thought I saw Susanna dear a-coming down the hill.",
+          "traduccion": "Tuve un sueño la otra noche cuando todo estaba quieto,\nCreí ver a mi querida Susana bajando la colina.",
+          "fonetica": "ai jad a drim de áder nait güen évriting güaz stil,\nai zot ai so susana dir a-camin daun de jil."
+        }
+      ]
+    },
+    {
+      "id": "scarborough_fair",
+      "titulo": "Scarborough Fair",
+      "estrofas": [
+        {
+          "texto": "Are you going to Scarborough Fair?\nParsley, sage, rosemary, and thyme.",
+          "traduccion": "¿Vas a la feria de Scarborough?\nPerejil, salvia, romero y tomillo.",
+          "fonetica": "ar yu going tu escárboro fer?\npársli, seich, rósmeri, and taim."
+        },
+        {
+          "texto": "Remember me to one who lives there,\nFor once she was a true love of mine.",
+          "traduccion": "Recuérdame a quien vive ahí,\nPorque una vez ella fue mi amor verdadero.",
+          "fonetica": "rimémber mi tu uan ju livz der,\nfor güans shi güaz a tru lav of main."
+        },
+        {
+          "texto": "Tell her to make me a cambric shirt,\nParsley, sage, rosemary, and thyme.",
+          "traduccion": "Dile que me haga una camisa de lino,\nPerejil, salvia, romero y tomillo.",
+          "fonetica": "tel jer tu meik mi a kéimbric shert,\npársli, seich, rósmeri, and taim."
+        },
+        {
+          "texto": "Without no seams nor needlework,\nThen she'll be a true love of mine.",
+          "traduccion": "Sin costuras ni bordado,\nEntonces ella será mi amor verdadero.",
+          "fonetica": "güizáut nou simz nor nídlwerk,\nden shil bi a tru lav of main."
+        }
+      ]
+    },
+    {
+      "id": "amazing_grace",
+      "titulo": "Amazing Grace",
+      "estrofas": [
+        {
+          "texto": "Amazing grace, how sweet the sound,\nThat saved a wretch like me.",
+          "traduccion": "Asombrosa gracia, qué dulce sonido,\nQue salvó a un desgraciado como yo.",
+          "fonetica": "amÉising greis, jau suit de saund,\ndat seivd a rech laik mi."
+        },
+        {
+          "texto": "I once was lost, but now am found,\nWas blind, but now I see.",
+          "traduccion": "Una vez estuve perdido, pero ahora me encuentro,\nEstaba ciego, pero ahora veo.",
+          "fonetica": "ai güans güaz lost, bat nau am faund,\nguaz blaind, bat nau ai si."
+        },
+        {
+          "texto": "'Twas grace that taught my heart to fear,\nAnd grace my fears relieved.",
+          "traduccion": "Fue la gracia la que enseñó a mi corazón a temer,\nY la gracia alivió mis miedos.",
+          "fonetica": "tguaz greis dat tot mai jart tu fir,\nand greis mai firz rilívd."
+        },
+        {
+          "texto": "How precious did that grace appear,\nThe hour I first believed.",
+          "traduccion": "Qué preciosa apareció esa gracia,\nLa hora en que creí por primera vez.",
+          "fonetica": "jau préshas did dat greis apír,\nde áur ai ferst bilívd."
+        }
+      ]
+    },
+    {
+      "id": "home_on_the_range",
+      "titulo": "Home on the Range",
+      "estrofas": [
+        {
+          "texto": "Oh, give me a home where the buffalo roam,\nWhere the deer and the antelope play.",
+          "traduccion": "Dame un hogar donde vaguen los búfalos,\nDonde jueguen el ciervo y el antílope.",
+          "fonetica": "ou, guiv mi a joum güer de báfalou roum,\nguer de dir and de ántiloup plei."
+        },
+        {
+          "texto": "Where seldom is heard a discouraging word,\nAnd the skies are not cloudy all day.",
+          "traduccion": "Donde rara vez se oye una palabra desalentadora,\nY los cielos no están nublados todo el día.",
+          "fonetica": "güer séldom iz jerd a diskáraching uérd,\nand de skaiz ar nat kláudi ol dei."
+        },
+        {
+          "texto": "Home, home on the range,\nWhere the deer and the antelope play.",
+          "traduccion": "Hogar, hogar en la pradera,\nDonde jueguen el ciervo y el antílope.",
+          "fonetica": "joum, joum on de reinch,\nguer de dir and de ántiloup plei."
+        },
+        {
+          "texto": "How often at night when the heavens are bright,\nWith the light from the glittering stars.",
+          "traduccion": "Qué a menudo de noche cuando los cielos brillan,\nCon la luz de las estrellas centelleantes.",
+          "fonetica": "jau ófen at nait güen de jévenz ar brait,\nguiz de lait from de glíltering starz."
+        }
+      ]
+    }
+  ]
+}

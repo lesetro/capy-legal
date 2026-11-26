@@ -2789,6 +2789,131 @@
       "explanation": "Tercera persona: 'play' → 'plays'. Verbos que terminan en vocal + consonante solo añaden -s."
     },
     {
+      "topic": "present_simple_basic",
+      "unit": 3,
+      "type": "fill",
+      "question": "He _____ (watch) cartoons every Saturday.",
+      "options": [
+        "watches",
+        "watch",
+        "watching"
+      ],
+      "answer": "watches",
+      "explanation": "Tercera persona: watch → watches."
+    },
+    {
+      "topic": "present_simple_basic",
+      "unit": 3,
+      "type": "fill",
+      "question": "I _____ (live) near the park.",
+      "options": [
+        "live",
+        "lives",
+        "living"
+      ],
+      "answer": "live",
+      "explanation": "Con 'I' el verbo no lleva -s: 'live'."
+    },
+    {
+      "topic": "present_simple_basic",
+      "unit": 3,
+      "type": "fill",
+      "question": "She _____ (speak) French and English.",
+      "options": [
+        "speaks",
+        "speak",
+        "speaking"
+      ],
+      "answer": "speaks",
+      "explanation": "Tercera persona: speak → speaks."
+    },
+    {
+      "topic": "present_simple_basic",
+      "unit": 3,
+      "type": "fill",
+      "question": "They _____ (go) to school by bus.",
+      "options": [
+        "go",
+        "goes",
+        "going"
+      ],
+      "answer": "go",
+      "explanation": "'They' es plural: verbo sin -s, 'go'."
+    },
+    {
+      "topic": "present_simple_basic",
+      "unit": 3,
+      "type": "fill",
+      "question": "My brother _____ (have) breakfast at 7.",
+      "options": [
+        "has",
+        "have",
+        "haves"
+      ],
+      "answer": "has",
+      "explanation": "'Have' es irregular en tercera persona: 'has'."
+    },
+    {
+      "topic": "present_simple_basic",
+      "unit": 3,
+      "type": "error",
+      "question": "She watch TV every night.",
+      "options": [
+        "She watch TV every night.",
+        "She watches TV every night."
+      ],
+      "answer": "She watches TV every night.",
+      "explanation": "Tercera persona: watch → watches."
+    },
+    {
+      "topic": "present_simple_basic",
+      "unit": 3,
+      "type": "error",
+      "question": "He have a big family.",
+      "options": [
+        "He have a big family.",
+        "He has a big family."
+      ],
+      "answer": "He has a big family.",
+      "explanation": "'Have' es irregular en tercera persona: 'has'."
+    },
+    {
+      "topic": "present_simple_basic",
+      "unit": 3,
+      "type": "error",
+      "question": "I lives in Rosario.",
+      "options": [
+        "I lives in Rosario.",
+        "I live in Rosario."
+      ],
+      "answer": "I live in Rosario.",
+      "explanation": "Con 'I' el verbo no lleva -s: 'live'."
+    },
+    {
+      "topic": "present_simple_basic",
+      "unit": 3,
+      "type": "error",
+      "question": "They goes to the gym on Fridays.",
+      "options": [
+        "They goes to the gym on Fridays.",
+        "They go to the gym on Fridays."
+      ],
+      "answer": "They go to the gym on Fridays.",
+      "explanation": "'They' es plural: verbo sin -s, 'go'."
+    },
+    {
+      "topic": "present_simple_basic",
+      "unit": 3,
+      "type": "error",
+      "question": "She play the guitar every day.",
+      "options": [
+        "She play the guitar every day.",
+        "She plays the guitar every day."
+      ],
+      "answer": "She plays the guitar every day.",
+      "explanation": "Tercera persona: play → plays."
+    },
+    {
       "topic": "have",
       "unit": 4,
       "type": "choose",
@@ -12509,6 +12634,666 @@
       ],
       "answer": "Would he come the next day?",
       "explanation": "El estilo indirecto libre traslada el tiempo y los deícticos (will→would, tomorrow→the next day) pero conserva la voz del personaje, sin 'ella preguntó'."
+    },
+    {
+      "topic": "present_continuous",
+      "unit": 6,
+      "type": "choose",
+      "question": "Look! The baby ___ right now.",
+      "options": [
+        "sleeps",
+        "is sleeping",
+        "sleep",
+        "sleeping"
+      ],
+      "answer": "is sleeping",
+      "explanation": "Presente continuo (algo que pasa AHORA): am/is/are + verbo-ing."
+    },
+    {
+      "topic": "present_continuous",
+      "unit": 6,
+      "type": "choose",
+      "question": "I can't talk, I ___ dinner.",
+      "options": [
+        "cook",
+        "am cooking",
+        "cooks",
+        "cooked"
+      ],
+      "answer": "am cooking",
+      "explanation": "Con 'I' se usa 'am' + verbo-ing para una accion en curso."
+    },
+    {
+      "topic": "present_continuous",
+      "unit": 6,
+      "type": "choose",
+      "question": "They ___ football in the park now.",
+      "options": [
+        "play",
+        "are playing",
+        "is playing",
+        "plays"
+      ],
+      "answer": "are playing",
+      "explanation": "'They' es plural: 'are' + playing."
+    },
+    {
+      "topic": "present_continuous",
+      "unit": 6,
+      "type": "choose",
+      "question": "She ___ a book at the moment.",
+      "options": [
+        "reads",
+        "is reading",
+        "read",
+        "are reading"
+      ],
+      "answer": "is reading",
+      "explanation": "'At the moment' pide presente continuo: is + reading."
+    },
+    {
+      "topic": "present_continuous",
+      "unit": 6,
+      "type": "choose",
+      "question": "Why ___ crying?",
+      "options": [
+        "you are",
+        "do you",
+        "are you",
+        "you"
+      ],
+      "answer": "are you",
+      "explanation": "Pregunta en presente continuo: are + sujeto + verbo-ing."
+    },
+    {
+      "topic": "present_continuous",
+      "unit": 6,
+      "type": "choose",
+      "question": "We ___ TV right now.",
+      "options": [
+        "watch",
+        "are watching",
+        "watches",
+        "watching"
+      ],
+      "answer": "are watching",
+      "explanation": "'Right now' = presente continuo: are + watching."
+    },
+    {
+      "topic": "present_continuous",
+      "unit": 6,
+      "type": "choose",
+      "question": "He ___ to music.",
+      "options": [
+        "listen",
+        "is listening",
+        "listens",
+        "are listening"
+      ],
+      "answer": "is listening",
+      "explanation": "'He' lleva 'is' + verbo-ing."
+    },
+    {
+      "topic": "present_continuous",
+      "unit": 6,
+      "type": "choose",
+      "question": "It ___ outside.",
+      "options": [
+        "rain",
+        "is raining",
+        "rains",
+        "are raining"
+      ],
+      "answer": "is raining",
+      "explanation": "El clima ahora mismo: 'it is raining'."
+    },
+    {
+      "topic": "present_continuous",
+      "unit": 6,
+      "type": "choose",
+      "question": "Listen! Someone ___ the piano.",
+      "options": [
+        "plays",
+        "is playing",
+        "play",
+        "are playing"
+      ],
+      "answer": "is playing",
+      "explanation": "'Someone' es singular: is + playing."
+    },
+    {
+      "topic": "present_continuous",
+      "unit": 6,
+      "type": "choose",
+      "question": "The children ___ in the garden now.",
+      "options": [
+        "play",
+        "are playing",
+        "is playing",
+        "plays"
+      ],
+      "answer": "are playing",
+      "explanation": "'Children' es plural: are + playing."
+    },
+    {
+      "topic": "present_continuous",
+      "unit": 6,
+      "type": "fill",
+      "question": "I _____ (read) a great book right now.",
+      "answer": "am reading",
+      "explanation": "'I' + am + verbo-ing para algo que pasa ahora."
+    },
+    {
+      "topic": "present_continuous",
+      "unit": 6,
+      "type": "fill",
+      "question": "She _____ (cook) dinner at the moment.",
+      "answer": "is cooking",
+      "explanation": "'She' + is + verbo-ing."
+    },
+    {
+      "topic": "present_continuous",
+      "unit": 6,
+      "type": "fill",
+      "question": "We _____ (study) for the exam right now.",
+      "answer": "are studying",
+      "explanation": "'We' es plural: are + verbo-ing."
+    },
+    {
+      "topic": "present_continuous",
+      "unit": 6,
+      "type": "fill",
+      "question": "Look! It _____ (snow).",
+      "answer": "is snowing",
+      "explanation": "Algo que pasa ahora mismo: is + verbo-ing."
+    },
+    {
+      "topic": "present_continuous",
+      "unit": 6,
+      "type": "fill",
+      "question": "They _____ (not / listen) to me right now.",
+      "answer": "are not listening",
+      "explanation": "Negativo: are not + verbo-ing."
+    },
+    {
+      "topic": "present_continuous",
+      "unit": 6,
+      "type": "error",
+      "question": "She is read a magazine.",
+      "answer": "She is reading a magazine.",
+      "explanation": "Falta -ing: 'is reading', no 'is read'."
+    },
+    {
+      "topic": "present_continuous",
+      "unit": 6,
+      "type": "error",
+      "question": "I am cook dinner now.",
+      "answer": "I am cooking dinner now.",
+      "explanation": "Falta -ing después de 'am': 'am cooking'."
+    },
+    {
+      "topic": "present_continuous",
+      "unit": 6,
+      "type": "error",
+      "question": "They is playing in the yard.",
+      "answer": "They are playing in the yard.",
+      "explanation": "'They' es plural: 'are', no 'is'."
+    },
+    {
+      "topic": "present_continuous",
+      "unit": 6,
+      "type": "error",
+      "question": "We watching TV right now.",
+      "answer": "We are watching TV right now.",
+      "explanation": "Falta el auxiliar 'are' antes del verbo-ing."
+    },
+    {
+      "topic": "present_continuous",
+      "unit": 6,
+      "type": "error",
+      "question": "He are sleeping.",
+      "answer": "He is sleeping.",
+      "explanation": "'He' usa 'is', no 'are'."
+    },
+    {
+      "topic": "past_simple",
+      "unit": 7,
+      "type": "choose",
+      "question": "Yesterday I ___ to the cinema.",
+      "options": [
+        "go",
+        "went",
+        "gone",
+        "going"
+      ],
+      "answer": "went",
+      "explanation": "Pasado simple de 'go' es irregular: 'went'."
+    },
+    {
+      "topic": "past_simple",
+      "unit": 7,
+      "type": "choose",
+      "question": "She ___ her homework last night.",
+      "options": [
+        "do",
+        "did",
+        "done",
+        "does"
+      ],
+      "answer": "did",
+      "explanation": "Pasado simple de 'do' es 'did'."
+    },
+    {
+      "topic": "past_simple",
+      "unit": 7,
+      "type": "choose",
+      "question": "They ___ in Paris in 2020.",
+      "options": [
+        "live",
+        "lived",
+        "lives",
+        "living"
+      ],
+      "answer": "lived",
+      "explanation": "Verbo regular: se agrega -ed. 'live' -> 'lived'."
+    },
+    {
+      "topic": "past_simple",
+      "unit": 7,
+      "type": "choose",
+      "question": "We ___ a great time at the party.",
+      "options": [
+        "have",
+        "had",
+        "has",
+        "having"
+      ],
+      "answer": "had",
+      "explanation": "Pasado de 'have' es 'had'."
+    },
+    {
+      "topic": "past_simple",
+      "unit": 7,
+      "type": "choose",
+      "question": "He ___ the match yesterday.",
+      "options": [
+        "watch",
+        "watched",
+        "watches",
+        "watching"
+      ],
+      "answer": "watched",
+      "explanation": "Regular: watch -> watched."
+    },
+    {
+      "topic": "past_simple",
+      "unit": 7,
+      "type": "choose",
+      "question": "I ___ up at 7 this morning.",
+      "options": [
+        "wake",
+        "woke",
+        "waked",
+        "waking"
+      ],
+      "answer": "woke",
+      "explanation": "Irregular: wake -> woke."
+    },
+    {
+      "topic": "past_simple",
+      "unit": 7,
+      "type": "choose",
+      "question": "___ the news?",
+      "options": [
+        "Do you see",
+        "Did you see",
+        "You saw",
+        "Did you saw"
+      ],
+      "answer": "Did you see",
+      "explanation": "Pregunta en pasado: did + sujeto + verbo en base ('see', no 'saw')."
+    },
+    {
+      "topic": "past_simple",
+      "unit": 7,
+      "type": "choose",
+      "question": "The movie ___ two hours ago.",
+      "options": [
+        "starts",
+        "started",
+        "start",
+        "starting"
+      ],
+      "answer": "started",
+      "explanation": "'ago' = pasado. Regular: start -> started."
+    },
+    {
+      "topic": "past_simple",
+      "unit": 7,
+      "type": "choose",
+      "question": "She ___ to school yesterday.",
+      "options": [
+        "didn't go",
+        "didn't went",
+        "don't go",
+        "not went"
+      ],
+      "answer": "didn't go",
+      "explanation": "Negativo en pasado: didn't + verbo en base ('go')."
+    },
+    {
+      "topic": "past_simple",
+      "unit": 7,
+      "type": "choose",
+      "question": "We ___ pizza for dinner last night.",
+      "options": [
+        "eat",
+        "ate",
+        "eaten",
+        "eats"
+      ],
+      "answer": "ate",
+      "explanation": "Irregular: eat -> ate."
+    },
+    {
+      "topic": "past_simple",
+      "unit": 7,
+      "type": "fill",
+      "question": "I _____ (visit) my grandmother last weekend.",
+      "answer": "visited",
+      "explanation": "Regular: visit → visited."
+    },
+    {
+      "topic": "past_simple",
+      "unit": 7,
+      "type": "fill",
+      "question": "She _____ (buy) a new phone yesterday.",
+      "answer": "bought",
+      "explanation": "Irregular: buy → bought."
+    },
+    {
+      "topic": "past_simple",
+      "unit": 7,
+      "type": "fill",
+      "question": "We _____ (not / have) time to finish.",
+      "answer": "didn't have",
+      "explanation": "Negativo en pasado: didn't + verbo en base."
+    },
+    {
+      "topic": "past_simple",
+      "unit": 7,
+      "type": "fill",
+      "question": "They _____ (arrive) late last night.",
+      "answer": "arrived",
+      "explanation": "Regular: arrive → arrived."
+    },
+    {
+      "topic": "past_simple",
+      "unit": 7,
+      "type": "fill",
+      "question": "_____ you _____ (see) that movie?",
+      "answer": "Did / see",
+      "explanation": "Pregunta en pasado: did + sujeto + verbo en base."
+    },
+    {
+      "topic": "past_simple",
+      "unit": 7,
+      "type": "error",
+      "question": "I goed to the park yesterday.",
+      "answer": "I went to the park yesterday.",
+      "explanation": "Irregular: go → went, no 'goed'."
+    },
+    {
+      "topic": "past_simple",
+      "unit": 7,
+      "type": "error",
+      "question": "She didn't went to work.",
+      "answer": "She didn't go to work.",
+      "explanation": "Después de 'didn't' el verbo va en base: 'go', no 'went'."
+    },
+    {
+      "topic": "past_simple",
+      "unit": 7,
+      "type": "error",
+      "question": "Did you saw him?",
+      "answer": "Did you see him?",
+      "explanation": "Después de 'did' el verbo va en base: 'see', no 'saw'."
+    },
+    {
+      "topic": "past_simple",
+      "unit": 7,
+      "type": "error",
+      "question": "We was at home last night.",
+      "answer": "We were at home last night.",
+      "explanation": "'We' usa 'were', no 'was'."
+    },
+    {
+      "topic": "past_simple",
+      "unit": 7,
+      "type": "error",
+      "question": "He visit his friend last week.",
+      "answer": "He visited his friend last week.",
+      "explanation": "Falta -ed: visit → visited."
+    },
+    {
+      "topic": "past_continuous",
+      "unit": 11,
+      "type": "choose",
+      "question": "I ___ TV when you called.",
+      "options": [
+        "watched",
+        "was watching",
+        "were watching",
+        "watch"
+      ],
+      "answer": "was watching",
+      "explanation": "Pasado continuo (accion en curso en el pasado): was/were + verbo-ing. 'I' -> was."
+    },
+    {
+      "topic": "past_continuous",
+      "unit": 11,
+      "type": "choose",
+      "question": "They ___ when it started to rain.",
+      "options": [
+        "played",
+        "were playing",
+        "was playing",
+        "play"
+      ],
+      "answer": "were playing",
+      "explanation": "'They' plural -> were + playing."
+    },
+    {
+      "topic": "past_continuous",
+      "unit": 11,
+      "type": "choose",
+      "question": "While she ___ , the phone rang.",
+      "options": [
+        "cooked",
+        "was cooking",
+        "were cooking",
+        "cooks"
+      ],
+      "answer": "was cooking",
+      "explanation": "'While' + pasado continuo para la accion de fondo: was cooking."
+    },
+    {
+      "topic": "past_continuous",
+      "unit": 11,
+      "type": "choose",
+      "question": "We ___ dinner at 8 last night.",
+      "options": [
+        "had",
+        "were having",
+        "was having",
+        "have"
+      ],
+      "answer": "were having",
+      "explanation": "'We' -> were + having (accion en curso a esa hora)."
+    },
+    {
+      "topic": "past_continuous",
+      "unit": 11,
+      "type": "choose",
+      "question": "What ___ at 10 o'clock?",
+      "options": [
+        "did you do",
+        "were you doing",
+        "was you doing",
+        "you were doing"
+      ],
+      "answer": "were you doing",
+      "explanation": "Pregunta en pasado continuo: were + sujeto + verbo-ing."
+    },
+    {
+      "topic": "past_continuous",
+      "unit": 11,
+      "type": "choose",
+      "question": "He ___ to work when he saw the accident.",
+      "options": [
+        "drove",
+        "was driving",
+        "were driving",
+        "drives"
+      ],
+      "answer": "was driving",
+      "explanation": "Accion larga de fondo en pasado: was driving."
+    },
+    {
+      "topic": "past_continuous",
+      "unit": 11,
+      "type": "choose",
+      "question": "The sun ___ when we woke up.",
+      "options": [
+        "shone",
+        "was shining",
+        "were shining",
+        "shines"
+      ],
+      "answer": "was shining",
+      "explanation": "'The sun' singular -> was + shining."
+    },
+    {
+      "topic": "past_continuous",
+      "unit": 11,
+      "type": "choose",
+      "question": "While I ___ , I met an old friend.",
+      "options": [
+        "walked",
+        "was walking",
+        "were walking",
+        "walk"
+      ],
+      "answer": "was walking",
+      "explanation": "'While I' + pasado continuo: was walking."
+    },
+    {
+      "topic": "past_continuous",
+      "unit": 11,
+      "type": "choose",
+      "question": "She ___ a book when the lights went out.",
+      "options": [
+        "read",
+        "was reading",
+        "were reading",
+        "reads"
+      ],
+      "answer": "was reading",
+      "explanation": "Accion en curso interrumpida: was reading."
+    },
+    {
+      "topic": "past_continuous",
+      "unit": 11,
+      "type": "choose",
+      "question": "They ___ loudly, so I couldn't sleep.",
+      "options": [
+        "talked",
+        "were talking",
+        "was talking",
+        "talk"
+      ],
+      "answer": "were talking",
+      "explanation": "'They' -> were + talking."
+    },
+    {
+      "topic": "past_continuous",
+      "unit": 11,
+      "type": "fill",
+      "question": "I _____ (work) when the power went out.",
+      "answer": "was working",
+      "explanation": "Acción en curso interrumpida: was + verbo-ing."
+    },
+    {
+      "topic": "past_continuous",
+      "unit": 11,
+      "type": "fill",
+      "question": "They _____ (not / listen) when I called.",
+      "answer": "weren't listening",
+      "explanation": "Negativo: were not (weren't) + verbo-ing."
+    },
+    {
+      "topic": "past_continuous",
+      "unit": 11,
+      "type": "fill",
+      "question": "What _____ you _____ (do) at midnight?",
+      "answer": "were / doing",
+      "explanation": "Pregunta: were + sujeto + verbo-ing."
+    },
+    {
+      "topic": "past_continuous",
+      "unit": 11,
+      "type": "fill",
+      "question": "She _____ (cook) while I cleaned the kitchen.",
+      "answer": "was cooking",
+      "explanation": "Acción de fondo en pasado: was cooking."
+    },
+    {
+      "topic": "past_continuous",
+      "unit": 11,
+      "type": "fill",
+      "question": "We _____ (drive) to the coast when it started to rain.",
+      "answer": "were driving",
+      "explanation": "'We' es plural: were + verbo-ing."
+    },
+    {
+      "topic": "past_continuous",
+      "unit": 11,
+      "type": "error",
+      "question": "I were watching TV when you called.",
+      "answer": "I was watching TV when you called.",
+      "explanation": "'I' usa 'was', no 'were'."
+    },
+    {
+      "topic": "past_continuous",
+      "unit": 11,
+      "type": "error",
+      "question": "She were sleeping when the phone rang.",
+      "answer": "She was sleeping when the phone rang.",
+      "explanation": "'She' usa 'was', no 'were'."
+    },
+    {
+      "topic": "past_continuous",
+      "unit": 11,
+      "type": "error",
+      "question": "They was playing when it started to rain.",
+      "answer": "They were playing when it started to rain.",
+      "explanation": "'They' es plural: 'were', no 'was'."
+    },
+    {
+      "topic": "past_continuous",
+      "unit": 11,
+      "type": "error",
+      "question": "While I walking, I met an old friend.",
+      "answer": "While I was walking, I met an old friend.",
+      "explanation": "Falta el auxiliar 'was' antes del verbo-ing."
+    },
+    {
+      "topic": "past_continuous",
+      "unit": 11,
+      "type": "error",
+      "question": "What were you do at 10 o'clock?",
+      "answer": "What were you doing at 10 o'clock?",
+      "explanation": "Falta -ing después de 'were you': 'doing', no 'do'."
     }
   ]
 }

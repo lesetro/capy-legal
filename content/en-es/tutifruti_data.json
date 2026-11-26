@@ -1,0 +1,15 @@
+{
+  "format_version": 1,
+  "categorias": [
+    "Animal",
+    "Food",
+    "Country",
+    "Color",
+    "Profession",
+    "Sport",
+    "City",
+    "Clothing",
+    "Household object",
+    "Means of transportation"
+  ]
+}

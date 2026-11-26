@@ -1,6 +1,6 @@
 {
   "pair": "en-es",
-  "version": 7,
+  "version": 8,
   "l1": "en",
   "l2": "es",
   "title": "English → Español",
@@ -30,6 +30,12 @@
     "listening": "listening_data.json",
     "writing": "writing_exam_data.json",
     "phrases": "email_phrases.json",
-    "conversation": "conversation_scripts.json"
+    "conversation": "conversation_scripts.json",
+    "expressions": "expressions.json",
+    "roleplays": "roleplay_data.json",
+    "crucigrama_pistas": "crucigrama_pistas_data.json",
+    "crucigrama_descripciones": "crucigrama_descripciones_data.json",
+    "karaoke": "karaoke_data.json",
+    "tutifruti": "tutifruti_data.json"
   }
 }

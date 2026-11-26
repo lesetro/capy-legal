@@ -1,6 +1,6 @@
 {
   "pair": "es-en",
-  "version": 14,
+  "version": 15,
   "l1": "es",
   "l2": "en",
   "title": "Español → Inglés",
@@ -26,7 +26,13 @@
     "listening": "listening_data.json",
     "writing": "writing_exam_data.json",
     "phrases": "email_phrases.json",
-    "conversation": "conversation_scripts.json"
+    "conversation": "conversation_scripts.json",
+    "expressions": "expressions.json",
+    "roleplays": "roleplay_data.json",
+    "crucigrama_pistas": "crucigrama_pistas_data.json",
+    "crucigrama_descripciones": "crucigrama_descripciones_data.json",
+    "karaoke": "karaoke_data.json",
+    "tutifruti": "tutifruti_data.json"
   },
   "pending_modules": [],
   "notes": "Pack de referencia. listening.json conserva audio_filename pero el audio se sintetiza con TTS (no requiere .mp3). 'conversation' extraido de ConversationScripts.java el 2026-07-19 (5 escenarios con unit y roles; base de la sesion guiada de Fase 4). asset_filenames = nombre con el que cada modulo debe instalarse via ContentStore.installModule() para que los repos lo encuentren."

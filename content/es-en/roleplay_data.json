@@ -1,0 +1,3908 @@
+{
+  "format_version": 1,
+  "scenarios": [
+    {
+      "id": "cafe",
+      "title": "Comprar un cafe",
+      "emoji": "☕",
+      "band": 1,
+      "roles": [
+        {
+          "id": "cliente",
+          "name": "Cliente",
+          "emoji": "🧍",
+          "mission": [
+            "Saluda",
+            "Pedi tu cafe",
+            "Pregunta el precio",
+            "Paga y despedite"
+          ],
+          "lines": [
+            {
+              "native": "Hola, buenas",
+              "target": "Hi, good morning",
+              "phonetic": "JAI GUD MOR-ning",
+              "en": "Hi, good morning",
+              "es": "Hola, buenas"
+            },
+            {
+              "native": "Un cafe con leche, por favor",
+              "target": "A latte, please",
+              "phonetic": "e LO-tei PLIIS",
+              "en": "A latte, please",
+              "es": "Un cafe con leche, por favor"
+            },
+            {
+              "native": "Grande, para llevar",
+              "target": "Large, to go",
+              "phonetic": "LARY tuu GOU",
+              "en": "Large, to go",
+              "es": "Grande, para llevar"
+            },
+            {
+              "native": "Sin azucar, gracias",
+              "target": "No sugar, thanks",
+              "phonetic": "NOU SHU-ger ZANGKS",
+              "en": "No sugar, thanks",
+              "es": "Sin azucar, gracias"
+            },
+            {
+              "native": "Tambien quiero una medialuna",
+              "target": "I'd also like a croissant",
+              "phonetic": "AID OL-sou LAIK e kuo-SONT",
+              "en": "I'd also like a croissant",
+              "es": "Tambien quiero una medialuna"
+            },
+            {
+              "native": "Cuanto es todo?",
+              "target": "How much is that?",
+              "phonetic": "jau MACH is dat",
+              "en": "How much is that?",
+              "es": "Cuanto es todo?"
+            },
+            {
+              "native": "Puedo pagar con tarjeta?",
+              "target": "Can I pay by card?",
+              "phonetic": "kan ai PEI BAI KARD",
+              "en": "Can I pay by card?",
+              "es": "Puedo pagar con tarjeta?"
+            },
+            {
+              "native": "Aca tenes",
+              "target": "Here you go",
+              "phonetic": "jiir iuu GOU",
+              "en": "Here you go",
+              "es": "Aca tenes"
+            },
+            {
+              "native": "Donde esta el bano?",
+              "target": "Where's the bathroom?",
+              "phonetic": "UERS de BAZ-rum",
+              "en": "Where's the bathroom?",
+              "es": "Donde esta el bano?"
+            },
+            {
+              "native": "Gracias, que andes bien!",
+              "target": "Thanks, have a good one!",
+              "phonetic": "ZANGKS jav e GUD UAN",
+              "en": "Thanks, have a good one!",
+              "es": "Gracias, que andes bien!"
+            }
+          ]
+        },
+        {
+          "id": "barista",
+          "name": "Barista",
+          "emoji": "👨‍🍳",
+          "mission": [
+            "Saluda",
+            "Toma el pedido",
+            "Deci el precio",
+            "Cobra y despedite"
+          ],
+          "lines": [
+            {
+              "native": "Hola! Que te doy?",
+              "target": "Hi! What can I get you?",
+              "phonetic": "JAI uat kan ai GET iuu",
+              "en": "Hi! What can I get you?",
+              "es": "Hola! Que te doy?"
+            },
+            {
+              "native": "Grande o chico?",
+              "target": "Large or small?",
+              "phonetic": "LARY or SMOL",
+              "en": "Large or small?",
+              "es": "Grande o chico?"
+            },
+            {
+              "native": "Para aca o para llevar?",
+              "target": "For here or to go?",
+              "phonetic": "for jiir or tuu GOU",
+              "en": "For here or to go?",
+              "es": "Para aca o para llevar?"
+            },
+            {
+              "native": "Con azucar?",
+              "target": "With sugar?",
+              "phonetic": "uid SHU-ger",
+              "en": "With sugar?",
+              "es": "Con azucar?"
+            },
+            {
+              "native": "Algo mas?",
+              "target": "Anything else?",
+              "phonetic": "E-ni-zing ELS",
+              "en": "Anything else?",
+              "es": "Algo mas?"
+            },
+            {
+              "native": "Son cinco dolares",
+              "target": "That's five dollars",
+              "phonetic": "DATS FAIV DO-lers",
+              "en": "That's five dollars",
+              "es": "Son cinco dolares"
+            },
+            {
+              "native": "Si, claro, pasala por aca",
+              "target": "Sure, tap it right here",
+              "phonetic": "SHUR TAP it RAIT jiir",
+              "en": "Sure, tap it right here",
+              "es": "Si, claro, pasala por aca"
+            },
+            {
+              "native": "Gracias",
+              "target": "Thank you",
+              "phonetic": "ZANGK iuu",
+              "en": "Thank you",
+              "es": "Gracias"
+            },
+            {
+              "native": "Al fondo a la derecha",
+              "target": "At the back, on the right",
+              "phonetic": "at de BAK on de RAIT",
+              "en": "At the back, on the right",
+              "es": "Al fondo a la derecha"
+            },
+            {
+              "native": "Que lo disfrutes!",
+              "target": "Enjoy!",
+              "phonetic": "en-YOI",
+              "en": "Enjoy!",
+              "es": "Que lo disfrutes!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pizza",
+      "title": "Pedir una pizza",
+      "emoji": "🍕",
+      "band": 2,
+      "roles": [
+        {
+          "id": "cliente",
+          "name": "Cliente",
+          "emoji": "🧍",
+          "mission": [
+            "Pedi la pizza",
+            "Elegi gusto y tamanio",
+            "Pregunta por la demora",
+            "Pedi la cuenta"
+          ],
+          "lines": [
+            {
+              "native": "Hola, quiero pedir una pizza",
+              "target": "Hi, I'd like to order a pizza",
+              "phonetic": "JAI AID LAIK tuu OR-der e PIIT-se",
+              "en": "Hi, I'd like to order a pizza",
+              "es": "Hola, quiero pedir una pizza"
+            },
+            {
+              "native": "Una grande, por favor",
+              "target": "A large one, please",
+              "phonetic": "e LARY UAN PLIIS",
+              "en": "A large one, please",
+              "es": "Una grande, por favor"
+            },
+            {
+              "native": "De muzzarella",
+              "target": "Cheese, please",
+              "phonetic": "CHIIS PLIIS",
+              "en": "Cheese, please",
+              "es": "De muzzarella"
+            },
+            {
+              "native": "Le pueden agregar jamon?",
+              "target": "Can you add ham?",
+              "phonetic": "kan iuu AD JAM",
+              "en": "Can you add ham?",
+              "es": "Le pueden agregar jamon?"
+            },
+            {
+              "native": "Tienen opciones sin gluten?",
+              "target": "Do you have gluten-free options?",
+              "phonetic": "duu iuu jav GLUU-tan-frii OP-shens",
+              "en": "Do you have gluten-free options?",
+              "es": "Tienen opciones sin gluten?"
+            },
+            {
+              "native": "Para tomar, una gaseosa",
+              "target": "To drink, a soda",
+              "phonetic": "tuu DRINGK e SOU-de",
+              "en": "To drink, a soda",
+              "es": "Para tomar, una gaseosa"
+            },
+            {
+              "native": "Cuanto tarda?",
+              "target": "How long will it take?",
+              "phonetic": "jau LONG uil it TEIK",
+              "en": "How long will it take?",
+              "es": "Cuanto tarda?"
+            },
+            {
+              "native": "Es para comer aca",
+              "target": "It's to eat here",
+              "phonetic": "ITS tuu IIT jiir",
+              "en": "It's to eat here",
+              "es": "Es para comer aca"
+            },
+            {
+              "native": "Nos traes la cuenta?",
+              "target": "Can you bring the check?",
+              "phonetic": "kan iuu BRING de CHEK",
+              "en": "Can you bring the check?",
+              "es": "Nos traes la cuenta?"
+            },
+            {
+              "native": "Estaba todo muy rico, gracias",
+              "target": "Everything was delicious, thanks",
+              "phonetic": "EV-ri-zing uos di-LI-shes ZANGKS",
+              "en": "Everything was delicious, thanks",
+              "es": "Estaba todo muy rico, gracias"
+            }
+          ]
+        },
+        {
+          "id": "mozo",
+          "name": "Mozo/a",
+          "emoji": "🧑‍🍳",
+          "mission": [
+            "Toma el pedido",
+            "Ofrece extras",
+            "Deci la demora",
+            "Trae la cuenta"
+          ],
+          "lines": [
+            {
+              "native": "Hola! Que van a pedir?",
+              "target": "Hi! What would you like?",
+              "phonetic": "JAI uat uud iuu LAIK",
+              "en": "Hi! What would you like?",
+              "es": "Hola! Que van a pedir?"
+            },
+            {
+              "native": "Grande o familiar?",
+              "target": "Large or family size?",
+              "phonetic": "LARY or FA-ma-li SAIS",
+              "en": "Large or family size?",
+              "es": "Grande o familiar?"
+            },
+            {
+              "native": "De que gusto?",
+              "target": "What flavor?",
+              "phonetic": "uat FLEI-ver",
+              "en": "What flavor?",
+              "es": "De que gusto?"
+            },
+            {
+              "native": "Si, sin problema",
+              "target": "Yes, no problem",
+              "phonetic": "IES NOU PRO-blem",
+              "en": "Yes, no problem",
+              "es": "Si, sin problema"
+            },
+            {
+              "native": "Tenemos masa sin gluten, si",
+              "target": "We do have gluten-free dough",
+              "phonetic": "uii duu jav GLUU-tan-frii DOU",
+              "en": "We do have gluten-free dough",
+              "es": "Tenemos masa sin gluten, si"
+            },
+            {
+              "native": "Algo para tomar?",
+              "target": "Anything to drink?",
+              "phonetic": "E-ni-zing tuu DRINGK",
+              "en": "Anything to drink?",
+              "es": "Algo para tomar?"
+            },
+            {
+              "native": "Unos veinte minutos",
+              "target": "About twenty minutes",
+              "phonetic": "a-BAUT TUEN-ti MI-nets",
+              "en": "About twenty minutes",
+              "es": "Unos veinte minutos"
+            },
+            {
+              "native": "Perfecto, ya se las preparo",
+              "target": "Perfect, I'll get it ready",
+              "phonetic": "per-FEKT AIL GET it RE-di",
+              "en": "Perfect, I'll get it ready",
+              "es": "Perfecto, ya se las preparo"
+            },
+            {
+              "native": "Aca tienen la cuenta",
+              "target": "Here's your check",
+              "phonetic": "JIRS ior CHEK",
+              "en": "Here's your check",
+              "es": "Aca tienen la cuenta"
+            },
+            {
+              "native": "Gracias, vuelvan pronto!",
+              "target": "Thanks, come again!",
+              "phonetic": "ZANGKS KAM a-GEN",
+              "en": "Thanks, come again!",
+              "es": "Gracias, vuelvan pronto!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kiosco",
+      "title": "Comprar y pagar",
+      "emoji": "🛒",
+      "band": 2,
+      "roles": [
+        {
+          "id": "cliente",
+          "name": "Cliente",
+          "emoji": "🧍",
+          "mission": [
+            "Pedi lo que queres",
+            "Pregunta el precio",
+            "Elegi como pagar",
+            "Pedi el vuelto"
+          ],
+          "lines": [
+            {
+              "native": "Hola, buenas tardes",
+              "target": "Hi, good afternoon",
+              "phonetic": "JAI GUD af-ter-NUUN",
+              "en": "Hi, good afternoon",
+              "es": "Hola, buenas tardes"
+            },
+            {
+              "native": "Me das un pack de gaseosas?",
+              "target": "Can I get a pack of sodas?",
+              "phonetic": "kan ai GET e PAK av SOU-des",
+              "en": "Can I get a pack of sodas?",
+              "es": "Me das un pack de gaseosas?"
+            },
+            {
+              "native": "Y dos chocolates",
+              "target": "And two chocolate bars",
+              "phonetic": "end TUU CHO-klet BARS",
+              "en": "And two chocolate bars",
+              "es": "Y dos chocolates"
+            },
+            {
+              "native": "Cuanto es todo?",
+              "target": "How much is that?",
+              "phonetic": "jau MACH is dat",
+              "en": "How much is that?",
+              "es": "Cuanto es todo?"
+            },
+            {
+              "native": "Aceptan tarjeta?",
+              "target": "Do you take card?",
+              "phonetic": "duu iuu TEIK KARD",
+              "en": "Do you take card?",
+              "es": "Aceptan tarjeta?"
+            },
+            {
+              "native": "Mejor pago en efectivo",
+              "target": "I'll pay cash instead",
+              "phonetic": "AIL PEI KASH in-STED",
+              "en": "I'll pay cash instead",
+              "es": "Mejor pago en efectivo"
+            },
+            {
+              "native": "Te pago con veinte",
+              "target": "I'll pay with twenty",
+              "phonetic": "AIL PEI uid TUEN-ti",
+              "en": "I'll pay with twenty",
+              "es": "Te pago con veinte"
+            },
+            {
+              "native": "Me das el vuelto?",
+              "target": "Can I get my change?",
+              "phonetic": "kan ai GET mai CHEINY",
+              "en": "Can I get my change?",
+              "es": "Me das el vuelto?"
+            },
+            {
+              "native": "Me das una bolsa?",
+              "target": "Can I get a bag?",
+              "phonetic": "kan ai GET e BAG",
+              "en": "Can I get a bag?",
+              "es": "Me das una bolsa?"
+            },
+            {
+              "native": "Gracias, hasta luego",
+              "target": "Thanks, see you",
+              "phonetic": "ZANGKS SII iuu",
+              "en": "Thanks, see you",
+              "es": "Gracias, hasta luego"
+            }
+          ]
+        },
+        {
+          "id": "cajero",
+          "name": "Cajero/a",
+          "emoji": "🧑‍💼",
+          "mission": [
+            "Atende",
+            "Deci el total",
+            "Pregunta como paga",
+            "Dale el vuelto"
+          ],
+          "lines": [
+            {
+              "native": "Hola! Que necesitas?",
+              "target": "Hi! What do you need?",
+              "phonetic": "JAI uat duu iuu NIID",
+              "en": "Hi! What do you need?",
+              "es": "Hola! Que necesitas?"
+            },
+            {
+              "native": "Frias o del tiempo?",
+              "target": "Cold or room temperature?",
+              "phonetic": "KOULD or RUUM TEM-pra-cher",
+              "en": "Cold or room temperature?",
+              "es": "Frias o del tiempo?"
+            },
+            {
+              "native": "Algo mas?",
+              "target": "Anything else?",
+              "phonetic": "E-ni-zing ELS",
+              "en": "Anything else?",
+              "es": "Algo mas?"
+            },
+            {
+              "native": "Son quince en total",
+              "target": "That's fifteen in total",
+              "phonetic": "DATS fif-TIIN in TOU-tel",
+              "en": "That's fifteen in total",
+              "es": "Son quince en total"
+            },
+            {
+              "native": "Si, aceptamos",
+              "target": "Yes, we do",
+              "phonetic": "IES uii duu",
+              "en": "Yes, we do",
+              "es": "Si, aceptamos"
+            },
+            {
+              "native": "Dale, como quieras",
+              "target": "Sure, whatever works",
+              "phonetic": "SHUR ua-TE-ver UERKS",
+              "en": "Sure, whatever works",
+              "es": "Dale, como quieras"
+            },
+            {
+              "native": "Perfecto",
+              "target": "Perfect",
+              "phonetic": "per-FEKT",
+              "en": "Perfect",
+              "es": "Perfecto"
+            },
+            {
+              "native": "Aca va, cinco de vuelto",
+              "target": "Here you go, five in change",
+              "phonetic": "jiir iuu GOU FAIV in CHEINY",
+              "en": "Here you go, five in change",
+              "es": "Aca va, cinco de vuelto"
+            },
+            {
+              "native": "Si, tomala",
+              "target": "Sure, here's one",
+              "phonetic": "SHUR JIRS UAN",
+              "en": "Sure, here's one",
+              "es": "Si, tomala"
+            },
+            {
+              "native": "Gracias, que estes bien!",
+              "target": "Thanks, take care!",
+              "phonetic": "ZANGKS TEIK KER",
+              "en": "Thanks, take care!",
+              "es": "Gracias, que estes bien!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "direcciones",
+      "title": "Pedir direcciones",
+      "emoji": "🧭",
+      "band": 2,
+      "roles": [
+        {
+          "id": "turista",
+          "name": "Turista",
+          "emoji": "🧳",
+          "mission": [
+            "Para a alguien",
+            "Pregunta como llegar",
+            "Confirma el camino",
+            "Agradece"
+          ],
+          "lines": [
+            {
+              "native": "Perdon, una consulta",
+              "target": "Excuse me, a quick question",
+              "phonetic": "iksk-IUUS mii e KUIK KUES-chen",
+              "en": "Excuse me, a quick question",
+              "es": "Perdon, una consulta"
+            },
+            {
+              "native": "Estoy un poco perdido",
+              "target": "I'm a bit lost",
+              "phonetic": "AIM e BIT LOST",
+              "en": "I'm a bit lost",
+              "es": "Estoy un poco perdido"
+            },
+            {
+              "native": "Como llego a la estacion?",
+              "target": "How do I get to the station?",
+              "phonetic": "jau duu ai GET tuu de STEI-shen",
+              "en": "How do I get to the station?",
+              "es": "Como llego a la estacion?"
+            },
+            {
+              "native": "Esta lejos de aca?",
+              "target": "Is it far from here?",
+              "phonetic": "is it FAR fram jiir",
+              "en": "Is it far from here?",
+              "es": "Esta lejos de aca?"
+            },
+            {
+              "native": "Voy caminando o tomo un colectivo?",
+              "target": "Should I walk or take a bus?",
+              "phonetic": "SHUD ai UOK or TEIK e BAS",
+              "en": "Should I walk or take a bus?",
+              "es": "Voy caminando o tomo un colectivo?"
+            },
+            {
+              "native": "Entonces sigo derecho?",
+              "target": "So I go straight?",
+              "phonetic": "SOU ai GOU STREIT",
+              "en": "So I go straight?",
+              "es": "Entonces sigo derecho?"
+            },
+            {
+              "native": "Y despues doblo a la derecha?",
+              "target": "And then I turn right?",
+              "phonetic": "end DEN ai TERN RAIT",
+              "en": "And then I turn right?",
+              "es": "Y despues doblo a la derecha?"
+            },
+            {
+              "native": "Me lo mostras en el mapa?",
+              "target": "Can you show me on the map?",
+              "phonetic": "kan iuu SHOU mii on de MAP",
+              "en": "Can you show me on the map?",
+              "es": "Me lo mostras en el mapa?"
+            },
+            {
+              "native": "Perfecto, ya entendi",
+              "target": "Perfect, I got it",
+              "phonetic": "per-FEKT ai GOT it",
+              "en": "Perfect, I got it",
+              "es": "Perfecto, ya entendi"
+            },
+            {
+              "native": "Muchas gracias por la ayuda",
+              "target": "Thanks a lot for your help",
+              "phonetic": "ZANGKS e LOT for ior JELP",
+              "en": "Thanks a lot for your help",
+              "es": "Muchas gracias por la ayuda"
+            }
+          ]
+        },
+        {
+          "id": "local",
+          "name": "Vecino/a",
+          "emoji": "🧍‍♂️",
+          "mission": [
+            "Ofrece ayuda",
+            "Da indicaciones",
+            "Deci la distancia",
+            "Despedite"
+          ],
+          "lines": [
+            {
+              "native": "Si, claro, decime",
+              "target": "Sure, go ahead",
+              "phonetic": "SHUR GOU a-JED",
+              "en": "Sure, go ahead",
+              "es": "Si, claro, decime"
+            },
+            {
+              "native": "A donde queres ir?",
+              "target": "Where do you want to go?",
+              "phonetic": "UER duu iuu UONT tuu GOU",
+              "en": "Where do you want to go?",
+              "es": "A donde queres ir?"
+            },
+            {
+              "native": "Ah, la estacion, facil",
+              "target": "Oh, the station, easy",
+              "phonetic": "OU de STEI-shen II-si",
+              "en": "Oh, the station, easy",
+              "es": "Ah, la estacion, facil"
+            },
+            {
+              "native": "No, esta cerca",
+              "target": "No, it's close",
+              "phonetic": "NOU ITS KLOUS",
+              "en": "No, it's close",
+              "es": "No, esta cerca"
+            },
+            {
+              "native": "Mejor caminando, son cinco minutos",
+              "target": "Walking is better, it's five minutes",
+              "phonetic": "UO-king is BE-ter ITS FAIV MI-nets",
+              "en": "Walking is better, it's five minutes",
+              "es": "Mejor caminando, son cinco minutos"
+            },
+            {
+              "native": "Si, segui derecho dos cuadras",
+              "target": "Yes, go straight for two blocks",
+              "phonetic": "IES GOU STREIT for TUU BLOKS",
+              "en": "Yes, go straight for two blocks",
+              "es": "Si, segui derecho dos cuadras"
+            },
+            {
+              "native": "Exacto, dobla en el semaforo",
+              "target": "Exactly, turn at the traffic light",
+              "phonetic": "ig-SAKT-li TERN at de TRA-fik LAIT",
+              "en": "Exactly, turn at the traffic light",
+              "es": "Exacto, dobla en el semaforo"
+            },
+            {
+              "native": "Mira, es por aca",
+              "target": "Look, it's this way",
+              "phonetic": "LUK ITS dis UEI",
+              "en": "Look, it's this way",
+              "es": "Mira, es por aca"
+            },
+            {
+              "native": "Eso, no tiene perdida",
+              "target": "That's it, you can't miss it",
+              "phonetic": "DATS it iuu KANT MIS it",
+              "en": "That's it, you can't miss it",
+              "es": "Eso, no tiene perdida"
+            },
+            {
+              "native": "De nada, que la pases bien!",
+              "target": "You're welcome, have a good one!",
+              "phonetic": "IUR UEL-kem jav e GUD UAN",
+              "en": "You're welcome, have a good one!",
+              "es": "De nada, que la pases bien!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "taxi",
+      "title": "Tomar un taxi",
+      "emoji": "🚕",
+      "band": 2,
+      "roles": [
+        {
+          "id": "pasajero",
+          "name": "Pasajero/a",
+          "emoji": "🧍",
+          "mission": [
+            "Deci a donde vas",
+            "Pregunta el precio",
+            "Charla un poco",
+            "Paga y bajate"
+          ],
+          "lines": [
+            {
+              "native": "Hola, buenas",
+              "target": "Hi there",
+              "phonetic": "JAI der",
+              "en": "Hi there",
+              "es": "Hola, buenas"
+            },
+            {
+              "native": "Al centro, por favor",
+              "target": "To downtown, please",
+              "phonetic": "tuu DAUN-taun PLIIS",
+              "en": "To downtown, please",
+              "es": "Al centro, por favor"
+            },
+            {
+              "native": "A esta direccion",
+              "target": "To this address",
+              "phonetic": "tuu dis A-dres",
+              "en": "To this address",
+              "es": "A esta direccion"
+            },
+            {
+              "native": "Cuanto sale mas o menos?",
+              "target": "How much is it, more or less?",
+              "phonetic": "jau MACH is it MOR or LES",
+              "en": "How much is it, more or less?",
+              "es": "Cuanto sale mas o menos?"
+            },
+            {
+              "native": "Hay mucho trafico?",
+              "target": "Is there much traffic?",
+              "phonetic": "is der MACH TRA-fik",
+              "en": "Is there much traffic?",
+              "es": "Hay mucho trafico?"
+            },
+            {
+              "native": "Estoy un poco apurado",
+              "target": "I'm in a bit of a hurry",
+              "phonetic": "AIM in e BIT av e JER-i",
+              "en": "I'm in a bit of a hurry",
+              "es": "Estoy un poco apurado"
+            },
+            {
+              "native": "Podes poner algo de musica?",
+              "target": "Can you put on some music?",
+              "phonetic": "kan iuu PUT on SAM MIUU-sik",
+              "en": "Can you put on some music?",
+              "es": "Podes poner algo de musica?"
+            },
+            {
+              "native": "Para aca, por favor",
+              "target": "Stop here, please",
+              "phonetic": "STOP jiir PLIIS",
+              "en": "Stop here, please",
+              "es": "Para aca, por favor"
+            },
+            {
+              "native": "Cobras con tarjeta?",
+              "target": "Do you take card?",
+              "phonetic": "duu iuu TEIK KARD",
+              "en": "Do you take card?",
+              "es": "Cobras con tarjeta?"
+            },
+            {
+              "native": "Quedate con el vuelto, gracias",
+              "target": "Keep the change, thanks",
+              "phonetic": "KIIP de CHEINY ZANGKS",
+              "en": "Keep the change, thanks",
+              "es": "Quedate con el vuelto, gracias"
+            }
+          ]
+        },
+        {
+          "id": "taxista",
+          "name": "Taxista",
+          "emoji": "🧑‍✈️",
+          "mission": [
+            "Pregunta a donde",
+            "Deci el precio",
+            "Charla",
+            "Cobra"
+          ],
+          "lines": [
+            {
+              "native": "Hola! Suba",
+              "target": "Hi! Hop in",
+              "phonetic": "JAI JOP in",
+              "en": "Hi! Hop in",
+              "es": "Hola! Suba"
+            },
+            {
+              "native": "Al centro, perfecto",
+              "target": "Downtown, perfect",
+              "phonetic": "DAUN-taun per-FEKT",
+              "en": "Downtown, perfect",
+              "es": "Al centro, perfecto"
+            },
+            {
+              "native": "Si, la conozco",
+              "target": "Yes, I know it",
+              "phonetic": "IES ai NOU it",
+              "en": "Yes, I know it",
+              "es": "Si, la conozco"
+            },
+            {
+              "native": "Unos diez dolares",
+              "target": "About ten dollars",
+              "phonetic": "a-BAUT TEN DO-lers",
+              "en": "About ten dollars",
+              "es": "Unos diez dolares"
+            },
+            {
+              "native": "A esta hora, un poco",
+              "target": "At this hour, a little",
+              "phonetic": "at dis AU-er e LI-tel",
+              "en": "At this hour, a little",
+              "es": "A esta hora, un poco"
+            },
+            {
+              "native": "Tranquilo, llegamos bien",
+              "target": "Don't worry, we'll make it",
+              "phonetic": "DOUNT UER-i UIIL MEIK it",
+              "en": "Don't worry, we'll make it",
+              "es": "Tranquilo, llegamos bien"
+            },
+            {
+              "native": "Claro, que te gusta?",
+              "target": "Sure, what do you like?",
+              "phonetic": "SHUR uat duu iuu LAIK",
+              "en": "Sure, what do you like?",
+              "es": "Claro, que te gusta?"
+            },
+            {
+              "native": "Aca estamos",
+              "target": "Here we are",
+              "phonetic": "jiir uii ar",
+              "en": "Here we are",
+              "es": "Aca estamos"
+            },
+            {
+              "native": "Si, sin problema",
+              "target": "Yes, no problem",
+              "phonetic": "IES NOU PRO-blem",
+              "en": "Yes, no problem",
+              "es": "Si, sin problema"
+            },
+            {
+              "native": "Gracias, buen viaje!",
+              "target": "Thanks, safe travels!",
+              "phonetic": "ZANGKS SEIF TRA-vels",
+              "en": "Thanks, safe travels!",
+              "es": "Gracias, buen viaje!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "presentarse",
+      "title": "Conocerse en una fiesta",
+      "emoji": "🎉",
+      "band": 1,
+      "roles": [
+        {
+          "id": "a",
+          "name": "Vos",
+          "emoji": "🙋",
+          "mission": [
+            "Saluda",
+            "Presentate",
+            "Pregunta sobre la otra persona",
+            "Despedite copado"
+          ],
+          "lines": [
+            {
+              "native": "Hola! Como va?",
+              "target": "Hi! How's it going?",
+              "phonetic": "JAI JAUS it GOU-ing",
+              "en": "Hi! How's it going?",
+              "es": "Hola! Como va?"
+            },
+            {
+              "native": "Soy nuevo por aca",
+              "target": "I'm new around here",
+              "phonetic": "AIM NUU er-AUND jiir",
+              "en": "I'm new around here",
+              "es": "Soy nuevo por aca"
+            },
+            {
+              "native": "Lindo lugar, no?",
+              "target": "Nice place, right?",
+              "phonetic": "NAIS PLEIS RAIT",
+              "en": "Nice place, right?",
+              "es": "Lindo lugar, no?"
+            },
+            {
+              "native": "De donde sos?",
+              "target": "Where are you from?",
+              "phonetic": "UER ar iuu fram",
+              "en": "Where are you from?",
+              "es": "De donde sos?"
+            },
+            {
+              "native": "Y a que te dedicas?",
+              "target": "And what do you do?",
+              "phonetic": "end uat duu iuu duu",
+              "en": "And what do you do?",
+              "es": "Y a que te dedicas?"
+            },
+            {
+              "native": "Que bueno! Me encanta eso",
+              "target": "That's cool! I love that",
+              "phonetic": "DATS KUUL ai LAV dat",
+              "en": "That's cool! I love that",
+              "es": "Que bueno! Me encanta eso"
+            },
+            {
+              "native": "Que musica te gusta?",
+              "target": "What music do you like?",
+              "phonetic": "uat MIUU-sik duu iuu LAIK",
+              "en": "What music do you like?",
+              "es": "Que musica te gusta?"
+            },
+            {
+              "native": "Conoces a mucha gente aca?",
+              "target": "Do you know many people here?",
+              "phonetic": "duu iuu NOU ME-ni PII-pel jiir",
+              "en": "Do you know many people here?",
+              "es": "Conoces a mucha gente aca?"
+            },
+            {
+              "native": "Che, fue un gusto charlar",
+              "target": "Hey, it was nice chatting",
+              "phonetic": "JEI it uos NAIS CHA-ting",
+              "en": "Hey, it was nice chatting",
+              "es": "Che, fue un gusto charlar"
+            },
+            {
+              "native": "Nos vemos por ahi!",
+              "target": "See you around!",
+              "phonetic": "SII iuu er-AUND",
+              "en": "See you around!",
+              "es": "Nos vemos por ahi!"
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "name": "La otra persona",
+          "emoji": "🧍",
+          "mission": [
+            "Devolve el saludo",
+            "Conta de vos",
+            "Devolve preguntas",
+            "Despedite"
+          ],
+          "lines": [
+            {
+              "native": "Hola! Todo bien, vos?",
+              "target": "Hi! All good, you?",
+              "phonetic": "JAI OL GUD iuu",
+              "en": "Hi! All good, you?",
+              "es": "Hola! Todo bien, vos?"
+            },
+            {
+              "native": "Ah, bienvenido!",
+              "target": "Oh, welcome!",
+              "phonetic": "OU UEL-kem",
+              "en": "Oh, welcome!",
+              "es": "Ah, bienvenido!"
+            },
+            {
+              "native": "Si, esta buenisimo",
+              "target": "Yeah, it's great",
+              "phonetic": "IA ITS GREIT",
+              "en": "Yeah, it's great",
+              "es": "Si, esta buenisimo"
+            },
+            {
+              "native": "Soy de aca, de la ciudad",
+              "target": "I'm from here, from the city",
+              "phonetic": "AIM fram jiir fram de SI-ti",
+              "en": "I'm from here, from the city",
+              "es": "Soy de aca, de la ciudad"
+            },
+            {
+              "native": "Soy estudiante, y vos?",
+              "target": "I'm a student, and you?",
+              "phonetic": "AIM e STUU-dent end iuu",
+              "en": "I'm a student, and you?",
+              "es": "Soy estudiante, y vos?"
+            },
+            {
+              "native": "Gracias! Hace rato",
+              "target": "Thanks! For a while now",
+              "phonetic": "ZANGKS for e UAIL NAU",
+              "en": "Thanks! For a while now",
+              "es": "Gracias! Hace rato"
+            },
+            {
+              "native": "Me encanta el rock",
+              "target": "I love rock",
+              "phonetic": "ai LAV ROK",
+              "en": "I love rock",
+              "es": "Me encanta el rock"
+            },
+            {
+              "native": "A algunos, si",
+              "target": "Some of them, yeah",
+              "phonetic": "SAM av DEM IA",
+              "en": "Some of them, yeah",
+              "es": "A algunos, si"
+            },
+            {
+              "native": "Igualmente, re copado",
+              "target": "Likewise, really nice",
+              "phonetic": "LAI-kuais RI-li NAIS",
+              "en": "Likewise, really nice",
+              "es": "Igualmente, re copado"
+            },
+            {
+              "native": "Dale, chau!",
+              "target": "Sure, bye!",
+              "phonetic": "SHUR BAI",
+              "en": "Sure, bye!",
+              "es": "Dale, chau!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "invitar",
+      "title": "Invitar a salir",
+      "emoji": "📞",
+      "band": 2,
+      "roles": [
+        {
+          "id": "invita",
+          "name": "Vos",
+          "emoji": "🧍",
+          "mission": [
+            "Saluda",
+            "Propone un plan",
+            "Acorda dia y lugar",
+            "Cerra el plan"
+          ],
+          "lines": [
+            {
+              "native": "Hola! Como estas?",
+              "target": "Hi! How are you?",
+              "phonetic": "JAI jau ar iuu",
+              "en": "Hi! How are you?",
+              "es": "Hola! Como estas?"
+            },
+            {
+              "native": "Tenes planes para el finde?",
+              "target": "Do you have plans this weekend?",
+              "phonetic": "duu iuu jav PLANS dis UII-kend",
+              "en": "Do you have plans this weekend?",
+              "es": "Tenes planes para el finde?"
+            },
+            {
+              "native": "Te gustaria ir a tomar algo?",
+              "target": "Would you like to go for a drink?",
+              "phonetic": "uud iuu LAIK tuu GOU for e DRINGK",
+              "en": "Would you like to go for a drink?",
+              "es": "Te gustaria ir a tomar algo?"
+            },
+            {
+              "native": "Conozco un lugar re lindo",
+              "target": "I know a really nice place",
+              "phonetic": "ai NOU e RI-li NAIS PLEIS",
+              "en": "I know a really nice place",
+              "es": "Conozco un lugar re lindo"
+            },
+            {
+              "native": "El sabado te queda bien?",
+              "target": "Does Saturday work for you?",
+              "phonetic": "das SA-ter-di UERK for iuu",
+              "en": "Does Saturday work for you?",
+              "es": "El sabado te queda bien?"
+            },
+            {
+              "native": "A la tarde o a la noche?",
+              "target": "In the afternoon or at night?",
+              "phonetic": "in de af-ter-NUUN or at NAIT",
+              "en": "In the afternoon or at night?",
+              "es": "A la tarde o a la noche?"
+            },
+            {
+              "native": "Dale, a las ocho?",
+              "target": "Great, at eight?",
+              "phonetic": "GREIT at EIT",
+              "en": "Great, at eight?",
+              "es": "Dale, a las ocho?"
+            },
+            {
+              "native": "Paso a buscarte?",
+              "target": "Should I pick you up?",
+              "phonetic": "SHUD ai PIK iuu AP",
+              "en": "Should I pick you up?",
+              "es": "Paso a buscarte?"
+            },
+            {
+              "native": "Perfecto, nos vemos alla",
+              "target": "Perfect, see you there",
+              "phonetic": "per-FEKT SII iuu der",
+              "en": "Perfect, see you there",
+              "es": "Perfecto, nos vemos alla"
+            },
+            {
+              "native": "Buenisimo, hasta el sabado!",
+              "target": "Awesome, see you Saturday!",
+              "phonetic": "O-sem SII iuu SA-ter-di",
+              "en": "Awesome, see you Saturday!",
+              "es": "Buenisimo, hasta el sabado!"
+            }
+          ]
+        },
+        {
+          "id": "responde",
+          "name": "La otra persona",
+          "emoji": "🧍‍♀️",
+          "mission": [
+            "Saluda",
+            "Deci si te copa",
+            "Acorda detalles",
+            "Confirma"
+          ],
+          "lines": [
+            {
+              "native": "Hola! Todo bien",
+              "target": "Hi! All good",
+              "phonetic": "JAI OL GUD",
+              "en": "Hi! All good",
+              "es": "Hola! Todo bien"
+            },
+            {
+              "native": "No, estoy libre",
+              "target": "No, I'm free",
+              "phonetic": "NOU AIM FRII",
+              "en": "No, I'm free",
+              "es": "No, estoy libre"
+            },
+            {
+              "native": "Me encantaria!",
+              "target": "I'd love to!",
+              "phonetic": "AID LAV tuu",
+              "en": "I'd love to!",
+              "es": "Me encantaria!"
+            },
+            {
+              "native": "Ah, que ganas",
+              "target": "Oh, sounds great",
+              "phonetic": "OU SAUNDS GREIT",
+              "en": "Oh, sounds great",
+              "es": "Ah, que ganas"
+            },
+            {
+              "native": "El sabado me viene barbaro",
+              "target": "Saturday works great for me",
+              "phonetic": "SA-ter-di UERKS GREIT for mii",
+              "en": "Saturday works great for me",
+              "es": "El sabado me viene barbaro"
+            },
+            {
+              "native": "Mejor a la tarde",
+              "target": "The afternoon is better",
+              "phonetic": "de af-ter-NUUN is BE-ter",
+              "en": "The afternoon is better",
+              "es": "Mejor a la tarde"
+            },
+            {
+              "native": "A las ocho dale",
+              "target": "Eight works",
+              "phonetic": "EIT UERKS",
+              "en": "Eight works",
+              "es": "A las ocho dale"
+            },
+            {
+              "native": "Mejor nos encontramos alla",
+              "target": "Let's just meet there",
+              "phonetic": "LETS YAST MIIT der",
+              "en": "Let's just meet there",
+              "es": "Mejor nos encontramos alla"
+            },
+            {
+              "native": "Dale, te paso la direccion",
+              "target": "Sure, I'll send you the address",
+              "phonetic": "SHUR AIL SEND iuu de A-dres",
+              "en": "Sure, I'll send you the address",
+              "es": "Dale, te paso la direccion"
+            },
+            {
+              "native": "Listo, ahi nos vemos!",
+              "target": "Done, see you there!",
+              "phonetic": "DAN SII iuu der",
+              "en": "Done, see you there!",
+              "es": "Listo, ahi nos vemos!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hotel",
+      "title": "Check-in en el hotel",
+      "emoji": "🏨",
+      "band": 3,
+      "roles": [
+        {
+          "id": "huesped",
+          "name": "Huesped",
+          "emoji": "🧳",
+          "mission": [
+            "Saluda y deci que tenes reserva",
+            "Pregunta por servicios",
+            "Pedi algo",
+            "Agradece"
+          ],
+          "lines": [
+            {
+              "native": "Hola, buenas noches",
+              "target": "Hi, good evening",
+              "phonetic": "JAI GUD IIV-ning",
+              "en": "Hi, good evening",
+              "es": "Hola, buenas noches"
+            },
+            {
+              "native": "Tengo una reserva",
+              "target": "I have a reservation",
+              "phonetic": "ai jav e re-ser-VEI-shen",
+              "en": "I have a reservation",
+              "es": "Tengo una reserva"
+            },
+            {
+              "native": "A nombre de dos personas",
+              "target": "Under two people",
+              "phonetic": "AN-der TUU PII-pel",
+              "en": "Under two people",
+              "es": "A nombre de dos personas"
+            },
+            {
+              "native": "Esta incluido el desayuno?",
+              "target": "Is breakfast included?",
+              "phonetic": "is BREK-fest in-KLUU-ded",
+              "en": "Is breakfast included?",
+              "es": "Esta incluido el desayuno?"
+            },
+            {
+              "native": "A que hora es el check-out?",
+              "target": "What time is check-out?",
+              "phonetic": "uat TAIM is CHE-kaut",
+              "en": "What time is check-out?",
+              "es": "A que hora es el check-out?"
+            },
+            {
+              "native": "Hay wifi en la habitacion?",
+              "target": "Is there wifi in the room?",
+              "phonetic": "is der UAI-fai in de RUUM",
+              "en": "Is there wifi in the room?",
+              "es": "Hay wifi en la habitacion?"
+            },
+            {
+              "native": "La habitacion no tiene toallas",
+              "target": "The room has no towels",
+              "phonetic": "de RUUM jas NOU TAU-els",
+              "en": "The room has no towels",
+              "es": "La habitacion no tiene toallas"
+            },
+            {
+              "native": "Me pueden guardar las valijas maniana?",
+              "target": "Can you keep my luggage tomorrow?",
+              "phonetic": "kan iuu KIIP mai LA-gey ta-MO-rou",
+              "en": "Can you keep my luggage tomorrow?",
+              "es": "Me pueden guardar las valijas maniana?"
+            },
+            {
+              "native": "Tienen estacionamiento?",
+              "target": "Do you have parking?",
+              "phonetic": "duu iuu jav PAR-king",
+              "en": "Do you have parking?",
+              "es": "Tienen estacionamiento?"
+            },
+            {
+              "native": "Hay un restaurante cerca?",
+              "target": "Is there a restaurant nearby?",
+              "phonetic": "is der e RE-ster-ont NIR-bai",
+              "en": "Is there a restaurant nearby?",
+              "es": "Hay un restaurante cerca?"
+            },
+            {
+              "native": "Me pueden dar una habitacion mas tranquila?",
+              "target": "Can I get a quieter room?",
+              "phonetic": "kan ai GET e KUAI-a-ter RUUM",
+              "en": "Can I get a quieter room?",
+              "es": "Me pueden dar una habitacion mas tranquila?"
+            },
+            {
+              "native": "A que hora abre la pileta?",
+              "target": "What time does the pool open?",
+              "phonetic": "uat TAIM das de PUUL OU-pen",
+              "en": "What time does the pool open?",
+              "es": "A que hora abre la pileta?"
+            },
+            {
+              "native": "Me pueden despertar a las siete?",
+              "target": "Can you give me a wake-up call at seven?",
+              "phonetic": "kan iuu GIV mii e UEI-kap KOL at SE-ven",
+              "en": "Can you give me a wake-up call at seven?",
+              "es": "Me pueden despertar a las siete?"
+            },
+            {
+              "native": "Perfecto, muchas gracias",
+              "target": "Perfect, thank you very much",
+              "phonetic": "per-FEKT ZANGK iuu VE-ri MACH",
+              "en": "Perfect, thank you very much",
+              "es": "Perfecto, muchas gracias"
+            },
+            {
+              "native": "Que tenga buena noche",
+              "target": "Have a good night",
+              "phonetic": "jav e GUD NAIT",
+              "en": "Have a good night",
+              "es": "Que tenga buena noche"
+            }
+          ]
+        },
+        {
+          "id": "recepcionista",
+          "name": "Recepcionista",
+          "emoji": "🧑‍💼",
+          "mission": [
+            "Recibi",
+            "Pedi los datos",
+            "Informa servicios",
+            "Resolve pedidos"
+          ],
+          "lines": [
+            {
+              "native": "Buenas noches, bienvenido",
+              "target": "Good evening, welcome",
+              "phonetic": "GUD IIV-ning UEL-kem",
+              "en": "Good evening, welcome",
+              "es": "Buenas noches, bienvenido"
+            },
+            {
+              "native": "A nombre de quien?",
+              "target": "Under what name?",
+              "phonetic": "AN-der uat NEIM",
+              "en": "Under what name?",
+              "es": "A nombre de quien?"
+            },
+            {
+              "native": "Perfecto, lo encontre",
+              "target": "Perfect, I found it",
+              "phonetic": "per-FEKT ai FAUND it",
+              "en": "Perfect, I found it",
+              "es": "Perfecto, lo encontre"
+            },
+            {
+              "native": "Si, de siete a diez",
+              "target": "Yes, from seven to ten",
+              "phonetic": "IES fram SE-ven tuu TEN",
+              "en": "Yes, from seven to ten",
+              "es": "Si, de siete a diez"
+            },
+            {
+              "native": "El check-out es a las once",
+              "target": "Check-out is at eleven",
+              "phonetic": "CHE-kaut is at i-LE-ven",
+              "en": "Check-out is at eleven",
+              "es": "El check-out es a las once"
+            },
+            {
+              "native": "Si, la clave esta en la puerta",
+              "target": "Yes, the password is on the door",
+              "phonetic": "IES de PAS-uerd is on de DOR",
+              "en": "Yes, the password is on the door",
+              "es": "Si, la clave esta en la puerta"
+            },
+            {
+              "native": "Ya le mando toallas",
+              "target": "I'll send towels right up",
+              "phonetic": "AIL SEND TAU-els RAIT AP",
+              "en": "I'll send towels right up",
+              "es": "Ya le mando toallas"
+            },
+            {
+              "native": "Si, no hay problema",
+              "target": "Yes, no problem",
+              "phonetic": "IES NOU PRO-blem",
+              "en": "Yes, no problem",
+              "es": "Si, no hay problema"
+            },
+            {
+              "native": "Si, tenemos, en el subsuelo",
+              "target": "Yes, we do, in the basement",
+              "phonetic": "IES uii duu in de BEIS-ment",
+              "en": "Yes, we do, in the basement",
+              "es": "Si, tenemos, en el subsuelo"
+            },
+            {
+              "native": "Si, hay uno a una cuadra",
+              "target": "Yes, there's one a block away",
+              "phonetic": "IES DERS UAN e BLOK a-UEI",
+              "en": "Yes, there's one a block away",
+              "es": "Si, hay uno a una cuadra"
+            },
+            {
+              "native": "Claro, le cambio la habitacion",
+              "target": "Sure, I'll change your room",
+              "phonetic": "SHUR AIL CHEINY ior RUUM",
+              "en": "Sure, I'll change your room",
+              "es": "Claro, le cambio la habitacion"
+            },
+            {
+              "native": "La pileta abre a las ocho",
+              "target": "The pool opens at eight",
+              "phonetic": "de PUUL OU-pens at EIT",
+              "en": "The pool opens at eight",
+              "es": "La pileta abre a las ocho"
+            },
+            {
+              "native": "Si, le dejo el aviso",
+              "target": "Yes, I'll set the wake-up call",
+              "phonetic": "IES AIL SET de UEI-kap KOL",
+              "en": "Yes, I'll set the wake-up call",
+              "es": "Si, le dejo el aviso"
+            },
+            {
+              "native": "Aca tiene su llave",
+              "target": "Here's your key",
+              "phonetic": "JIRS ior KII",
+              "en": "Here's your key",
+              "es": "Aca tiene su llave"
+            },
+            {
+              "native": "Que disfrute su estadia",
+              "target": "Enjoy your stay",
+              "phonetic": "en-YOI ior STEI",
+              "en": "Enjoy your stay",
+              "es": "Que disfrute su estadia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aeropuerto",
+      "title": "Migraciones en el aeropuerto",
+      "emoji": "✈️",
+      "band": 3,
+      "roles": [
+        {
+          "id": "viajero",
+          "name": "Viajero/a",
+          "emoji": "🧳",
+          "mission": [
+            "Saluda",
+            "Entrega documentos",
+            "Responde el motivo",
+            "Despedite"
+          ],
+          "lines": [
+            {
+              "native": "Buenos dias",
+              "target": "Good morning",
+              "phonetic": "GUD MOR-ning",
+              "en": "Good morning",
+              "es": "Buenos dias"
+            },
+            {
+              "native": "Aca esta mi pasaporte",
+              "target": "Here's my passport",
+              "phonetic": "JIRS mai PA-sport",
+              "en": "Here's my passport",
+              "es": "Aca esta mi pasaporte"
+            },
+            {
+              "native": "Vengo de vacaciones",
+              "target": "I'm here on vacation",
+              "phonetic": "AIM jiir on vei-KEI-shen",
+              "en": "I'm here on vacation",
+              "es": "Vengo de vacaciones"
+            },
+            {
+              "native": "Me quedo una semana",
+              "target": "I'm staying for a week",
+              "phonetic": "AIM STEI-ing for e UIIK",
+              "en": "I'm staying for a week",
+              "es": "Me quedo una semana"
+            },
+            {
+              "native": "En un hotel del centro",
+              "target": "At a hotel downtown",
+              "phonetic": "at e jou-TEL DAUN-taun",
+              "en": "At a hotel downtown",
+              "es": "En un hotel del centro"
+            },
+            {
+              "native": "Es mi primera vez aca",
+              "target": "It's my first time here",
+              "phonetic": "ITS mai FERST TAIM jiir",
+              "en": "It's my first time here",
+              "es": "Es mi primera vez aca"
+            },
+            {
+              "native": "Solo llevo equipaje de mano",
+              "target": "I only have carry-on",
+              "phonetic": "ai OUN-li jav KA-ri-on",
+              "en": "I only have carry-on",
+              "es": "Solo llevo equipaje de mano"
+            },
+            {
+              "native": "No, nada para declarar",
+              "target": "No, nothing to declare",
+              "phonetic": "NOU NA-zing tuu di-KLER",
+              "en": "No, nothing to declare",
+              "es": "No, nada para declarar"
+            },
+            {
+              "native": "Claro, aca tiene",
+              "target": "Sure, here you go",
+              "phonetic": "SHUR jiir iuu GOU",
+              "en": "Sure, here you go",
+              "es": "Claro, aca tiene"
+            },
+            {
+              "native": "Muchas gracias",
+              "target": "Thank you very much",
+              "phonetic": "ZANGK iuu VE-ri MACH",
+              "en": "Thank you very much",
+              "es": "Muchas gracias"
+            }
+          ]
+        },
+        {
+          "id": "oficial",
+          "name": "Oficial",
+          "emoji": "👮",
+          "mission": [
+            "Pedi documentos",
+            "Pregunta el motivo",
+            "Confirma datos",
+            "Deja pasar"
+          ],
+          "lines": [
+            {
+              "native": "Buenos dias, pasaporte por favor",
+              "target": "Good morning, passport please",
+              "phonetic": "GUD MOR-ning PA-sport PLIIS",
+              "en": "Good morning, passport please",
+              "es": "Buenos dias, pasaporte por favor"
+            },
+            {
+              "native": "Gracias",
+              "target": "Thank you",
+              "phonetic": "ZANGK iuu",
+              "en": "Thank you",
+              "es": "Gracias"
+            },
+            {
+              "native": "Cual es el motivo de su viaje?",
+              "target": "What's the purpose of your trip?",
+              "phonetic": "UATS de PER-pes av ior TRIP",
+              "en": "What's the purpose of your trip?",
+              "es": "Cual es el motivo de su viaje?"
+            },
+            {
+              "native": "Cuanto tiempo se queda?",
+              "target": "How long are you staying?",
+              "phonetic": "jau LONG ar iuu STEI-ing",
+              "en": "How long are you staying?",
+              "es": "Cuanto tiempo se queda?"
+            },
+            {
+              "native": "Donde se va a hospedar?",
+              "target": "Where are you staying?",
+              "phonetic": "UER ar iuu STEI-ing",
+              "en": "Where are you staying?",
+              "es": "Donde se va a hospedar?"
+            },
+            {
+              "native": "Habia estado antes?",
+              "target": "Have you been here before?",
+              "phonetic": "jav iuu bin jiir bi-FOR",
+              "en": "Have you been here before?",
+              "es": "Habia estado antes?"
+            },
+            {
+              "native": "Cuantas valijas lleva?",
+              "target": "How many bags do you have?",
+              "phonetic": "jau ME-ni BAGS duu iuu jav",
+              "en": "How many bags do you have?",
+              "es": "Cuantas valijas lleva?"
+            },
+            {
+              "native": "Algo para declarar?",
+              "target": "Anything to declare?",
+              "phonetic": "E-ni-zing tuu di-KLER",
+              "en": "Anything to declare?",
+              "es": "Algo para declarar?"
+            },
+            {
+              "native": "Mire la camara, por favor",
+              "target": "Look at the camera, please",
+              "phonetic": "LUK at de KA-mer-e PLIIS",
+              "en": "Look at the camera, please",
+              "es": "Mire la camara, por favor"
+            },
+            {
+              "native": "Todo en orden, puede pasar",
+              "target": "Everything's in order, you may go",
+              "phonetic": "EV-ri-zings in OR-der iuu MEI GOU",
+              "en": "Everything's in order, you may go",
+              "es": "Todo en orden, puede pasar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "farmacia",
+      "title": "En la farmacia",
+      "emoji": "💊",
+      "band": 3,
+      "roles": [
+        {
+          "id": "cliente",
+          "name": "Cliente",
+          "emoji": "🧍",
+          "mission": [
+            "Saluda",
+            "Explica el sintoma",
+            "Pregunta como tomarlo",
+            "Paga"
+          ],
+          "lines": [
+            {
+              "native": "Hola, buenas",
+              "target": "Hi there",
+              "phonetic": "JAI der",
+              "en": "Hi there",
+              "es": "Hola, buenas"
+            },
+            {
+              "native": "No me siento muy bien",
+              "target": "I don't feel very well",
+              "phonetic": "ai DOUNT FIIL VE-ri UEL",
+              "en": "I don't feel very well",
+              "es": "No me siento muy bien"
+            },
+            {
+              "native": "Me duele la cabeza hace dos dias",
+              "target": "I've had a headache for two days",
+              "phonetic": "AIV jad e JE-deik for TUU DEIS",
+              "en": "I've had a headache for two days",
+              "es": "Me duele la cabeza hace dos dias"
+            },
+            {
+              "native": "Tambien tengo un poco de fiebre",
+              "target": "I also have a bit of a fever",
+              "phonetic": "ai OL-sou jav e BIT av e FII-ver",
+              "en": "I also have a bit of a fever",
+              "es": "Tambien tengo un poco de fiebre"
+            },
+            {
+              "native": "Tenes algo para eso?",
+              "target": "Do you have anything for that?",
+              "phonetic": "duu iuu jav E-ni-zing for dat",
+              "en": "Do you have anything for that?",
+              "es": "Tenes algo para eso?"
+            },
+            {
+              "native": "Necesito receta?",
+              "target": "Do I need a prescription?",
+              "phonetic": "duu ai NIID e pras-KRIP-shen",
+              "en": "Do I need a prescription?",
+              "es": "Necesito receta?"
+            },
+            {
+              "native": "Como lo tomo?",
+              "target": "How do I take it?",
+              "phonetic": "jau duu ai TEIK it",
+              "en": "How do I take it?",
+              "es": "Como lo tomo?"
+            },
+            {
+              "native": "Lo puedo tomar con comida?",
+              "target": "Can I take it with food?",
+              "phonetic": "kan ai TEIK it uid FUUD",
+              "en": "Can I take it with food?",
+              "es": "Lo puedo tomar con comida?"
+            },
+            {
+              "native": "Cuanto cuesta?",
+              "target": "How much is it?",
+              "phonetic": "jau MACH is it",
+              "en": "How much is it?",
+              "es": "Cuanto cuesta?"
+            },
+            {
+              "native": "Perfecto, me lo llevo, gracias",
+              "target": "Perfect, I'll take it, thanks",
+              "phonetic": "per-FEKT AIL TEIK it ZANGKS",
+              "en": "Perfect, I'll take it, thanks",
+              "es": "Perfecto, me lo llevo, gracias"
+            }
+          ]
+        },
+        {
+          "id": "farmaceutico",
+          "name": "Farmaceutico/a",
+          "emoji": "🧑‍⚕️",
+          "mission": [
+            "Pregunta que pasa",
+            "Recomenda algo",
+            "Explica como tomarlo",
+            "Cobra"
+          ],
+          "lines": [
+            {
+              "native": "Hola, en que te ayudo?",
+              "target": "Hi, how can I help?",
+              "phonetic": "JAI jau kan ai JELP",
+              "en": "Hi, how can I help?",
+              "es": "Hola, en que te ayudo?"
+            },
+            {
+              "native": "Que te pasa?",
+              "target": "What's wrong?",
+              "phonetic": "UATS RONG",
+              "en": "What's wrong?",
+              "es": "Que te pasa?"
+            },
+            {
+              "native": "Entiendo, desde cuando?",
+              "target": "I see, since when?",
+              "phonetic": "ai SII SINS UEN",
+              "en": "I see, since when?",
+              "es": "Entiendo, desde cuando?"
+            },
+            {
+              "native": "Tomaste algo ya?",
+              "target": "Have you taken anything yet?",
+              "phonetic": "jav iuu TEI-ken E-ni-zing IET",
+              "en": "Have you taken anything yet?",
+              "es": "Tomaste algo ya?"
+            },
+            {
+              "native": "Si, esto te va a servir",
+              "target": "Yes, this will help",
+              "phonetic": "IES dis uil JELP",
+              "en": "Yes, this will help",
+              "es": "Si, esto te va a servir"
+            },
+            {
+              "native": "No, sin receta",
+              "target": "No, no prescription needed",
+              "phonetic": "NOU NOU pras-KRIP-shen NII-ded",
+              "en": "No, no prescription needed",
+              "es": "No, sin receta"
+            },
+            {
+              "native": "Uno cada ocho horas",
+              "target": "One every eight hours",
+              "phonetic": "UAN E-ver-i EIT AU-ers",
+              "en": "One every eight hours",
+              "es": "Uno cada ocho horas"
+            },
+            {
+              "native": "Si, mejor con comida",
+              "target": "Yes, better with food",
+              "phonetic": "IES BE-ter uid FUUD",
+              "en": "Yes, better with food",
+              "es": "Si, mejor con comida"
+            },
+            {
+              "native": "Son cinco dolares",
+              "target": "That's five dollars",
+              "phonetic": "DATS FAIV DO-lers",
+              "en": "That's five dollars",
+              "es": "Son cinco dolares"
+            },
+            {
+              "native": "Que te mejores!",
+              "target": "Get well soon!",
+              "phonetic": "GET UEL SUUN",
+              "en": "Get well soon!",
+              "es": "Que te mejores!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aula",
+      "title": "Entregar una tarea",
+      "emoji": "🏫",
+      "band": 3,
+      "roles": [
+        {
+          "id": "alumno",
+          "name": "Alumno/a",
+          "emoji": "🧑‍🎓",
+          "mission": [
+            "Saluda al profe",
+            "Entrega y explica",
+            "Pregunta dudas",
+            "Despedite"
+          ],
+          "lines": [
+            {
+              "native": "Hola profe, buenos dias",
+              "target": "Hi teacher, good morning",
+              "phonetic": "JAI TII-cher GUD MOR-ning",
+              "en": "Hi teacher, good morning",
+              "es": "Hola profe, buenos dias"
+            },
+            {
+              "native": "Aca esta mi tarea",
+              "target": "Here's my homework",
+              "phonetic": "JIRS mai JOUM-uerk",
+              "en": "Here's my homework",
+              "es": "Aca esta mi tarea"
+            },
+            {
+              "native": "Perdon por entregarla tarde",
+              "target": "Sorry for handing it in late",
+              "phonetic": "SO-ri for JAN-ding it in LEIT",
+              "en": "Sorry for handing it in late",
+              "es": "Perdon por entregarla tarde"
+            },
+            {
+              "native": "Tuve un problema en casa",
+              "target": "I had a problem at home",
+              "phonetic": "ai jad e PRO-blem at JOUM",
+              "en": "I had a problem at home",
+              "es": "Tuve un problema en casa"
+            },
+            {
+              "native": "Entendi bien la consigna?",
+              "target": "Did I understand the task right?",
+              "phonetic": "did ai an-der-STAND de TASK RAIT",
+              "en": "Did I understand the task right?",
+              "es": "Entendi bien la consigna?"
+            },
+            {
+              "native": "No estaba seguro de la ultima parte",
+              "target": "I wasn't sure about the last part",
+              "phonetic": "ai UO-sent SHUR a-BAUT de LAST PART",
+              "en": "I wasn't sure about the last part",
+              "es": "No estaba seguro de la ultima parte"
+            },
+            {
+              "native": "Para cuando es la proxima?",
+              "target": "When is the next one due?",
+              "phonetic": "UEN is de NEKST UAN DUU",
+              "en": "When is the next one due?",
+              "es": "Para cuando es la proxima?"
+            },
+            {
+              "native": "La puedo mandar por mail?",
+              "target": "Can I send it by email?",
+              "phonetic": "kan ai SEND it BAI i-MEIL",
+              "en": "Can I send it by email?",
+              "es": "La puedo mandar por mail?"
+            },
+            {
+              "native": "Gracias por la ayuda",
+              "target": "Thanks for your help",
+              "phonetic": "ZANGKS for ior JELP",
+              "en": "Thanks for your help",
+              "es": "Gracias por la ayuda"
+            },
+            {
+              "native": "Nos vemos la clase que viene",
+              "target": "See you next class",
+              "phonetic": "SII iuu NEKST KLAS",
+              "en": "See you next class",
+              "es": "Nos vemos la clase que viene"
+            }
+          ]
+        },
+        {
+          "id": "profe",
+          "name": "Profe",
+          "emoji": "🧑‍🏫",
+          "mission": [
+            "Recibi",
+            "Pregunta por la demora",
+            "Da devolucion",
+            "Despedite"
+          ],
+          "lines": [
+            {
+              "native": "Hola! Buenos dias",
+              "target": "Hi! Good morning",
+              "phonetic": "JAI GUD MOR-ning",
+              "en": "Hi! Good morning",
+              "es": "Hola! Buenos dias"
+            },
+            {
+              "native": "Gracias, la recibo",
+              "target": "Thanks, I've got it",
+              "phonetic": "ZANGKS AIV GOT it",
+              "en": "Thanks, I've got it",
+              "es": "Gracias, la recibo"
+            },
+            {
+              "native": "Por que la entregas tarde?",
+              "target": "Why are you handing it in late?",
+              "phonetic": "UAI ar iuu JAN-ding it in LEIT",
+              "en": "Why are you handing it in late?",
+              "es": "Por que la entregas tarde?"
+            },
+            {
+              "native": "Esta bien, pero avisa la proxima",
+              "target": "It's okay, but let me know next time",
+              "phonetic": "ITS ou-KEI BAT LET mii NOU NEKST TAIM",
+              "en": "It's okay, but let me know next time",
+              "es": "Esta bien, pero avisa la proxima"
+            },
+            {
+              "native": "Si, lo entendiste bien",
+              "target": "Yes, you understood it well",
+              "phonetic": "IES iuu an-der-STUD it UEL",
+              "en": "Yes, you understood it well",
+              "es": "Si, lo entendiste bien"
+            },
+            {
+              "native": "La ultima parte estaba complicada",
+              "target": "The last part was tricky",
+              "phonetic": "de LAST PART uos TRI-ki",
+              "en": "The last part was tricky",
+              "es": "La ultima parte estaba complicada"
+            },
+            {
+              "native": "La proxima es para el lunes",
+              "target": "The next one is due Monday",
+              "phonetic": "de NEKST UAN is DUU MAN-di",
+              "en": "The next one is due Monday",
+              "es": "La proxima es para el lunes"
+            },
+            {
+              "native": "Si, mandamela por mail",
+              "target": "Yes, send it to me by email",
+              "phonetic": "IES SEND it tuu mii BAI i-MEIL",
+              "en": "Yes, send it to me by email",
+              "es": "Si, mandamela por mail"
+            },
+            {
+              "native": "Muy buen trabajo",
+              "target": "Great work",
+              "phonetic": "GREIT UERK",
+              "en": "Great work",
+              "es": "Muy buen trabajo"
+            },
+            {
+              "native": "Nos vemos, que descanses",
+              "target": "See you, take care",
+              "phonetic": "SII iuu TEIK KER",
+              "en": "See you, take care",
+              "es": "Nos vemos, que descanses"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "restaurante",
+      "title": "En el restaurante",
+      "emoji": "🍽️",
+      "band": 3,
+      "roles": [
+        {
+          "id": "cliente",
+          "name": "Cliente",
+          "emoji": "🧍",
+          "mission": [
+            "Pedi mesa",
+            "Ordena la comida",
+            "Comenta algo",
+            "Pedi la cuenta"
+          ],
+          "lines": [
+            {
+              "native": "Hola, mesa para dos?",
+              "target": "Hi, a table for two?",
+              "phonetic": "JAI e TEI-bel for TUU",
+              "en": "Hi, a table for two?",
+              "es": "Hola, mesa para dos?"
+            },
+            {
+              "native": "Nos traes la carta?",
+              "target": "Can you bring the menu?",
+              "phonetic": "kan iuu BRING de MEN-iu",
+              "en": "Can you bring the menu?",
+              "es": "Nos traes la carta?"
+            },
+            {
+              "native": "Que nos recomendas?",
+              "target": "What do you recommend?",
+              "phonetic": "uat duu iuu re-ka-MEND",
+              "en": "What do you recommend?",
+              "es": "Que nos recomendas?"
+            },
+            {
+              "native": "Para mi, el pollo",
+              "target": "For me, the chicken",
+              "phonetic": "for mii de CHI-ken",
+              "en": "For me, the chicken",
+              "es": "Para mi, el pollo"
+            },
+            {
+              "native": "Y una ensalada para compartir",
+              "target": "And a salad to share",
+              "phonetic": "end e SA-led tuu SHER",
+              "en": "And a salad to share",
+              "es": "Y una ensalada para compartir"
+            },
+            {
+              "native": "De tomar, agua sin gas",
+              "target": "To drink, still water",
+              "phonetic": "tuu DRINGK STIL UO-ter",
+              "en": "To drink, still water",
+              "es": "De tomar, agua sin gas"
+            },
+            {
+              "native": "Tienen menu del dia?",
+              "target": "Do you have a daily special?",
+              "phonetic": "duu iuu jav e DEI-li SPE-shel",
+              "en": "Do you have a daily special?",
+              "es": "Tienen menu del dia?"
+            },
+            {
+              "native": "El pollo viene con guarnicion?",
+              "target": "Does the chicken come with a side?",
+              "phonetic": "das de CHI-ken KAM uid e SAID",
+              "en": "Does the chicken come with a side?",
+              "es": "El pollo viene con guarnicion?"
+            },
+            {
+              "native": "Me lo pueden hacer sin sal?",
+              "target": "Can you make it without salt?",
+              "phonetic": "kan iuu MEIK it ui-ZAUT SOLT",
+              "en": "Can you make it without salt?",
+              "es": "Me lo pueden hacer sin sal?"
+            },
+            {
+              "native": "Nos traes un poco mas de pan?",
+              "target": "Can you bring some more bread?",
+              "phonetic": "kan iuu BRING SAM MOR BRED",
+              "en": "Can you bring some more bread?",
+              "es": "Nos traes un poco mas de pan?"
+            },
+            {
+              "native": "De postre, un flan",
+              "target": "For dessert, a flan",
+              "phonetic": "for di-SERT e FLAN",
+              "en": "For dessert, a flan",
+              "es": "De postre, un flan"
+            },
+            {
+              "native": "Perdon, esto no es lo que pedi",
+              "target": "Sorry, this isn't what I ordered",
+              "phonetic": "SO-ri dis I-sent uat ai OR-derd",
+              "en": "Sorry, this isn't what I ordered",
+              "es": "Perdon, esto no es lo que pedi"
+            },
+            {
+              "native": "Estaba todo muy rico",
+              "target": "Everything was delicious",
+              "phonetic": "EV-ri-zing uos di-LI-shes",
+              "en": "Everything was delicious",
+              "es": "Estaba todo muy rico"
+            },
+            {
+              "native": "Nos traes la cuenta?",
+              "target": "Can you bring the check?",
+              "phonetic": "kan iuu BRING de CHEK",
+              "en": "Can you bring the check?",
+              "es": "Nos traes la cuenta?"
+            },
+            {
+              "native": "Esta incluida la propina?",
+              "target": "Is the tip included?",
+              "phonetic": "is de TIP in-KLUU-ded",
+              "en": "Is the tip included?",
+              "es": "Esta incluida la propina?"
+            }
+          ]
+        },
+        {
+          "id": "mozo",
+          "name": "Mozo/a",
+          "emoji": "🧑‍🍳",
+          "mission": [
+            "Ubica",
+            "Toma el pedido",
+            "Resolve un problema",
+            "Trae la cuenta"
+          ],
+          "lines": [
+            {
+              "native": "Hola! Si, por aca",
+              "target": "Hi! Yes, this way",
+              "phonetic": "JAI IES dis UEI",
+              "en": "Hi! Yes, this way",
+              "es": "Hola! Si, por aca"
+            },
+            {
+              "native": "Aca tienen la carta",
+              "target": "Here's the menu",
+              "phonetic": "JIRS de MEN-iu",
+              "en": "Here's the menu",
+              "es": "Aca tienen la carta"
+            },
+            {
+              "native": "El pollo esta muy bueno hoy",
+              "target": "The chicken is really good today",
+              "phonetic": "de CHI-ken is RI-li GUD ta-DEI",
+              "en": "The chicken is really good today",
+              "es": "El pollo esta muy bueno hoy"
+            },
+            {
+              "native": "Excelente eleccion",
+              "target": "Excellent choice",
+              "phonetic": "EK-sa-lent CHOIS",
+              "en": "Excellent choice",
+              "es": "Excelente eleccion"
+            },
+            {
+              "native": "Perfecto, una ensalada",
+              "target": "Perfect, one salad",
+              "phonetic": "per-FEKT UAN SA-led",
+              "en": "Perfect, one salad",
+              "es": "Perfecto, una ensalada"
+            },
+            {
+              "native": "Enseguida",
+              "target": "Right away",
+              "phonetic": "RAIT a-UEI",
+              "en": "Right away",
+              "es": "Enseguida"
+            },
+            {
+              "native": "Si, esta en la pizarra",
+              "target": "Yes, it's on the board",
+              "phonetic": "IES ITS on de BORD",
+              "en": "Yes, it's on the board",
+              "es": "Si, esta en la pizarra"
+            },
+            {
+              "native": "Si, con pure o ensalada",
+              "target": "Yes, with mashed potatoes or salad",
+              "phonetic": "IES uid MASHT pa-TEI-tous or SA-led",
+              "en": "Yes, with mashed potatoes or salad",
+              "es": "Si, con pure o ensalada"
+            },
+            {
+              "native": "Claro, sin sal",
+              "target": "Sure, no salt",
+              "phonetic": "SHUR NOU SOLT",
+              "en": "Sure, no salt",
+              "es": "Claro, sin sal"
+            },
+            {
+              "native": "Enseguida les traigo",
+              "target": "I'll bring some right away",
+              "phonetic": "AIL BRING SAM RAIT a-UEI",
+              "en": "I'll bring some right away",
+              "es": "Enseguida les traigo"
+            },
+            {
+              "native": "Excelente, un flan",
+              "target": "Excellent, one flan",
+              "phonetic": "EK-sa-lent UAN FLAN",
+              "en": "Excellent, one flan",
+              "es": "Excelente, un flan"
+            },
+            {
+              "native": "Uy, perdon, ya lo cambio",
+              "target": "Oh, sorry, I'll change it right away",
+              "phonetic": "OU SO-ri AIL CHEINY it RAIT a-UEI",
+              "en": "Oh, sorry, I'll change it right away",
+              "es": "Uy, perdon, ya lo cambio"
+            },
+            {
+              "native": "Que bueno! Me alegro",
+              "target": "Great! I'm glad",
+              "phonetic": "GREIT AIM GLAD",
+              "en": "Great! I'm glad",
+              "es": "Que bueno! Me alegro"
+            },
+            {
+              "native": "Si, aca la tienen",
+              "target": "Yes, here it is",
+              "phonetic": "IES jiir it is",
+              "en": "Yes, here it is",
+              "es": "Si, aca la tienen"
+            },
+            {
+              "native": "No, la propina va aparte",
+              "target": "No, the tip is separate",
+              "phonetic": "NOU de TIP is SE-per-eit",
+              "en": "No, the tip is separate",
+              "es": "No, la propina va aparte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "devolver",
+      "title": "Devolver algo",
+      "emoji": "🛍️",
+      "band": 3,
+      "roles": [
+        {
+          "id": "cliente",
+          "name": "Cliente",
+          "emoji": "🧍",
+          "mission": [
+            "Explica que queres",
+            "Deci el motivo",
+            "Mostra el ticket",
+            "Pedi la solucion"
+          ],
+          "lines": [
+            {
+              "native": "Hola, buenas",
+              "target": "Hi there",
+              "phonetic": "JAI der",
+              "en": "Hi there",
+              "es": "Hola, buenas"
+            },
+            {
+              "native": "Queria devolver esto",
+              "target": "I'd like to return this",
+              "phonetic": "AID LAIK tuu ri-TERN dis",
+              "en": "I'd like to return this",
+              "es": "Queria devolver esto"
+            },
+            {
+              "native": "Lo compre ayer",
+              "target": "I bought it yesterday",
+              "phonetic": "ai BOT it IE-ster-dei",
+              "en": "I bought it yesterday",
+              "es": "Lo compre ayer"
+            },
+            {
+              "native": "No me quedo bien el talle",
+              "target": "It doesn't fit me",
+              "phonetic": "it DA-sent FIT mii",
+              "en": "It doesn't fit me",
+              "es": "No me quedo bien el talle"
+            },
+            {
+              "native": "Esta sin usar, con la etiqueta",
+              "target": "It's unused, with the tag",
+              "phonetic": "ITS an-IUUSD uid de TAG",
+              "en": "It's unused, with the tag",
+              "es": "Esta sin usar, con la etiqueta"
+            },
+            {
+              "native": "Aca esta el ticket",
+              "target": "Here's the receipt",
+              "phonetic": "JIRS de ri-SIIT",
+              "en": "Here's the receipt",
+              "es": "Aca esta el ticket"
+            },
+            {
+              "native": "Lo puedo cambiar por otro?",
+              "target": "Can I exchange it for another?",
+              "phonetic": "kan ai iks-CHEINY it for a-NA-der",
+              "en": "Can I exchange it for another?",
+              "es": "Lo puedo cambiar por otro?"
+            },
+            {
+              "native": "Y si no hay mi talle?",
+              "target": "And if my size isn't available?",
+              "phonetic": "end IF mai SAIS I-sent a-VEI-la-bel",
+              "en": "And if my size isn't available?",
+              "es": "Y si no hay mi talle?"
+            },
+            {
+              "native": "Prefiero que me devuelvan la plata",
+              "target": "I'd rather get a refund",
+              "phonetic": "AID RA-der GET e ri-FAND",
+              "en": "I'd rather get a refund",
+              "es": "Prefiero que me devuelvan la plata"
+            },
+            {
+              "native": "Perfecto, muchas gracias",
+              "target": "Perfect, thank you very much",
+              "phonetic": "per-FEKT ZANGK iuu VE-ri MACH",
+              "en": "Perfect, thank you very much",
+              "es": "Perfecto, muchas gracias"
+            }
+          ]
+        },
+        {
+          "id": "vendedor",
+          "name": "Vendedor/a",
+          "emoji": "🧑‍💼",
+          "mission": [
+            "Pregunta que pasa",
+            "Pedi el ticket",
+            "Ofrece opciones",
+            "Resolve"
+          ],
+          "lines": [
+            {
+              "native": "Hola, en que te ayudo?",
+              "target": "Hi, how can I help?",
+              "phonetic": "JAI jau kan ai JELP",
+              "en": "Hi, how can I help?",
+              "es": "Hola, en que te ayudo?"
+            },
+            {
+              "native": "Claro, que problema tuvo?",
+              "target": "Sure, what was the problem?",
+              "phonetic": "SHUR uat uos de PRO-blem",
+              "en": "Sure, what was the problem?",
+              "es": "Claro, que problema tuvo?"
+            },
+            {
+              "native": "Tiene el ticket?",
+              "target": "Do you have the receipt?",
+              "phonetic": "duu iuu jav de ri-SIIT",
+              "en": "Do you have the receipt?",
+              "es": "Tiene el ticket?"
+            },
+            {
+              "native": "Entiendo",
+              "target": "I see",
+              "phonetic": "ai SII",
+              "en": "I see",
+              "es": "Entiendo"
+            },
+            {
+              "native": "Perfecto, esta todo bien",
+              "target": "Perfect, everything's fine",
+              "phonetic": "per-FEKT EV-ri-zings FAIN",
+              "en": "Perfect, everything's fine",
+              "es": "Perfecto, esta todo bien"
+            },
+            {
+              "native": "Dejame ver",
+              "target": "Let me check",
+              "phonetic": "LET mii CHEK",
+              "en": "Let me check",
+              "es": "Dejame ver"
+            },
+            {
+              "native": "Si, lo cambiamos",
+              "target": "Yes, we can exchange it",
+              "phonetic": "IES uii kan iks-CHEINY it",
+              "en": "Yes, we can exchange it",
+              "es": "Si, lo cambiamos"
+            },
+            {
+              "native": "Entonces le devuelvo la plata",
+              "target": "Then I'll give you a refund",
+              "phonetic": "DEN AIL GIV iuu e ri-FAND",
+              "en": "Then I'll give you a refund",
+              "es": "Entonces le devuelvo la plata"
+            },
+            {
+              "native": "Con tarjeta o efectivo?",
+              "target": "By card or cash?",
+              "phonetic": "BAI KARD or KASH",
+              "en": "By card or cash?",
+              "es": "Con tarjeta o efectivo?"
+            },
+            {
+              "native": "Listo, ya esta",
+              "target": "All set",
+              "phonetic": "OL SET",
+              "en": "All set",
+              "es": "Listo, ya esta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "banco",
+      "title": "En el banco",
+      "emoji": "🏦",
+      "band": 3,
+      "roles": [
+        {
+          "id": "cliente",
+          "name": "Cliente",
+          "emoji": "🧍",
+          "mission": [
+            "Saluda",
+            "Deci que necesitas",
+            "Mostra documento",
+            "Pregunta por costos"
+          ],
+          "lines": [
+            {
+              "native": "Hola, buenos dias",
+              "target": "Hi, good morning",
+              "phonetic": "JAI GUD MOR-ning",
+              "en": "Hi, good morning",
+              "es": "Hola, buenos dias"
+            },
+            {
+              "native": "Queria cambiar dolares",
+              "target": "I'd like to exchange dollars",
+              "phonetic": "AID LAIK tuu iks-CHEINY DO-lers",
+              "en": "I'd like to exchange dollars",
+              "es": "Queria cambiar dolares"
+            },
+            {
+              "native": "A cuanto esta hoy?",
+              "target": "What's the rate today?",
+              "phonetic": "UATS de REIT ta-DEI",
+              "en": "What's the rate today?",
+              "es": "A cuanto esta hoy?"
+            },
+            {
+              "native": "Quiero cambiar cien",
+              "target": "I want to exchange a hundred",
+              "phonetic": "ai UONT tuu iks-CHEINY e JAN-dred",
+              "en": "I want to exchange a hundred",
+              "es": "Quiero cambiar cien"
+            },
+            {
+              "native": "Aca esta mi documento",
+              "target": "Here's my ID",
+              "phonetic": "JIRS mai ID",
+              "en": "Here's my ID",
+              "es": "Aca esta mi documento"
+            },
+            {
+              "native": "Hay comision?",
+              "target": "Is there a fee?",
+              "phonetic": "is der e FII",
+              "en": "Is there a fee?",
+              "es": "Hay comision?"
+            },
+            {
+              "native": "Puedo abrir una cuenta?",
+              "target": "Can I open an account?",
+              "phonetic": "kan ai OU-pen an a-KAUNT",
+              "en": "Can I open an account?",
+              "es": "Puedo abrir una cuenta?"
+            },
+            {
+              "native": "Que necesito para eso?",
+              "target": "What do I need for that?",
+              "phonetic": "uat duu ai NIID for dat",
+              "en": "What do I need for that?",
+              "es": "Que necesito para eso?"
+            },
+            {
+              "native": "Perfecto, lo pienso",
+              "target": "Perfect, I'll think about it",
+              "phonetic": "per-FEKT AIL ZINGK a-BAUT it",
+              "en": "Perfect, I'll think about it",
+              "es": "Perfecto, lo pienso"
+            },
+            {
+              "native": "Muchas gracias por todo",
+              "target": "Thanks a lot for everything",
+              "phonetic": "ZANGKS e LOT for EV-ri-zing",
+              "en": "Thanks a lot for everything",
+              "es": "Muchas gracias por todo"
+            }
+          ]
+        },
+        {
+          "id": "cajero",
+          "name": "Cajero/a",
+          "emoji": "🧑‍💼",
+          "mission": [
+            "Saluda",
+            "Informa el cambio",
+            "Pedi documento",
+            "Explica requisitos"
+          ],
+          "lines": [
+            {
+              "native": "Buenos dias, en que lo ayudo?",
+              "target": "Good morning, how can I help?",
+              "phonetic": "GUD MOR-ning jau kan ai JELP",
+              "en": "Good morning, how can I help?",
+              "es": "Buenos dias, en que lo ayudo?"
+            },
+            {
+              "native": "Claro, sin problema",
+              "target": "Sure, no problem",
+              "phonetic": "SHUR NOU PRO-blem",
+              "en": "Sure, no problem",
+              "es": "Claro, sin problema"
+            },
+            {
+              "native": "El cambio esta a mil",
+              "target": "The rate is one thousand",
+              "phonetic": "de REIT is UAN ZAU-send",
+              "en": "The rate is one thousand",
+              "es": "El cambio esta a mil"
+            },
+            {
+              "native": "Perfecto, cien dolares",
+              "target": "Perfect, a hundred dollars",
+              "phonetic": "per-FEKT e JAN-dred DO-lers",
+              "en": "Perfect, a hundred dollars",
+              "es": "Perfecto, cien dolares"
+            },
+            {
+              "native": "Gracias, un momento",
+              "target": "Thank you, one moment",
+              "phonetic": "ZANGK iuu UAN MOU-ment",
+              "en": "Thank you, one moment",
+              "es": "Gracias, un momento"
+            },
+            {
+              "native": "Si, una pequenia comision",
+              "target": "Yes, a small fee",
+              "phonetic": "IES e SMOL FII",
+              "en": "Yes, a small fee",
+              "es": "Si, una pequenia comision"
+            },
+            {
+              "native": "Si, claro que puede",
+              "target": "Yes, of course you can",
+              "phonetic": "IES av KORS iuu kan",
+              "en": "Yes, of course you can",
+              "es": "Si, claro que puede"
+            },
+            {
+              "native": "Documento y un comprobante de domicilio",
+              "target": "ID and proof of address",
+              "phonetic": "ID end PRUUF av A-dres",
+              "en": "ID and proof of address",
+              "es": "Documento y un comprobante de domicilio"
+            },
+            {
+              "native": "Cuando quiera, lo esperamos",
+              "target": "Whenever you want, we'll be here",
+              "phonetic": "ue-NE-ver iuu UONT UIIL bii jiir",
+              "en": "Whenever you want, we'll be here",
+              "es": "Cuando quiera, lo esperamos"
+            },
+            {
+              "native": "A usted, que tenga buen dia",
+              "target": "Thank you, have a good day",
+              "phonetic": "ZANGK iuu jav e GUD DEI",
+              "en": "Thank you, have a good day",
+              "es": "A usted, que tenga buen dia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "entrevista",
+      "title": "Entrevista de trabajo",
+      "emoji": "💼",
+      "band": 4,
+      "roles": [
+        {
+          "id": "candidato",
+          "name": "Candidato/a",
+          "emoji": "🧑‍💼",
+          "mission": [
+            "Presentate",
+            "Conta tu experiencia",
+            "Respondé con honestidad",
+            "Pregunta por el puesto",
+            "Cerra bien"
+          ],
+          "lines": [
+            {
+              "native": "Buenos dias, mucho gusto",
+              "target": "Good morning, nice to meet you",
+              "phonetic": "GUD MOR-ning NAIS tuu MIIT iuu",
+              "en": "Good morning, nice to meet you",
+              "es": "Buenos dias, mucho gusto"
+            },
+            {
+              "native": "Gracias por recibirme",
+              "target": "Thanks for having me",
+              "phonetic": "ZANGKS for JA-ving mii",
+              "en": "Thanks for having me",
+              "es": "Gracias por recibirme"
+            },
+            {
+              "native": "Si, encontre la oficina sin problema",
+              "target": "Yes, I found the office easily",
+              "phonetic": "IES ai FAUND de O-fis II-sa-li",
+              "en": "Yes, I found the office easily",
+              "es": "Si, encontre la oficina sin problema"
+            },
+            {
+              "native": "Me presento: soy disenador",
+              "target": "Let me introduce myself: I'm a designer",
+              "phonetic": "LET mii in-tra-DUUS myself: AIM e di-SAI-ner",
+              "en": "Let me introduce myself: I'm a designer",
+              "es": "Me presento: soy disenador"
+            },
+            {
+              "native": "Tengo tres anios de experiencia",
+              "target": "I have three years of experience",
+              "phonetic": "ai jav ZRII IIRS av ik-SPI-ri-ens",
+              "en": "I have three years of experience",
+              "es": "Tengo tres anios de experiencia"
+            },
+            {
+              "native": "Trabaje en atencion al cliente",
+              "target": "I worked in customer service",
+              "phonetic": "ai UERKT in KA-sta-mer SER-ves",
+              "en": "I worked in customer service",
+              "es": "Trabaje en atencion al cliente"
+            },
+            {
+              "native": "Mi ultimo trabajo fue en una agencia",
+              "target": "My last job was at an agency",
+              "phonetic": "mai LAST YOB uos at an EI-yan-si",
+              "en": "My last job was at an agency",
+              "es": "Mi ultimo trabajo fue en una agencia"
+            },
+            {
+              "native": "Me fui para buscar un nuevo desafio",
+              "target": "I left to look for a new challenge",
+              "phonetic": "ai LEFT tuu LUK for e NUU CHA-leny",
+              "en": "I left to look for a new challenge",
+              "es": "Me fui para buscar un nuevo desafio"
+            },
+            {
+              "native": "Me gusta trabajar en equipo",
+              "target": "I enjoy working in a team",
+              "phonetic": "ai en-YOI UER-king in e TIIM",
+              "en": "I enjoy working in a team",
+              "es": "Me gusta trabajar en equipo"
+            },
+            {
+              "native": "Mi fortaleza es la organizacion",
+              "target": "My strength is being organized",
+              "phonetic": "mai STRENGKZ is BII-ing OR-ga-naisd",
+              "en": "My strength is being organized",
+              "es": "Mi fortaleza es la organizacion"
+            },
+            {
+              "native": "Mi debilidad es que soy perfeccionista",
+              "target": "My weakness is that I'm a perfectionist",
+              "phonetic": "mai UIIK-nes is dat AIM e per-FEK-sha-nest",
+              "en": "My weakness is that I'm a perfectionist",
+              "es": "Mi debilidad es que soy perfeccionista"
+            },
+            {
+              "native": "Manejo ingles y un poco de portugues",
+              "target": "I speak English and a little Portuguese",
+              "phonetic": "ai SPIIK ING-glish end e LI-tel POR-cha-gis",
+              "en": "I speak English and a little Portuguese",
+              "es": "Manejo ingles y un poco de portugues"
+            },
+            {
+              "native": "Busco crecer profesionalmente",
+              "target": "I'm looking to grow professionally",
+              "phonetic": "AIM LU-king tuu GROU pra-FE-sha-na-li",
+              "en": "I'm looking to grow professionally",
+              "es": "Busco crecer profesionalmente"
+            },
+            {
+              "native": "En que consiste el puesto?",
+              "target": "What does the job involve?",
+              "phonetic": "uat das de YOB in-VOLV",
+              "en": "What does the job involve?",
+              "es": "En que consiste el puesto?"
+            },
+            {
+              "native": "Cual seria el horario?",
+              "target": "What would the hours be?",
+              "phonetic": "uat uud de AU-ers bii",
+              "en": "What would the hours be?",
+              "es": "Cual seria el horario?"
+            },
+            {
+              "native": "Se puede trabajar desde casa?",
+              "target": "Is working from home possible?",
+              "phonetic": "is UER-king fram JOUM PO-sa-bel",
+              "en": "Is working from home possible?",
+              "es": "Se puede trabajar desde casa?"
+            },
+            {
+              "native": "Como es el equipo?",
+              "target": "What's the team like?",
+              "phonetic": "UATS de TIIM LAIK",
+              "en": "What's the team like?",
+              "es": "Como es el equipo?"
+            },
+            {
+              "native": "Cuando sabria si quede?",
+              "target": "When would I know if I got it?",
+              "phonetic": "UEN uud ai NOU IF ai GOT it",
+              "en": "When would I know if I got it?",
+              "es": "Cuando sabria si quede?"
+            },
+            {
+              "native": "Me interesa mucho la oportunidad",
+              "target": "I'm very interested in the opportunity",
+              "phonetic": "AIM VE-ri IN-tra-stid in de o-per-TUU-na-ti",
+              "en": "I'm very interested in the opportunity",
+              "es": "Me interesa mucho la oportunidad"
+            },
+            {
+              "native": "Quedo a disposicion, muchas gracias",
+              "target": "I'm available if you need anything, thank you",
+              "phonetic": "AIM a-VEI-la-bel IF iuu NIID E-ni-zing ZANGK iuu",
+              "en": "I'm available if you need anything, thank you",
+              "es": "Quedo a disposicion, muchas gracias"
+            }
+          ]
+        },
+        {
+          "id": "entrevistador",
+          "name": "Entrevistador/a",
+          "emoji": "🧑‍💼",
+          "mission": [
+            "Recibi",
+            "Pregunta por su experiencia",
+            "Indaga fortalezas y debilidades",
+            "Explica el puesto",
+            "Cerra"
+          ],
+          "lines": [
+            {
+              "native": "Buenos dias, bienvenido",
+              "target": "Good morning, welcome",
+              "phonetic": "GUD MOR-ning UEL-kem",
+              "en": "Good morning, welcome",
+              "es": "Buenos dias, bienvenido"
+            },
+            {
+              "native": "Tome asiento, por favor",
+              "target": "Please, have a seat",
+              "phonetic": "PLIIS jav e SIIT",
+              "en": "Please, have a seat",
+              "es": "Tome asiento, por favor"
+            },
+            {
+              "native": "Encontro la oficina bien?",
+              "target": "Did you find the office okay?",
+              "phonetic": "did iuu FAIND de O-fis ou-KEI",
+              "en": "Did you find the office okay?",
+              "es": "Encontro la oficina bien?"
+            },
+            {
+              "native": "Cuenteme un poco sobre usted",
+              "target": "Tell me a bit about yourself",
+              "phonetic": "TEL mii e BIT a-BAUT ier-SELF",
+              "en": "Tell me a bit about yourself",
+              "es": "Cuenteme un poco sobre usted"
+            },
+            {
+              "native": "Cuenteme sobre su experiencia",
+              "target": "Tell me about your experience",
+              "phonetic": "TEL mii a-BAUT ior ik-SPI-ri-ens",
+              "en": "Tell me about your experience",
+              "es": "Cuenteme sobre su experiencia"
+            },
+            {
+              "native": "En que empresa trabajo?",
+              "target": "What company did you work at?",
+              "phonetic": "uat KAM-pa-ni did iuu UERK at",
+              "en": "What company did you work at?",
+              "es": "En que empresa trabajo?"
+            },
+            {
+              "native": "Que tareas tenia alli?",
+              "target": "What tasks did you have there?",
+              "phonetic": "uat TASKS did iuu jav der",
+              "en": "What tasks did you have there?",
+              "es": "Que tareas tenia alli?"
+            },
+            {
+              "native": "Por que dejo ese trabajo?",
+              "target": "Why did you leave that job?",
+              "phonetic": "UAI did iuu LIIV dat YOB",
+              "en": "Why did you leave that job?",
+              "es": "Por que dejo ese trabajo?"
+            },
+            {
+              "native": "Como trabaja en equipo?",
+              "target": "How do you work in a team?",
+              "phonetic": "jau duu iuu UERK in e TIIM",
+              "en": "How do you work in a team?",
+              "es": "Como trabaja en equipo?"
+            },
+            {
+              "native": "Cuales son sus fortalezas?",
+              "target": "What are your strengths?",
+              "phonetic": "uat ar ior STRENGKZS",
+              "en": "What are your strengths?",
+              "es": "Cuales son sus fortalezas?"
+            },
+            {
+              "native": "Y sus debilidades?",
+              "target": "And your weaknesses?",
+              "phonetic": "end ior UIIK-na-ses",
+              "en": "And your weaknesses?",
+              "es": "Y sus debilidades?"
+            },
+            {
+              "native": "Maneja algun idioma?",
+              "target": "Do you speak any languages?",
+              "phonetic": "duu iuu SPIIK E-ni LANGG-ua-yes",
+              "en": "Do you speak any languages?",
+              "es": "Maneja algun idioma?"
+            },
+            {
+              "native": "Donde se ve en cinco anios?",
+              "target": "Where do you see yourself in five years?",
+              "phonetic": "UER duu iuu SII ier-SELF in FAIV IIRS",
+              "en": "Where do you see yourself in five years?",
+              "es": "Donde se ve en cinco anios?"
+            },
+            {
+              "native": "Le explico el puesto",
+              "target": "Let me explain the role",
+              "phonetic": "LET mii iks-PLEIN de ROUL",
+              "en": "Let me explain the role",
+              "es": "Le explico el puesto"
+            },
+            {
+              "native": "Es de tiempo completo",
+              "target": "It's a full-time position",
+              "phonetic": "ITS e FUL-taim pa-SI-shen",
+              "en": "It's a full-time position",
+              "es": "Es de tiempo completo"
+            },
+            {
+              "native": "El horario es de nueve a seis",
+              "target": "The hours are nine to six",
+              "phonetic": "de AU-ers ar NAIN tuu SIKS",
+              "en": "The hours are nine to six",
+              "es": "El horario es de nueve a seis"
+            },
+            {
+              "native": "Si, dos dias desde casa",
+              "target": "Yes, two days from home",
+              "phonetic": "IES TUU DEIS fram JOUM",
+              "en": "Yes, two days from home",
+              "es": "Si, dos dias desde casa"
+            },
+            {
+              "native": "El equipo es de cinco personas",
+              "target": "The team is five people",
+              "phonetic": "de TIIM is FAIV PII-pel",
+              "en": "The team is five people",
+              "es": "El equipo es de cinco personas"
+            },
+            {
+              "native": "Le avisamos la semana que viene",
+              "target": "We'll let you know next week",
+              "phonetic": "UIIL LET iuu NOU NEKST UIIK",
+              "en": "We'll let you know next week",
+              "es": "Le avisamos la semana que viene"
+            },
+            {
+              "native": "Gracias por venir, lo contactaremos",
+              "target": "Thanks for coming, we'll be in touch",
+              "phonetic": "ZANGKS for KA-ming UIIL bii in TACH",
+              "en": "Thanks for coming, we'll be in touch",
+              "es": "Gracias por venir, lo contactaremos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reclamo",
+      "title": "Reclamo por telefono",
+      "emoji": "📱",
+      "band": 4,
+      "roles": [
+        {
+          "id": "cliente",
+          "name": "Cliente",
+          "emoji": "🧍",
+          "mission": [
+            "Explica el problema",
+            "Da los datos",
+            "Insisti con calma",
+            "Confirma la solucion"
+          ],
+          "lines": [
+            {
+              "native": "Hola, buenas tardes",
+              "target": "Hi, good afternoon",
+              "phonetic": "JAI GUD af-ter-NUUN",
+              "en": "Hi, good afternoon",
+              "es": "Hola, buenas tardes"
+            },
+            {
+              "native": "Tengo un problema con mi pedido",
+              "target": "I have a problem with my order",
+              "phonetic": "ai jav e PRO-blem uid mai OR-der",
+              "en": "I have a problem with my order",
+              "es": "Tengo un problema con mi pedido"
+            },
+            {
+              "native": "Nunca llego lo que compre",
+              "target": "What I bought never arrived",
+              "phonetic": "uat ai BOT NE-ver er-AIVD",
+              "en": "What I bought never arrived",
+              "es": "Nunca llego lo que compre"
+            },
+            {
+              "native": "Lo pedi hace dos semanas",
+              "target": "I ordered it two weeks ago",
+              "phonetic": "ai OR-derd it TUU UIIKS a-GOU",
+              "en": "I ordered it two weeks ago",
+              "es": "Lo pedi hace dos semanas"
+            },
+            {
+              "native": "Mi numero de pedido es 1234",
+              "target": "My order number is 1234",
+              "phonetic": "mai OR-der NAM-ber is 1234",
+              "en": "My order number is 1234",
+              "es": "Mi numero de pedido es 1234"
+            },
+            {
+              "native": "Ya escribi y nadie me respondio",
+              "target": "I already wrote and nobody replied",
+              "phonetic": "ai ol-RE-di ROUT end NOU-bo-di ri-PLAID",
+              "en": "I already wrote and nobody replied",
+              "es": "Ya escribi y nadie me respondio"
+            },
+            {
+              "native": "Entiendo, pero necesito una solucion",
+              "target": "I understand, but I need a solution",
+              "phonetic": "ai an-der-STAND BAT ai NIID e sa-LUU-shen",
+              "en": "I understand, but I need a solution",
+              "es": "Entiendo, pero necesito una solucion"
+            },
+            {
+              "native": "Prefiero que me devuelvan la plata",
+              "target": "I'd rather get my money back",
+              "phonetic": "AID RA-der GET mai MA-ni BAK",
+              "en": "I'd rather get my money back",
+              "es": "Prefiero que me devuelvan la plata"
+            },
+            {
+              "native": "Cuanto tarda el reembolso?",
+              "target": "How long does the refund take?",
+              "phonetic": "jau LONG das de ri-FAND TEIK",
+              "en": "How long does the refund take?",
+              "es": "Cuanto tarda el reembolso?"
+            },
+            {
+              "native": "Bueno, gracias por resolverlo",
+              "target": "Okay, thanks for sorting it out",
+              "phonetic": "ou-KEI ZANGKS for SOR-ting it AUT",
+              "en": "Okay, thanks for sorting it out",
+              "es": "Bueno, gracias por resolverlo"
+            }
+          ]
+        },
+        {
+          "id": "soporte",
+          "name": "Soporte",
+          "emoji": "🧑‍💻",
+          "mission": [
+            "Pedi disculpas",
+            "Pedi los datos",
+            "Ofrece una solucion",
+            "Cerra"
+          ],
+          "lines": [
+            {
+              "native": "Hola, buenas tardes",
+              "target": "Hi, good afternoon",
+              "phonetic": "JAI GUD af-ter-NUUN",
+              "en": "Hi, good afternoon",
+              "es": "Hola, buenas tardes"
+            },
+            {
+              "native": "Lamento el inconveniente",
+              "target": "I'm sorry for the inconvenience",
+              "phonetic": "AIM SO-ri for de in-kan-VIIN-iens",
+              "en": "I'm sorry for the inconvenience",
+              "es": "Lamento el inconveniente"
+            },
+            {
+              "native": "Me cuenta que paso?",
+              "target": "Can you tell me what happened?",
+              "phonetic": "kan iuu TEL mii uat JA-pend",
+              "en": "Can you tell me what happened?",
+              "es": "Me cuenta que paso?"
+            },
+            {
+              "native": "Me da su numero de pedido?",
+              "target": "Can I have your order number?",
+              "phonetic": "kan ai jav ior OR-der NAM-ber",
+              "en": "Can I have your order number?",
+              "es": "Me da su numero de pedido?"
+            },
+            {
+              "native": "Un momento, lo busco",
+              "target": "One moment, I'll look it up",
+              "phonetic": "UAN MOU-ment AIL LUK it AP",
+              "en": "One moment, I'll look it up",
+              "es": "Un momento, lo busco"
+            },
+            {
+              "native": "Tiene razon, me disculpo",
+              "target": "You're right, I apologize",
+              "phonetic": "IUR RAIT ai a-PO-la-yais",
+              "en": "You're right, I apologize",
+              "es": "Tiene razon, me disculpo"
+            },
+            {
+              "native": "Le ofrezco un reembolso o un reenvio",
+              "target": "I can offer a refund or a reshipment",
+              "phonetic": "ai kan O-fer e ri-FAND or e rei-SHIP-ment",
+              "en": "I can offer a refund or a reshipment",
+              "es": "Le ofrezco un reembolso o un reenvio"
+            },
+            {
+              "native": "Perfecto, proceso el reembolso",
+              "target": "Perfect, I'll process the refund",
+              "phonetic": "per-FEKT AIL PRO-ses de ri-FAND",
+              "en": "Perfect, I'll process the refund",
+              "es": "Perfecto, proceso el reembolso"
+            },
+            {
+              "native": "Entre cinco y siete dias",
+              "target": "Between five and seven days",
+              "phonetic": "bi-TUIIN FAIV end SE-ven DEIS",
+              "en": "Between five and seven days",
+              "es": "Entre cinco y siete dias"
+            },
+            {
+              "native": "Gracias por su paciencia",
+              "target": "Thank you for your patience",
+              "phonetic": "ZANGK iuu for ior PEI-shens",
+              "en": "Thank you for your patience",
+              "es": "Gracias por su paciencia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "medico",
+      "title": "En el medico",
+      "emoji": "🏥",
+      "band": 4,
+      "roles": [
+        {
+          "id": "paciente",
+          "name": "Paciente",
+          "emoji": "🧍",
+          "mission": [
+            "Saluda",
+            "Describi los sintomas",
+            "Responde preguntas",
+            "Pregunta el tratamiento"
+          ],
+          "lines": [
+            {
+              "native": "Hola doctor, buenos dias",
+              "target": "Hi doctor, good morning",
+              "phonetic": "JAI DOK-ter GUD MOR-ning",
+              "en": "Hi doctor, good morning",
+              "es": "Hola doctor, buenos dias"
+            },
+            {
+              "native": "No me siento bien",
+              "target": "I don't feel well",
+              "phonetic": "ai DOUNT FIIL UEL",
+              "en": "I don't feel well",
+              "es": "No me siento bien"
+            },
+            {
+              "native": "Me duele la garganta",
+              "target": "My throat hurts",
+              "phonetic": "mai ZROUT JERTS",
+              "en": "My throat hurts",
+              "es": "Me duele la garganta"
+            },
+            {
+              "native": "Empezo hace tres dias",
+              "target": "It started three days ago",
+              "phonetic": "it STAR-tid ZRII DEIS a-GOU",
+              "en": "It started three days ago",
+              "es": "Empezo hace tres dias"
+            },
+            {
+              "native": "Tambien tengo tos",
+              "target": "I also have a cough",
+              "phonetic": "ai OL-sou jav e KOF",
+              "en": "I also have a cough",
+              "es": "Tambien tengo tos"
+            },
+            {
+              "native": "Si, un poco de fiebre",
+              "target": "Yes, a bit of a fever",
+              "phonetic": "IES e BIT av e FII-ver",
+              "en": "Yes, a bit of a fever",
+              "es": "Si, un poco de fiebre"
+            },
+            {
+              "native": "No, no soy alergico a nada",
+              "target": "No, I'm not allergic to anything",
+              "phonetic": "NOU AIM NOT a-LER-yik tuu E-ni-zing",
+              "en": "No, I'm not allergic to anything",
+              "es": "No, no soy alergico a nada"
+            },
+            {
+              "native": "Es algo grave?",
+              "target": "Is it something serious?",
+              "phonetic": "is it SAM-zing SI-ri-es",
+              "en": "Is it something serious?",
+              "es": "Es algo grave?"
+            },
+            {
+              "native": "Que tengo que tomar?",
+              "target": "What should I take?",
+              "phonetic": "uat SHUD ai TEIK",
+              "en": "What should I take?",
+              "es": "Que tengo que tomar?"
+            },
+            {
+              "native": "Perfecto, muchas gracias",
+              "target": "Perfect, thank you very much",
+              "phonetic": "per-FEKT ZANGK iuu VE-ri MACH",
+              "en": "Perfect, thank you very much",
+              "es": "Perfecto, muchas gracias"
+            }
+          ]
+        },
+        {
+          "id": "medico",
+          "name": "Medico/a",
+          "emoji": "🧑‍⚕️",
+          "mission": [
+            "Saluda",
+            "Pregunta sintomas",
+            "Examina",
+            "Indica tratamiento"
+          ],
+          "lines": [
+            {
+              "native": "Buenos dias, pase",
+              "target": "Good morning, come in",
+              "phonetic": "GUD MOR-ning KAM in",
+              "en": "Good morning, come in",
+              "es": "Buenos dias, pase"
+            },
+            {
+              "native": "Que lo trae por aca?",
+              "target": "What brings you in?",
+              "phonetic": "uat BRINGS iuu in",
+              "en": "What brings you in?",
+              "es": "Que lo trae por aca?"
+            },
+            {
+              "native": "Desde cuando le duele?",
+              "target": "How long has it hurt?",
+              "phonetic": "jau LONG jas it JERT",
+              "en": "How long has it hurt?",
+              "es": "Desde cuando le duele?"
+            },
+            {
+              "native": "Tiene fiebre?",
+              "target": "Do you have a fever?",
+              "phonetic": "duu iuu jav e FII-ver",
+              "en": "Do you have a fever?",
+              "es": "Tiene fiebre?"
+            },
+            {
+              "native": "Es alergico a algun medicamento?",
+              "target": "Are you allergic to any medication?",
+              "phonetic": "ar iuu a-LER-yik tuu E-ni me-da-KEI-shen",
+              "en": "Are you allergic to any medication?",
+              "es": "Es alergico a algun medicamento?"
+            },
+            {
+              "native": "Vamos a revisarlo",
+              "target": "Let's take a look",
+              "phonetic": "LETS TEIK e LUK",
+              "en": "Let's take a look",
+              "es": "Vamos a revisarlo"
+            },
+            {
+              "native": "Abra la boca, por favor",
+              "target": "Open your mouth, please",
+              "phonetic": "OU-pen ior MAUZ PLIIS",
+              "en": "Open your mouth, please",
+              "es": "Abra la boca, por favor"
+            },
+            {
+              "native": "Es una infeccion leve",
+              "target": "It's a mild infection",
+              "phonetic": "ITS e MAILD in-FEK-shen",
+              "en": "It's a mild infection",
+              "es": "Es una infeccion leve"
+            },
+            {
+              "native": "Tome esto dos veces al dia",
+              "target": "Take this twice a day",
+              "phonetic": "TEIK dis TUAIS e DEI",
+              "en": "Take this twice a day",
+              "es": "Tome esto dos veces al dia"
+            },
+            {
+              "native": "Si no mejora, vuelva",
+              "target": "If it doesn't improve, come back",
+              "phonetic": "IF it DA-sent im-PRUUV KAM BAK",
+              "en": "If it doesn't improve, come back",
+              "es": "Si no mejora, vuelva"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reunion",
+      "title": "Proponer una idea",
+      "emoji": "💡",
+      "band": 4,
+      "roles": [
+        {
+          "id": "a",
+          "name": "Vos",
+          "emoji": "🧍",
+          "mission": [
+            "Presenta el tema",
+            "Explica la idea",
+            "Responde dudas",
+            "Cerra con un acuerdo"
+          ],
+          "lines": [
+            {
+              "native": "Hola, gracias por venir",
+              "target": "Hi, thanks for coming",
+              "phonetic": "JAI ZANGKS for KA-ming",
+              "en": "Hi, thanks for coming",
+              "es": "Hola, gracias por venir"
+            },
+            {
+              "native": "Queria compartir una idea",
+              "target": "I wanted to share an idea",
+              "phonetic": "ai UON-tid tuu SHER an ai-DII-e",
+              "en": "I wanted to share an idea",
+              "es": "Queria compartir una idea"
+            },
+            {
+              "native": "Creo que nos ahorraria tiempo",
+              "target": "I think it would save us time",
+              "phonetic": "ai ZINGK it uud SEIV as TAIM",
+              "en": "I think it would save us time",
+              "es": "Creo que nos ahorraria tiempo"
+            },
+            {
+              "native": "La idea es automatizar el proceso",
+              "target": "The idea is to automate the process",
+              "phonetic": "de ai-DII-e is tuu O-ta-meit de PRO-ses",
+              "en": "The idea is to automate the process",
+              "es": "La idea es automatizar el proceso"
+            },
+            {
+              "native": "Reduciria los errores",
+              "target": "It would reduce errors",
+              "phonetic": "it uud ra-DUUS E-rers",
+              "en": "It would reduce errors",
+              "es": "Reduciria los errores"
+            },
+            {
+              "native": "Que opinas?",
+              "target": "What do you think?",
+              "phonetic": "uat duu iuu ZINGK",
+              "en": "What do you think?",
+              "es": "Que opinas?"
+            },
+            {
+              "native": "Entiendo tu punto",
+              "target": "I see your point",
+              "phonetic": "ai SII ior POINT",
+              "en": "I see your point",
+              "es": "Entiendo tu punto"
+            },
+            {
+              "native": "Podriamos probarlo un mes",
+              "target": "We could try it for a month",
+              "phonetic": "uii kud TRAI it for e MANZ",
+              "en": "We could try it for a month",
+              "es": "Podriamos probarlo un mes"
+            },
+            {
+              "native": "Si no funciona, volvemos atras",
+              "target": "If it doesn't work, we go back",
+              "phonetic": "IF it DA-sent UERK uii GOU BAK",
+              "en": "If it doesn't work, we go back",
+              "es": "Si no funciona, volvemos atras"
+            },
+            {
+              "native": "Gracias por escucharme",
+              "target": "Thanks for hearing me out",
+              "phonetic": "ZANGKS for JII-ring mii AUT",
+              "en": "Thanks for hearing me out",
+              "es": "Gracias por escucharme"
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "name": "Colega",
+          "emoji": "🧑‍💼",
+          "mission": [
+            "Escucha",
+            "Pregunta dudas",
+            "Objeta con respeto",
+            "Acorda"
+          ],
+          "lines": [
+            {
+              "native": "Hola, de nada",
+              "target": "Hi, you're welcome",
+              "phonetic": "JAI IUR UEL-kem",
+              "en": "Hi, you're welcome",
+              "es": "Hola, de nada"
+            },
+            {
+              "native": "Dale, contame",
+              "target": "Sure, tell me",
+              "phonetic": "SHUR TEL mii",
+              "en": "Sure, tell me",
+              "es": "Dale, contame"
+            },
+            {
+              "native": "Ah, interesante",
+              "target": "Oh, interesting",
+              "phonetic": "OU IN-tra-sting",
+              "en": "Oh, interesting",
+              "es": "Ah, interesante"
+            },
+            {
+              "native": "Como lo implementariamos?",
+              "target": "How would we implement it?",
+              "phonetic": "jau uud uii IM-pla-ment it",
+              "en": "How would we implement it?",
+              "es": "Como lo implementariamos?"
+            },
+            {
+              "native": "Y cuanto costaria?",
+              "target": "And how much would it cost?",
+              "phonetic": "end jau MACH uud it KOST",
+              "en": "And how much would it cost?",
+              "es": "Y cuanto costaria?"
+            },
+            {
+              "native": "Me parece buena idea",
+              "target": "I think it's a good idea",
+              "phonetic": "ai ZINGK ITS e GUD ai-DII-e",
+              "en": "I think it's a good idea",
+              "es": "Me parece buena idea"
+            },
+            {
+              "native": "Mi unica duda es el tiempo",
+              "target": "My only concern is the time",
+              "phonetic": "mai OUN-li kan-SERN is de TAIM",
+              "en": "My only concern is the time",
+              "es": "Mi unica duda es el tiempo"
+            },
+            {
+              "native": "Dale, probemoslo",
+              "target": "Alright, let's try it",
+              "phonetic": "ol-RAIT LETS TRAI it",
+              "en": "Alright, let's try it",
+              "es": "Dale, probemoslo"
+            },
+            {
+              "native": "De acuerdo con eso",
+              "target": "I agree with that",
+              "phonetic": "ai a-GRII uid dat",
+              "en": "I agree with that",
+              "es": "De acuerdo con eso"
+            },
+            {
+              "native": "Buenisimo, armemos el plan",
+              "target": "Great, let's put together the plan",
+              "phonetic": "GREIT LETS PUT ta-GE-der de PLAN",
+              "en": "Great, let's put together the plan",
+              "es": "Buenisimo, armemos el plan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alquilar",
+      "title": "Alquilar un depto",
+      "emoji": "🏠",
+      "band": 5,
+      "roles": [
+        {
+          "id": "interesado",
+          "name": "Interesado/a",
+          "emoji": "🧍",
+          "mission": [
+            "Saluda",
+            "Pregunta por el depto",
+            "Pregunta condiciones",
+            "Coordina una visita"
+          ],
+          "lines": [
+            {
+              "native": "Hola, buenas",
+              "target": "Hi there",
+              "phonetic": "JAI der",
+              "en": "Hi there",
+              "es": "Hola, buenas"
+            },
+            {
+              "native": "Vi el aviso del departamento",
+              "target": "I saw the ad for the apartment",
+              "phonetic": "ai SO de AD for de a-PART-ment",
+              "en": "I saw the ad for the apartment",
+              "es": "Vi el aviso del departamento"
+            },
+            {
+              "native": "Sigue disponible?",
+              "target": "Is it still available?",
+              "phonetic": "is it STIL a-VEI-la-bel",
+              "en": "Is it still available?",
+              "es": "Sigue disponible?"
+            },
+            {
+              "native": "Cuanto es el alquiler?",
+              "target": "How much is the rent?",
+              "phonetic": "jau MACH is de RENT",
+              "en": "How much is the rent?",
+              "es": "Cuanto es el alquiler?"
+            },
+            {
+              "native": "Incluye expensas?",
+              "target": "Does it include maintenance fees?",
+              "phonetic": "das it in-KLUUD MEIN-ta-nens FIIS",
+              "en": "Does it include maintenance fees?",
+              "es": "Incluye expensas?"
+            },
+            {
+              "native": "Cuantos ambientes tiene?",
+              "target": "How many rooms does it have?",
+              "phonetic": "jau ME-ni RUUMS das it jav",
+              "en": "How many rooms does it have?",
+              "es": "Cuantos ambientes tiene?"
+            },
+            {
+              "native": "Se puede con mascotas?",
+              "target": "Are pets allowed?",
+              "phonetic": "ar PETS a-LAUD",
+              "en": "Are pets allowed?",
+              "es": "Se puede con mascotas?"
+            },
+            {
+              "native": "Que requisitos piden?",
+              "target": "What requirements do you ask for?",
+              "phonetic": "uat ri-KUAIR-ments duu iuu ASK for",
+              "en": "What requirements do you ask for?",
+              "es": "Que requisitos piden?"
+            },
+            {
+              "native": "Me interesa, lo puedo ver?",
+              "target": "I'm interested, can I see it?",
+              "phonetic": "AIM IN-tra-stid kan ai SII it",
+              "en": "I'm interested, can I see it?",
+              "es": "Me interesa, lo puedo ver?"
+            },
+            {
+              "native": "Perfecto, el sabado entonces",
+              "target": "Perfect, Saturday then",
+              "phonetic": "per-FEKT SA-ter-di DEN",
+              "en": "Perfect, Saturday then",
+              "es": "Perfecto, el sabado entonces"
+            }
+          ]
+        },
+        {
+          "id": "dueno",
+          "name": "Dueno/a",
+          "emoji": "🧑‍💼",
+          "mission": [
+            "Saluda",
+            "Describi el lugar",
+            "Explica condiciones",
+            "Coordina"
+          ],
+          "lines": [
+            {
+              "native": "Hola, que tal?",
+              "target": "Hi, how are you?",
+              "phonetic": "JAI jau ar iuu",
+              "en": "Hi, how are you?",
+              "es": "Hola, que tal?"
+            },
+            {
+              "native": "Si, todavia esta",
+              "target": "Yes, it's still available",
+              "phonetic": "IES ITS STIL a-VEI-la-bel",
+              "en": "Yes, it's still available",
+              "es": "Si, todavia esta"
+            },
+            {
+              "native": "Es un dos ambientes luminoso",
+              "target": "It's a bright one-bedroom",
+              "phonetic": "ITS e BRAIT UAN-be-drum",
+              "en": "It's a bright one-bedroom",
+              "es": "Es un dos ambientes luminoso"
+            },
+            {
+              "native": "Son ochenta mil por mes",
+              "target": "It's eighty thousand a month",
+              "phonetic": "ITS EI-ti ZAU-send e MANZ",
+              "en": "It's eighty thousand a month",
+              "es": "Son ochenta mil por mes"
+            },
+            {
+              "native": "Las expensas van aparte",
+              "target": "Maintenance fees are separate",
+              "phonetic": "MEIN-ta-nens FIIS ar SE-per-eit",
+              "en": "Maintenance fees are separate",
+              "es": "Las expensas van aparte"
+            },
+            {
+              "native": "Living, cocina y un dormitorio",
+              "target": "Living room, kitchen and a bedroom",
+              "phonetic": "LI-ving RUUM KI-chen end e BE-drum",
+              "en": "Living room, kitchen and a bedroom",
+              "es": "Living, cocina y un dormitorio"
+            },
+            {
+              "native": "Si, mascotas chicas si",
+              "target": "Yes, small pets are fine",
+              "phonetic": "IES SMOL PETS ar FAIN",
+              "en": "Yes, small pets are fine",
+              "es": "Si, mascotas chicas si"
+            },
+            {
+              "native": "Garantia y un mes de deposito",
+              "target": "A guarantor and one month's deposit",
+              "phonetic": "e ge-ran-TOR end UAN MANZS da-PO-sit",
+              "en": "A guarantor and one month's deposit",
+              "es": "Garantia y un mes de deposito"
+            },
+            {
+              "native": "Claro, cuando quiera",
+              "target": "Sure, whenever you want",
+              "phonetic": "SHUR ue-NE-ver iuu UONT",
+              "en": "Sure, whenever you want",
+              "es": "Claro, cuando quiera"
+            },
+            {
+              "native": "Dale, lo espero el sabado",
+              "target": "Great, see you Saturday",
+              "phonetic": "GREIT SII iuu SA-ter-di",
+              "en": "Great, see you Saturday",
+              "es": "Dale, lo espero el sabado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "negociar",
+      "title": "Negociar un aumento",
+      "emoji": "🤝",
+      "band": 5,
+      "roles": [
+        {
+          "id": "a",
+          "name": "Vos",
+          "emoji": "🧍",
+          "mission": [
+            "Rompe el hielo",
+            "Planteá el tema",
+            "Justifica con datos",
+            "Negocia",
+            "Cerra"
+          ],
+          "lines": [
+            {
+              "native": "Hola, gracias por recibirme",
+              "target": "Hi, thanks for seeing me",
+              "phonetic": "JAI ZANGKS for SII-ing mii",
+              "en": "Hi, thanks for seeing me",
+              "es": "Hola, gracias por recibirme"
+            },
+            {
+              "native": "Como viene el trimestre?",
+              "target": "How's the quarter going?",
+              "phonetic": "JAUS de KUOR-ter GOU-ing",
+              "en": "How's the quarter going?",
+              "es": "Como viene el trimestre?"
+            },
+            {
+              "native": "Queria hablar de mi sueldo",
+              "target": "I wanted to talk about my salary",
+              "phonetic": "ai UON-tid tuu TOK a-BAUT mai SA-ler-i",
+              "en": "I wanted to talk about my salary",
+              "es": "Queria hablar de mi sueldo"
+            },
+            {
+              "native": "Llevo dos anios en el puesto",
+              "target": "I've been in the role for two years",
+              "phonetic": "AIV bin in de ROUL for TUU IIRS",
+              "en": "I've been in the role for two years",
+              "es": "Llevo dos anios en el puesto"
+            },
+            {
+              "native": "Asumi mas responsabilidades",
+              "target": "I took on more responsibilities",
+              "phonetic": "ai TUK on MOR ri-spon-sa-BI-la-tis",
+              "en": "I took on more responsibilities",
+              "es": "Asumi mas responsabilidades"
+            },
+            {
+              "native": "Ahora lidero un equipo chico",
+              "target": "Now I lead a small team",
+              "phonetic": "NAU ai LED e SMOL TIIM",
+              "en": "Now I lead a small team",
+              "es": "Ahora lidero un equipo chico"
+            },
+            {
+              "native": "Mis resultados fueron buenos",
+              "target": "My results have been good",
+              "phonetic": "mai ri-SALTS jav bin GUD",
+              "en": "My results have been good",
+              "es": "Mis resultados fueron buenos"
+            },
+            {
+              "native": "Cerre varios proyectos clave",
+              "target": "I closed several key projects",
+              "phonetic": "ai KLOUSD SEV-rel KII PRO-yekts",
+              "en": "I closed several key projects",
+              "es": "Cerre varios proyectos clave"
+            },
+            {
+              "native": "Me capacite por mi cuenta",
+              "target": "I trained on my own time",
+              "phonetic": "ai TREIND on mai OUN TAIM",
+              "en": "I trained on my own time",
+              "es": "Me capacite por mi cuenta"
+            },
+            {
+              "native": "Me gustaria revisar un aumento",
+              "target": "I'd like to review a raise",
+              "phonetic": "AID LAIK tuu riv-IUU e REIS",
+              "en": "I'd like to review a raise",
+              "es": "Me gustaria revisar un aumento"
+            },
+            {
+              "native": "Estaba pensando en un diez por ciento",
+              "target": "I was thinking about ten percent",
+              "phonetic": "ai uos ZING-king a-BAUT TEN per-SENT",
+              "en": "I was thinking about ten percent",
+              "es": "Estaba pensando en un diez por ciento"
+            },
+            {
+              "native": "Creo que es acorde al mercado",
+              "target": "I think it's in line with the market",
+              "phonetic": "ai ZINGK ITS in LAIN uid de MAR-ket",
+              "en": "I think it's in line with the market",
+              "es": "Creo que es acorde al mercado"
+            },
+            {
+              "native": "Entiendo que el presupuesto es ajustado",
+              "target": "I understand the budget is tight",
+              "phonetic": "ai an-der-STAND de BA-yit is TAIT",
+              "en": "I understand the budget is tight",
+              "es": "Entiendo que el presupuesto es ajustado"
+            },
+            {
+              "native": "Y un bono por objetivos?",
+              "target": "What about a performance bonus?",
+              "phonetic": "uat a-BAUT e per-FOR-mens BOU-nes",
+              "en": "What about a performance bonus?",
+              "es": "Y un bono por objetivos?"
+            },
+            {
+              "native": "Podriamos revisarlo en tres meses?",
+              "target": "Could we review it in three months?",
+              "phonetic": "kud uii riv-IUU it in ZRII MANZS",
+              "en": "Could we review it in three months?",
+              "es": "Podriamos revisarlo en tres meses?"
+            },
+            {
+              "native": "Me sirve si lo dejamos por escrito",
+              "target": "It helps if we put it in writing",
+              "phonetic": "it JELPS IF uii PUT it in RAI-ting",
+              "en": "It helps if we put it in writing",
+              "es": "Me sirve si lo dejamos por escrito"
+            },
+            {
+              "native": "Tambien me interesa capacitarme mas",
+              "target": "I'm also interested in more training",
+              "phonetic": "AIM OL-sou IN-tra-stid in MOR TREI-ning",
+              "en": "I'm also interested in more training",
+              "es": "Tambien me interesa capacitarme mas"
+            },
+            {
+              "native": "Agradezco que lo consideres",
+              "target": "I appreciate you considering it",
+              "phonetic": "ai a-PRII-shi-eit iuu kan-SI-der-ing it",
+              "en": "I appreciate you considering it",
+              "es": "Agradezco que lo consideres"
+            },
+            {
+              "native": "Me parece un acuerdo justo",
+              "target": "I think it's a fair deal",
+              "phonetic": "ai ZINGK ITS e FER DIIL",
+              "en": "I think it's a fair deal",
+              "es": "Me parece un acuerdo justo"
+            },
+            {
+              "native": "Perfecto, gracias por tu tiempo",
+              "target": "Perfect, thanks for your time",
+              "phonetic": "per-FEKT ZANGKS for ior TAIM",
+              "en": "Perfect, thanks for your time",
+              "es": "Perfecto, gracias por tu tiempo"
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "name": "La otra parte",
+          "emoji": "🧑‍💼",
+          "mission": [
+            "Recibi",
+            "Escucha los argumentos",
+            "Objeta y contraoferta",
+            "Acorda"
+          ],
+          "lines": [
+            {
+              "native": "Hola, pase, sientese",
+              "target": "Hi, come in, have a seat",
+              "phonetic": "JAI KAM in jav e SIIT",
+              "en": "Hi, come in, have a seat",
+              "es": "Hola, pase, sientese"
+            },
+            {
+              "native": "Bien, con mucho trabajo",
+              "target": "Good, lots of work",
+              "phonetic": "GUD LOTS av UERK",
+              "en": "Good, lots of work",
+              "es": "Bien, con mucho trabajo"
+            },
+            {
+              "native": "Claro, te escucho",
+              "target": "Sure, I'm listening",
+              "phonetic": "SHUR AIM LI-sa-ning",
+              "en": "Sure, I'm listening",
+              "es": "Claro, te escucho"
+            },
+            {
+              "native": "Si, lo tengo presente",
+              "target": "Yes, I'm aware of that",
+              "phonetic": "IES AIM a-UER av dat",
+              "en": "Yes, I'm aware of that",
+              "es": "Si, lo tengo presente"
+            },
+            {
+              "native": "Es verdad, aportaste mucho",
+              "target": "True, you've contributed a lot",
+              "phonetic": "TRUU IUUV kan-TRIB-iu-tid e LOT",
+              "en": "True, you've contributed a lot",
+              "es": "Es verdad, aportaste mucho"
+            },
+            {
+              "native": "Si, note que tomaste el liderazgo",
+              "target": "Yes, I noticed you took the lead",
+              "phonetic": "IES ai NOU-test iuu TUK de LED",
+              "en": "Yes, I noticed you took the lead",
+              "es": "Si, note que tomaste el liderazgo"
+            },
+            {
+              "native": "Tus numeros fueron buenos",
+              "target": "Your numbers were good",
+              "phonetic": "ior NAM-bers uer GUD",
+              "en": "Your numbers were good",
+              "es": "Tus numeros fueron buenos"
+            },
+            {
+              "native": "Esos proyectos salieron muy bien",
+              "target": "Those projects went really well",
+              "phonetic": "dous PRO-yekts UENT RI-li UEL",
+              "en": "Those projects went really well",
+              "es": "Esos proyectos salieron muy bien"
+            },
+            {
+              "native": "Valoro mucho eso",
+              "target": "I value that a lot",
+              "phonetic": "ai VAL-iu dat e LOT",
+              "en": "I value that a lot",
+              "es": "Valoro mucho eso"
+            },
+            {
+              "native": "Entiendo tu pedido",
+              "target": "I understand your request",
+              "phonetic": "ai an-der-STAND ior ri-KUEST",
+              "en": "I understand your request",
+              "es": "Entiendo tu pedido"
+            },
+            {
+              "native": "Cuanto tenias en mente?",
+              "target": "How much did you have in mind?",
+              "phonetic": "jau MACH did iuu jav in MAIND",
+              "en": "How much did you have in mind?",
+              "es": "Cuanto tenias en mente?"
+            },
+            {
+              "native": "Un diez es dificil ahora",
+              "target": "Ten percent is hard right now",
+              "phonetic": "TEN per-SENT is JARD RAIT NAU",
+              "en": "Ten percent is hard right now",
+              "es": "Un diez es dificil ahora"
+            },
+            {
+              "native": "El presupuesto esta ajustado, si",
+              "target": "The budget is tight, yes",
+              "phonetic": "de BA-yit is TAIT IES",
+              "en": "The budget is tight, yes",
+              "es": "El presupuesto esta ajustado, si"
+            },
+            {
+              "native": "El bono lo puedo evaluar",
+              "target": "I can look into the bonus",
+              "phonetic": "ai kan LUK IN-tu de BOU-nes",
+              "en": "I can look into the bonus",
+              "es": "El bono lo puedo evaluar"
+            },
+            {
+              "native": "Puedo ofrecerte un cinco",
+              "target": "I can offer you five",
+              "phonetic": "ai kan O-fer iuu FAIV",
+              "en": "I can offer you five",
+              "es": "Puedo ofrecerte un cinco"
+            },
+            {
+              "native": "Dale, lo dejamos por escrito",
+              "target": "Sure, we'll put it in writing",
+              "phonetic": "SHUR UIIL PUT it in RAI-ting",
+              "en": "Sure, we'll put it in writing",
+              "es": "Dale, lo dejamos por escrito"
+            },
+            {
+              "native": "Y te sumo un curso pago",
+              "target": "And I'll add a paid course",
+              "phonetic": "end AIL AD e PEID KORS",
+              "en": "And I'll add a paid course",
+              "es": "Y te sumo un curso pago"
+            },
+            {
+              "native": "Me parece razonable",
+              "target": "That seems reasonable",
+              "phonetic": "dat SIIMS RII-sa-na-bel",
+              "en": "That seems reasonable",
+              "es": "Me parece razonable"
+            },
+            {
+              "native": "Cerremos en eso, entonces",
+              "target": "Let's settle on that, then",
+              "phonetic": "LETS SE-tel on dat DEN",
+              "en": "Let's settle on that, then",
+              "es": "Cerremos en eso, entonces"
+            },
+            {
+              "native": "Gracias a vos, buen trabajo",
+              "target": "Thank you, good work",
+              "phonetic": "ZANGK iuu GUD UERK",
+              "en": "Thank you, good work",
+              "es": "Gracias a vos, buen trabajo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
