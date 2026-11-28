@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "total_audios": 306,
+  "total_audios": 327,
   "estimated_total_duration_seconds": 66045,
   "levels": {
     "1": {
@@ -21,12 +21,12 @@
     "4": {
       "name": "Advanced",
       "description": "Diálogos extendidos, contextos elaborados",
-      "count": 9
+      "count": 18
     },
     "5": {
       "name": "Expert",
       "description": "Conversaciones extensas, descripciones detalladas",
-      "count": 6
+      "count": 18
     },
     "6": {
       "name": "Master",
@@ -3974,9 +3974,9 @@
     {
       "id": "l4_01_dinner_with_friends",
       "level": 4,
-      "title": "Dinner with friends",
+      "title": "Dinner with friends (1/2)",
       "category": "food",
-      "duration_estimate": 220,
+      "duration_estimate": 115,
       "audio_filename": "l4_01_dinner_with_friends.mp3",
       "sentences": [
         {
@@ -4044,7 +4044,50 @@
           "native": "¿Qué vamos a comer?",
           "en": "What are we eating?",
           "es": "¿Qué vamos a comer?"
+        }
+      ],
+      "vocabulary_keys": [
+        "dinner",
+        "fruit juice",
+        "water",
+        "chicken",
+        "rice",
+        "salad",
+        "vegetable",
+        "cheese",
+        "cake",
+        "chocolate"
+      ],
+      "questions": [
+        {
+          "q": "What does Carlos want to drink?",
+          "options": [
+            "water",
+            "fruit juice",
+            "coffee"
+          ],
+          "answer": "fruit juice"
         },
+        {
+          "q": "What kind of juice does he choose?",
+          "options": [
+            "orange",
+            "apple",
+            "grape"
+          ],
+          "answer": "apple"
+        }
+      ],
+      "parte_de": "l4_01_dinner_with_friends"
+    },
+    {
+      "id": "l4_01_dinner_with_friends_p2",
+      "level": 4,
+      "title": "Dinner with friends (2/2)",
+      "category": "food",
+      "duration_estimate": 105,
+      "audio_filename": "l4_01_dinner_with_friends.mp3",
+      "sentences": [
         {
           "target": "Tonight I have got chicken with rice.",
           "native": "Esta noche tengo pollo con arroz.",
@@ -4120,24 +4163,6 @@
       ],
       "questions": [
         {
-          "q": "What does Carlos want to drink?",
-          "options": [
-            "water",
-            "fruit juice",
-            "coffee"
-          ],
-          "answer": "fruit juice"
-        },
-        {
-          "q": "What kind of juice does he choose?",
-          "options": [
-            "orange",
-            "apple",
-            "grape"
-          ],
-          "answer": "apple"
-        },
-        {
           "q": "What is the main dish?",
           "options": [
             "chicken with rice",
@@ -4155,14 +4180,15 @@
           ],
           "answer": "chocolate cake"
         }
-      ]
+      ],
+      "parte_de": "l4_01_dinner_with_friends"
     },
     {
       "id": "l4_02_job_interview",
       "level": 4,
-      "title": "A simple job interview",
+      "title": "A simple job interview (1/2)",
       "category": "people",
-      "duration_estimate": 230,
+      "duration_estimate": 115,
       "audio_filename": "l4_02_job_interview.mp3",
       "sentences": [
         {
@@ -4230,7 +4256,48 @@
           "native": "También puedo hablar italiano.",
           "en": "I can also speak Italian.",
           "es": "También puedo hablar italiano."
+        }
+      ],
+      "vocabulary_keys": [
+        "interview",
+        "Argentina",
+        "English",
+        "Italian",
+        "computer",
+        "laptop",
+        "tablet",
+        "company"
+      ],
+      "questions": [
+        {
+          "q": "How old is Lucía?",
+          "options": [
+            "24",
+            "26",
+            "28"
+          ],
+          "answer": "26"
         },
+        {
+          "q": "What other language does she speak?",
+          "options": [
+            "French",
+            "Italian",
+            "German"
+          ],
+          "answer": "Italian"
+        }
+      ],
+      "parte_de": "l4_02_job_interview"
+    },
+    {
+      "id": "l4_02_job_interview_p2",
+      "level": 4,
+      "title": "A simple job interview (2/2)",
+      "category": "people",
+      "duration_estimate": 115,
+      "audio_filename": "l4_02_job_interview.mp3",
+      "sentences": [
         {
           "target": "Excellent. What about computer skills?",
           "native": "Excelente. ¿Qué hay de las habilidades en computación?",
@@ -4310,24 +4377,6 @@
       ],
       "questions": [
         {
-          "q": "How old is Lucía?",
-          "options": [
-            "24",
-            "26",
-            "28"
-          ],
-          "answer": "26"
-        },
-        {
-          "q": "What other language does she speak?",
-          "options": [
-            "French",
-            "Italian",
-            "German"
-          ],
-          "answer": "Italian"
-        },
-        {
           "q": "What can she use on the computer?",
           "options": [
             "Word and Excel",
@@ -4345,14 +4394,15 @@
           ],
           "answer": "next week"
         }
-      ]
+      ],
+      "parte_de": "l4_02_job_interview"
     },
     {
       "id": "l4_03_weekend_in_paris",
       "level": 4,
-      "title": "A weekend in Paris",
+      "title": "A weekend in Paris (1/2)",
       "category": "tourism",
-      "duration_estimate": 240,
+      "duration_estimate": 120,
       "audio_filename": "l4_03_weekend_in_paris.mp3",
       "sentences": [
         {
@@ -4420,7 +4470,50 @@
           "native": "Tomamos muchas fotos con nuestros teléfonos.",
           "en": "We took many photos with our phones.",
           "es": "Tomamos muchas fotos con nuestros teléfonos."
+        }
+      ],
+      "vocabulary_keys": [
+        "weekend",
+        "Paris",
+        "train",
+        "hotel",
+        "Eiffel Tower",
+        "tall",
+        "building",
+        "café",
+        "museum",
+        "famous"
+      ],
+      "questions": [
+        {
+          "q": "When did they leave for Paris?",
+          "options": [
+            "Friday night",
+            "Saturday morning",
+            "Sunday"
+          ],
+          "answer": "Friday night"
         },
+        {
+          "q": "What did they visit on Saturday?",
+          "options": [
+            "the Louvre",
+            "the Eiffel Tower",
+            "small shops"
+          ],
+          "answer": "the Eiffel Tower"
+        }
+      ],
+      "parte_de": "l4_03_weekend_in_paris"
+    },
+    {
+      "id": "l4_03_weekend_in_paris_p2",
+      "level": 4,
+      "title": "A weekend in Paris (2/2)",
+      "category": "tourism",
+      "duration_estimate": 120,
+      "audio_filename": "l4_03_weekend_in_paris.mp3",
+      "sentences": [
         {
           "target": "After that, we walked in the city centre.",
           "native": "Después, caminamos por el centro de la ciudad.",
@@ -4502,24 +4595,6 @@
       ],
       "questions": [
         {
-          "q": "When did they leave for Paris?",
-          "options": [
-            "Friday night",
-            "Saturday morning",
-            "Sunday"
-          ],
-          "answer": "Friday night"
-        },
-        {
-          "q": "What did they visit on Saturday?",
-          "options": [
-            "the Louvre",
-            "the Eiffel Tower",
-            "small shops"
-          ],
-          "answer": "the Eiffel Tower"
-        },
-        {
           "q": "What did Maria have for lunch?",
           "options": [
             "a sandwich",
@@ -4537,14 +4612,15 @@
           ],
           "answer": "the Louvre museum"
         }
-      ]
+      ],
+      "parte_de": "l4_03_weekend_in_paris"
     },
     {
       "id": "l4_04_at_the_doctor",
       "level": 4,
-      "title": "Visit to the doctor",
+      "title": "Visit to the doctor (1/2)",
       "category": "people",
-      "duration_estimate": 225,
+      "duration_estimate": 112,
       "audio_filename": "l4_04_at_the_doctor.mp3",
       "sentences": [
         {
@@ -4612,7 +4688,48 @@
           "native": "Sí, tiene fiebre.",
           "en": "Yes, you have got a fever.",
           "es": "Sí, tiene fiebre."
+        }
+      ],
+      "vocabulary_keys": [
+        "doctor",
+        "headache",
+        "cough",
+        "fever",
+        "flu",
+        "rest",
+        "tablet",
+        "water"
+      ],
+      "questions": [
+        {
+          "q": "What symptoms does the patient have?",
+          "options": [
+            "only headache",
+            "headache and cough",
+            "stomach problems"
+          ],
+          "answer": "headache and cough"
         },
+        {
+          "q": "How long has the patient been sick?",
+          "options": [
+            "1 day",
+            "3 days",
+            "1 week"
+          ],
+          "answer": "3 days"
+        }
+      ],
+      "parte_de": "l4_04_at_the_doctor"
+    },
+    {
+      "id": "l4_04_at_the_doctor_p2",
+      "level": 4,
+      "title": "Visit to the doctor (2/2)",
+      "category": "people",
+      "duration_estimate": 112,
+      "audio_filename": "l4_04_at_the_doctor.mp3",
+      "sentences": [
         {
           "target": "Open your mouth, please.",
           "native": "Abra la boca, por favor.",
@@ -4692,24 +4809,6 @@
       ],
       "questions": [
         {
-          "q": "What symptoms does the patient have?",
-          "options": [
-            "only headache",
-            "headache and cough",
-            "stomach problems"
-          ],
-          "answer": "headache and cough"
-        },
-        {
-          "q": "How long has the patient been sick?",
-          "options": [
-            "1 day",
-            "3 days",
-            "1 week"
-          ],
-          "answer": "3 days"
-        },
-        {
           "q": "What does the doctor diagnose?",
           "options": [
             "a cold",
@@ -4727,14 +4826,15 @@
           ],
           "answer": "morning and night"
         }
-      ]
+      ],
+      "parte_de": "l4_04_at_the_doctor"
     },
     {
       "id": "l4_05_planning_a_party",
       "level": 4,
-      "title": "Planning a birthday party",
+      "title": "Planning a birthday party (1/2)",
       "category": "interests",
-      "duration_estimate": 230,
+      "duration_estimate": 120,
       "audio_filename": "l4_05_planning_a_party.mp3",
       "sentences": [
         {
@@ -4802,7 +4902,59 @@
           "native": "Tengo la lista de la familia.",
           "en": "I have got the family list.",
           "es": "Tengo la lista de la familia."
+        }
+      ],
+      "vocabulary_keys": [
+        "birthday",
+        "party",
+        "garden",
+        "family",
+        "grandparents",
+        "chicken",
+        "pasta",
+        "cake",
+        "chocolate",
+        "pop"
+      ],
+      "questions": [
+        {
+          "q": "Whose birthday is it?",
+          "options": [
+            "dad's",
+            "mom's",
+            "Mike's"
+          ],
+          "answer": "mom's"
         },
+        {
+          "q": "When is the party?",
+          "options": [
+            "May 5th",
+            "May 15th",
+            "May 25th"
+          ],
+          "answer": "May 15th"
+        },
+        {
+          "q": "Where will the party be?",
+          "options": [
+            "in a restaurant",
+            "in the garden",
+            "at the beach"
+          ],
+          "answer": "in the garden"
+        }
+      ],
+      "parte_de": "l4_05_planning_a_party"
+    },
+    {
+      "id": "l4_05_planning_a_party_p2",
+      "level": 4,
+      "title": "Planning a birthday party (2/2)",
+      "category": "interests",
+      "duration_estimate": 110,
+      "audio_filename": "l4_05_planning_a_party.mp3",
+      "sentences": [
         {
           "target": "We can invite the grandparents.",
           "native": "Podemos invitar a los abuelos.",
@@ -4878,33 +5030,6 @@
       ],
       "questions": [
         {
-          "q": "Whose birthday is it?",
-          "options": [
-            "dad's",
-            "mom's",
-            "Mike's"
-          ],
-          "answer": "mom's"
-        },
-        {
-          "q": "When is the party?",
-          "options": [
-            "May 5th",
-            "May 15th",
-            "May 25th"
-          ],
-          "answer": "May 15th"
-        },
-        {
-          "q": "Where will the party be?",
-          "options": [
-            "in a restaurant",
-            "in the garden",
-            "at the beach"
-          ],
-          "answer": "in the garden"
-        },
-        {
           "q": "What music will they play?",
           "options": [
             "rock",
@@ -4913,14 +5038,15 @@
           ],
           "answer": "pop"
         }
-      ]
+      ],
+      "parte_de": "l4_05_planning_a_party"
     },
     {
       "id": "l4_06_lost_wallet",
       "level": 4,
-      "title": "I lost my wallet",
+      "title": "I lost my wallet (1/2)",
       "category": "shopping",
-      "duration_estimate": 220,
+      "duration_estimate": 115,
       "audio_filename": "l4_06_lost_wallet.mp3",
       "sentences": [
         {
@@ -4988,7 +5114,56 @@
           "native": "Y unos treinta euros.",
           "en": "And about thirty euros.",
           "es": "Y unos treinta euros."
+        }
+      ],
+      "vocabulary_keys": [
+        "wallet",
+        "shop",
+        "black",
+        "small",
+        "old",
+        "credit card",
+        "money"
+      ],
+      "questions": [
+        {
+          "q": "What did the customer lose?",
+          "options": [
+            "a phone",
+            "a wallet",
+            "a bag"
+          ],
+          "answer": "a wallet"
         },
+        {
+          "q": "How does he describe his wallet?",
+          "options": [
+            "new and big",
+            "black and small",
+            "brown and old"
+          ],
+          "answer": "black and small"
+        },
+        {
+          "q": "How much money is in the wallet?",
+          "options": [
+            "20 euros",
+            "30 euros",
+            "50 euros"
+          ],
+          "answer": "30 euros"
+        }
+      ],
+      "parte_de": "l4_06_lost_wallet"
+    },
+    {
+      "id": "l4_06_lost_wallet_p2",
+      "level": 4,
+      "title": "I lost my wallet (2/2)",
+      "category": "shopping",
+      "duration_estimate": 105,
+      "audio_filename": "l4_06_lost_wallet.mp3",
+      "sentences": [
         {
           "target": "I see. Let me check.",
           "native": "Entiendo. Déjeme revisar.",
@@ -5061,33 +5236,6 @@
       ],
       "questions": [
         {
-          "q": "What did the customer lose?",
-          "options": [
-            "a phone",
-            "a wallet",
-            "a bag"
-          ],
-          "answer": "a wallet"
-        },
-        {
-          "q": "How does he describe his wallet?",
-          "options": [
-            "new and big",
-            "black and small",
-            "brown and old"
-          ],
-          "answer": "black and small"
-        },
-        {
-          "q": "How much money is in the wallet?",
-          "options": [
-            "20 euros",
-            "30 euros",
-            "50 euros"
-          ],
-          "answer": "30 euros"
-        },
-        {
           "q": "Where was the wallet found?",
           "options": [
             "on the floor",
@@ -5096,14 +5244,15 @@
           ],
           "answer": "in a lost objects box"
         }
-      ]
+      ],
+      "parte_de": "l4_06_lost_wallet"
     },
     {
       "id": "l4_07_apartment_search",
       "level": 4,
-      "title": "Looking for an apartment",
+      "title": "Looking for an apartment (1/2)",
       "category": "places",
-      "duration_estimate": 235,
+      "duration_estimate": 118,
       "audio_filename": "l4_07_apartment_search.mp3",
       "sentences": [
         {
@@ -5171,7 +5320,49 @@
           "native": "Sí, la cocina es moderna y nueva.",
           "en": "Yes, the kitchen is modern and new.",
           "es": "Sí, la cocina es moderna y nueva."
+        }
+      ],
+      "vocabulary_keys": [
+        "apartment",
+        "city centre",
+        "train station",
+        "bedroom",
+        "living room",
+        "kitchen",
+        "bathroom",
+        "balcony",
+        "park"
+      ],
+      "questions": [
+        {
+          "q": "Where is the apartment?",
+          "options": [
+            "far from centre",
+            "near the train station",
+            "in a small village"
+          ],
+          "answer": "near the train station"
         },
+        {
+          "q": "How many bedrooms?",
+          "options": [
+            "1",
+            "2",
+            "3"
+          ],
+          "answer": "2"
+        }
+      ],
+      "parte_de": "l4_07_apartment_search"
+    },
+    {
+      "id": "l4_07_apartment_search_p2",
+      "level": 4,
+      "title": "Looking for an apartment (2/2)",
+      "category": "places",
+      "duration_estimate": 118,
+      "audio_filename": "l4_07_apartment_search.mp3",
+      "sentences": [
         {
           "target": "It has got a microwave and a fridge.",
           "native": "Tiene microondas y heladera.",
@@ -5252,24 +5443,6 @@
       ],
       "questions": [
         {
-          "q": "Where is the apartment?",
-          "options": [
-            "far from centre",
-            "near the train station",
-            "in a small village"
-          ],
-          "answer": "near the train station"
-        },
-        {
-          "q": "How many bedrooms?",
-          "options": [
-            "1",
-            "2",
-            "3"
-          ],
-          "answer": "2"
-        },
-        {
           "q": "How much is the rent?",
           "options": [
             "700 dollars",
@@ -5287,14 +5460,15 @@
           ],
           "answer": "5 PM"
         }
-      ]
+      ],
+      "parte_de": "l4_07_apartment_search"
     },
     {
       "id": "l4_08_at_the_airport",
       "level": 4,
-      "title": "Lost at the airport",
+      "title": "Lost at the airport (1/2)",
       "category": "tourism",
-      "duration_estimate": 240,
+      "duration_estimate": 126,
       "audio_filename": "l4_08_at_the_airport.mp3",
       "sentences": [
         {
@@ -5362,7 +5536,48 @@
           "native": "Vaya derecho, después doble a la derecha.",
           "en": "Go straight, then turn right.",
           "es": "Vaya derecho, después doble a la derecha."
+        }
+      ],
+      "vocabulary_keys": [
+        "airport",
+        "tourist",
+        "flight",
+        "Madrid",
+        "gate",
+        "elevator",
+        "afternoon",
+        "café"
+      ],
+      "questions": [
+        {
+          "q": "Where is the tourist going?",
+          "options": [
+            "Paris",
+            "Madrid",
+            "London"
+          ],
+          "answer": "Madrid"
         },
+        {
+          "q": "What gate is the flight at?",
+          "options": [
+            "20",
+            "25",
+            "32"
+          ],
+          "answer": "25"
+        }
+      ],
+      "parte_de": "l4_08_at_the_airport"
+    },
+    {
+      "id": "l4_08_at_the_airport_p2",
+      "level": 4,
+      "title": "Lost at the airport (2/2)",
+      "category": "tourism",
+      "duration_estimate": 114,
+      "audio_filename": "l4_08_at_the_airport.mp3",
+      "sentences": [
         {
           "target": "Take the stairs or the elevator.",
           "native": "Tome las escaleras o el ascensor.",
@@ -5436,24 +5651,6 @@
       ],
       "questions": [
         {
-          "q": "Where is the tourist going?",
-          "options": [
-            "Paris",
-            "Madrid",
-            "London"
-          ],
-          "answer": "Madrid"
-        },
-        {
-          "q": "What gate is the flight at?",
-          "options": [
-            "20",
-            "25",
-            "32"
-          ],
-          "answer": "25"
-        },
-        {
           "q": "What time does the flight leave?",
           "options": [
             "3:00",
@@ -5471,14 +5668,15 @@
           ],
           "answer": "before gate 20"
         }
-      ]
+      ],
+      "parte_de": "l4_08_at_the_airport"
     },
     {
       "id": "l4_09_old_friend_email",
       "level": 4,
-      "title": "Reading an email from a friend",
+      "title": "Reading an email from a friend (1/2)",
       "category": "people",
-      "duration_estimate": 225,
+      "duration_estimate": 118,
       "audio_filename": "l4_09_old_friend_email.mp3",
       "sentences": [
         {
@@ -5546,7 +5744,57 @@
           "native": "Mi jefe es amigable e inteligente.",
           "en": "My boss is friendly and intelligent.",
           "es": "Mi jefe es amigable e inteligente."
+        }
+      ],
+      "vocabulary_keys": [
+        "email",
+        "job",
+        "company",
+        "office",
+        "boss",
+        "college",
+        "family",
+        "summer"
+      ],
+      "questions": [
+        {
+          "q": "Why doesn't Maria write often?",
+          "options": [
+            "she is sick",
+            "she is busy with new job",
+            "she is travelling"
+          ],
+          "answer": "she is busy with new job"
         },
+        {
+          "q": "How many people are in Maria's office?",
+          "options": [
+            "5",
+            "10",
+            "15"
+          ],
+          "answer": "10"
+        },
+        {
+          "q": "How does Maria describe her boss?",
+          "options": [
+            "young and shy",
+            "friendly and intelligent",
+            "old and serious"
+          ],
+          "answer": "friendly and intelligent"
+        }
+      ],
+      "parte_de": "l4_09_old_friend_email"
+    },
+    {
+      "id": "l4_09_old_friend_email_p2",
+      "level": 4,
+      "title": "Reading an email from a friend (2/2)",
+      "category": "people",
+      "duration_estimate": 107,
+      "audio_filename": "l4_09_old_friend_email.mp3",
+      "sentences": [
         {
           "target": "I have got new responsibilities.",
           "native": "Tengo nuevas responsabilidades.",
@@ -5620,33 +5868,6 @@
       ],
       "questions": [
         {
-          "q": "Why doesn't Maria write often?",
-          "options": [
-            "she is sick",
-            "she is busy with new job",
-            "she is travelling"
-          ],
-          "answer": "she is busy with new job"
-        },
-        {
-          "q": "How many people are in Maria's office?",
-          "options": [
-            "5",
-            "10",
-            "15"
-          ],
-          "answer": "10"
-        },
-        {
-          "q": "How does Maria describe her boss?",
-          "options": [
-            "young and shy",
-            "friendly and intelligent",
-            "old and serious"
-          ],
-          "answer": "friendly and intelligent"
-        },
-        {
           "q": "When does Maria want to visit?",
           "options": [
             "next month",
@@ -5655,14 +5876,15 @@
           ],
           "answer": "next year in summer"
         }
-      ]
+      ],
+      "parte_de": "l4_09_old_friend_email"
     },
     {
       "id": "l5_01_full_email_read",
       "level": 5,
-      "title": "A long email about my life",
+      "title": "A long email about my life (1/3)",
       "category": "people",
-      "duration_estimate": 300,
+      "duration_estimate": 106,
       "audio_filename": "l5_01_full_email_read.mp3",
       "sentences": [
         {
@@ -5730,7 +5952,49 @@
           "native": "Trabajo con otras cinco personas.",
           "en": "I work with five other people.",
           "es": "Trabajo con otras cinco personas."
+        }
+      ],
+      "vocabulary_keys": [
+        "email",
+        "job",
+        "company",
+        "office",
+        "team",
+        "apartment",
+        "kitchen",
+        "coffee machine",
+        "Italian"
+      ],
+      "questions": [
+        {
+          "q": "Where is the new office?",
+          "options": [
+            "in the centre, near the train station",
+            "in a small village",
+            "at home"
+          ],
+          "answer": "in the centre, near the train station"
         },
+        {
+          "q": "How many people work in the team?",
+          "options": [
+            "3",
+            "5",
+            "10"
+          ],
+          "answer": "5"
+        }
+      ],
+      "parte_de": "l5_01_full_email_read"
+    },
+    {
+      "id": "l5_01_full_email_read_p2",
+      "level": 5,
+      "title": "A long email about my life (2/3)",
+      "category": "people",
+      "duration_estimate": 97,
+      "audio_filename": "l5_01_full_email_read.mp3",
+      "sentences": [
         {
           "target": "They are friendly and intelligent.",
           "native": "Son amigables e inteligentes.",
@@ -5790,7 +6054,40 @@
           "native": "Cocino todos los fines de semana para mis amigos.",
           "en": "I cook every weekend for my friends.",
           "es": "Cocino todos los fines de semana para mis amigos."
-        },
+        }
+      ],
+      "vocabulary_keys": [
+        "email",
+        "job",
+        "company",
+        "office",
+        "team",
+        "apartment",
+        "kitchen",
+        "coffee machine",
+        "Italian"
+      ],
+      "questions": [
+        {
+          "q": "What can be seen from the window?",
+          "options": [
+            "the river",
+            "the park",
+            "another building"
+          ],
+          "answer": "the park"
+        }
+      ],
+      "parte_de": "l5_01_full_email_read"
+    },
+    {
+      "id": "l5_01_full_email_read_p3",
+      "level": 5,
+      "title": "A long email about my life (3/3)",
+      "category": "people",
+      "duration_estimate": 97,
+      "audio_filename": "l5_01_full_email_read.mp3",
+      "sentences": [
         {
           "target": "Last weekend I cooked Italian food.",
           "native": "El fin de semana pasado cociné comida italiana.",
@@ -5865,33 +6162,6 @@
       ],
       "questions": [
         {
-          "q": "Where is the new office?",
-          "options": [
-            "in the centre, near the train station",
-            "in a small village",
-            "at home"
-          ],
-          "answer": "in the centre, near the train station"
-        },
-        {
-          "q": "How many people work in the team?",
-          "options": [
-            "3",
-            "5",
-            "10"
-          ],
-          "answer": "5"
-        },
-        {
-          "q": "What can be seen from the window?",
-          "options": [
-            "the river",
-            "the park",
-            "another building"
-          ],
-          "answer": "the park"
-        },
-        {
           "q": "What food did Anna cook last weekend?",
           "options": [
             "Mexican",
@@ -5900,14 +6170,15 @@
           ],
           "answer": "Italian"
         }
-      ]
+      ],
+      "parte_de": "l5_01_full_email_read"
     },
     {
       "id": "l5_02_visiting_a_city",
       "level": 5,
-      "title": "Tour of London",
+      "title": "Tour of London (1/3)",
       "category": "tourism",
-      "duration_estimate": 310,
+      "duration_estimate": 103,
       "audio_filename": "l5_02_visiting_a_city.mp3",
       "sentences": [
         {
@@ -5969,7 +6240,41 @@
           "native": "La Torre de Londres está abierta todos los días.",
           "en": "The Tower of London is open every day.",
           "es": "La Torre de Londres está abierta todos los días."
-        },
+        }
+      ],
+      "vocabulary_keys": [
+        "London",
+        "tourist",
+        "capital",
+        "famous",
+        "tower",
+        "river",
+        "museum",
+        "free",
+        "café",
+        "popular"
+      ],
+      "questions": [
+        {
+          "q": "How many places will they visit?",
+          "options": [
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "4"
+        }
+      ],
+      "parte_de": "l5_02_visiting_a_city"
+    },
+    {
+      "id": "l5_02_visiting_a_city_p2",
+      "level": 5,
+      "title": "Tour of London (2/3)",
+      "category": "tourism",
+      "duration_estimate": 103,
+      "audio_filename": "l5_02_visiting_a_city.mp3",
+      "sentences": [
         {
           "target": "Tickets are twenty-five pounds for adults.",
           "native": "Los boletos cuestan veinticinco libras para adultos.",
@@ -6029,7 +6334,50 @@
           "native": "La comida es buena y no es cara.",
           "en": "The food is good and not expensive.",
           "es": "La comida es buena y no es cara."
+        }
+      ],
+      "vocabulary_keys": [
+        "London",
+        "tourist",
+        "capital",
+        "famous",
+        "tower",
+        "river",
+        "museum",
+        "free",
+        "café",
+        "popular"
+      ],
+      "questions": [
+        {
+          "q": "How much is the British Museum?",
+          "options": [
+            "10 pounds",
+            "25 pounds",
+            "free"
+          ],
+          "answer": "free"
         },
+        {
+          "q": "Where will they have lunch?",
+          "options": [
+            "at the Tower",
+            "near the museum",
+            "at the palace"
+          ],
+          "answer": "near the museum"
+        }
+      ],
+      "parte_de": "l5_02_visiting_a_city"
+    },
+    {
+      "id": "l5_02_visiting_a_city_p3",
+      "level": 5,
+      "title": "Tour of London (3/3)",
+      "category": "tourism",
+      "duration_estimate": 103,
+      "audio_filename": "l5_02_visiting_a_city.mp3",
+      "sentences": [
         {
           "target": "After lunch, we will see Buckingham Palace.",
           "native": "Después de almorzar, veremos el Palacio de Buckingham.",
@@ -6105,33 +6453,6 @@
       ],
       "questions": [
         {
-          "q": "How many places will they visit?",
-          "options": [
-            "3",
-            "4",
-            "5"
-          ],
-          "answer": "4"
-        },
-        {
-          "q": "How much is the British Museum?",
-          "options": [
-            "10 pounds",
-            "25 pounds",
-            "free"
-          ],
-          "answer": "free"
-        },
-        {
-          "q": "Where will they have lunch?",
-          "options": [
-            "at the Tower",
-            "near the museum",
-            "at the palace"
-          ],
-          "answer": "near the museum"
-        },
-        {
           "q": "What time does the tour finish?",
           "options": [
             "5 PM",
@@ -6140,14 +6461,15 @@
           ],
           "answer": "6 PM"
         }
-      ]
+      ],
+      "parte_de": "l5_02_visiting_a_city"
     },
     {
       "id": "l5_03_my_typical_week",
       "level": 5,
-      "title": "My typical week",
+      "title": "My typical week (1/3)",
       "category": "interests",
-      "duration_estimate": 290,
+      "duration_estimate": 100,
       "audio_filename": "l5_03_my_typical_week.mp3",
       "sentences": [
         {
@@ -6209,7 +6531,53 @@
           "native": "Los martes y jueves voy al gimnasio.",
           "en": "On Tuesdays and Thursdays I go to the gym.",
           "es": "Los martes y jueves voy al gimnasio."
+        }
+      ],
+      "vocabulary_keys": [
+        "week",
+        "Monday",
+        "newspaper",
+        "bus",
+        "teacher",
+        "gym",
+        "swimming",
+        "running",
+        "Wednesday",
+        "English class",
+        "Italian",
+        "Mexican",
+        "cinema"
+      ],
+      "questions": [
+        {
+          "q": "What does the speaker do?",
+          "options": [
+            "doctor",
+            "teacher",
+            "engineer"
+          ],
+          "answer": "teacher"
         },
+        {
+          "q": "When does she go to the gym?",
+          "options": [
+            "every day",
+            "Tuesdays and Thursdays",
+            "weekends only"
+          ],
+          "answer": "Tuesdays and Thursdays"
+        }
+      ],
+      "parte_de": "l5_03_my_typical_week"
+    },
+    {
+      "id": "l5_03_my_typical_week_p2",
+      "level": 5,
+      "title": "My typical week (2/3)",
+      "category": "interests",
+      "duration_estimate": 100,
+      "audio_filename": "l5_03_my_typical_week.mp3",
+      "sentences": [
         {
           "target": "I love swimming and running.",
           "native": "Amo nadar y correr.",
@@ -6269,7 +6637,44 @@
           "native": "Los sábados son especiales.",
           "en": "Saturdays are special.",
           "es": "Los sábados son especiales."
-        },
+        }
+      ],
+      "vocabulary_keys": [
+        "week",
+        "Monday",
+        "newspaper",
+        "bus",
+        "teacher",
+        "gym",
+        "swimming",
+        "running",
+        "Wednesday",
+        "English class",
+        "Italian",
+        "Mexican",
+        "cinema"
+      ],
+      "questions": [
+        {
+          "q": "Where is the English teacher from?",
+          "options": [
+            "England",
+            "the US",
+            "Australia"
+          ],
+          "answer": "England"
+        }
+      ],
+      "parte_de": "l5_03_my_typical_week"
+    },
+    {
+      "id": "l5_03_my_typical_week_p3",
+      "level": 5,
+      "title": "My typical week (3/3)",
+      "category": "interests",
+      "duration_estimate": 90,
+      "audio_filename": "l5_03_my_typical_week.mp3",
+      "sentences": [
         {
           "target": "I cook lunch for my family.",
           "native": "Cocino el almuerzo para mi familia.",
@@ -6342,33 +6747,6 @@
       ],
       "questions": [
         {
-          "q": "What does the speaker do?",
-          "options": [
-            "doctor",
-            "teacher",
-            "engineer"
-          ],
-          "answer": "teacher"
-        },
-        {
-          "q": "When does she go to the gym?",
-          "options": [
-            "every day",
-            "Tuesdays and Thursdays",
-            "weekends only"
-          ],
-          "answer": "Tuesdays and Thursdays"
-        },
-        {
-          "q": "Where is the English teacher from?",
-          "options": [
-            "England",
-            "the US",
-            "Australia"
-          ],
-          "answer": "England"
-        },
-        {
           "q": "Who comes to lunch on Saturdays?",
           "options": [
             "only friends",
@@ -6377,14 +6755,15 @@
           ],
           "answer": "parents and brother"
         }
-      ]
+      ],
+      "parte_de": "l5_03_my_typical_week"
     },
     {
       "id": "l5_04_buying_a_house",
       "level": 5,
-      "title": "Looking at houses",
+      "title": "Looking at houses (1/3)",
       "category": "places",
-      "duration_estimate": 300,
+      "duration_estimate": 100,
       "audio_filename": "l5_04_buying_a_house.mp3",
       "sentences": [
         {
@@ -6446,7 +6825,42 @@
           "native": "Desde la ventana se puede ver el jardín.",
           "en": "From the window you can see the garden.",
           "es": "Desde la ventana se puede ver el jardín."
-        },
+        }
+      ],
+      "vocabulary_keys": [
+        "house",
+        "family",
+        "living room",
+        "modern",
+        "window",
+        "garden",
+        "tree",
+        "kitchen",
+        "bedroom",
+        "bathroom",
+        "price"
+      ],
+      "questions": [
+        {
+          "q": "Who is the agent?",
+          "options": [
+            "Lisa",
+            "Carol",
+            "Mark"
+          ],
+          "answer": "Carol"
+        }
+      ],
+      "parte_de": "l5_04_buying_a_house"
+    },
+    {
+      "id": "l5_04_buying_a_house_p2",
+      "level": 5,
+      "title": "Looking at houses (2/3)",
+      "category": "places",
+      "duration_estimate": 100,
+      "audio_filename": "l5_04_buying_a_house.mp3",
+      "sentences": [
         {
           "target": "The garden is beautiful.",
           "native": "El jardín es hermoso.",
@@ -6506,7 +6920,51 @@
           "native": "Dos son grandes y uno es pequeño.",
           "en": "Two are big and one is small.",
           "es": "Dos son grandes y uno es pequeño."
+        }
+      ],
+      "vocabulary_keys": [
+        "house",
+        "family",
+        "living room",
+        "modern",
+        "window",
+        "garden",
+        "tree",
+        "kitchen",
+        "bedroom",
+        "bathroom",
+        "price"
+      ],
+      "questions": [
+        {
+          "q": "How many trees are in the garden?",
+          "options": [
+            "3",
+            "6",
+            "10"
+          ],
+          "answer": "6"
         },
+        {
+          "q": "How many bedrooms does the house have?",
+          "options": [
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": "3"
+        }
+      ],
+      "parte_de": "l5_04_buying_a_house"
+    },
+    {
+      "id": "l5_04_buying_a_house_p3",
+      "level": 5,
+      "title": "Looking at houses (3/3)",
+      "category": "places",
+      "duration_estimate": 100,
+      "audio_filename": "l5_04_buying_a_house.mp3",
+      "sentences": [
         {
           "target": "Has it got bathrooms?",
           "native": "¿Tiene baños?",
@@ -6583,33 +7041,6 @@
       ],
       "questions": [
         {
-          "q": "Who is the agent?",
-          "options": [
-            "Lisa",
-            "Carol",
-            "Mark"
-          ],
-          "answer": "Carol"
-        },
-        {
-          "q": "How many trees are in the garden?",
-          "options": [
-            "3",
-            "6",
-            "10"
-          ],
-          "answer": "6"
-        },
-        {
-          "q": "How many bedrooms does the house have?",
-          "options": [
-            "2",
-            "3",
-            "4"
-          ],
-          "answer": "3"
-        },
-        {
           "q": "How much is the house?",
           "options": [
             "150,000",
@@ -6618,14 +7049,15 @@
           ],
           "answer": "250,000"
         }
-      ]
+      ],
+      "parte_de": "l5_04_buying_a_house"
     },
     {
       "id": "l5_05_a_busy_day",
       "level": 5,
-      "title": "A very busy day",
+      "title": "A very busy day (1/3)",
       "category": "interests",
-      "duration_estimate": 295,
+      "duration_estimate": 98,
       "audio_filename": "l5_05_a_busy_day.mp3",
       "sentences": [
         {
@@ -6687,7 +7119,56 @@
           "native": "Veinte euros por diez kilómetros.",
           "en": "Twenty euros for ten kilometres.",
           "es": "Veinte euros por diez kilómetros."
+        }
+      ],
+      "vocabulary_keys": [
+        "busy",
+        "breakfast",
+        "coffee",
+        "bread",
+        "cheese",
+        "train",
+        "taxi",
+        "office",
+        "meeting",
+        "boss",
+        "lunch",
+        "salad",
+        "client",
+        "Madrid",
+        "dinner",
+        "chicken"
+      ],
+      "questions": [
+        {
+          "q": "What time did the speaker wake up?",
+          "options": [
+            "5 AM",
+            "6 AM",
+            "7 AM"
+          ],
+          "answer": "6 AM"
         },
+        {
+          "q": "Why did the speaker take a taxi?",
+          "options": [
+            "it was raining",
+            "problem with the train",
+            "she was late"
+          ],
+          "answer": "problem with the train"
+        }
+      ],
+      "parte_de": "l5_05_a_busy_day"
+    },
+    {
+      "id": "l5_05_a_busy_day_p2",
+      "level": 5,
+      "title": "A very busy day (2/3)",
+      "category": "interests",
+      "duration_estimate": 98,
+      "audio_filename": "l5_05_a_busy_day.mp3",
+      "sentences": [
         {
           "target": "I arrived at the office at nine.",
           "native": "Llegué a la oficina a las nueve.",
@@ -6747,7 +7228,47 @@
           "native": "Fue con un cliente de Madrid.",
           "en": "It was with a client from Madrid.",
           "es": "Fue con un cliente de Madrid."
-        },
+        }
+      ],
+      "vocabulary_keys": [
+        "busy",
+        "breakfast",
+        "coffee",
+        "bread",
+        "cheese",
+        "train",
+        "taxi",
+        "office",
+        "meeting",
+        "boss",
+        "lunch",
+        "salad",
+        "client",
+        "Madrid",
+        "dinner",
+        "chicken"
+      ],
+      "questions": [
+        {
+          "q": "Where was the client from?",
+          "options": [
+            "London",
+            "Madrid",
+            "Rome"
+          ],
+          "answer": "Madrid"
+        }
+      ],
+      "parte_de": "l5_05_a_busy_day"
+    },
+    {
+      "id": "l5_05_a_busy_day_p3",
+      "level": 5,
+      "title": "A very busy day (3/3)",
+      "category": "interests",
+      "duration_estimate": 98,
+      "audio_filename": "l5_05_a_busy_day.mp3",
+      "sentences": [
         {
           "target": "We talked in English and Spanish.",
           "native": "Hablamos en inglés y español.",
@@ -6829,33 +7350,6 @@
       ],
       "questions": [
         {
-          "q": "What time did the speaker wake up?",
-          "options": [
-            "5 AM",
-            "6 AM",
-            "7 AM"
-          ],
-          "answer": "6 AM"
-        },
-        {
-          "q": "Why did the speaker take a taxi?",
-          "options": [
-            "it was raining",
-            "problem with the train",
-            "she was late"
-          ],
-          "answer": "problem with the train"
-        },
-        {
-          "q": "Where was the client from?",
-          "options": [
-            "London",
-            "Madrid",
-            "Rome"
-          ],
-          "answer": "Madrid"
-        },
-        {
           "q": "What did the speaker have for dinner?",
           "options": [
             "pizza",
@@ -6864,14 +7358,15 @@
           ],
           "answer": "chicken with rice"
         }
-      ]
+      ],
+      "parte_de": "l5_05_a_busy_day"
     },
     {
       "id": "l5_06_describing_my_country",
       "level": 5,
-      "title": "Describing my country",
+      "title": "Describing my country (1/3)",
       "category": "tourism",
-      "duration_estimate": 305,
+      "duration_estimate": 108,
       "audio_filename": "l5_06_describing_my_country.mp3",
       "sentences": [
         {
@@ -6939,7 +7434,46 @@
           "native": "Buenos Aires tiene muchos cafés.",
           "en": "Buenos Aires has got many cafés.",
           "es": "Buenos Aires tiene muchos cafés."
-        },
+        }
+      ],
+      "vocabulary_keys": [
+        "Argentina",
+        "country",
+        "South America",
+        "Buenos Aires",
+        "capital",
+        "modern",
+        "tall",
+        "building",
+        "park",
+        "museum",
+        "café",
+        "meat",
+        "football",
+        "popular",
+        "famous"
+      ],
+      "questions": [
+        {
+          "q": "What is the capital of Argentina?",
+          "options": [
+            "Buenos Aires",
+            "Mendoza",
+            "Cordoba"
+          ],
+          "answer": "Buenos Aires"
+        }
+      ],
+      "parte_de": "l5_06_describing_my_country"
+    },
+    {
+      "id": "l5_06_describing_my_country_p2",
+      "level": 5,
+      "title": "Describing my country (2/3)",
+      "category": "tourism",
+      "duration_estimate": 98,
+      "audio_filename": "l5_06_describing_my_country.mp3",
+      "sentences": [
         {
           "target": "Argentinian people love coffee and pastries.",
           "native": "A los argentinos les encanta el café y las facturas.",
@@ -6999,7 +7533,55 @@
           "native": "Tenemos jugadores de fútbol famosos.",
           "en": "We have got famous football players.",
           "es": "Tenemos jugadores de fútbol famosos."
+        }
+      ],
+      "vocabulary_keys": [
+        "Argentina",
+        "country",
+        "South America",
+        "Buenos Aires",
+        "capital",
+        "modern",
+        "tall",
+        "building",
+        "park",
+        "museum",
+        "café",
+        "meat",
+        "football",
+        "popular",
+        "famous"
+      ],
+      "questions": [
+        {
+          "q": "What is asado?",
+          "options": [
+            "a coffee",
+            "a barbecue with meat",
+            "a sweet"
+          ],
+          "answer": "a barbecue with meat"
         },
+        {
+          "q": "Who is Lionel Messi?",
+          "options": [
+            "a singer",
+            "a football player",
+            "an actor"
+          ],
+          "answer": "a football player"
+        }
+      ],
+      "parte_de": "l5_06_describing_my_country"
+    },
+    {
+      "id": "l5_06_describing_my_country_p3",
+      "level": 5,
+      "title": "Describing my country (3/3)",
+      "category": "tourism",
+      "duration_estimate": 98,
+      "audio_filename": "l5_06_describing_my_country.mp3",
+      "sentences": [
         {
           "target": "Lionel Messi is from Argentina.",
           "native": "Lionel Messi es de Argentina.",
@@ -7080,33 +7662,6 @@
       ],
       "questions": [
         {
-          "q": "What is the capital of Argentina?",
-          "options": [
-            "Buenos Aires",
-            "Mendoza",
-            "Cordoba"
-          ],
-          "answer": "Buenos Aires"
-        },
-        {
-          "q": "What is asado?",
-          "options": [
-            "a coffee",
-            "a barbecue with meat",
-            "a sweet"
-          ],
-          "answer": "a barbecue with meat"
-        },
-        {
-          "q": "Who is Lionel Messi?",
-          "options": [
-            "a singer",
-            "a football player",
-            "an actor"
-          ],
-          "answer": "a football player"
-        },
-        {
           "q": "What is in the south of Argentina?",
           "options": [
             "glaciers",
@@ -7115,7 +7670,8 @@
           ],
           "answer": "glaciers"
         }
-      ]
+      ],
+      "parte_de": "l5_06_describing_my_country"
     },
     {
       "id": "l6_01_at_the_supermarket",

@@ -1,6 +1,6 @@
 {
   "pair": "es-en",
-  "version": 17,
+  "version": 19,
   "l1": "es",
   "l2": "en",
   "title": "Español → Inglés",
@@ -17,6 +17,7 @@
     "conversation": "conversation.json"
   },
   "asset_filenames": {
+    "regional": "regional.json",
     "vocabulary": "vocabulary.json",
     "grammar": "grammar_exercises.json",
     "theory": "grammar_theory.json",
